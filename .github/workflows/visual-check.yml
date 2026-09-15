@@ -1,0 +1,44 @@
+name: Visual check JSTOR homepage
+
+on:
+  push:
+    paths:
+      - 'index.html'
+      - 'scripts/screenshot-static.mjs'
+      - '.github/workflows/visual-check.yml'
+      - 'jstor-original/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Serve site
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 > /tmp/jstor-http.log 2>&1 &
+          for i in {1..30}; do
+            curl -fsS http://127.0.0.1:4173/ >/dev/null && exit 0
+            sleep 1
+          done
+          cat /tmp/jstor-http.log
+          exit 1
+      - name: Capture homepage at reference viewport
+        run: node scripts/screenshot-static.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: jstor-homepage-visual
+          path: artifacts/
+          if-no-files-found: error
