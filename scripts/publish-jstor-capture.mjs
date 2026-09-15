@@ -31,7 +31,6 @@ function rewriteAssets(html) {
   }
 
   // Root-relative asset references that were fetched without a query string.
-  // Keep the original HTML/DOM; only the transport location changes.
   for (const r of resources) {
     try {
       const u = new URL(r.url);
@@ -47,7 +46,7 @@ function rewriteAssets(html) {
 
 function redirectUnmirroredNavigation(html) {
   // We have not mirrored stable/item/viewer pages yet. Keep ordinary JSTOR navigation
-  // functional by sending those links/forms to the licensed live site rather than 404ing.
+  // functional by sending normal anchor/form navigation to the licensed live site.
   html = html.replace(/(<a\b[^>]*\bhref=[\"'])\/(?!\/)([^\"']*)([\"'])/gi, (m, pre, rest, quote) => {
     if (!rest || rest.startsWith('jstor-original/')) return m;
     return `${pre}https://www.jstor.org/${rest}${quote}`;
@@ -58,13 +57,33 @@ function redirectUnmirroredNavigation(html) {
   return html;
 }
 
-async function publish(source, destination) {
+function makeHomepageStaticCompatible(html) {
+  // The captured HTML is already JSTOR's post-render DOM. Re-running JSTOR's MFEs on
+  // wlsa-arc.github.io makes them call JSTOR-only same-origin POST endpoints and exposes
+  // modal/dropdown fallback light DOM when Shadow DOM hydration fails. Preserve the
+  // captured production DOM/CSS and stop those runtimes from mutating it on this origin.
+  html = html.replace(/<script\b[\s\S]*?<\/script>/gi, '');
+
+  const css = '<link rel="stylesheet" href="/assets/jstor-static-compat.css">';
+  const js = '<script src="/assets/jstor-static-compat.js" defer></script>';
+
+  if (html.includes('</head>')) html = html.replace('</head>', `${css}\n</head>`);
+  else html = `${css}\n${html}`;
+
+  if (html.includes('</body>')) html = html.replace('</body>', `${js}\n</body>`);
+  else html += `\n${js}`;
+
+  return html;
+}
+
+async function publish(source, destination, { staticHomepage = false } = {}) {
   let html = await fs.readFile(source, 'utf8');
   html = rewriteAssets(html);
   html = redirectUnmirroredNavigation(html);
+  if (staticHomepage) html = makeHomepageStaticCompatible(html);
   await fs.writeFile(destination, html, 'utf8');
   console.log(`published ${source} -> ${destination}`);
 }
 
-await publish(`${ROOT}/pages/home.rendered.html`, 'index.html');
+await publish(`${ROOT}/pages/home.rendered.html`, 'index.html', { staticHomepage: true });
 await publish(`${ROOT}/pages/search.rendered.html`, 'search.html');
