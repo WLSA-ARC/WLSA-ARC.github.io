@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmfe_footer=self.webpackChunkmfe_footer||[]).push([["src_initComponents_ts"],{2098(o,e,r){r.r(e);var s=r(793),t=r(9937),a=r(4961),f=r(9209),n=r(2301);(0,r(4925).default)("mfe-footer",[s.PharosFooter,t.PharosLink,a.PharosButton,f.PharosIcon,n.PharosHeading])}}]);
+//# sourceMappingURL=src_initComponents_ts.e4b4fd8235a2296da08a.js.map

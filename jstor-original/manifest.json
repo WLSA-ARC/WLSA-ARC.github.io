@@ -1,0 +1,1447 @@
+{
+  "capturedAt": "2026-09-15T11:24:15.983Z",
+  "targets": [
+    [
+      "home",
+      "https://www.jstor.org/"
+    ],
+    [
+      "search",
+      "https://www.jstor.org/action/doBasicSearch?Query=physics"
+    ],
+    [
+      "item",
+      "https://www.jstor.org/stable/20022815"
+    ]
+  ],
+  "resources": [
+    {
+      "url": "https://www.jstor.org/assets/global_20251201T215504/build/global/css/global.css",
+      "type": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "file": "hosts/www.jstor.org/assets/global_20251201T215504/build/global/css/global.css"
+    },
+    {
+      "url": "https://www.jstor.org/assets/search-ui_20260821T173609/build/search-ui/css/homepage.css",
+      "type": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "file": "hosts/www.jstor.org/assets/search-ui_20260821T173609/build/search-ui/css/homepage.css"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/js/scoped-custom-element-registry@0.0.3.min.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/js/scoped-custom-element-registry@0.0.3.min.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-1_20260421.webp?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/webp",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-1_20260421__q_0fcaa41012.webp"
+    },
+    {
+      "url": "https://www.jstor.org/assets/search-ui_20260821T173609/build/search-ui/js/homepage.min.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/assets/search-ui_20260821T173609/build/search-ui/js/homepage.min.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-2_20260421.webp?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/webp",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-2_20260421__q_0fcaa41012.webp"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-3_20260421.webp?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/webp",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-3_20260421__q_0fcaa41012.webp"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-4_20260421.webp?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/webp",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-4_20260421__q_0fcaa41012.webp"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/script.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/script.js"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript",
+      "file": "hosts/cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-5_20260421.webp?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/webp",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/hero/jstor-homepage-hero-5_20260421__q_0fcaa41012.webp"
+    },
+    {
+      "url": "https://www.jstor.org/assets/global_20251201T215504/build/global/js/global.min.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript",
+      "file": "hosts/www.jstor.org/assets/global_20251201T215504/build/global/js/global.min.js"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "binary/octet-stream",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular.woff2"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/IvarHeadline-Medium.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "binary/octet-stream",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/IvarHeadline-Medium.woff2"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Medium.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "binary/octet-stream",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Medium.woff2"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/book_new-reproductive-order.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/book_new-reproductive-order__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/book-chapter_gutter-to-gold.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/book-chapter_gutter-to-gold__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/image_AfAm-physician.jpg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/image_AfAm-physician__q_0fcaa41012.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/research-report_comparing-universal-healthcare.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/research-report_comparing-universal-healthcare__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/book-chapter_pub-health-before-aids.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/book-chapter_pub-health-before-aids__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/research-report_access-to-rehab.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/research-report_access-to-rehab__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/research-report_us-chinese-covid19-outreach-africa-latam.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/research-report_us-chinese-covid19-outreach-africa-latam__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/article_who-owns-our-history.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/article_who-owns-our-history__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/article_covid19-containment.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/article_covid19-containment__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/article_systemic-weaknesses-of-neoliberalism.jpeg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/article_systemic-weaknesses-of-neoliberalism__q_0fcaa41012.jpeg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/image_fighting-the-bubonic-plague.jpg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/thematic-carousel/image_fighting-the-bubonic-plague__q_0fcaa41012.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/great-wall-of-china.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/great-wall-of-china.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/letter-to-ernest-hemingway.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/letter-to-ernest-hemingway.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/theatrical-qing-dynasty-robe.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/theatrical-qing-dynasty-robe.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/youth-service-coalition-inc.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/youth-service-coalition-inc.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/new-avenues/work-with-images.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/new-avenues/work-with-images.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/birth-of-mahavira.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/birth-of-mahavira.jpg"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Medium.woff",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Medium.woff"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular.woff",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular.woff"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/new-avenues/artstor-images.jpg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/new-avenues/artstor-images__q_0fcaa41012.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/new-avenues/alternative-press.jpg?lastUpdated=20260821",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/new-avenues/alternative-press__q_0fcaa41012.jpg"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N6GDC22",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript; charset=UTF-8",
+      "file": "hosts/www.googletagmanager.com/gtm__q_4accbb8156.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/search-ui_20260821T173609/build/3034.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/assets/search-ui_20260821T173609/build/3034.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/search-ui_20260821T173609/build/2443.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/assets/search-ui_20260821T173609/build/2443.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/remoteEntry.js"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202505.1.0/otBannerSdk.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript",
+      "file": "hosts/cdn.cookielaw.org/scripttemplates/202505.1.0/otBannerSdk.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/search-ui_20260821T173609/build/chevron-right-large-js.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/assets/search-ui_20260821T173609/build/chevron-right-large-js.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/search-ui_20260821T173609/build/chevron-left-large-js.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/assets/search-ui_20260821T173609/build/chevron-left-large-js.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-url-utils_1_1_1.6f57a60abc4f65ae31f2.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-url-utils_1_1_1.6f57a60abc4f65ae31f2.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-dom-structured-context_1_2_2.4c0fa775223c7f10bed7.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-dom-structured-context_1_2_2.4c0fa775223c7f10bed7.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-frontend-log-sdk_2_3_2.8daef7cf398c82a0fcc3.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-frontend-log-sdk_2_3_2.8daef7cf398c82a0fcc3.js"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/IvarHeadline-Regular.woff",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/IvarHeadline-Regular.woff"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_environment_js-src_experiments_dynamic-search-experiment_js-src_helpers_bootstrap-utils_j-cb5e11.7f07c2ec7c9b56bb980e.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_environment_js-src_experiments_dynamic-search-experiment_js-src_helpers_bootstrap-utils_j-cb5e11.7f07c2ec7c9b56bb980e.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.5d6324ea0f3a2da2e52e.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.5d6324ea0f3a2da2e52e.js"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/IvarHeadline-Medium.woff",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/IvarHeadline-Medium.woff"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.67aff8ae9396bb4f81bc.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.67aff8ae9396bb4f81bc.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b9dcf05bdb3022b72a98.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b9dcf05bdb3022b72a98.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/floating-ui-dom_1_7_5.c6f2bec7cb1633fef86b.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/floating-ui-dom_1_7_5.c6f2bec7cb1633fef86b.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.a08c3a38909b1f7928ca.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.a08c3a38909b1f7928ca.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-sentry-monitoring_2_5_0.0d01d7d0e5971c019b7d.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-sentry-monitoring_2_5_0.0d01d7d0e5971c019b7d.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/react_19_2_4.6572861b4f09c3345d3c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/react_19_2_4.6572861b4f09c3345d3c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_bootstrap_js.e7755bad2b84706fd3a0.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_bootstrap_js.e7755bad2b84706fd3a0.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/apollo-client_4_1_6.c4579ccf9c2e8a5bc645.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/apollo-client_4_1_6.c4579ccf9c2e8a5bc645.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/rxjs_7_8_2.76f12c85695135320d48.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/rxjs_7_8_2.76f12c85695135320d48.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/tslib_2_8_1.ee514cfab5abefe876da.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/tslib_2_8_1.ee514cfab5abefe876da.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/uuid_13_0_0.bca89bf041698690dd08.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/uuid_13_0_0.bca89bf041698690dd08.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/graphql_16_13_2.a603363c33727ed6da7b.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/graphql_16_13_2.a603363c33727ed6da7b.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/css-loader_7_1_4.74f6fc5fe8eab3ab81cb.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/css-loader_7_1_4.74f6fc5fe8eab3ab81cb.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/react-dom_19_2_4.e64b7676c9156b5399d0.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/react-dom_19_2_4.e64b7676c9156b5399d0.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.bf0649a028f9093d74c9.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.bf0649a028f9093d74c9.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.5f64d9e86cd7b1b43c35.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.5f64d9e86cd7b1b43c35.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.ed0e383676f773969378.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.ed0e383676f773969378.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.916bfc55eb72449a68e5.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.916bfc55eb72449a68e5.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/react-dom_19_2_4.ca108aa3a80b471d0c1d.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/react-dom_19_2_4.ca108aa3a80b471d0c1d.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-frontend-log-sdk_2_3_2.559f873d4d0abd1f3d0f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-frontend-log-sdk_2_3_2.559f873d4d0abd1f3d0f.js"
+    },
+    {
+      "url": "https://www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/filatios-on-horseback.jpg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "file": "hosts/www.jstor.org/assets/long-lived_20201006/images/browse-by-collection-cluster/filatios-on-horseback.jpg"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.0fbb3af6738051eba7b8.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.0fbb3af6738051eba7b8.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.8418c5ba85b4d31732e5.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.8418c5ba85b4d31732e5.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-federated-module-loader_3_0_1.d301438f3847f1fc7e79.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-federated-module-loader_3_0_1.d301438f3847f1fc7e79.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.47606a6fe81d530259de.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.47606a6fe81d530259de.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.8a72859bcb0c0db55964.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.8a72859bcb0c0db55964.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.fffd0924f6035b77d3af.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.fffd0924f6035b77d3af.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.8a0ab2306dbe9590f779.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.8a0ab2306dbe9590f779.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b32f5f633537e2700a0a.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b32f5f633537e2700a0a.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.c3d80ec148a5468d31e0.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.c3d80ec148a5468d31e0.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.aebe5c83370240f74803.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.aebe5c83370240f74803.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.346e295c589ad383e478.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.346e295c589ad383e478.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.dd65779eca6906b796b4.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.dd65779eca6906b796b4.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b88f432eea60a127a83c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b88f432eea60a127a83c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-sentry-monitoring_2_5_1.2548da0420554fe47192.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-sentry-monitoring_2_5_1.2548da0420554fe47192.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b2618d7cd31e5c768e14.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/ithaka-pharos_14_22_2.b2618d7cd31e5c768e14.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/src_bootstrap_ts.de1f11d6340d38d2456c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/src_bootstrap_ts.de1f11d6340d38d2456c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.c70b792b48e0bd351417.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.c70b792b48e0bd351417.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.41b90de6a2d56b08723f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.41b90de6a2d56b08723f.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/src_initComponents_ts.e4b4fd8235a2296da08a.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/src_initComponents_ts.e4b4fd8235a2296da08a.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.aebb0304080a95cb9fe6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.aebb0304080a95cb9fe6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.d1827ec5d1facf7c4013.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/ithaka-pharos_14_22_2.d1827ec5d1facf7c4013.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/src_components_TheFooter_vue.f23fefd6147b88408e05.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/src_components_TheFooter_vue.f23fefd6147b88408e05.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/footer/1ebe4957/vue_3_5_26.dabfd7ee9635f42e057b.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/footer/1ebe4957/vue_3_5_26.dabfd7ee9635f42e057b.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/saved-js.59506fd2acc66cda74e6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/saved-js.59506fd2acc66cda74e6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/unsupported-browser-message/b343fc1f/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/unsupported-browser-message/b343fc1f/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/menu-js.984f6da2e921013691cb.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/menu-js.984f6da2e921013691cb.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/question-inverse-js.277626d5fcedceb4c879.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/question-inverse-js.277626d5fcedceb4c879.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/chevron-down-js.024015991c16c688a321.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/chevron-down-js.024015991c16c688a321.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/link-external-js.2cff574fd04a00ed8003.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/link-external-js.2cff574fd04a00ed8003.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/chevron-left-large-js.5ae59af7bfd175a49377.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/chevron-left-large-js.5ae59af7bfd175a49377.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/status-banner/5e83f48a/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/status-banner/5e83f48a/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/chevron-right-js.d957caa46034c72e5c73.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/chevron-right-js.d957caa46034c72e5c73.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/instagram-js.b6bc85400dfc695f57d2.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/instagram-js.b6bc85400dfc695f57d2.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/heads-up-display/663eec3c/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/heads-up-display/663eec3c/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/linkedin-js.fb35cf4d0b9795525732.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/linkedin-js.fb35cf4d0b9795525732.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/youtube-js.08bfa01c60f9ec68c204.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/youtube-js.08bfa01c60f9ec68c204.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/tumblr-js.7a4af36b786f29042952.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/tumblr-js.7a4af36b786f29042952.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/facebook-js.f531be48b67a52bdfeb7.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/facebook-js.f531be48b67a52bdfeb7.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/bluesky-js.fbecd32f07c9bfb03589.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/bluesky-js.fbecd32f07c9bfb03589.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/threads-js.d857243b9eb72e4914bb.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/threads-js.d857243b9eb72e4914bb.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/unsupported-browser-message/b343fc1f/src_bootstrap_ts.47c16f2ffb1d6b6cda91.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/unsupported-browser-message/b343fc1f/src_bootstrap_ts.47c16f2ffb1d6b6cda91.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/xstate_5_25_0.76e8d38e01a8a4ff07ec.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/xstate_5_25_0.76e8d38e01a8a4ff07ec.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-url-utils_1_1_1.5e739edb2e3e159813d9.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-url-utils_1_1_1.5e739edb2e3e159813d9.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/js-cookie_3_0_5.74a24b8f66b4983f6f66.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/js-cookie_3_0_5.74a24b8f66b4983f6f66.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/css-loader_7_1_2.9a74589b002232fc93ba.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/css-loader_7_1_2.9a74589b002232fc93ba.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/src_environment_ts-src_plugins_logger_index_ts-src_App_vue-webpack_sharing_consume_default_it-224759.f3e0203419b5c48d316f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/src_environment_ts-src_plugins_logger_index_ts-src_App_vue-webpack_sharing_consume_default_it-224759.f3e0203419b5c48d316f.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/src_bootstrap_ts.2b868e81fff9975a78ef.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/src_bootstrap_ts.2b868e81fff9975a78ef.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/status-banner/5e83f48a/src_bootstrap_ts.abe596707a7352ac54d3.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/status-banner/5e83f48a/src_bootstrap_ts.abe596707a7352ac54d3.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/pinia_3_0_4.0fd156d01f1ccb6fedb6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/pinia_3_0_4.0fd156d01f1ccb6fedb6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/vue-devtools-api_7_7_10.91598f97ce68b87799f6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/vue-devtools-api_7_7_10.91598f97ce68b87799f6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_styles_index_scss-src_plugins_loggerPlugin_ts-src_sentry_ts-src_types_Flags_ts-src_compon-9cf5ba.91e2535bf35ce3e1a2c0.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_styles_index_scss-src_plugins_loggerPlugin_ts-src_sentry_ts-src_types_Flags_ts-src_compon-9cf5ba.91e2535bf35ce3e1a2c0.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/vue_3_5_13.e8874a4398f7fd5174a7.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/vue_3_5_13.e8874a4398f7fd5174a7.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_bootstrap_ts.18b1de6100301b711f06.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_bootstrap_ts.18b1de6100301b711f06.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/js-cookie_3_0_7.ce85d89fe8de4a845491.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/js-cookie_3_0_7.ce85d89fe8de4a845491.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/css-loader_7_1_4.371cc1ea8f4ca60da3c9.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/css-loader_7_1_4.371cc1ea8f4ca60da3c9.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/heads-up-display/663eec3c/src_bootstrap_tsx.f064b6c80002580e9d46.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/heads-up-display/663eec3c/src_bootstrap_tsx.f064b6c80002580e9d46.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/graphql_17_0_2.8344bfb79ee26ec03b61.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/graphql_17_0_2.8344bfb79ee26ec03b61.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/uuid_8_3_2.6778b00c61ecabc7109c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/uuid_8_3_2.6778b00c61ecabc7109c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/lodash_debounce_4_0_8.a1e7f1f12acd941c7860.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/lodash_debounce_4_0_8.a1e7f1f12acd941c7860.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_helpers_history-storage_js-src_components_QueryBuilderDropdown_vue-src_components_SearchC-99db43.85d707653192e59d23c2.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_helpers_history-storage_js-src_components_QueryBuilderDropdown_vue-src_components_SearchC-99db43.85d707653192e59d23c2.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_components_QueryBuilderInput_vue.c557ab3e8370d2dc154c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_components_QueryBuilderInput_vue.c557ab3e8370d2dc154c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.1d12041e120d400ce911.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.1d12041e120d400ce911.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.0f775beb72fbcc2134a7.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.0f775beb72fbcc2134a7.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/vue_3_5_13.67cae1ba02369bffe526.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/vue_3_5_13.67cae1ba02369bffe526.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.81c408b5224af06377c2.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.81c408b5224af06377c2.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.431b522e4c7e09c45b25.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.431b522e4c7e09c45b25.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.0b71a48a705452ed0443.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.0b71a48a705452ed0443.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.0e25c7a74eb6291583e1.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.0e25c7a74eb6291583e1.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.c4bff35465a59f67e010.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.c4bff35465a59f67e010.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.4f53a1f500540e143b7d.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.4f53a1f500540e143b7d.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.1aa48ef7cfe951c836c6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.1aa48ef7cfe951c836c6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.fc12f6d57710e069d4bc.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.fc12f6d57710e069d4bc.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.029db28dfa0151b2b417.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.029db28dfa0151b2b417.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_initComponents_js.99219e9b798ca816608b.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/src_initComponents_js.99219e9b798ca816608b.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.96cff4300feaf3a2ac1c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.96cff4300feaf3a2ac1c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.4c260e9b86f7ad72115f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/ithaka-pharos_14_23_0.4c260e9b86f7ad72115f.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.6a0a0b8f2130e3cbafa4.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.6a0a0b8f2130e3cbafa4.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.ff2e71e1b7b28430910e.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.ff2e71e1b7b28430910e.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.bf00636d9c989e286d01.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.bf00636d9c989e286d01.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.e095e1fd93ab91aadf38.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.e095e1fd93ab91aadf38.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.e3eb9f30d2fa86df1910.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.e3eb9f30d2fa86df1910.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.ae43d54261ca3909d127.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.ae43d54261ca3909d127.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.647b8b8809e03bca1f2f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.647b8b8809e03bca1f2f.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.447c0da2ef3aa943c0af.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.447c0da2ef3aa943c0af.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.641e4af847296dd6a466.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.641e4af847296dd6a466.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.570b1866f8327ea6d4be.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.570b1866f8327ea6d4be.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.54bc55167b38cbdec87e.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.54bc55167b38cbdec87e.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.1d482888e4fa2eff27a2.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.1d482888e4fa2eff27a2.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/src_initComponents_ts.74270fc32dee5aecb103.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/src_initComponents_ts.74270fc32dee5aecb103.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.f8c23676d16b337704d1.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/prompt/6b866a17/ithaka-pharos_14_22_1.f8c23676d16b337704d1.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.390f4361e48c0b35b706.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.390f4361e48c0b35b706.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/status-banner/5e83f48a/ithaka-statuspage-client_1_0_2.093f5030564534a3ee15.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/status-banner/5e83f48a/ithaka-statuspage-client_1_0_2.093f5030564534a3ee15.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.b6c4f392e3040af84a13.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.b6c4f392e3040af84a13.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_util_defaultPropertyHydration_util_ts.0e638bd7dedc68809721.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_util_defaultPropertyHydration_util_ts.0e638bd7dedc68809721.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.308f79eff41f4729dd2d.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.308f79eff41f4729dd2d.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_util_personalization_util_ts.2ae77f9572ae6761dd8f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_util_personalization_util_ts.2ae77f9572ae6761dd8f.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.6308ce8c7343b21223ed.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/ithaka-pharos_14_22_2.6308ce8c7343b21223ed.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_initComponents_ts.927c0d41686a49648c9c.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_initComponents_ts.927c0d41686a49648c9c.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/search-js.b6186a449bc0175cbcff.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/search-js.b6186a449bc0175cbcff.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/checkmark-js.598b6c3f3f36cf8e3e1d.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/checkmark-js.598b6c3f3f36cf8e3e1d.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/query-builder/c9614904/chevron-down-js.30988921088d76dcc1f6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/query-builder/c9614904/chevron-down-js.30988921088d76dcc1f6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/profile-js.3b5d6140ca8f234ae0ba.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/profile-js.3b5d6140ca8f234ae0ba.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/remoteEntry.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/remoteEntry.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_bootstrap_ts.52b423d2c83f7efb48ac.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_bootstrap_ts.52b423d2c83f7efb48ac.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_initComponents_ts.42fc51fa6668bfc033cf.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_initComponents_ts.42fc51fa6668bfc033cf.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_plugins_logger_index_ts.264b3ccca09dac226bf5.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_plugins_logger_index_ts.264b3ccca09dac226bf5.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/debounce_2_2_0.f104bda323d7974f35b4.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/debounce_2_2_0.f104bda323d7974f35b4.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_App_vue-src_assets_linked-institutions-white_svg-src_assets_linked-institutions_svg.298f277c106e747a767b.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/src_App_vue-src_assets_linked-institutions-white_svg-src_assets_linked-institutions_svg.298f277c106e747a767b.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/css-loader_7_1_2.559c8411029e2e7dfe20.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/css-loader_7_1_2.559c8411029e2e7dfe20.js"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "file": "hosts/cdn.cookielaw.org/logos/static/ot_close.svg"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.google-analytics.com/analytics.js"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "file": "hosts/cdn.cookielaw.org/logos/static/powered_by_logo.svg"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/99ea8c60-69eb-47d7-a6da-8d0d59407ae8/d46a5185-2691-404a-9e07-0a91e117417f/01cd8c4e-69d8-4c42-9efa-bce687a348fd/ITHAKA_main.png",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/png",
+      "file": "hosts/cdn.cookielaw.org/logos/99ea8c60-69eb-47d7-a6da-8d0d59407ae8/d46a5185-2691-404a-9e07-0a91e117417f/01cd8c4e-69d8-4c42-9efa-bce687a348fd/ITHAKA_main.png"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-FWE5TM25PF&cx=c&gtm=4e69b1",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript; charset=UTF-8",
+      "file": "hosts/www.googletagmanager.com/gtag/js__q_92e8b7974e.bin"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-JPYYW8RQW6&cx=c&gtm=4e69b1",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript; charset=UTF-8",
+      "file": "hosts/www.googletagmanager.com/gtag/js__q_3c9189263b.bin"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/header/d90e474f/checkmark-js.a5623af0521c1102708f.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/header/d90e474f/checkmark-js.a5623af0521c1102708f.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_components_login_Login_vue-src_assets_google-color-icon_svg-src_assets_google-redirect-im-1a3cee.130bee58b7811be896e6.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/src_components_login_Login_vue-src_assets_google-color-icon_svg-src_assets_google-redirect-im-1a3cee.130bee58b7811be896e6.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/vueuse-core_14_2_1.31740548ac228c0d9504.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/vueuse-core_14_2_1.31740548ac228c0d9504.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/close-js.491199c7fb0861bb32d4.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/close-js.491199c7fb0861bb32d4.js"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/b03ab40117b01c4a477c.svg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/b03ab40117b01c4a477c.svg"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/c85adc4a978057a34e43.svg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/c85adc4a978057a34e43.svg"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/9e30a1c3e93948d22d3c.svg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/access-workflow/0fcacda2/9e30a1c3e93948d22d3c.svg"
+    },
+    {
+      "url": "https://www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/baef184727f463ea2caf.svg",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "file": "hosts/www.jstor.org/mfe-copper-roof/provider-designation-statement/f3b07e9a/baef184727f463ea2caf.svg"
+    },
+    {
+      "url": "https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular-Italic.woff",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff",
+      "file": "hosts/static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular-Italic.woff"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
+      "type": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff2",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/errors.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/errors.js"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/script__q_c1dfca94aa.js"
+    },
+    {
+      "url": "https://www.jstor.org/fastly/logo",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/png",
+      "file": "hosts/www.jstor.org/fastly/logo.bin"
+    }
+  ]
+}
