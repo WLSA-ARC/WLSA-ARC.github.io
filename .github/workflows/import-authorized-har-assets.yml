@@ -1,0 +1,32 @@
+name: Import authorized HAR assets
+
+on:
+  push:
+    paths:
+      - 'scripts/authorized-home-assets.txt'
+      - 'scripts/fetch-authorized-home-assets.mjs'
+      - '.github/workflows/import-authorized-har-assets.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch assets captured in authorized HAR
+        run: node scripts/fetch-authorized-home-assets.mjs
+      - name: Commit imported assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jstor-original
+          git diff --cached --quiet && exit 0
+          git commit -m "Import authorized HAR frontend assets"
+          git push
