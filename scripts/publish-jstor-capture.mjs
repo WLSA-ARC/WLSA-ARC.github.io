@@ -61,20 +61,22 @@ function redirectUnmirroredNavigation(html) {
 }
 
 function freezeCapturedHomepage(html) {
-  // mirror-jstor.mjs now serializes every live Web Component shadow root as native
-  // Declarative Shadow DOM. That means the browser can reconstruct the exact Pharos
-  // component internals directly from HTML; no JSTOR microfrontend runtime is needed.
-  // Running those scripts on a different origin would only rehydrate/mutate the frozen
-  // snapshot and call JSTOR-only same-origin APIs, so remove executable scripts while
-  // leaving all captured light DOM, shadow DOM, styles, fonts and images intact.
+  // mirror-jstor.mjs serializes every live Web Component shadow root as native
+  // Declarative Shadow DOM. The browser can therefore reconstruct the exact Pharos
+  // component internals directly from HTML without JSTOR's same-origin MFE runtime.
   html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
   html = html.replace(/<script\b[^>]*\/?>/gi, '');
   html = html.replace(/\s+onload=[\"']validateElementsPresent\(\);?[\"']/gi, '');
 
-  // Do not allow the previous approximation layer to override the now-complete snapshot
-  // if an older generated page is ever fed back through this publisher.
+  // Do not allow the previous approximation layer to override the complete snapshot.
   html = html.replace(/<link\b[^>]*href=[\"']\/assets\/jstor-static-compat\.css[\"'][^>]*>/gi, '');
   html = html.replace(/<script\b[^>]*src=[\"']\/assets\/jstor-static-compat\.js[\"'][^>]*>[\s\S]*?<\/script>/gi, '');
+
+  // The visual reference was captured after consent was handled. The production capture
+  // comes from a clean browser profile, so OneTrust would otherwise be frozen into the
+  // bottom of every static page even though it is not part of the requested reference.
+  const consentStyle = '<style id="frozen-consent-state">#onetrust-banner-sdk,#onetrust-consent-sdk,.onetrust-pc-dark-filter,.ot-sdk-container[role="alertdialog"]{display:none!important}</style>';
+  html = html.replace('</head>', `${consentStyle}</head>`);
 
   return html;
 }
