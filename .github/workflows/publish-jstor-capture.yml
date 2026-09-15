@@ -1,0 +1,31 @@
+name: Publish captured JSTOR frontend
+
+on:
+  push:
+    paths:
+      - 'jstor-original/**'
+      - 'scripts/publish-jstor-capture.mjs'
+      - '.github/workflows/publish-jstor-capture.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build published pages from captured production HTML
+        run: node scripts/publish-jstor-capture.mjs
+      - name: Commit published pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html search.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish captured JSTOR frontend"
+          git push
