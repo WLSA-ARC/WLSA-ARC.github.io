@@ -1,0 +1,313 @@
+/* Static compatibility layer for the authorized JSTOR production capture.
+   The captured DOM and production CSS/assets remain intact; these rules only
+   replace Shadow-DOM presentation that cannot hydrate on GitHub Pages. */
+
+/* Never expose modal / dropdown fallback light-DOM on initial page load. */
+#globalAccessWorkflowMountPoint,
+#mfeSupportChatMountPoint,
+#unsupportedBrowserMessageMountPoint,
+#statusBannerMountPoint,
+#promptMountPoint,
+#onetrust-consent-sdk,
+#onetrust-banner-sdk,
+.onetrust-pc-dark-filter,
+mfe-header-pharos-dropdown-menu,
+mfe-header-pharos-coach-mark[hide],
+mfe-header-pharos-sidenav,
+#mfe-header-sidenav-container,
+mfe-query-builder-pharos-dropdown-menu {
+  display: none !important;
+}
+
+/* Unknown custom elements default to inline. Give captured JSTOR components
+   their box behavior when their real Shadow DOM isn't available. */
+search-ui-pharos-layout,
+search-ui-pharos-heading {
+  display: block;
+  box-sizing: border-box;
+}
+
+mfe-header-pharos-link,
+mfe-provider-designation-statement-pharos-link,
+mfe-header-pharos-dropdown-menu-nav-category,
+mfe-header-pharos-dropdown-menu-nav-link,
+mfe-access-workflow-pharos-button,
+mfe-query-builder-pharos-link,
+mfe-query-builder-pharos-button {
+  box-sizing: border-box;
+}
+
+/* Header fallback rendering. */
+#headerMountPoint {
+  font-family: "GT America Standard", Helvetica, Arial, sans-serif;
+}
+
+#headerMountPoint mfe-header-pharos-link,
+#headerMountPoint mfe-provider-designation-statement-pharos-link,
+#headerMountPoint mfe-header-pharos-dropdown-menu-nav-link,
+#headerMountPoint mfe-header-pharos-dropdown-menu-nav-category {
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#headerMountPoint .mfe-provider-designation-statement__has-uuid {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2rem;
+}
+
+#headerMountPoint .mfe-provider-designation-statement-icon {
+  width: 20px;
+  height: 20px;
+}
+
+#headerMountPoint mfe-provider-designation-statement-pharos-link {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+#headerMountPoint .mfe-header__jstor-logo {
+  display: inline-flex;
+  align-items: center;
+}
+
+#headerMountPoint .mfe-header__authentication-navigation-menu {
+  min-height: 38px;
+}
+
+#headerMountPoint mfe-access-workflow-pharos-button {
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+  border: 1px solid #c9c9c9;
+  border-radius: 2px;
+  background: #fff;
+  color: #000;
+  font-family: "GT America Standard", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+#headerMountPoint mfe-access-workflow-pharos-button[variant="primary"] {
+  border-color: #990000;
+  background: #990000;
+  color: #fff;
+}
+
+#headerMountPoint mfe-header-pharos-dropdown-menu-nav-category,
+#headerMountPoint mfe-header-pharos-dropdown-menu-nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 4px 7px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+#headerMountPoint mfe-header-pharos-dropdown-menu-nav-category::after {
+  content: "⌄";
+  display: inline-block;
+  font-size: 18px;
+  line-height: 1;
+  transform: translateY(-2px);
+}
+
+#headerMountPoint mfe-header-pharos-dropdown-menu-nav-link#workspace-link::before {
+  content: "▮";
+  display: inline-block;
+  font-size: 13px;
+  transform: scaleX(.75);
+}
+
+#headerMountPoint mfe-header-pharos-icon {
+  display: none !important;
+}
+
+#headerMountPoint .support-button {
+  display: inline-flex;
+  width: 28px;
+  height: 28px;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #000;
+}
+
+#headerMountPoint .support-button::before {
+  content: "?";
+  display: inline-flex;
+  width: 18px;
+  height: 18px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  font: 700 12px/1 Arial, sans-serif;
+}
+
+/* Homepage heading: PharosHeading normally supplies this through Shadow DOM. */
+.homepage-container {
+  display: block !important;
+}
+
+.homepage-heading {
+  display: block !important;
+  max-width: 1280px;
+  margin: 72px auto 58px !important;
+  padding: 0 24px;
+  color: #000;
+  font-family: "Ivar Headline", Times, Georgia, serif;
+  font-size: clamp(42px, 4.1vw, 64px);
+  font-weight: 400;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.homepage-mobile-heading {
+  display: none !important;
+}
+
+.search-layout {
+  display: block !important;
+  position: relative;
+  z-index: 3;
+  width: min(1040px, calc(100% - 48px));
+  margin: 0 auto -1px !important;
+}
+
+.search-form-and-link,
+.scope-selector,
+#home-search-form,
+#query-builder-mount-point {
+  width: 100%;
+}
+
+/* Static replacement for JSTOR Query Builder's Shadow DOM. */
+.jstor-static-query {
+  width: 100%;
+  font-family: "GT America Standard", Helvetica, Arial, sans-serif;
+}
+
+.jstor-static-query__top {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 11px;
+}
+
+.jstor-static-query__advanced {
+  color: #000;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.jstor-static-query__row {
+  display: flex;
+  width: 100%;
+  min-height: 55px;
+  background: #fff;
+}
+
+.jstor-static-query__scope {
+  width: 142px;
+  flex: 0 0 142px;
+  border: 1px solid #b9b9b9;
+  border-right: 0;
+  border-radius: 0;
+  background: #fff;
+  color: #111;
+  padding: 0 15px;
+  font: 700 16px/1.2 "GT America Standard", Helvetica, Arial, sans-serif;
+  text-align: left;
+  cursor: pointer;
+}
+
+.jstor-static-query__scope::after {
+  content: "⌄";
+  float: right;
+  font-size: 18px;
+  transform: translateY(-2px);
+}
+
+.jstor-static-query__input-wrap {
+  display: flex;
+  min-width: 0;
+  flex: 1;
+  align-items: stretch;
+  border: 1px solid #b9b9b9;
+  background: #fff;
+}
+
+.jstor-static-query__input {
+  min-width: 0;
+  flex: 1;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: #111;
+  padding: 0 15px;
+  font: 400 16px/1.4 "GT America Standard", Helvetica, Arial, sans-serif;
+}
+
+.jstor-static-query__input::placeholder {
+  color: #666;
+  opacity: 1;
+}
+
+.jstor-static-query__submit {
+  width: 60px;
+  flex: 0 0 60px;
+  border: 0;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  font-size: 28px;
+  line-height: 1;
+}
+
+.jstor-static-query__submit::before {
+  content: "⌕";
+}
+
+/* Hero should begin directly beneath the overlaid search bar. */
+.homepage-hero,
+.hero-carousel,
+[class*="hero"] {
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .homepage-heading { display: none !important; }
+  .homepage-mobile-heading {
+    display: block !important;
+    margin: 42px auto 32px !important;
+    padding: 0 20px;
+    font-family: "Ivar Headline", Times, Georgia, serif;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 1.08;
+    text-align: center;
+  }
+  .search-layout { width: calc(100% - 28px); }
+  .jstor-static-query__row { flex-direction: column; }
+  .jstor-static-query__scope {
+    width: 100%;
+    flex-basis: 48px;
+    border-right: 1px solid #b9b9b9;
+    border-bottom: 0;
+  }
+  .jstor-static-query__input-wrap { min-height: 52px; }
+}
