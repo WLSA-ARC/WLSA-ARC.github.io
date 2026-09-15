@@ -14,8 +14,11 @@ function rewriteAssets(html) {
   for (const r of resources) {
     if (!r.url || !r.file) continue;
     const local = `/jstor-original/${r.file}`;
+    const protocolRelative = r.url.replace(/^https?:/, '');
     html = replaceAllLiteral(html, r.url, local);
+    html = replaceAllLiteral(html, protocolRelative, local);
     html = replaceAllLiteral(html, r.url.replaceAll('&', '&amp;'), local.replaceAll('&', '&amp;'));
+    html = replaceAllLiteral(html, protocolRelative.replaceAll('&', '&amp;'), local.replaceAll('&', '&amp;'));
 
     try {
       const u = new URL(r.url);
@@ -63,6 +66,7 @@ function makeHomepageStaticCompatible(html) {
   // modal/dropdown fallback light DOM when Shadow DOM hydration fails. Preserve the
   // captured production DOM/CSS and stop those runtimes from mutating it on this origin.
   html = html.replace(/<script\b[\s\S]*?<\/script>/gi, '');
+  html = html.replace(/\s+onload=[\"']validateElementsPresent\(\);?[\"']/gi, '');
 
   const css = '<link rel="stylesheet" href="/assets/jstor-static-compat.css">';
   const js = '<script src="/assets/jstor-static-compat.js" defer></script>';
