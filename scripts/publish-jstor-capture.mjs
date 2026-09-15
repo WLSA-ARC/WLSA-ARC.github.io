@@ -60,22 +60,21 @@ function redirectUnmirroredNavigation(html) {
   return html;
 }
 
-function makeHomepageStaticCompatible(html) {
-  // The captured HTML is already JSTOR's post-render DOM. Re-running JSTOR's MFEs on
-  // wlsa-arc.github.io makes them call JSTOR-only same-origin POST endpoints and exposes
-  // modal/dropdown fallback light DOM when Shadow DOM hydration fails. Preserve the
-  // captured production DOM/CSS and stop those runtimes from mutating it on this origin.
-  html = html.replace(/<script\b[\s\S]*?<\/script>/gi, '');
+function freezeCapturedHomepage(html) {
+  // mirror-jstor.mjs now serializes every live Web Component shadow root as native
+  // Declarative Shadow DOM. That means the browser can reconstruct the exact Pharos
+  // component internals directly from HTML; no JSTOR microfrontend runtime is needed.
+  // Running those scripts on a different origin would only rehydrate/mutate the frozen
+  // snapshot and call JSTOR-only same-origin APIs, so remove executable scripts while
+  // leaving all captured light DOM, shadow DOM, styles, fonts and images intact.
+  html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
+  html = html.replace(/<script\b[^>]*\/?>/gi, '');
   html = html.replace(/\s+onload=[\"']validateElementsPresent\(\);?[\"']/gi, '');
 
-  const css = '<link rel="stylesheet" href="/assets/jstor-static-compat.css">';
-  const js = '<script src="/assets/jstor-static-compat.js" defer></script>';
-
-  if (html.includes('</head>')) html = html.replace('</head>', `${css}\n</head>`);
-  else html = `${css}\n${html}`;
-
-  if (html.includes('</body>')) html = html.replace('</body>', `${js}\n</body>`);
-  else html += `\n${js}`;
+  // Do not allow the previous approximation layer to override the now-complete snapshot
+  // if an older generated page is ever fed back through this publisher.
+  html = html.replace(/<link\b[^>]*href=[\"']\/assets\/jstor-static-compat\.css[\"'][^>]*>/gi, '');
+  html = html.replace(/<script\b[^>]*src=[\"']\/assets\/jstor-static-compat\.js[\"'][^>]*>[\s\S]*?<\/script>/gi, '');
 
   return html;
 }
@@ -84,7 +83,7 @@ async function publish(source, destination, { staticHomepage = false } = {}) {
   let html = await fs.readFile(source, 'utf8');
   html = rewriteAssets(html);
   html = redirectUnmirroredNavigation(html);
-  if (staticHomepage) html = makeHomepageStaticCompatible(html);
+  if (staticHomepage) html = freezeCapturedHomepage(html);
   await fs.writeFile(destination, html, 'utf8');
   console.log(`published ${source} -> ${destination}`);
 }
