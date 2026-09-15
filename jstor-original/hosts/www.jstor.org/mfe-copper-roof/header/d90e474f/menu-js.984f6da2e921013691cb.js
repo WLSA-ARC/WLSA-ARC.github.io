@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmfe_header=self.webpackChunkmfe_header||[]).push([["menu-js"],{311(e,I,a){a.d(I,{default:()=>d});const d="PHBhdGggZD0iTTIwIDdINFY1SDIwVjdaIi8+CjxwYXRoIGQ9Ik0yMCAxOUg0VjE3SDIwVjE5WiIvPgo8cGF0aCBkPSJNNCAxM0gyMFYxMUg0VjEzWiIvPgo="}}]);
+//# sourceMappingURL=menu-js.984f6da2e921013691cb.js.map
