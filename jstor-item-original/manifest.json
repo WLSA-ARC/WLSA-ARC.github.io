@@ -1,0 +1,42 @@
+{
+  "capturedAt": "2026-09-15T11:26:54.528Z",
+  "url": "https://www.jstor.org/stable/2900495",
+  "challenge": true,
+  "resources": [
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/errors.js",
+      "type": "script",
+      "status": 200,
+      "contentType": "application/javascript",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/errors.js"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
+      "type": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
+      "type": "font",
+      "status": 200,
+      "contentType": "application/font-woff2",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2"
+    },
+    {
+      "url": "https://www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true",
+      "type": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "file": "hosts/www.jstor.org/_fs-ch-1T1wmsGaOgGaSxcX/script__q_c1dfca94aa.js"
+    },
+    {
+      "url": "https://www.jstor.org/fastly/logo",
+      "type": "image",
+      "status": 200,
+      "contentType": "image/png",
+      "file": "hosts/www.jstor.org/fastly/logo.bin"
+    }
+  ]
+}
