@@ -1,6 +1,7 @@
 import { chromium } from 'playwright';
 import fs from 'node:fs/promises';
 
+// Visual regression check for the calibrated, Shadow-DOM-preserving homepage snapshot.
 await fs.mkdir('artifacts', { recursive: true });
 const browser = await chromium.launch({ headless: true });
 const factors = [1, 1.1, 1.15, 1.2, 1.25];
