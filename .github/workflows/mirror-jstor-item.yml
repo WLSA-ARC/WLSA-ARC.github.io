@@ -1,0 +1,36 @@
+name: Mirror JSTOR item frontend
+
+on:
+  push:
+    paths:
+      - 'scripts/mirror-jstor-item.mjs'
+      - '.github/workflows/mirror-jstor-item.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror-item:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Capture JSTOR item and viewer assets
+        run: xvfb-run -a node scripts/mirror-jstor-item.mjs
+      - name: Commit capture
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jstor-item-original
+          git diff --cached --quiet && exit 0
+          git commit -m "Mirror JSTOR item frontend"
+          git push
