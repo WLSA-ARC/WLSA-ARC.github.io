@@ -16,10 +16,12 @@ await fs.mkdir(path.join(OUT, 'hosts'), { recursive: true });
 
 const browser = await chromium.launch({ headless: true });
 const context = await browser.newContext({
-  // Match the 2048px desktop reference capture. The page's own responsive CSS
-  // remains in the snapshot; this also freezes carousel geometry at the reference width.
-  viewport: { width: 2048, height: 1200 },
-  deviceScaleFactor: 1,
+  // The supplied 2048×1120 reference is a 1.25 device-scale desktop capture.
+  // Its CSS viewport is therefore about 1638×896. Capture at that CSS width so
+  // runtime-computed carousel/slider geometry is frozen for the same layout as
+  // the user's browser instead of the wider 2048-CSS-pixel layout.
+  viewport: { width: 1638, height: 896 },
+  deviceScaleFactor: 1.25,
   userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
 });
 
