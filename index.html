@@ -3,29 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A minimal study archive for review notes and problem sets.">
-  <title>Study Archive</title>
-  <link rel="stylesheet" href="./docs/style.css">
+  <meta name="description" content="WLSA ARC — academic resources, review materials, and source documents.">
+  <title>WLSA ARC</title>
+  <link rel="stylesheet" href="./assets/site.css">
 </head>
-<body>
-  <main class="page">
-    <div class="topbar">
-      <a class="brand" href="./">Study Archive</a>
-      <nav class="nav"><a href="https://github.com/WLSA-ARC/WLSA-ARC.github.io" target="_blank" rel="noreferrer">GitHub</a></nav>
-    </div>
-    <header class="hero">
-      <p class="eyebrow">Personal review library</p>
-      <h1>Review.</h1>
-      <p class="subtitle">Notes, review sheets and problem sets, organized by subject and topic.</p>
-    </header>
-    <section class="subjects" aria-label="Subjects">
-      <a class="subject-card" href="./docs/calculus/"><div class="symbol">∫</div><h2>Multivariable Calculus</h2><p>Vectors, geometry, derivatives, integration and vector calculus.</p><div class="card-bottom"><span>6 topics</span><span class="arrow">→</span></div></a>
-      <a class="subject-card" href="./docs/physics/"><div class="symbol">E</div><h2>AP Physics C: E&amp;M</h2><p>Electrostatics, Gauss's law, circuits and electromagnetism.</p><div class="card-bottom"><span>6 topics</span><span class="arrow">→</span></div></a>
-      <a class="subject-card" href="./docs/mechanics/"><div class="symbol">q̇</div><h2>Classical Mechanics</h2><p>Lagrangian mechanics, variation, momentum and Hamiltonian mechanics.</p><div class="card-bottom"><span>6 topics</span><span class="arrow">→</span></div></a>
-      <a class="subject-card" href="./docs/macro/"><div class="symbol">Y</div><h2>AP Macroeconomics</h2><p>Production, trade, GDP, monetary and fiscal policy.</p><div class="card-bottom"><span>6 topics</span><span class="arrow">→</span></div></a>
-      <a class="subject-card" href="./docs/sat/"><div class="symbol">A</div><h2>SAT</h2><p>Reading, grammar, mathematics and strategies.</p><div class="card-bottom"><span>6 topics</span><span class="arrow">→</span></div></a>
-      <a class="subject-card" href="./docs/seminar/"><div class="symbol">⌘</div><h2>AP Seminar</h2><p>Research, argumentation, evidence and presentations.</p><div class="card-bottom"><span>6 topics</span><span class="arrow">→</span></div></a>
-    </section>
+<body data-page="home">
+  <header class="site-header">
+    <div class="utility-bar"><div class="shell utility-inner"><span>WLSA Academic Resource Center</span><nav><a href="./search.html">Advanced Search</a><a href="#browse">Browse</a><a href="https://github.com/WLSA-ARC/WLSA-ARC.github.io">GitHub</a></nav></div></div>
+    <div class="main-nav shell"><a class="wordmark" href="./"><span class="mark">W</span><span>WLSA <b>ARC</b></span></a><form class="header-search" action="./search.html"><input name="q" aria-label="Search the archive" placeholder="Search articles, notes, subjects, authors…"><button>Search</button></form></div>
+  </header>
+  <main>
+    <section class="hero-search"><div class="shell hero-inner"><p class="kicker">Academic Resource Center</p><h1>Explore knowledge.<br>Build understanding.</h1><p class="hero-copy">Search review notes, problem sets, source documents, and student research across the WLSA archive.</p><form class="hero-form" action="./search.html"><input name="q" placeholder="What are you looking for?" autofocus><button>Search</button></form><div class="quick-links"><span>Popular:</span><a href="./search.html?q=calculus">Calculus</a><a href="./search.html?q=physics">Physics</a><a href="./search.html?q=macroeconomics">Macroeconomics</a><a href="./search.html?q=seminar">AP Seminar</a></div></div></section>
+    <section class="section shell" id="browse"><div class="section-heading"><div><p class="kicker dark">Browse the archive</p><h2>Explore by subject</h2></div><a class="text-link" href="./search.html">View all resources →</a></div><div class="subject-grid" id="subjectGrid"></div></section>
+    <section class="section section-soft"><div class="shell"><div class="section-heading"><div><p class="kicker dark">Featured</p><h2>Start here</h2></div></div><div class="featured-grid" id="featuredGrid"></div></div></section>
   </main>
+  <footer class="site-footer"><div class="shell footer-grid"><div><div class="footer-wordmark">WLSA ARC</div><p>Academic resources organized for fast review and serious research.</p></div><div><h3>Explore</h3><a href="./search.html">Search</a><a href="#browse">Subjects</a><a href="./viewer.html?file=./files/wlsa-sample.pdf">Reader demo</a></div><div><h3>Repository</h3><a href="https://github.com/WLSA-ARC/WLSA-ARC.github.io">GitHub</a></div></div></footer>
+  <script src="./assets/data.js"></script><script src="./assets/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Search · WLSA ARC</title><link rel="stylesheet" href="./assets/site.css"></head>
+<body data-page="search">
+<header class="site-header"><div class="utility-bar"><div class="shell utility-inner"><span>WLSA Academic Resource Center</span><nav><a href="./search.html">Advanced Search</a><a href="./">Home</a></nav></div></div><div class="main-nav shell"><a class="wordmark" href="./"><span class="mark">W</span><span>WLSA <b>ARC</b></span></a><form class="header-search" id="searchForm"><input id="searchInput" name="q" aria-label="Search"><button>Search</button></form></div></header>
+<main class="shell search-layout"><aside class="filters"><div class="filter-title">Refine results</div><button class="filter-clear" id="clearFilters">Clear all</button><div class="filter-group"><h3>Content type</h3><label><input type="checkbox" name="type" value="Review Guide"> Review guides</label><label><input type="checkbox" name="type" value="Reference"> Reference</label><label><input type="checkbox" name="type" value="Course Notes"> Course notes</label></div><div class="filter-group"><h3>Subject</h3><div id="subjectFilters"></div></div><div class="filter-group"><h3>Access</h3><label><input type="checkbox" id="hasPdf"> Read online</label></div></aside>
+<section class="results-panel"><div class="results-top"><div><p class="results-count" id="resultsCount"></p><h1 id="resultsTitle">Search results</h1></div><label class="sort-label">Sort by <select id="sortSelect"><option value="relevance">Relevance</option><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="title">Title</option></select></label></div><div id="activeFilters" class="active-filters"></div><div id="resultsList" class="results-list"></div></section></main>
+<footer class="site-footer compact"><div class="shell footer-line"><span>WLSA ARC</span><a href="./">Home</a></div></footer>
+<script src="./assets/data.js"></script><script src="./assets/app.js"></script>
+</body></html>
