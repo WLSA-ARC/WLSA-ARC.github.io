@@ -1,0 +1,36 @@
+name: Mirror JSTOR production frontend
+
+on:
+  push:
+    paths:
+      - 'scripts/mirror-jstor.mjs'
+      - '.github/workflows/mirror-jstor.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Capture current JSTOR production frontend
+        run: node scripts/mirror-jstor.mjs
+      - name: Commit captured frontend
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jstor-original
+          git diff --cached --quiet && exit 0
+          git commit -m "Mirror current JSTOR production frontend"
+          git push
