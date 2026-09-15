@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 
 const ROOT = 'jstor-original';
+// Re-run publishing whenever the calibrated production snapshot is refreshed.
 const manifest = JSON.parse(await fs.readFile(`${ROOT}/manifest.json`, 'utf8'));
 const resources = manifest.resources || [];
 
