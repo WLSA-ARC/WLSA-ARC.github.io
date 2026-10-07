@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {"id":"multivariable-calculus","title":"Multivariable Calculus Review","subject":"Mathematics","folder":"calculus","description":"Vectors, partial derivatives, multiple integrals, and vector calculus.","keywords":["微积分","多元微积分","数学","vectors","gradient"],"topics":["Vectors, lines and planes","Partial derivatives","Multiple integrals","Vector fields","Line integrals","Surface integrals"]},
+    {"id":"physics-em","title":"AP Physics C: Electricity & Magnetism","subject":"Physics","folder":"physics","description":"Electrostatics, Gauss’s law, potential, capacitance, circuits, and magnetism.","keywords":["物理","电磁学","电场","electricity","magnetism","E&M"],"topics":["Electrostatics","Gauss’s law","Electric potential","Capacitance","Circuits","Magnetism and induction"]},
+    {"id":"classical-mechanics","title":"Classical Mechanics","subject":"Physics","folder":"mechanics","description":"Variation, generalized coordinates, Lagrangian and Hamiltonian mechanics.","keywords":["经典力学","力学","物理","lagrangian","hamiltonian"],"topics":["Calculus of variations","Generalized coordinates","Lagrangian mechanics","Canonical momentum","Central forces","Hamiltonian mechanics"]},
+    {"id":"ap-macro","title":"AP Macroeconomics Review","subject":"Economics","folder":"macro","description":"GDP, inflation, unemployment, AD–AS, fiscal policy, and monetary policy.","keywords":["宏观经济","经济学","gdp","inflation","monetary"],"topics":["Basic economic concepts","Economic indicators","National income and price determination","Financial sector","Stabilization policies","Open economy"]},
+    {"id":"sat","title":"SAT Review","subject":"Test Preparation","folder":"sat","description":"Reading, writing, algebra, advanced mathematics, statistics, and geometry.","keywords":["SAT","考试","阅读","语法","代数","math","grammar"],"topics":["Reading","Writing and grammar","Algebra","Advanced mathematics","Statistics","Geometry"]},
+    {"id":"ap-seminar","title":"AP Seminar Research & Argumentation","subject":"Research Skills","folder":"seminar","description":"Research questions, evidence, arguments, IRR, TMP, and IMP.","keywords":["研讨","研究","论证","seminar","evidence","irr"],"topics":["Research questions","Perspectives and lenses","Evaluating evidence","Building arguments","IRR and TMP","IWA and IMP"]}
+  ],
+  "files": {}
+}

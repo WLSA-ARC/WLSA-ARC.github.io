@@ -1,0 +1,10 @@
+{
+  "name": "wlsa-arc-study-archive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "test": "node scripts/smoke-test.mjs"
+  },
+  "devDependencies": {"playwright": "1.62.1"}
+}
