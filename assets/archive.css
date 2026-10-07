@@ -1,0 +1,74 @@
+/* Archive controls use the original local fonts, colors and component layout. */
+.arc-nav-link{color:#000;text-decoration:none;font-family:"GT America Standard",Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;padding:4px 8px;margin-left:12px;display:inline-block}
+.arc-nav-link:hover{text-decoration:underline}
+.arc-mobile-menu{border-bottom:1px solid #ddd;padding:16px 24px;background:#fff}
+.arc-mobile-menu a{display:block;color:#000;padding:8px 0}
+.mfe-provider-designation-statement__has-uuid{font-style:normal}
+.search-input-wrapper{position:relative}
+.scope-menu{position:absolute;top:100%;left:0;width:220px;border:1px solid #aaa;background:#fff;z-index:10;box-shadow:0 3px 8px #0002;font:16px "GT America Standard",Helvetica,Arial,sans-serif}
+.scope-menu button{display:block;width:100%;padding:14px 16px;border:0;background:#fff;text-align:left;font:inherit;cursor:pointer}
+.scope-menu button:hover,.scope-menu button:focus-visible{background:#eee;outline:2px solid #00a5bf;outline-offset:-2px}
+.scope-menu button[aria-selected=true]{font-weight:700}
+.thematic-slider img[slot=image]{height:220px;width:100%;object-fit:cover}
+[hidden]{display:none!important}
+.archive-shell{width:calc(100% - 48px);max-width:1296px;margin:0 auto;font-family:"GT America Standard",Helvetica,Arial,sans-serif;color:#000}
+.archive-search-layout{display:grid;grid-template-columns:240px minmax(0,1fr);gap:48px;padding:48px 0 80px}
+.archive-filters{border-right:1px solid #ddd;padding-right:28px;scroll-margin-top:20px}
+.filter-heading{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.filter-heading h2{font-size:20px;line-height:1.3;margin:0}
+.filter-heading button{background:none;border:0;padding:0;color:#900;text-decoration:underline;font:inherit;font-size:13px;cursor:pointer}
+.archive-filters fieldset{border:0;border-top:1px solid #ddd;margin:24px 0 0;padding:16px 0 0;min-width:0}
+.archive-filters legend{font-weight:700;font-size:16px;padding:0 10px 0 0}
+.archive-filters label{display:flex;gap:8px;align-items:baseline;font-size:14px;padding:7px 0;cursor:pointer;line-height:1.45}
+.archive-filters input{accent-color:#900}
+.archive-search-form{display:flex;height:56px;border:1px solid #aaa;margin-bottom:32px}
+.archive-search-form:focus-within{outline:2px solid #00a5bf;outline-offset:-1px}
+.archive-search-form input{font:16px "GT America Standard",Helvetica,Arial,sans-serif;min-width:0;flex:1;border:0;padding:0 16px;outline:0;background:white;color:black}
+.archive-search-form button{border:0;background:#fff;width:60px;cursor:pointer;display:grid;place-items:center}
+.results-top{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;border-bottom:1px solid #ddd;padding-bottom:24px}
+#resultsCount{font-size:14px;color:#666;margin:0 0 8px}
+.archive-shell h1{font:400 40px/1.16 "Ivar Headline",Georgia,serif;margin:0;color:black}
+.results-top label{font-size:14px;white-space:nowrap}
+.results-top select{font:inherit;background:white;border:1px solid #aaa;padding:9px 8px;margin-left:6px;max-width:170px}
+.active-filters{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.active-filters:empty{display:none}
+.active-filters span{font-size:13px;background:#f1f1f1;padding:7px 10px}
+.result-item{border-bottom:1px solid #ddd;padding:28px 0;line-height:1.55}
+.result-meta{font-size:13px;color:#666;margin:0 0 8px}
+.result-item h2{font:400 27px/1.2 "Ivar Headline",Georgia,serif;margin:0 0 10px}
+.result-item h2 a{color:#000;text-decoration:none}
+.result-item h2 a:hover{text-decoration:underline}
+.result-source{font-size:14px;color:#555;margin:0 0 12px}
+.result-item>p:last-of-type{font-size:16px;margin-bottom:14px}
+.result-actions{display:flex;flex-wrap:wrap;gap:20px;font-size:14px;font-weight:700}
+.result-actions a,.breadcrumbs a,.side-card a{color:#900}
+.empty-state{padding:64px 0;line-height:1.6;min-height:320px}
+.empty-state h2{font:400 30px "Ivar Headline",Georgia,serif}
+.item-page{padding:32px 0 80px}
+.breadcrumbs{display:flex;gap:9px;flex-wrap:wrap;font-size:14px;margin-bottom:40px}
+.item-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:64px}
+.item-grid h1{font-size:48px;margin-bottom:18px}
+#itemByline:empty{display:none}
+#itemSource{font-size:14px;color:#555}
+.item-actions{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0 40px}
+.primary-btn,.outline-btn{padding:12px 18px;font-size:16px;font-weight:700;text-decoration:none;border:1px solid #900;display:inline-block}
+.primary-btn{background:#900;color:#fff}
+.primary-btn:hover{background:#600}
+.outline-btn{background:#fff;border-color:#777;color:#000}
+.outline-btn:hover{background:#f5f5f5}
+.availability-note{color:#555;background:#f5f5f5;padding:10px 14px}
+.item-section{border-top:1px solid #ddd;padding-top:24px;margin-top:28px;line-height:1.7}
+.item-section h2{font:400 28px "Ivar Headline",Georgia,serif;margin:0 0 16px}
+#itemTopics{padding-left:22px;columns:2;column-gap:32px}
+#itemTopics li{break-inside:avoid;padding:4px 0}
+#itemMetadata{margin:0}
+#itemMetadata>div{display:grid;grid-template-columns:150px minmax(0,1fr);gap:16px;padding:12px 0;border-bottom:1px solid #eee;font-size:14px}
+#itemMetadata dt{font-weight:700}
+#itemMetadata dd{margin:0;overflow-wrap:anywhere}
+.side-card{background:#f5f5f5;border-top:3px solid #000;padding:24px;margin-bottom:20px;line-height:1.6;font-size:14px}
+.side-card h2{font:400 22px "Ivar Headline",Georgia,serif;margin:0 0 12px}
+#previewFrame{width:100%;height:720px;border:1px solid #ddd}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid #00a5bf;outline-offset:3px}
+@media(max-width:900px){.archive-search-layout{grid-template-columns:200px minmax(0,1fr);gap:24px}.item-grid{grid-template-columns:minmax(0,1fr) 240px;gap:32px}.results-top{align-items:flex-start;flex-direction:column}.item-grid h1{font-size:38px}}
+@media(max-width:600px){.archive-shell{width:calc(100% - 32px)}.archive-search-layout{display:flex;flex-direction:column;padding-top:28px;gap:32px}.archive-filters{border-right:0;border-bottom:1px solid #ddd;padding:0 0 24px}.archive-filters label{padding:5px 0}.archive-filters fieldset{margin-top:18px}.item-grid{display:flex;flex-direction:column;gap:32px}.archive-shell h1{font-size:34px}.item-grid h1{font-size:38px}#itemTopics{columns:1}.result-item h2{font-size:25px}.arc-nav-link{margin-left:0;font-size:14px}#previewFrame{height:500px}.thematic-slider img[slot=image]{height:190px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.glide__slides{transition:none!important}}
