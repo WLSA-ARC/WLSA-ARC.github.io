@@ -13,7 +13,7 @@ for(const file of ['index.html','search.html','item.html','viewer.html','404.htm
   await fs.copyFile(path.join(root,file),path.join(output,file));
 }
 await fs.mkdir(path.join(output,'assets'),{recursive:true});
-for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','arc-logo.svg']){
+for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','arc-logo.png']){
   await fs.copyFile(path.join(root,'assets',file),path.join(output,'assets',file));
 }
 for(const dir of ['design','pdfjs'])await fs.cp(path.join(root,'assets',dir),path.join(output,'assets',dir),{recursive:true});

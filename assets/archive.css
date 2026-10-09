@@ -1,4 +1,6 @@
 /* Archive controls use the original local fonts, colors and component layout. */
+.mfe-header__arc-logo img{width:84px;height:84px;object-fit:contain}
+@media(max-width:425px){.mfe-header__arc-logo img{width:62px;height:62px}}
 .arc-nav-link{color:#000;text-decoration:none;font-family:"GT America Standard",Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;padding:4px 8px;margin-left:12px;display:inline-block}
 .arc-nav-link:hover{text-decoration:underline}
 .arc-mobile-menu{border-bottom:1px solid #ddd;padding:16px 24px;background:#fff}
