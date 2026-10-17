@@ -104,7 +104,6 @@ body[data-page=home] .arc-footer{margin-top:64px}
 .result-item h2{font:400 30px/1.2 "Ivar Headline",Georgia,serif;margin:0 0 10px}
 .result-item h2 a{color:#000;text-decoration:none}
 .result-item h2 a:hover{text-decoration:underline}
-.result-source{font-size:14px;color:#555;margin:0 0 12px}
 .result-item>p:last-of-type{font-size:16px;margin-bottom:14px}
 .result-actions{display:flex;flex-wrap:wrap;gap:20px;font-size:14px;font-weight:700}
 .result-actions a,.breadcrumbs a,.side-card a{color:#900}
@@ -124,7 +123,7 @@ body[data-page=home] .arc-footer{margin-top:64px}
 #itemTopics{padding-left:22px;columns:2;column-gap:32px}
 #itemTopics li{break-inside:avoid;padding:4px 0}
 .side-card{overflow-wrap:anywhere;background:#f5f5f5;border-top:3px solid #000;padding:24px;margin-bottom:20px;line-height:1.6;font-size:14px}
-.side-card h2{font:400 22px "Ivar Headline",Georgia,serif;margin:0 0 12px}
+.side-card h2{font:700 22px/1.2 Arial,Helvetica,sans-serif!important;margin:0 0 12px}
 .about-page{max-width:900px;padding:48px 0 80px;line-height:1.7;min-height:calc(100dvh - var(--arc-header-height) - 96px)}
 .about-name{color:#666;font-size:18px;margin:20px 0 32px}
 .about-page a{color:#900}
