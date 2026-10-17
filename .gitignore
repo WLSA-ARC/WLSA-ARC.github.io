@@ -1,3 +1,5 @@
 _site/
 artifacts/
 node_modules/
+__pycache__/
+site/legacy/local-*/
