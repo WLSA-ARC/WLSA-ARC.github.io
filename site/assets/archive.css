@@ -32,7 +32,7 @@ html{scroll-padding-top:119px}
 .scope-menu button:hover,.scope-menu button:focus-visible{background:#eee;outline:2px solid #00a5bf;outline-offset:-2px}
 .scope-menu button[aria-selected=true]{font-weight:700}
 .thematic-container{padding-bottom:64px}
-.homepage-container .course-section{margin-top:56px}
+.homepage-container .course-section{margin-top:56px;overflow:visible}
 .course-heading{font:400 40px/1.2 "Ivar Headline",Georgia,serif;margin:0 0 32px}
 .course-nav{display:flex;flex-wrap:wrap;gap:10px 8px;margin:0 0 28px}
 .course-nav button{position:relative;isolation:isolate;font:inherit;font-size:14px;line-height:1.5;cursor:pointer;color:#555;background:none;border:0;padding:4px 8px;transition:transform .16s ease,color .16s ease}
