@@ -10,7 +10,7 @@ if(path.dirname(output)!==path.resolve(root))throw new Error('Build output must 
 await fs.rm(output,{recursive:true,force:true});
 await fs.mkdir(output,{recursive:true});
 // An explicit allowlist keeps source snapshots and maintenance scripts out of Pages.
-for(const file of ['index.html','search.html','item.html','viewer.html','about.html','404.html','.nojekyll']){
+for(const file of ['index.html','search.html','item.html','viewer.html','markdown.html','about.html','404.html','.nojekyll']){
   await fs.copyFile(path.join(root,file),path.join(output,file));
 }
 const config=JSON.parse(await fs.readFile(path.join(root,'config/catalog.json'),'utf8'));
@@ -33,20 +33,22 @@ const homePath=path.join(output,'index.html'),home=await fs.readFile(homePath,'u
 if(!home.includes('<!-- ARC_COURSES -->')||!home.includes('<!-- ARC_COURSE_SUBJECTS -->'))throw new Error('Home course grid placeholder missing.');
 await fs.writeFile(homePath,home.replace('<!-- ARC_COURSES -->',cards).replace('<!-- ARC_COURSE_SUBJECTS -->',subjectNav));
 await fs.mkdir(path.join(output,'assets'),{recursive:true});
-for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','arc-logo.png']){
+for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','markdown-reader.js','arc-logo.png']){
   await fs.copyFile(path.join(root,'assets',file),path.join(output,'assets',file));
 }
 for(const dir of ['design','pdfjs'])await fs.cp(path.join(root,'assets',dir),path.join(output,'assets',dir),{recursive:true});
+await fs.copyFile(path.join(root,'node_modules/markdown-it/dist/browser/markdown-it.umd.min.js'),path.join(output,'assets/markdown-it.min.js'));
+await fs.copyFile(path.join(root,'node_modules/markdown-it/LICENSE'),path.join(output,'assets/markdown-it.LICENSE.txt'));
 const uploadRoot=path.resolve(root,'../uploads');
 await fs.cp(uploadRoot,path.join(output,'uploads'),{recursive:true});
 await fs.cp(path.join(root,'docs'),path.join(output,'docs'),{recursive:true});
 // New deployments must not mix cached CSS/JS with the updated page markup.
 const versions=new Map();
-for(const file of ['app.js','data.js','archive.css','site.css','viewer.js']){
+for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','markdown-reader.js','markdown-it.min.js']){
   const bytes=await fs.readFile(path.join(output,'assets',file));
   versions.set(file,createHash('sha256').update(bytes).digest('hex').slice(0,12));
 }
-for(const file of ['index.html','search.html','item.html','viewer.html','about.html','404.html']){
+for(const file of ['index.html','search.html','item.html','viewer.html','markdown.html','about.html','404.html']){
   const target=path.join(output,file);let html=await fs.readFile(target,'utf8');
   for(const [asset,version] of versions)html=html.split('./assets/'+asset).join('./assets/'+asset+'?v='+version);
   await fs.writeFile(target,html);

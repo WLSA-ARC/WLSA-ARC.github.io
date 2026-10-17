@@ -11,7 +11,7 @@
   const typeOptions = [...new Set(['Review Guide', 'Course Notes', 'Practice Set', ...items.map(i=>i.type)])];
   function result(i) {
     const title=i.available?esc(i.title):`<a href="${itemUrl(i)}">${esc(i.title)}</a>`;
-    return `<article class="result-item${i.available?' is-material':''}"><h2>${title}</h2><p>${esc(i.description)}</p><div class="result-actions">${!i.available?`<a href="${itemUrl(i)}">View collection</a>`:''}${i.pdf?`<a href="${esc(readerUrl(i))}">Read online</a>`:''}${i.available?`<a href="${esc(i.href)}" download>Download ${esc(i.format)}</a>`:''}</div></article>`;
+    return `<article class="result-item${i.available?' is-material':''}"><h2>${title}</h2><p>${esc(i.description)}</p><div class="result-actions">${!i.available?`<a href="${itemUrl(i)}">View collection</a>`:''}${i.pdf?`<a href="${esc(readerUrl(i))}">Read online</a>`:''}${i.available?`<a href="${esc(i.href)}" download>Download ${esc(i.format)}</a><a href="./markdown.html?id=${encodeURIComponent(i.id)}">View Now</a>`:''}</div></article>`;
   }
   function initHome() {
     const nav=$('#courseNav'), tabs=$$('button',nav), cards=$$('.course-grid>li');

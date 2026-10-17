@@ -32,6 +32,9 @@ async function walk(dir) {
   return nested.flat();
 }
 const fullPaths = await walk(uploadRoot);
+const stem = file => file.slice(0,-path.extname(file).length);
+const companionMarkdown = new Map(fullPaths.filter(file=>path.extname(file).toLowerCase()==='.md').map(file=>[stem(file),file]));
+const sourceStems = new Set(fullPaths.filter(file=>extensions.has(path.extname(file).toLowerCase())&&path.extname(file).toLowerCase()!=='.md').map(stem));
 const pdfMetadata = new Map();
 if (fullPaths.some(p=>path.extname(p).toLowerCase()==='.pdf')) {
   const output = execFileSync(process.env.PYTHON || 'python', [path.join(site,'scripts/pdf_metadata.py'),'scan',uploadRoot], {encoding:'utf8',maxBuffer:16*1024*1024});
@@ -45,6 +48,7 @@ for (const full of fullPaths) {
   const relative = path.relative(uploadRoot, full).split(path.sep).join('/');
   const file = 'uploads/' + relative, ext = path.extname(file).toLowerCase();
   if (!extensions.has(ext) || path.basename(file).toLowerCase()==='readme.md') continue;
+  if(ext==='.md'&&sourceStems.has(stem(full)))continue;
   const pdf = pdfMetadata.get(relative);
   // Embedded ARC records stay authoritative. Untagged originals can be indexed
   // through the registry without rewriting their PDF bytes or existing credits.
@@ -66,6 +70,8 @@ for (const full of fullPaths) {
   ids.add(id);
   const stat = await fs.stat(full);
   const href = './' + file.split('/').map(encodeURIComponent).join('/');
+  const markdownFile=ext==='.md'?full:companionMarkdown.get(stem(full));
+  const markdown=markdownFile?'./uploads/'+path.relative(uploadRoot,markdownFile).split(path.sep).map(encodeURIComponent).join('/'):'';
   items.push({
     id, title: info.title || path.basename(file, ext).replace(/[_-]/g,' ').trim(),
     author:info.author || '', subject, subjectCode, course:course?.id || '', courses:courseIds, courseTitles,
@@ -73,7 +79,7 @@ for (const full of fullPaths) {
     description:info.description || '', keywords:info.keywords?.length?info.keywords:course?.keywords || [],
     topics:info.topics || [], grade:info.grade || course?.grade || '', examBoard:info.examBoard || course?.examBoard || '', languages:info.languages || [],
     source:course?.title || 'Study materials', format:ext.slice(1).toUpperCase(),
-    file, href, ...(ext==='.pdf'&&pdf?.readable?{pdf:href,pages:pdf.pages}:{}),
+    file, href, markdown, ...(ext==='.pdf'&&pdf?.readable?{pdf:href,pages:pdf.pages}:{}),
     size:stat.size, updated:info.updated || '', available:true,
   });
 }

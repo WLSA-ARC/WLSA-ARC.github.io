@@ -9,16 +9,19 @@ import {checkSearchControls} from '../tests/search-controls.mjs';
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright');
 const root=fileURLToPath(new URL('../',import.meta.url)), site=path.join(root,'_site');
 const fixture=path.resolve(root,'../uploads/_smoke-资料.pdf');
+const markdownFixture=path.resolve(root,'../uploads/_smoke-资料.md');
 const artifacts=path.join(root,'artifacts');
 let browser,server;
-if(await fs.access(fixture).then(()=>true,()=>false))throw new Error('Smoke fixture path already exists; refusing to overwrite.');
+for(const file of [fixture,markdownFixture])if(await fs.access(file).then(()=>true,()=>false))throw new Error('Smoke fixture path already exists; refusing to overwrite.');
 function build(){execFileSync(process.execPath,[path.join(root,'scripts/build-site.mjs')],{cwd:root,stdio:'pipe'});}
 try{
   await fs.mkdir(path.dirname(fixture),{recursive:true});
   execFileSync(process.env.PYTHON||'python',[path.join(root,'scripts/pdf_metadata.py'),'write',path.join(root,'tests/fixtures/reader.pdf'),'--output',fixture,'--course','physics-em','--title','smoke 资料','--type','review-guide','--keywords','电磁学','Gauss'],{encoding:'utf8'});
+  await fs.writeFile(markdownFixture,'## Markdown fixture\n\n中文 **重点**\n\n- First topic\n- Second topic\n\n| Topic | Status |\n| --- | --- |\n| Markdown | Ready |\n\n```js\nconst review = true;\n```\n\n![ARC](../assets/arc-logo.png)\n\n<script>window.markdownInjected=true</script>\n\n[unsafe](javascript:alert(1))\n');
   build();
   const context={window:{}};vm.runInNewContext(await fs.readFile(path.join(root,'assets/data.js'),'utf8'),context);
   const items=context.window.ARCHIVE_ITEMS, material=items.find(i=>i.file==='uploads/_smoke-资料.pdf');assert.ok(material?.pdf);assert.equal(material.subject,'Physics');assert.equal(material.course,'physics-em');
+  assert.ok(material.markdown.endsWith('_smoke-%E8%B5%84%E6%96%99.md'));assert.ok(!items.some(i=>i.file==='uploads/_smoke-资料.md'));
   server=createServer(async(req,res)=>{
     try{
       const name=decodeURIComponent(new URL(req.url,'http://localhost').pathname), file=name==='/_test/original.pdf'?path.join(root,'tests/fixtures/reader.pdf'):path.resolve(site,'.'+(name==='/'?'/index.html':name));
@@ -127,6 +130,15 @@ try{
   await page.goto(base+'/search.html?available=1&q='+encodeURIComponent('smoke 资料'));
   assert.equal(await page.locator('.result-item').count(),1);
   const [download]=await Promise.all([page.waitForEvent('download'),page.getByRole('link',{name:'Download PDF'}).click()]);assert.equal(await download.failure(),null);
+  await page.getByRole('link',{name:'View Now',exact:true}).click();await page.waitForSelector('#markdownContent table');
+  assert.equal(await page.getByRole('heading',{name:'Markdown fixture',exact:true}).count(),1);
+  assert.equal(await page.locator('#markdownContent strong').innerText(),'重点');assert.equal(await page.locator('#markdownContent li').count(),2);
+  assert.equal(await page.locator('#markdownContent pre code').innerText(),'const review = true;\n');
+  assert.equal(await page.locator('#markdownContent img').getAttribute('src'),base+'/assets/arc-logo.png');
+  assert.equal(await page.locator('#markdownContent script,#markdownContent [href^="javascript:"]').count(),0);assert.equal(await page.evaluate(()=>window.markdownInjected),undefined);
+  const waiting=items.find(i=>i.available&&!i.markdown);assert.ok(waiting);
+  await page.goto(base+'/markdown.html?id='+waiting.id);assert.equal(await page.locator('.markdown-placeholder').innerText(),'Content coming soon.');
+  assert.equal(await page.locator('.arc-footer').count(),0);
   await page.goto(base+'/item.html?id='+material.id);await page.waitForURL('**/item.html?id=physics-em');
   assert.equal(await page.locator('#itemTitle').innerText(),config.courses.find(c=>c.id==='physics-em').title);
   assert.equal(await page.getByRole('link',{name:'View material',exact:true}).count(),0);
@@ -165,12 +177,12 @@ try{
     assert.equal(await page.locator('#headerMountPoint').evaluate(el=>el.getBoundingClientRect().top),0);
     await page.evaluate(()=>window.scrollTo(0,0));
     await page.screenshot({path:path.join(artifacts,`home-${width}.png`),fullPage:true});
-    for(const suffix of ['/search.html','/item.html?id=physics-em']){await page.goto(base+suffix);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth),width);}
+    for(const suffix of ['/search.html','/item.html?id=physics-em','/markdown.html?id='+material.id]){await page.goto(base+suffix);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth),width);}
   }
   assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
   await fs.writeFile(path.join(artifacts,'smoke-test.json'),JSON.stringify({passed:true,geometry,checks:['Top text strip removed, other layout preserved','No legacy brand/navigation or external runtime requests','Embedded metadata recognizes flat uploads','PDF page rendering unchanged after tagging','Chinese search and material scope','All query terms required','Filter URL round-trip','Actual PDF upload/index/download/read/zoom/search','Missing material','Desktop/mobile layout and mobile menu'],errors,external},null,2));
   console.log('Smoke tests passed: layout, fixed controls, search, filtering, and PDF upload/download/reader.');
 }finally{
   await browser?.close();await new Promise(resolve=>server?server.close(resolve):resolve());
-  await fs.rm(fixture,{force:true});build();
+  await fs.rm(fixture,{force:true});await fs.rm(markdownFixture,{force:true});build();
 }

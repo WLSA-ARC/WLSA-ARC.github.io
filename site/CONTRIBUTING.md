@@ -4,6 +4,14 @@
 
 需要保留未经改写的原始 PDF 时，也可以在 `site/config/catalog.json` 的 `files` 映射中补充课程、标题和关键词。含有稳定 ID 的完整 ARC 内嵌记录优先；未标注 PDF 使用映射中的明确字段，并继续从 PDF 读取页数和预览能力。这样导入后的下载文件与原文件字节一致。
 
+## View Now 的 Markdown 正文
+
+每份资料的 **View Now** 会打开独立 Markdown 阅读页。没有正文时显示 `Content coming soon.`，不会自动改写或识别原 PDF / Word。
+
+在 `uploads/` 放入与原文件同名的 `.md`，提交后会自动关联。例如 `g10-calculus-bc-midterm-notes.pdf` 对应 `g10-calculus-bc-midterm-notes.md`。配套 Markdown 不会被重复列成另一份资料；原文件的阅读和下载入口保留。独立上传的 `.md` 也可直接作为资料展示。
+
+正文支持标题、列表、表格、引用、代码块、链接和图片。图片等相对路径以 `.md` 所在目录为准。HTML 标签作为文字展示，不执行其中的脚本。
+
 ## 给 PDF 标注
 
 在仓库根目录先安装依赖：
