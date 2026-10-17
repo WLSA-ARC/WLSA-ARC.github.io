@@ -39,12 +39,19 @@ for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','mark
 for(const dir of ['design','pdfjs'])await fs.cp(path.join(root,'assets',dir),path.join(output,'assets',dir),{recursive:true});
 await fs.copyFile(path.join(root,'node_modules/markdown-it/dist/browser/markdown-it.umd.min.js'),path.join(output,'assets/markdown-it.min.js'));
 await fs.copyFile(path.join(root,'node_modules/markdown-it/LICENSE'),path.join(output,'assets/markdown-it.LICENSE.txt'));
+const mathOutput=path.join(output,'assets/katex');await fs.mkdir(mathOutput,{recursive:true});
+for(const file of ['katex.min.js','katex.min.css'])await fs.copyFile(path.join(root,'node_modules/katex/dist',file),path.join(mathOutput,file));
+await fs.cp(path.join(root,'node_modules/katex/dist/fonts'),path.join(mathOutput,'fonts'),{recursive:true});
+await fs.copyFile(path.join(root,'node_modules/katex/dist/contrib/mhchem.min.js'),path.join(mathOutput,'mhchem.min.js'));
+await fs.copyFile(path.join(root,'node_modules/katex/LICENSE'),path.join(mathOutput,'LICENSE.txt'));
+await fs.copyFile(path.join(root,'node_modules/markdown-it-texmath/texmath.js'),path.join(output,'assets/texmath.js'));
+await fs.copyFile(path.join(root,'node_modules/markdown-it-texmath/license.txt'),path.join(output,'assets/texmath.LICENSE.txt'));
 const uploadRoot=path.resolve(root,'../uploads');
 await fs.cp(uploadRoot,path.join(output,'uploads'),{recursive:true});
 await fs.cp(path.join(root,'docs'),path.join(output,'docs'),{recursive:true});
 // New deployments must not mix cached CSS/JS with the updated page markup.
 const versions=new Map();
-for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','markdown-reader.js','markdown-it.min.js']){
+for(const file of ['app.js','data.js','archive.css','site.css','viewer.js','markdown-reader.js','markdown-it.min.js','texmath.js','katex/katex.min.js','katex/mhchem.min.js','katex/katex.min.css']){
   const bytes=await fs.readFile(path.join(output,'assets',file));
   versions.set(file,createHash('sha256').update(bytes).digest('hex').slice(0,12));
 }

@@ -10,14 +10,17 @@ const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const root=fileURLToPath(new URL('../',import.meta.url)), site=path.join(root,'_site');
 const fixture=path.resolve(root,'../uploads/_smoke-资料.pdf');
 const markdownFixture=path.resolve(root,'../uploads/_smoke-资料.md');
+const placeholderFixture=path.resolve(root,'../uploads/_smoke-placeholder.txt');
 const artifacts=path.join(root,'artifacts');
 let browser,server;
-for(const file of [fixture,markdownFixture])if(await fs.access(file).then(()=>true,()=>false))throw new Error('Smoke fixture path already exists; refusing to overwrite.');
+for(const file of [fixture,markdownFixture,placeholderFixture])if(await fs.access(file).then(()=>true,()=>false))throw new Error('Smoke fixture path already exists; refusing to overwrite.');
 function build(){execFileSync(process.execPath,[path.join(root,'scripts/build-site.mjs')],{cwd:root,stdio:'pipe'});}
 try{
   await fs.mkdir(path.dirname(fixture),{recursive:true});
   execFileSync(process.env.PYTHON||'python',[path.join(root,'scripts/pdf_metadata.py'),'write',path.join(root,'tests/fixtures/reader.pdf'),'--output',fixture,'--course','physics-em','--title','smoke 资料','--type','review-guide','--keywords','电磁学','Gauss'],{encoding:'utf8'});
   await fs.writeFile(markdownFixture,'## Markdown fixture\n\n中文 **重点**\n\n- First topic\n- Second topic\n\n| Topic | Status |\n| --- | --- |\n| Markdown | Ready |\n\n```js\nconst review = true;\n```\n\n![ARC](../assets/arc-logo.png)\n\n<script>window.markdownInjected=true</script>\n\n[unsafe](javascript:alert(1))\n');
+  await fs.appendFile(markdownFixture,'\n<!-- Source: page 1 -->\n\nInline $x^2$ and $\\ce{H2O}$.\n\n$$\\int_0^1 x^2\\,dx=\\frac13$$\n\n| Break | Check |\n| --- | --- |\n| one<br>two | safe |\n');
+  await fs.writeFile(placeholderFixture,'Placeholder test fixture.');
   build();
   const context={window:{}};vm.runInNewContext(await fs.readFile(path.join(root,'assets/data.js'),'utf8'),context);
   const items=context.window.ARCHIVE_ITEMS, material=items.find(i=>i.file==='uploads/_smoke-资料.pdf');assert.ok(material?.pdf);assert.equal(material.subject,'Physics');assert.equal(material.course,'physics-em');
@@ -133,9 +136,13 @@ try{
   await page.getByRole('link',{name:'View Now',exact:true}).click();await page.waitForSelector('#markdownContent table');
   assert.equal(await page.getByRole('heading',{name:'Markdown fixture',exact:true}).count(),1);
   assert.equal(await page.locator('#markdownContent strong').innerText(),'重点');assert.equal(await page.locator('#markdownContent li').count(),2);
+  assert.equal(await page.locator('#markdownContent strong').evaluate(el=>getComputedStyle(el).fontWeight),'700');assert.equal(await page.locator('#markdownContent h2').evaluate(el=>getComputedStyle(el).fontWeight),'700');assert.equal(await page.locator('#markdownContent p').first().evaluate(el=>getComputedStyle(el).fontWeight),'400');
   assert.equal(await page.locator('#markdownContent pre code').innerText(),'const review = true;\n');
   assert.equal(await page.locator('#markdownContent img').getAttribute('src'),base+'/assets/arc-logo.png');
   assert.equal(await page.locator('#markdownContent script,#markdownContent [href^="javascript:"]').count(),0);assert.equal(await page.evaluate(()=>window.markdownInjected),undefined);
+  assert.equal(await page.locator('#markdownContent .katex').count(),3);assert.equal(await page.locator('#markdownContent .katex-error').count(),0);
+  assert.equal(await page.locator('#markdownContent table br').count(),1);assert.ok(!(await page.locator('#markdownContent').innerText()).includes('Source: page'));
+  assert.match(await page.locator('#markdownContent .katex .mathnormal').first().evaluate(el=>getComputedStyle(el).fontFamily),/KaTeX/);
   const waiting=items.find(i=>i.available&&!i.markdown);assert.ok(waiting);
   await page.goto(base+'/markdown.html?id='+waiting.id);assert.equal(await page.locator('.markdown-placeholder').innerText(),'Content coming soon.');
   assert.equal(await page.locator('.arc-footer').count(),0);
@@ -184,5 +191,5 @@ try{
   console.log('Smoke tests passed: layout, fixed controls, search, filtering, and PDF upload/download/reader.');
 }finally{
   await browser?.close();await new Promise(resolve=>server?server.close(resolve):resolve());
-  await fs.rm(fixture,{force:true});await fs.rm(markdownFixture,{force:true});build();
+  await fs.rm(fixture,{force:true});await fs.rm(markdownFixture,{force:true});await fs.rm(placeholderFixture,{force:true});build();
 }

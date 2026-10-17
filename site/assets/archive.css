@@ -3,9 +3,9 @@
 /* Match https://andante-assai.github.io/ homepage heading font stack. */
 :root{--arc-title-font:"Iowan Old Style","Baskerville","Songti SC","STSong",Georgia,serif;--arc-ui-font:"GT America Standard",Helvetica,Arial,sans-serif;--arc-h1-size:60px;--arc-title-weight:700}
 :root{--pharos-font-weight-regular:700!important;--pharos-font-weight-medium:700!important;--pharos-font-weight-bold:700!important}
-body,body *{font-weight:700!important}
-h1,h2,h3,h4,h5,h6,.course-title,h1 *,h2 *,h3 *,h4 *,h5 *,h6 *,.course-title *{font-family:var(--arc-ui-font)!important;font-weight:var(--arc-title-weight)!important;letter-spacing:0}
-h1,h1 *,.result-item.is-material h2,.result-item.is-material h2 *,.empty-state h2,.empty-state h2 *{font-family:var(--arc-title-font)!important}
+body,body :where(:not(.katex,.katex *)){font-weight:700!important}
+h1,h2,h3,h4,h5,h6,.course-title,:is(h1,h2,h3,h4,h5,h6,.course-title) :where(:not(.katex,.katex *)){font-family:var(--arc-ui-font)!important;font-weight:var(--arc-title-weight)!important;letter-spacing:0}
+h1,h1 :where(:not(.katex,.katex *)),.result-item.is-material h2,.result-item.is-material h2 :where(:not(.katex,.katex *)),.empty-state h2,.empty-state h2 :where(:not(.katex,.katex *)){font-family:var(--arc-title-font)!important}
 search-ui-pharos-heading{--pharos-font-family-serif:var(--arc-title-font);--pharos-font-weight-regular:700}
 h1{font-size:var(--arc-h1-size)!important;line-height:1.2!important;color:#333}
 .arc-home-heading{max-width:100%;min-width:0;box-sizing:border-box}
@@ -134,8 +134,8 @@ body[data-page=home] .arc-footer{margin-top:64px}
 .markdown-actions{display:flex;flex-wrap:wrap;gap:20px;margin-bottom:32px}
 .markdown-actions a,.markdown-content a{color:#900;text-underline-offset:3px}
 .markdown-content{font-family:var(--arc-ui-font);font-size:18px;line-height:1.75;overflow-wrap:anywhere}
-.markdown-content,.markdown-content *{font-weight:400!important}
-.markdown-content :is(h1,h2,h3,h4,h5,h6){font-family:var(--arc-title-font)!important;font-weight:700!important;line-height:1.3!important;margin:1.6em 0 .65em}
+.markdown-content,.markdown-content :where(:not(.katex,.katex *)){font-weight:400!important}
+.markdown-content :is(h1,h2,h3,h4,h5,h6),.markdown-content :is(h1,h2,h3,h4,h5,h6) :where(:not(.katex,.katex *)){font-family:var(--arc-title-font)!important;font-weight:700!important;line-height:1.3!important;margin:1.6em 0 .65em}
 .markdown-content h1{font-size:36px!important}.markdown-content h2{font-size:30px}.markdown-content h3{font-size:24px}
 .markdown-content :is(strong,b,th){font-weight:700!important}
 .markdown-content p{margin:0 0 1em}
@@ -147,6 +147,7 @@ body[data-page=home] .arc-footer{margin-top:64px}
 .markdown-content table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse;margin:1.5em 0}
 .markdown-content :is(th,td){padding:10px 14px;border:1px solid #ddd;text-align:left}
 .markdown-content img{display:block;max-width:100%;height:auto;margin:1.5em auto}
+.markdown-content eq{display:inline-block;max-width:100%;vertical-align:middle}.markdown-content eqn{display:block;max-width:100%;overflow-x:auto;overflow-y:hidden}.markdown-content .katex{font-size:1em}.markdown-content .katex-display{margin:1em 0}.markdown-content section.eqno{display:flex;align-items:center;gap:1em}.markdown-content section.eqno>eqn{flex:1;min-width:0}
 .markdown-content hr{border:0;border-top:1px solid #ddd;margin:2em 0}
 .markdown-placeholder{color:#666;padding:24px 0;min-height:160px}
 @media(max-width:600px){.markdown-page{padding-top:24px}.markdown-content{font-size:16px}.markdown-content h1{font-size:30px!important}.markdown-content h2{font-size:26px}}
