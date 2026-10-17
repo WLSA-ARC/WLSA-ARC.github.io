@@ -109,7 +109,7 @@ try{
   await page.locator('.query-builder-input-group input').press('Enter');await page.waitForURL('**/search.html?*');
   assert.equal(new URL(page.url()).searchParams.get('q'),'电磁学');assert.equal(new URL(page.url()).searchParams.get('type'),'Review Guide');assert.ok(await page.locator('.result-item').count()>0);
   await page.goto(base+'/search.html?subject=Physics&type=Course+Notes&sort=title');
-  assert.equal(await page.locator('.result-item h2 a').first().evaluate(el=>getComputedStyle(el).fontWeight),'700');
+  assert.equal(await page.locator('.result-item h2').first().evaluate(el=>getComputedStyle(el).fontWeight),'700');
   assert.equal(await page.locator('input[type=search]').count(),1);
   await page.locator('#searchInput').focus();
   assert.equal(await page.locator('#searchInput').evaluate(el=>getComputedStyle(el).outlineStyle),'none');
@@ -127,8 +127,11 @@ try{
   await page.goto(base+'/search.html?available=1&q='+encodeURIComponent('smoke 资料'));
   assert.equal(await page.locator('.result-item').count(),1);
   const [download]=await Promise.all([page.waitForEvent('download'),page.getByRole('link',{name:'Download PDF'}).click()]);assert.equal(await download.failure(),null);
-  await page.goto(base+'/item.html?id='+material.id);assert.equal(await page.locator('#itemTitle').innerText(),material.title);
-  await page.getByRole('link',{name:'Read online',exact:true}).click();await page.waitForSelector('.pdf-page canvas');
+  await page.goto(base+'/item.html?id='+material.id);await page.waitForURL('**/item.html?id=physics-em');
+  assert.equal(await page.locator('#itemTitle').innerText(),config.courses.find(c=>c.id==='physics-em').title);
+  assert.equal(await page.getByRole('link',{name:'View material',exact:true}).count(),0);
+  assert.equal(await page.locator('.result-meta,#itemMetadata,.arc-footer').count(),0);
+  await page.locator('.result-item').filter({has:page.getByRole('heading',{name:material.title,exact:true})}).getByRole('link',{name:'Read online',exact:true}).click();await page.waitForSelector('.pdf-page canvas');
   await fs.mkdir(artifacts,{recursive:true});await page.locator('.pdf-page canvas').first().screenshot({path:path.join(artifacts,'metadata-body-render.png')});
   assert.equal(await page.locator('#pageCount').innerText(),'3');
   await page.locator('#pageInput').fill('2');await page.locator('#pageInput').dispatchEvent('change');
@@ -142,8 +145,9 @@ try{
     await page.goto(base+'/item.html?id='+id);
     assert.equal(await page.locator('#relatedMaterials .result-item').count(),bcFiles.length);
     assert.equal(await page.getByRole('link',{name:'Browse collection files',exact:true}).count(),0);
-    assert.equal(await page.locator('#accessText').innerText(),`${bcFiles.length} ${bcFiles.length===1?'file is':'files are'} available in this collection.`);
-    assert.equal(await page.locator('#relatedMaterials a').filter({hasText:'G10 Calculus BC'}).count(),1);
+    assert.deepEqual(await page.locator('.side-card h2').allTextContents(),['Grade','Uploader']);
+    assert.match(await page.locator('#courseGrades').innerText(),/G10/);
+    assert.equal(await page.locator('#relatedMaterials h2').filter({hasText:'G10 Calculus BC'}).count(),1);
   }
   await page.goto(base+'/search.html?q=BC');
   assert.equal(await page.locator('.result-item').count(),bcFiles.length);

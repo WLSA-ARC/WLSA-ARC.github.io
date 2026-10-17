@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 export async function checkSearchControls(page, base) {
   const geometry=()=>page.evaluate(()=>{
     const rect=selector=>{const r=document.querySelector(selector).getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height};};
-    return {search:rect('#searchForm'),filters:rect('#filters'),header:rect('#headerMountPoint'),footer:rect('.arc-footer'),scrollY,overflow:document.documentElement.scrollWidth>innerWidth};
+    return {search:rect('#searchForm'),filters:rect('#filters'),header:rect('#headerMountPoint'),scrollY,overflow:document.documentElement.scrollWidth>innerWidth};
   });
   const sameRect=(actual,expected,keys=['x','y','width','height'])=>{
     for(const key of keys)assert.ok(Math.abs(actual[key]-expected[key])<1,`${key} moved: ${JSON.stringify({actual,expected})}`);
@@ -22,7 +22,7 @@ export async function checkSearchControls(page, base) {
         const after=await geometry();sameRect(after.search,before.search);
         if(!mobile){
           sameRect(after.filters,before.filters,['x','y','width']);
-          assert.ok(after.filters.y+after.filters.height<=Math.min(viewport.height-24,after.footer.y-24)+1,'Filters overlap footer: '+JSON.stringify(after));
+          assert.ok(after.filters.y+after.filters.height<=viewport.height-23,'Filters extend past viewport: '+JSON.stringify(after));
         }
       }
       if(!mobile) {
@@ -44,7 +44,7 @@ export async function checkSearchControls(page, base) {
         assert.ok(opened.filters.y+opened.filters.height<=viewport.height-15);
         await page.evaluate(()=>scrollTo(0,document.documentElement.scrollHeight));await page.waitForTimeout(90);
         const bottom=await geometry();sameRect(bottom.search,before.search);
-        assert.ok(bottom.filters.y+bottom.filters.height<=Math.min(viewport.height-16,bottom.footer.y-16)+1,'Mobile filters overlap footer');
+        assert.ok(bottom.filters.y+bottom.filters.height<=viewport.height-15,'Mobile filters extend past viewport');
         await page.keyboard.press('Escape');assert.equal(await page.locator('#filters').isVisible(),false);
       }
     }

@@ -8,11 +8,10 @@
   const params = new URLSearchParams(location.search);
   const itemUrl = i => './item.html?id=' + encodeURIComponent(i.id);
   const readerUrl = i => './viewer.html?' + new URLSearchParams({file:i.pdf, title:i.title});
-  const size = bytes => bytes < 1024*1024 ? `${Math.ceil(bytes/1024)} KB` : `${(bytes/1024/1024).toFixed(1)} MB`;
   const typeOptions = [...new Set(['Review Guide', 'Course Notes', 'Practice Set', ...items.map(i=>i.type)])];
-  const status = i => i.available ? [i.format,i.size ? size(i.size) : ''].filter(Boolean).join(' · ') : 'Awaiting materials';
   function result(i) {
-    return `<article class="result-item${i.available?' is-material':''}"><p class="result-meta">${esc(i.type)} · ${esc(status(i))}</p><h2><a href="${itemUrl(i)}">${esc(i.title)}</a></h2><p class="result-source">${esc(i.subject)}${i.author?' · '+esc(i.author):''}</p><p>${esc(i.description)}</p><div class="result-actions"><a href="${itemUrl(i)}">${i.available?'View material':'View collection'}</a>${i.pdf?`<a href="${esc(readerUrl(i))}">Read online</a>`:''}${i.available?`<a href="${esc(i.href)}" download>Download ${esc(i.format)}</a>`:''}</div></article>`;
+    const title=i.available?esc(i.title):`<a href="${itemUrl(i)}">${esc(i.title)}</a>`;
+    return `<article class="result-item${i.available?' is-material':''}"><h2>${title}</h2><p class="result-source">${esc(i.subject)}${i.author?' · '+esc(i.author):''}</p><p>${esc(i.description)}</p><div class="result-actions">${!i.available?`<a href="${itemUrl(i)}">View collection</a>`:''}${i.pdf?`<a href="${esc(readerUrl(i))}">Read online</a>`:''}${i.available?`<a href="${esc(i.href)}" download>Download ${esc(i.format)}</a>`:''}</div></article>`;
   }
   function initHome() {
     const nav=$('#courseNav'), tabs=$$('button',nav), cards=$$('.course-grid>li');
@@ -64,15 +63,6 @@
   }
   function initSearch() {
     const filters=$('#filters'), toolbar=$('.archive-search-toolbar');
-    const footer=$('.arc-footer');let boundaryFrame=0,lastFooterOverlap=-1;
-    function syncFilterBoundary(){
-      const overlap=Math.max(0,Math.ceil(innerHeight-footer.getBoundingClientRect().top));
-      if(overlap!==lastFooterOverlap){filters.style.setProperty('--archive-footer-overlap',overlap+'px');lastFooterOverlap=overlap;}
-    }
-    function scheduleFilterBoundary(){if(!boundaryFrame)boundaryFrame=requestAnimationFrame(()=>{boundaryFrame=0;syncFilterBoundary();});}
-    window.addEventListener('scroll',scheduleFilterBoundary,{passive:true});
-    window.addEventListener('resize',scheduleFilterBoundary);
-    new ResizeObserver(scheduleFilterBoundary).observe($('.archive-results'));
     const filterToggle=document.createElement('button');
     filterToggle.type='button';filterToggle.className='archive-filter-toggle';filterToggle.textContent='Refine results';
     filterToggle.setAttribute('aria-controls','filters');filterToggle.setAttribute('aria-expanded','false');
@@ -99,37 +89,32 @@
       $('#resultsList').innerHTML=rows.length?rows.map(result).join(''):'<div class="empty-state"><h2>No materials found</h2><p>Try another keyword or clear the filters. Some collections are still awaiting uploads.</p></div>';
       const p=new URLSearchParams(); if(q)p.set('q',q); selectedSubjects.forEach(v=>p.append('subject',v));types.forEach(v=>p.append('type',v));if(available)p.set('available','1');if(sort!=='relevance')p.set('sort',sort);
       history.replaceState(null,'','./search.html'+(p.size?'?'+p:'')+location.hash);
-      syncFilterBoundary();
     }
     $('#searchForm').addEventListener('submit',event=>{event.preventDefault();render();});
     $$('input[type=checkbox],#sortSelect').forEach(el=>el.addEventListener('change',render));
     $('#clearFilters').addEventListener('click',()=>{$$('input[type=checkbox]').forEach(x=>x.checked=false);render();});render();
   }
   function initItem() {
-    const requested=params.get('id'), id=Object.hasOwn(window.ARCHIVE_COURSE_ALIASES||{},requested)?window.ARCHIVE_COURSE_ALIASES[requested]:requested;
-    const course=courses.find(i=>i.id===id), item=items.find(i=>i.id===id)||course;
-    if(!item){$('.item-page').innerHTML='<div class="empty-state"><h1>Material not found</h1><p>The requested material is not in this archive.</p><a href="./search.html">Browse materials</a></div>';document.title='Material not found · WLSA ARC';return;}
-    document.title=item.title+' · WLSA ARC'; const subjectUrl='./search.html?'+new URLSearchParams({subject:item.subject});
-    $('#crumbSubject').textContent=item.subject; $('#crumbSubject').href=subjectUrl;
-    $('#itemTitle').textContent=item.title; $('#itemType').textContent=course?'':item.type;$('#itemType').hidden=Boolean(course);
-    $('#itemByline').textContent=item.author||'';$('#itemSource').textContent=course?'':item.source;$('#itemSource').hidden=Boolean(course);
-    $('#itemAbstract').textContent=item.description||(course?'':'Study material shared in the WLSA ARC archive.');
-    $('#itemAbstract').closest('.item-section').hidden=Boolean(course&&!item.description);
-    $('#itemSubjectLink').textContent=item.subject; $('#itemSubjectLink').href=subjectUrl;
-    const related=items.filter(i=>i.available&&(i.courses||[i.course]).includes(course?.id||item.course));
-    $('#relatedSection').hidden=!course;
+    const requested=params.get('id');let id=Object.hasOwn(window.ARCHIVE_COURSE_ALIASES||{},requested)?window.ARCHIVE_COURSE_ALIASES[requested]:requested;
+    const material=items.find(i=>i.available&&i.id===id);
+    if(material){
+      if(!material.course){location.replace(material.pdf?readerUrl(material):material.href);return;}
+      id=material.course;history.replaceState(null,'',itemUrl({id})+location.hash);
+    }
+    const course=courses.find(i=>i.id===id);
+    if(!course){$('.item-page').innerHTML='<div class="empty-state"><h1>Material not found</h1><p>The requested material is not in this archive.</p><a href="./search.html">Browse materials</a></div>';document.title='Material not found · WLSA ARC';return;}
+    document.title=course.title+' · WLSA ARC';
+    $('#crumbSubject').textContent=course.subject;$('#crumbSubject').href='./search.html?'+new URLSearchParams({subject:course.subject});
+    $('#itemTitle').textContent=course.title;
+    $('#itemAbstract').textContent=course.description||'';$('#itemAbstract').closest('.item-section').hidden=!course.description;
+    const related=items.filter(i=>i.available&&(i.courses||[i.course]).includes(course.id));
     $('#relatedMaterials').innerHTML=related.length?related.map(result).join(''):'<p>No materials have been uploaded to this collection yet.</p>';
-    const topics=course?.topics||item.topics||[];
+    const topics=course.topics||[];
     $('#topicSection').hidden=!topics.length;$('#itemTopics').innerHTML=topics.map(t=>`<li>${esc(t)}</li>`).join('');
-    const available=item.available||related.length>0;
-    $('#accessText').textContent=course?(related.length?`${related.length} ${related.length===1?'file is':'files are'} available in this collection.`:'Awaiting materials. No review files have been uploaded to this course yet.'):'Available to read or download without an account.';
-    const metadata=[['Subject',item.subject],...(!course?[['Collection',item.source],['Type',item.type],['Format',item.format],['File size',size(item.size)],...(item.pages?[['Pages',item.pages]]:[]),...(item.author?[['Author',item.author]]:[]),...(item.grade?[['Grade',item.grade]]:[]),...(item.examBoard?[['Exam board',item.examBoard]]:[]),...(item.languages?.length?[['Languages',item.languages.join(', ')]]:[]),...(item.updated?[['Updated',item.updated]]:[])]:[['Available files',related.length]])];
-    $('#itemMetadata').innerHTML=metadata.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('');
-    let actions='';
-    if(item.pdf){const reader=readerUrl(item);actions+=`<a class="primary-btn" href="${esc(reader)}">Read online</a>`;$('#previewSection').hidden=false;$('#previewFrame').src=reader+'&embedded=1';}
-    if(item.available){if(['HTML','HTM','TXT','MD'].includes(item.format))actions+=`<a class="primary-btn" href="${esc(item.href)}">Open material</a>`;actions+=`<a class="outline-btn" href="${esc(item.href)}" download>Download ${esc(item.format)}</a>`;}
-    if(!available){actions='<span class="availability-note">Awaiting materials</span>';$('#sideAccess').innerHTML='<a href="https://github.com/WLSA-ARC/WLSA-ARC.github.io/blob/main/site/CONTRIBUTING.md">Contribute materials</a>';}
-    $('#itemActions').innerHTML=actions;$('#itemActions').hidden=!actions;
+    const grades=[...new Set([course.grade,...related.map(i=>i.grade)].filter(Boolean))];
+    const uploaders=[...new Set(related.map(i=>i.author).filter(Boolean))];
+    $('#courseGrades').textContent=grades.join(', ')||'Not specified';
+    $('#courseUploaders').textContent=uploaders.join(', ')||'Not specified';
   }
   if(document.body.dataset.page==='home')initHome();
   if(document.body.dataset.page==='search')initSearch();
