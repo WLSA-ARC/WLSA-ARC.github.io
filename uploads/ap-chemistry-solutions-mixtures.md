@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Solutions & Mixtures
 
 ## Contents
@@ -16,13 +12,7 @@ Your notes
 - Separation by Distillation
 - Solubility of Ionic & Molecular Compounds
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## Calculations About Solutions
 
 ## Calculations About Solutions
 
@@ -75,11 +65,7 @@ $$n_{\mathrm{Pb(NO_3)_2}}=n_{\mathrm{Pb}^{2+}}=0.50\ \mathrm{mol}$$
 
 $$n_{\mathrm{NO_3}^{-}}=2\times n_{\mathrm{Pb}^{2+}}=2\times0.50=1.0\ \mathrm{mol}$$
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 - Step 3: Determine the volume of the solution using the molarity expression
 
@@ -131,11 +117,7 @@ Answer:
 - n<sub>KOH</sub> = 0.15 × 0.0750
 - n<sub>KOH</sub>= 0.01125 mol
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 - Step 2: Add up the number of moles of KOH from each solution:
 
@@ -186,23 +168,13 @@ dilute solution (V<sub>d</sub>) to obtain the volume of water:
 
 ## Examiner Tips and Tricks
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 - When using the dilution formula, ensure the volume of the dilute and stock
 solutions are in the same units
 - When using the molarity expression, always change your volume to liters, L
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
-
-## Homogeneous & Heterogeneous Mixtures
 
 ## Homogeneous & Heterogeneous Mixtures
 
@@ -251,13 +223,7 @@ are known as aqueous solutions
 - However, it consists of comparatively large particles of one substance dispersed
 throughout another substance or solution
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
-
-## Molarity
 
 ## Molarity
 
@@ -312,11 +278,7 @@ dissolve the solute
 
 ## Preparing a Solution
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 ![Original source figure, page 8](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-01.png)
 
@@ -336,11 +298,7 @@ solvent cannot change the number of moles of solute
 
 n<sub>solute</sub> (stock solution) = n<sub>solute</sub>(dilute solution)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 - In both solutions, n can be found by multiplying the molarity, M, by the volume in litres, V
 
@@ -391,11 +349,7 @@ Plan:
 
 For part a:
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 - Use the molarity expression to determine the number of moles of the solute (n)
 - Convert this number of moles to mass
@@ -450,11 +404,7 @@ Plan:
 - Using the dilution formula, we can calculate the volume of the concentrated
 solution required
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 - Then subtract that volume from the volume of the dilute solution to obtain the
 volume of water required
@@ -476,13 +426,7 @@ Answer:
 - V<sub>H2O</sub>= 250 - 5.0
 - V<sub>H2O</sub>= 245 mL
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
-
-## Particulate Representations of Solutions
 
 ## Particulate Representations of Solutions
 
@@ -519,11 +463,7 @@ Solutions are homogeneous mixtures, therefore the molecules of solute and solven
 
 Which of the following samples of a salt + water solution has the highest concentration?
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-solutions-mixtures/page-013-figure-01.png)
 
@@ -537,11 +477,7 @@ also a solution
 - A and D are not correct. The particles are forming individual regions of solute and
 solvent. Therefore, they are heterogenous mixtures which are not solutions
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 ## Separation By Chromatography
 
@@ -587,19 +523,11 @@ compounds
 
 ## Diagram to Show the Method of Chromatography
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
 
 ![Original source figure, page 15](markdown-assets/ap-chemistry-solutions-mixtures/page-015-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
 
 Analysis of the composition of ink that can be used using paper chromatography. Blue ink travels the most distance showing the strongest interaction with the solvent and the weakest interaction with the chromatography paper
 
@@ -655,11 +583,7 @@ washing into the solvent container
 
 4. The solvent will begin to travel up the plate
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
 
 5. When the solvent almost reaches the top, draw another pencil line where the solvent has
 reached. This indicates the solvent font
@@ -695,11 +619,7 @@ component
 - The R<sub>f</sub> value and the difference between the separated substances will also depend on
 their solubility in the solvent that acts as the mobile phase
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
-
 <!-- Source: page 18 -->
-
-Your notes
 
 ## Calculating the R<sub>f</sub> value
 
@@ -738,11 +658,7 @@ the
 
 ## Conducting a Column Chromatography analysis
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
-
 <!-- Source: page 19 -->
-
-Your notes
 
 1. Pack the column with a stationary phase and ensure an even packing to facilitate uniform
 flow. Dissolve the sample in a solvent that is compatible with the stationary phase. Apply
@@ -765,13 +681,7 @@ the interactions for the stationary phase
 
 Steps for performing a Column chromatography analysis
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
-
 <!-- Source: page 20 -->
-
-Your notes
-
-## Separation by Distillation
 
 ## Separation by Distillation
 
@@ -821,23 +731,13 @@ points of the components from the mixture
 
 ## Method of Separation by Distillation
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
-
 <!-- Source: page 21 -->
-
-Your notes
 
 ![Original source figure, page 21](markdown-assets/ap-chemistry-solutions-mixtures/page-021-figure-01.png)
 
 Separation of a mixture of ethanol and water is best achieved by fractional distillation when the two components are close together in boiling point or there are multiple components
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
-
 <!-- Source: page 22 -->
-
-Your notes
-
-## Solubility of Ionic & Molecular Compounds
 
 ## Solubility of Ionic & Molecular Compounds
 
@@ -879,11 +779,7 @@ the strength of the solvent-solute interaction must be considered
 
 ## The three interactions between the particles of solute and solvent
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
-
 <!-- Source: page 23 -->
-
-Your notes
 
 ![Original source figure, page 23](markdown-assets/ap-chemistry-solutions-mixtures/page-023-figure-01.png)
 
@@ -918,11 +814,7 @@ London-Dispersion Forces < hydrogen bonding
 | Solvent-solute = Solvent-solvent | Yes |
 | Solvent-solute > Solvent-solvent | Yes |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
-
 <!-- Source: page 24 -->
-
-Your notes
 
 | Comparison of the strength between intermolecular interactions | Solution formed? |
 | --- | --- |
@@ -949,11 +841,7 @@ dipole moment will be formed
 
 Step 3: Identify the solute-solute intermolecular interactions
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
-
 <!-- Source: page 25 -->
-
-Your notes
 
 - Chloroform is our solute. Since it is a non-symmetrical molecule and chlorine is
 more electronegative than carbon, dipole moments will be formed
@@ -983,11 +871,7 @@ Step 2: Identify the solvent-solvent intermolecular interactions
 such as oxygen, a strong dipole moment will be formed
 - Therefore, the solvent-solvent intermolecular interaction is hydrogen bonding
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
-
 <!-- Source: page 26 -->
-
-Your notes
 
 ![Original source figure, page 26](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-01.png)
 
@@ -1006,11 +890,7 @@ Step 4: If the solute-solute interaction and the solvent-solvent interactions ar
 - The solvent-solvent interaction is not the same as solute-solute interaction
 - The solvent-solute interaction must be considered
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
-
 <!-- Source: page 27 -->
-
-Your notes
 
 ![Original source figure, page 27](markdown-assets/ap-chemistry-solutions-mixtures/page-027-figure-01.png)
 
@@ -1021,4 +901,4 @@ be formed
 - Since London-dispersion forces < hydrogen bonding in terms of relative
 strength, hexane and water are not miscible, and a solution will not be formed
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+> 来源：© 2025 Save My Exams, Ltd.

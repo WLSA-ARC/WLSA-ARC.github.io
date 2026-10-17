@@ -67,6 +67,8 @@ def normalize(fields, config):
         value['subject'] = subject
     if value.get('subject') and value['subject'] not in subjects:
         raise ValueError(f'Unknown subject code: {value["subject"]}')
+    if value.get('type'):
+        value['type'] = config.get('typeAliases', {}).get(value['type'], value['type'])
     if value.get('type') and value['type'] not in config['types']:
         raise ValueError(f'Unknown material type: {value["type"]}')
     if value.get('id') and not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9._:-]{0,100}', value['id']):

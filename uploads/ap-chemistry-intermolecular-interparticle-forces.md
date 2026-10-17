@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Intermolecular & Interparticle Forces
 
 ## Contents
@@ -16,11 +12,7 @@ Your notes
 - Hydrogen Bonding
 - Interactions in Large Biomolecules
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
 
 ## London Dispersion Forces
 
@@ -63,11 +55,7 @@ Weak intermolecular forces exist between molecules while stronger intramolecular
 - London dispersion forces are a weak type of intermolecular forces produced by small
 instantaneous dipoles that occur in nonpolar molecules
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 - Instantaneous dipoles are the result of an electron's motion in one atom affecting
 another atom
@@ -87,11 +75,7 @@ molecule resulting in a weak attraction
 
 ![Original source figure, page 3](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-003-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 A snapshot of the average and instantaneous distribution of electrons in an atom to
 demonstrate the development of London dispersion forces.
@@ -130,11 +114,7 @@ have the same molecular formula, C<sub>5</sub>H<sub>12</sub>, and same molecular
 
 - However, they differ in the arrangement of their atoms
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 - Pentane has no branching and is the least compact
 
@@ -155,13 +135,7 @@ The effect of branching on the strength of dispersion forces for molecules of th
 
 Dispersion forces are typically present in all covalent molecules but are the only forces present in nonpolar molecules like hydrocarbons.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
-
-## Dipole-Induced Dipole Interactions
 
 ## Dipole-Induced Dipole Interactions
 
@@ -201,13 +175,7 @@ Dipole-induced dipole interaction between polar water molecules and iodine molec
 
 - The polarizability of the nonpolar molecule
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
-
-## Dipole-Dipole Interactions
 
 ## Dipole-Dipole Interactions
 
@@ -244,11 +212,7 @@ boiling points of acetonitrile and propane, C<sub>3</sub>H<sub>8</sub>
 
 - Acetonitrile is a polar molecule with a molecular weight of 41 amu that boils at 355 K
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 - Propane is a nonpolar molecule with a molecular weight of 44 amu that boils at 213
 K
@@ -263,13 +227,7 @@ boiling point
 - Generally, the strength of dipole-dipole interaction is dependent on the magnitude of
 the dipole and the proximity of the molecules
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
-
-## Ion-Dipole Interactions
 
 ## Ion-Dipole Interactions
 
@@ -297,13 +255,7 @@ Ion-dipole interaction between sodium and chloride ions with water
 - The magnitude of ion-dipole interactions increases as either the ionic charge or the
 magnitude of the dipole moment increases
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
-
-## Molecular Dipole Moment
 
 ## Molecular Dipole Moment
 
@@ -342,13 +294,7 @@ moment
 
 A dipole moment exists between C-Cl bonds due to the large difference in electronegativity between the carbon and chlorine atoms.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
-
-## Hydrogen Bonding
 
 ## Hydrogen Bonding
 
@@ -379,11 +325,7 @@ stronger intermolecular force
 
 ## Hydrogen Bonding
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
 
 ![Original source figure, page 12](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-012-figure-01.png)
 
@@ -413,11 +355,7 @@ of propanol molecules can form only one
 
 ## Multiple Hydrogen Bonds
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-013-figure-01.png)
 
@@ -439,11 +377,7 @@ atom, there is only one available $\delta^+$ hydrogen atom
 
 ## Hydrogen Bonding in H₂O and HF
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 ![Original source figure, page 14](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-014-figure-01.png)
 
@@ -457,13 +391,7 @@ molecule with a polar hydrogen atom
 - For example, acetaldehyde, CH<sub>3</sub>CHO, can form hydrogen bonds with water
 molecules which makes it soluble in water
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
-
-## Interactions in Large Biomolecules
 
 ## Interactions in Large Biomolecules
 
@@ -482,11 +410,7 @@ DNA molecule strand
 
 ![Original source figure, page 15](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-015-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
 
 Double helix DNA strands show the hydrogen bonds between the nitrogenous base
 components of each strand
@@ -506,14 +430,10 @@ Nonpolar oil molecules do not mix with water due to a lack of polar hydrogen
 
 ## Carbohydrate Interaction with Water
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
 
 ![Original source figure, page 17](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-017-figure-01.png)
 
 The presence of polar hydrogen atoms on sugar molecules makes glucose dissolve in water
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+> 来源：© 2025 Save My Exams, Ltd.

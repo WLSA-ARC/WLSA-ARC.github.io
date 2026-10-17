@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Gas Laws
 
 ## Contents
@@ -15,13 +11,7 @@ Your notes
 - The Maxwell Boltzmann Distribution
 - Non-Ideal Behavior of Gases
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## The Ideal Gas Law
 
 ## The Ideal Gas Law
 
@@ -71,11 +61,7 @@ Analyze: We are asked to calculate the pressure of nitrogen gas given the volume
 
 Plan: Using the ideal gas equation, we can determine the pressure. However, we must convert the given mass of nitrogen gas to moles and ensure the appropriate units of
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 temperature and volume before substituting these values into the ideal gas equation.
 
@@ -114,13 +100,7 @@ mL or L
 practice involves doing all calculations until the final step before applying the
 correct number of significant figures
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
-
-## Partial Pressure & Total Pressure
 
 ## Partial Pressure & Total Pressure
 
@@ -160,11 +140,7 @@ alone”
 - For example, the total pressure (P<sub>T</sub>) exerted by a mixture of gases A, B and C is given
 by the relationship:
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 P<sub>T</sub> = P<sub>A</sub> + P<sub>B</sub> + P<sub>C</sub> where P<sub>A</sub>, P<sub>B</sub>, and P<sub>C</sub> are the partial pressures of the gases A, B
 and C
@@ -218,11 +194,7 @@ total pressure
 - P<sub>Ne</sub> = 0.807 atm
 - Argon
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 - P<sub>Ar</sub> = n<sub>Ar</sub>/n<sub>T</sub> × P<sub>T</sub>
 - P<sub>Ar</sub> = 0.110/1.205× 2.95
@@ -262,11 +234,7 @@ Answer 2: The volume of Ne increases from 4 L to 5 L on opening the valve and mi
 of the gases.
 To calculate the partial pressure of neon:
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 - P<sub>Ne</sub> = (Volume of Ne/Total volume) × Pressure of hydrogen gas
 - P<sub>Ne</sub> = ⅘ × 3
@@ -318,11 +286,7 @@ hydrogen gas produced:
 
 - P = 956.18 mmHg
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 - V = 641 mL/1000 = 0.641 L
 - R = 62.36 L.mmHg mol<sup>-1</sup> K<sup>-1</sup> (R value used because of the units of P and V)
@@ -334,13 +298,7 @@ Your notes
 - Mass = n × molar mass
 - Mass = 0.0324 × 2.0 = 0.065 g
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
-
-## Graphical Representations of the Gas Laws
 
 ## Graphical Representations of the Gas Laws
 
@@ -379,11 +337,7 @@ P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ![Original source figure, page 9](markdown-assets/ap-chemistry-gas-laws/page-009-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 Boyle’s experiment uses a J-tube to demonstrate the volume-pressure relationship of a
 gas. Gas volume decreases on increasing the pressure in the tube
@@ -416,11 +370,7 @@ axis to be -273.15 ℃
 
 ![Original source figure, page 10](markdown-assets/ap-chemistry-gas-laws/page-010-figure-02.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 A graph showing the linear relationship between temperature (in degrees Celsius) and volume. The line intercepts the temperature axis at a value of 273.15 ℃ This implies that at a temperature of 273.15 ℃, the volume of a substance, if it remains gaseous will be zero
 
@@ -461,11 +411,7 @@ A graph showing the linear relationship between absolute temperature and volume.
 
 ## Quantity-Volume Relationship: Avogadro’s Law
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
 
 - The relationship between the amount in moles of a gas and its volume follows from the
 work of Joseph Louis Gay-Lussac and Amedeo Avogadro
@@ -505,11 +451,7 @@ Graphical representation of Avogadro’s Law
 
 ## Worked Example
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 A chemical reaction produced 4.38 mL of hydrogen gas at 19 ℃ and 200 kPa pressure. What volume of the gas would be produced at 25 ℃ at the same pressure?
 
@@ -561,11 +503,7 @@ V<sub>1</sub> = 20.0 L
 
 P<sub>2</sub> = ½ P<sub>1</sub> = 0.500 atm
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 T = 23 ℃
 
@@ -618,11 +556,7 @@ Step 2: Determine the number of moles of hydrogen gas using the ideal gas equati
 
 - P<sub>H2</sub>= 0.9687 atm
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
 
 - V<sub>H2</sub> = 246 mL/ 1000 = 0.246 L
 
@@ -648,13 +582,7 @@ Step 4: Convert number of moles determined in step 3 to mass of sodium by multip
 - M<sub>Na</sub> = 0.0195 × 22.99
 - M<sub>Na</sub> = 0.45 g
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
-
-## Kinetic Molecular Theory
 
 ## Kinetic Molecular Theory
 
@@ -710,11 +638,7 @@ molecule unless the kinetic energy is removed from them, for example as heat
 - This means the higher the temperature, the greater the average kinetic energy of the
 molecules
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
 
 For more information about the particulate model and its graphical representations, see Solids, Liquids and Gases and Graphical Representations of the Gas Laws
 
@@ -764,11 +688,7 @@ Which of the following statements is true?
 
 ![Original source figure, page 17](markdown-assets/ap-chemistry-gas-laws/page-017-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
-
 <!-- Source: page 18 -->
-
-Your notes
 
 1. The rate of collision of N<sub>2</sub> gas molecules with the walls of the flask in X and Y are
 the same
@@ -822,11 +742,7 @@ K.E ∝ T
 
 ## Average Kinetic Energy-Temperature Graph
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
-
 <!-- Source: page 19 -->
-
-Your notes
 
 ![Original source figure, page 19](markdown-assets/ap-chemistry-gas-laws/page-019-figure-01.png)
 
@@ -857,13 +773,7 @@ The zero position is shifted, so 0 K is equivalent to -273.15 ℃
 | Melting point of water | 273.15 | 0 |
 | Boiling point of water | 373.15 | 100 |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
-
 <!-- Source: page 20 -->
-
-Your notes
-
-## The Maxwell Boltzmann Distribution
 
 ## The Maxwell Boltzmann Distribution
 
@@ -901,11 +811,7 @@ Maxwell-Boltzmann distribution
 
 ## Maxwell-Boltzmann Curve
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
-
 <!-- Source: page 21 -->
-
-Your notes
 
 ![Original source figure, page 21](markdown-assets/ap-chemistry-gas-laws/page-021-figure-01.png)
 
@@ -924,11 +830,7 @@ temperatures:
 
 ## Distribution Curve for O₂
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
-
 <!-- Source: page 22 -->
-
-Your notes
 
 ![Original source figure, page 22](markdown-assets/ap-chemistry-gas-laws/page-022-figure-01.png)
 
@@ -949,11 +851,7 @@ Consider the Maxwell-Boltzmann distribution curve for O<sub>2</sub> molecules at
 
 Which of the following statements about the curve is correct if the temperature of the O<sub>2</sub> molecules was lowered to 200 K?
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
-
 <!-- Source: page 23 -->
-
-Your notes
 
 ![Original source figure, page 23](markdown-assets/ap-chemistry-gas-laws/page-023-figure-01.png)
 
@@ -993,11 +891,7 @@ Option D is incorrect because
 - A decrease in temperature results in a decrease in the average kinetic energy of
 the oxygen molecules
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
-
 <!-- Source: page 24 -->
-
-Your notes
 
 - This should make the curve shift left and a corresponding higher peak to
 show more gas molecules with the corresponding kinetic energy
@@ -1012,13 +906,7 @@ kinetic energy as seen in the question above
 energy of gas molecules are the same
 - Hence, the terms velocity and energy are used interchangeably
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
-
 <!-- Source: page 25 -->
-
-Your notes
-
-## Non-Ideal Behavior of Gases
 
 ## Non-Ideal Behavior of Gases
 
@@ -1058,11 +946,7 @@ and the ideal gas equation are only true under certain conditions
 
 - For real gases, this is true only at moderately low pressures and high temperature
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
-
 <!-- Source: page 26 -->
-
-Your notes
 
 - However, at high pressures and low temperatures, real gases deviate from the ideal
 behavior
@@ -1104,11 +988,7 @@ become negligible
 
 ## Deviation from Ideal Behavior
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
-
 <!-- Source: page 27 -->
-
-Your notes
 
 ![Original source figure, page 27](markdown-assets/ap-chemistry-gas-laws/page-027-figure-01.png)
 
@@ -1142,4 +1022,4 @@ Option C is incorrect because
 molecules are at low temperatures and cannot overcome the intermolecular
 force between them.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 27
+> 来源：© 2025 Save My Exams, Ltd.

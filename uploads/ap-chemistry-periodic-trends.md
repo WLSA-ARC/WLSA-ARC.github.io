@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Periodic Trends
 
 ## Contents
@@ -13,13 +9,7 @@ Your notes
 - Predicting Properties of Elements
 - Valence Electrons & Ionic Compounds
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## Structure of the Periodic Table
 
 ## Structure of the Periodic Table
 
@@ -40,11 +30,7 @@ valence electrons
 
 ## The Structure of the Beryllium Atom
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 ![Original source figure, page 3](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-01.png)
 
@@ -69,11 +55,7 @@ electron in their outer shell
 
 s-block, p-block, d-block, and f-blocks in the Periodic Table
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 ## Electron Configurations
 
@@ -99,13 +81,7 @@ Deducing the electron configuration of germanium as 1s<sup>2</sup>, 2s<sup>2</su
 - Finally, germanium is in the second position of the p-block of the periodic table,
 therefore, two electrons must be in the p subshell
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
-
-## Periodic Trends
 
 ## Periodic Trends
 
@@ -143,11 +119,7 @@ same
 
 ## A graph showing the ionization energies of the elements hydrogen to sodium
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 ![Original source figure, page 6](markdown-assets/ap-chemistry-periodic-trends/page-006-figure-01.png)
 
@@ -166,11 +138,7 @@ electron
 
 ## A Beryllium and Magnesium Atom
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 ![Original source figure, page 7](markdown-assets/ap-chemistry-periodic-trends/page-007-figure-01.png)
 
@@ -184,11 +152,7 @@ Comparison, between beryllium and magnesium, of the factors that affect the ioni
 
 ## Atomic Radius
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 ![Original source figure, page 8](markdown-assets/ap-chemistry-periodic-trends/page-008-figure-01.png)
 
@@ -221,11 +185,7 @@ not pulled strongly, meaning bigger atoms
 
 ## Atomic Radii in the Periodic Table
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 ![Original source figure, page 9](markdown-assets/ap-chemistry-periodic-trends/page-009-figure-01.png)
 
@@ -256,11 +216,7 @@ means a bigger ionic radius
 
 - The ionic radius decreases with an increasing positive charge
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 - Positive ions are formed when electrons are lost, while the nuclear charge is the
 same
@@ -291,11 +247,7 @@ $$\mathrm{Cl}_{(g)}+e^{-}\rightarrow\mathrm{Cl}^{-}_{(g)}$$
 - Elements on the Group 7 (F, Cl, Br, I) of the periodic table have the most negative
 electron affinities
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 - This occurs because these elements tend to be stable as ions with a -1 charge, by
 completing the p subshell
@@ -341,11 +293,7 @@ the same
 - This occurs because the shielding effect increases because the number of inner
 shells increases
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
 
 - The distance between the nucleus and the valence electrons increases, making the
 Coulombic attraction considerably weaker
@@ -364,13 +312,7 @@ Periodicity of electronegativity - there is an increase from left to right and a
 
 When answering free-response questions from Section 2 regarding periodic trends, make sure to always mention: Coulomb’s Law, the shell model (inner shells and valence shell), and the shielding/effective nuclear charge. This is a must if you want to be awarded with full credit for the question
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
-
-## Predicting Properties of Elements
 
 ## Predicting Properties of Elements
 
@@ -411,11 +353,7 @@ Using your knowledge of atomic structure, predict if the ionization energy of Ch
 
 Answer:
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 - Chlorine has a larger atomic size and more electron shells.
 - This leads to weaker coulombic attraction between the nucleus and outer
@@ -425,11 +363,7 @@ electrons
 - Fluorine has less shielding effect and the coulombic attraction to its valence
 electrons are stronger
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
 
 ## Valence Electrons & Ionic Compounds
 
@@ -470,11 +404,7 @@ electrons in their valence shell
 - As you move across a period from left to right, without counting the transition metals,
 the number of valence electrons increases by one
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
 
 ## Formation of Ions
 
@@ -505,11 +435,7 @@ Formation of positively charged sodium ion - sodium loses 1 electron to become a
 - The electrostatic attraction between a positive ion (cation) and a negative ion (anion) is
 defined as an ionic bond
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
 
 ## Chlorine Atom Becoming a Chloride Ion
 
@@ -544,11 +470,7 @@ electrons, therefore, the common charge for all the elements is 3−
 - Elements in the Group 6 (skipping the transition metals) tend to gain two valence
 electrons, therefore, the common charge for all the elements is 2−
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
-
 <!-- Source: page 18 -->
-
-Your notes
 
 - E.g. Oxygen (O) tend to form O<sup>2−</sup> anion
 - Elements in the Group 7 (skipping the transition metals) tend to gain one valence
@@ -563,4 +485,4 @@ compounds with those elements
 
 From Group 1 to Group 3, the positive charge is equal to: charge = number of group. From Group 5 to Group 7, the negative charge is equal to: charge = number of group - 8. This trick works only if the groups of the transition metals are not numbered
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+> 来源：© 2025 Save My Exams, Ltd.

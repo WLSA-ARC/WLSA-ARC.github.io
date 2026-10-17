@@ -78,6 +78,19 @@ class PdfMetadataTests(unittest.TestCase):
         unknown=self.folder/'unknown.pdf';writer.write(unknown)
         self.assertEqual(read_fields(PdfReader(unknown),self.config)['subject'],'')
 
+    def test_legacy_material_types_remain_readable_without_changing_pdf(self):
+        for legacy,canonical in self.config['typeAliases'].items():
+            with self.subTest(legacy=legacy):
+                record={**self.fields,'id':'legacy-'+legacy,'type':legacy}
+                writer=PdfWriter(clone_from=self.source)
+                writer.add_metadata({'/WLSAARC':json.dumps(record)})
+                original=self.folder/(legacy+'.pdf');writer.write(original)
+                before=original.read_bytes()
+                decoded=read_fields(PdfReader(original),self.config)
+                self.assertEqual(decoded['type'],canonical)
+                self.assertEqual(decoded['id'],record['id'])
+                self.assertEqual(original.read_bytes(),before)
+
     def test_validation_and_source_output_protection(self):
         for bad in [{'subject':'made-up'}, {'course':'unknown'}, {'type':'unknown'}, {'subject':'economics','course':'physics-em'}, {'updated':'2026-02-30'}, {'schemaVersion':2}, {'schemaVersion':True}, {'keywords':'not-an-array'}, {'languages':['not_a_tag']}, {'typo':'value'}]:
             with self.subTest(bad=bad), self.assertRaises(ValueError):

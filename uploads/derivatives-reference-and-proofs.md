@@ -4,8 +4,6 @@ Reference Table and Proofs
 
 <!-- Source: page 1 -->
 
-Page header: ELEMENTARY FUNCTIONS — Derivatives and Proofs.
-
 ## 1 Derivative reference table
 
 All trigonometric angles are measured in **radians**.
@@ -108,8 +106,6 @@ $$\log_a x=\frac{\ln x}{\ln a},\qquad (\log_a x)'=\frac1{x\ln a}.$$
 
 <!-- Source: page 4 -->
 
-Page header: ELEMENTARY FUNCTIONS — Derivatives and Proofs.
-
 ### 4.2 Natural exponentials
 
 Let $t=e^h-1$. As $h\to0$, we have $t\to0$ and $h=\ln(1+t)$. Therefore,
@@ -191,8 +187,6 @@ For the last formula, write $x^x=e^{x\ln x}$ and differentiate.
 **First identify whether the base, the exponent, or both are changing; then choose the formula.**
 
 <!-- Source: page 7 -->
-
-Page header: ELEMENTARY FUNCTIONS — Derivatives and Proofs.
 
 ## 7 Practice Exercises
 

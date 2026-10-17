@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Atoms & Electrons
 
 ## Contents
@@ -15,13 +11,7 @@ Your notes
 - Ionization Energy
 - Photoelectron Spectroscopy
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## Atomic Structure
 
 ## Atomic Structure
 
@@ -67,11 +57,7 @@ $$ {}^{A}_{Z}\mathrm{Atomic\ symbol} $$
 
 ## The beryllium atom
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 ![Original source figure, page 3](markdown-assets/ap-chemistry-atoms-electrons/page-003-figure-01.png)
 
@@ -107,11 +93,7 @@ chlorine (Cl).
 - So, the atom in question is a chlorine atom with 17 protons, 20 neutrons, an
 atomic number (Z) of 17, and a mass number (A) of 37.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 - Step 5: Write it down with the A/Z notation
 
@@ -141,13 +123,7 @@ contain an small, dense, and positively charged core at the center
 
 The Rutherford experiment showed atoms contain a small, dense, and positively charged core at the center
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
-
-## Using Coulomb’s Law
 
 ## Using Coulomb’s Law
 
@@ -188,11 +164,7 @@ Answer:
 - Step 1: Write down the values and the Coulomb's law formula
 q<sub>1</sub> = +1.602 x 10<sup>-19</sup> C
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 q<sub>2</sub>= -1.602 x 10<sup>-19</sup> C
 
@@ -216,11 +188,7 @@ opposite charges
 
 If the problem does not state the charge of the electron, you can find it in the AP Chemistry Equations and Constants that appear at the beginning of your examination. The charge of the proton has the same value but with a positive sign
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 ## Electron Configuration
 
@@ -273,11 +241,7 @@ c = 3 x 10<sup>8</sup>ms<sup>-1</sup>
 
 E = hv
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 $$c=\lambda v$$
 
@@ -331,11 +295,7 @@ $$\lambda=4.13\times10^{-7}\ \mathrm{m}$$
 
 ## s orbital and p orbital shapes
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 ![Original source figure, page 9](markdown-assets/ap-chemistry-atoms-electrons/page-009-figure-01.png)
 
@@ -366,13 +326,7 @@ electrons
 
 - Electrons in the inner shell are called core electrons
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
-
-## The Aufbau Principle
 
 ## The Aufbau Principle
 
@@ -405,11 +359,7 @@ orbitals
 - A condensed electron configuration uses the closest previous noble gas to describe
 the electron arrangement
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 ## Worked Example
 
@@ -464,11 +414,7 @@ configuration of an element based on its position in the table
 
 ## The Periodic Table
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
 
 ![Original source figure, page 12](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-01.png)
 
@@ -499,13 +445,7 @@ electron with opposite spin
 
 Orbital diagram for the electron configuration of the fluorine (F) atom
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
-
-## Ionization Energy
 
 ## Ionization Energy
 
@@ -551,11 +491,7 @@ Answer:
 and the Coulombic attraction should be greater
 - Step 2: Analyze distance from the nucleus
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 - Chlorine has its outermost electron in the 3p subshell
 - Fluorine has its outermost electron in the 2p subshell
@@ -581,13 +517,7 @@ a valence electron from a F atom compared to a Cl atom
 
 It is compulsory to make reference to the Coulomb’s Law in every estimation of ionization energies between atoms
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
-
-## Photoelectron Spectroscopy
 
 ## Photoelectron Spectroscopy
 
@@ -632,11 +562,7 @@ Interpreting a PES spectrum is assessed in most of the AP Chemistry Examinations
 
 A PES analysis of an unknown element (X) was performed and the spectrum below was obtained. The sample does not contain any impurities. What is the identity of X?
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
 
 ![Original source figure, page 16](markdown-assets/ap-chemistry-atoms-electrons/page-016-figure-01.png)
 
@@ -670,11 +596,7 @@ in the 2p subshell for this atom was 2
 - We can connect the electron configuration with the PES Spectrum labeled
 below
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
 
 ![Original source figure, page 17](markdown-assets/ap-chemistry-atoms-electrons/page-017-figure-01.png)
 
@@ -695,4 +617,4 @@ OR
 be in the second period of the periodic table
 - Therefore, element X is carbon (C)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
+> 来源：© 2025 Save My Exams, Ltd.

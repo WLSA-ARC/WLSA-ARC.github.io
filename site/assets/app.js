@@ -8,7 +8,7 @@
   const params = new URLSearchParams(location.search);
   const itemUrl = i => './item.html?id=' + encodeURIComponent(i.id);
   const readerUrl = i => './viewer.html?' + new URLSearchParams({file:i.pdf, title:i.title});
-  const typeOptions = [...new Set(['Review Guide', 'Course Notes', 'Practice Set', ...items.map(i=>i.type)])];
+  const typeOptions = ['Review Guide', 'Course Notes'];
   function result(i) {
     const title=i.available?esc(i.title):`<a href="${itemUrl(i)}">${esc(i.title)}</a>`;
     return `<article class="result-item${i.available?' is-material':''}"><h2>${title}</h2><p>${esc(i.description)}</p><div class="result-actions">${!i.available?`<a href="${itemUrl(i)}">View collection</a>`:''}${i.pdf?`<a href="${esc(readerUrl(i))}">Read online</a>`:''}${i.available?`<a href="${esc(i.href)}" download>Download ${esc(i.format)}</a><a href="./markdown.html?id=${encodeURIComponent(i.id)}">View Now</a>`:''}</div></article>`;
@@ -31,7 +31,7 @@
     const input = group.shadowRoot?.querySelector('input') || $('input',group);
     const scope = $('#materialScope'), button = scope.shadowRoot?.querySelector('button') || scope;
     const menu = document.createElement('div'); menu.className='scope-menu'; menu.id='scopeMenu'; menu.hidden=true; menu.setAttribute('role','listbox'); menu.setAttribute('aria-label','Material type');
-    menu.innerHTML=['All Materials','Review Guide','Course Notes'].map((t,index)=>`<button type="button" role="option" aria-selected="${index===0}" data-value="${index===0?'':esc(t)}">${esc(t)}</button>`).join('');
+    menu.innerHTML=['All Materials',...typeOptions].map((t,index)=>`<button type="button" role="option" aria-selected="${index===0}" data-value="${index===0?'':esc(t)}">${esc(t)}</button>`).join('');
     $('.search-input-wrapper').append(menu); button.setAttribute('aria-controls',menu.id); button.setAttribute('aria-haspopup','listbox');
     const close=()=>{menu.hidden=true;button.setAttribute('aria-expanded','false');};
     scope.addEventListener('click',()=>{menu.hidden=!menu.hidden;button.setAttribute('aria-expanded',String(!menu.hidden));if(!menu.hidden)$('button[aria-selected=true]',menu).focus();});
@@ -74,7 +74,8 @@
     const input=$('#searchInput'); input.value=params.get('q')||params.get('Query')||'';
     const subjects=[...new Set([...courses.map(c=>c.subject),...items.map(i=>i.subject)])].sort();
     $('#subjectFilters').innerHTML=subjects.map(s=>`<label><input type="checkbox" name="subject" value="${esc(s)}" ${params.getAll('subject').includes(s)?'checked':''}> ${esc(s)}</label>`).join('');
-    $('#typeFilters').innerHTML=typeOptions.map(t=>`<label><input type="checkbox" name="type" value="${esc(t)}" ${params.getAll('type').includes(t)?'checked':''}> ${esc(t)}</label>`).join('');
+    const selectedTypes=params.getAll('type').map(t=>({'Practice Set':'Review Guide',Reference:'Course Notes','Study Material':'Course Notes'}[t]||t));
+    $('#typeFilters').innerHTML=typeOptions.map(t=>`<label><input type="checkbox" name="type" value="${esc(t)}" ${selectedTypes.includes(t)?'checked':''}> ${esc(t)}</label>`).join('');
     $('#availableOnly').checked=params.get('available')==='1';
     if(['relevance','title','newest'].includes(params.get('sort')))$('#sortSelect').value=params.get('sort');
     function render() {

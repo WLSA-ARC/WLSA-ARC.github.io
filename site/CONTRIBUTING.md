@@ -14,6 +14,8 @@
 
 公式使用 `$...$`（行内）或 `$$...$$`（独立公式），由本地 KaTeX 显示；化学式支持 `\ce{H2O}` 等 mhchem 记号。转写应逐页核对原件，保留原有署名、完整例题、表格和必要插图；无法辨认的部分要明确标记，不能凭常识补写。
 
+Markdown 正文只保留复习内容。省略笔记日期、课次流水号、扫描全能王 / CamScanner 等扫描水印、重复页眉页脚、推广语和与知识点无关的个人闲话；日期后有知识点标题时只去掉日期。题目中的日期、历史事件时间、公式数值和章节编号属于正文，不能按日期格式批量删除。重复的来源署名集中保留一次，原文件不改动。
+
 ## 给 PDF 标注
 
 在仓库根目录先安装依赖：
@@ -85,9 +87,8 @@ python site/scripts/pdf_metadata.py scan uploads
 | --- | --- |
 | `review-guide` | Review Guide |
 | `course-notes` | Course Notes |
-| `practice-set` | Practice Set |
-| `reference` | Reference |
-| `resource` | Study Material |
+
+资料类型只使用以上两种。旧记录中的 `practice-set` 归入 `review-guide`，`reference` 和 `resource` 归入 `course-notes`；兼容读取旧 PDF 内部编码，不会重写原文件。
 
 新增课程或学科只需编辑 `site/config/catalog.json` 的注册表。不要修改既有编码的含义；显示名称可以调整。
 

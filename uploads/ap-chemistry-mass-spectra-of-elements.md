@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Mass Spectra of Elements
 
 ## Contents
@@ -11,13 +7,7 @@ Your notes
 - Mass Spectrum of an Element
 - Average Atomic Mass
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## Mass Spectrum of an Element
 
 ## Mass Spectrum of an Element
 
@@ -37,11 +27,7 @@ using the approximate isotopic mass and abundance from a mass spectrum
 
 ## Worked Example
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 ![Original source figure, page 3](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-003-figure-01.png)
 
@@ -72,13 +58,7 @@ has isotopes of significant abundance with masses of 66 and 68
 
 Note that some textbooks will use the terms relative abundance and percent abundance interchangeably.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
-
-## Average Atomic Mass
 
 ## Average Atomic Mass
 
@@ -129,11 +109,7 @@ Answer:
 × relative abundance)<sub>2</sub>
 $10.81 = 10.01x + 11.01y$
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 - Substituting the value of x
 
@@ -174,4 +150,4 @@ Answer:
 - average atomic mass = 55.38 amu + 52.49 amu
 - average atomic mass = 107.87 amu
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
+> 来源：© 2025 Save My Exams, Ltd.

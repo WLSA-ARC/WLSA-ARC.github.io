@@ -33,8 +33,6 @@ Left graph: vertical axis Number of Students, heights 2, 1, 3, 4. Right graph: v
 
 ![Categorical bar graphs](markdown-assets/ap-statistics-handwritten-notes/p01-bar-graphs.png)
 
-Footer: 扫描全能王；3 亿人都在用的扫描 App.
-
 <!-- Source: page 2 -->
 
 #### Pie Chart
@@ -328,8 +326,6 @@ Horizontal axis Environmental Club Membership (No/Yes), vertical axis Percent (0
 
 ![Mosaic plot](markdown-assets/ap-statistics-handwritten-notes/p10-mosaic.png)
 
-Footer: 扫描全能王；3 亿人都在用的扫描 App.
-
 <!-- Source: page 11 -->
 
 ### 2.2 Density Curves and Normal Distributions
@@ -569,5 +565,3 @@ These are labeled expected number of success and expected number of failures.
 **Normal Approximation**: If Large Counts is satisfied:
 $$X\approx N\left(np,\sqrt{np(1-p)}\right).$$
 Therefore $\mu=np$, $\sigma=\sqrt{np(1-p)}$ → normalcdf.
-
-Footer: 扫描全能王；3 亿人都在用的扫描 App.

@@ -662,7 +662,7 @@
       "title": "AP Chemistry: Atoms & Electrons",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -679,7 +679,7 @@
       "title": "AP Chemistry: Chemical Bonding",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -696,7 +696,7 @@
       "title": "AP Chemistry: Elements & Mixtures",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -713,7 +713,7 @@
       "title": "AP Chemistry: Gas Laws",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -730,7 +730,7 @@
       "title": "AP Chemistry: Intermolecular & Interparticle Forces",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -747,7 +747,7 @@
       "title": "AP Chemistry: Ionic Crystals & Metals",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -764,7 +764,7 @@
       "title": "AP Chemistry: Lewis Diagrams",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -781,7 +781,7 @@
       "title": "AP Chemistry: Mass Spectra of Elements",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -798,7 +798,7 @@
       "title": "AP Chemistry: Moles & Molar Mass",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -815,7 +815,7 @@
       "title": "AP Chemistry: Periodic Trends",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -832,7 +832,7 @@
       "title": "AP Chemistry: Properties of Solids, Liquids & Gases",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -849,7 +849,7 @@
       "title": "AP Chemistry: Solutions & Mixtures",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -866,7 +866,7 @@
       "title": "AP Chemistry: Spectroscopy",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -883,7 +883,7 @@
       "title": "AP Chemistry: VSEPR & Hybridization",
       "author": "Save My Exams",
       "course": "ap-chemistry",
-      "type": "reference",
+      "type": "course-notes",
       "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
       "keywords": [
         "化学",
@@ -940,10 +940,7 @@
   },
   "types": {
     "review-guide": "Review Guide",
-    "course-notes": "Course Notes",
-    "practice-set": "Practice Set",
-    "reference": "Reference",
-    "resource": "Study Material"
+    "course-notes": "Course Notes"
   },
   "courseImport": {
     "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
@@ -965,5 +962,10 @@
     "g10-macroeconomics": "ap-macro",
     "ap-english-language": "ap-english-literature",
     "g10-english-literature": "ap-english-literature"
+  },
+  "typeAliases": {
+    "practice-set": "review-guide",
+    "reference": "course-notes",
+    "resource": "course-notes"
   }
 }

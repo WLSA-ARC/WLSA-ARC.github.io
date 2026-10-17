@@ -37,8 +37,6 @@ $$dQ=\lambda\,d\ell=\lambda R\,d\theta,\qquad
 
 ![Charged semicircular arc](markdown-assets/electric-field-and-potential-notes/p1-semicircle.png)
 
-Footer: 扫描全能王；3 亿人都在用的扫描 App.
-
 <!-- Source: page 2 -->
 
 ## 3 Gauss Law
@@ -133,5 +131,3 @@ Equipotential surface: perpendicular to all electric field lines.
 （因为 $q$ 在等势面移动时不做功，无沿力方向的位移。）
 
 ![Conductor and equipotential surfaces](markdown-assets/electric-field-and-potential-notes/p4-equipotential.png)
-
-Footer: 扫描全能王；3 亿人都在用的扫描 App.

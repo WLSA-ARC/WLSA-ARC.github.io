@@ -555,8 +555,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -593,8 +593,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -631,8 +631,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -669,8 +669,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -707,8 +707,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -745,8 +745,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -783,8 +783,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -821,8 +821,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -859,8 +859,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -897,8 +897,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -935,8 +935,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -973,8 +973,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -1011,8 +1011,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -1049,8 +1049,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Chemistry"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "AP Chemistry topic notes. Original Save My Exams attribution is retained.",
     "keywords": [
       "化学",
@@ -1447,8 +1447,8 @@ window.ARCHIVE_ITEMS = [
     "courseTitles": [
       "Calculus BC"
     ],
-    "type": "Reference",
-    "typeCode": "reference",
+    "type": "Course Notes",
+    "typeCode": "course-notes",
     "description": "Derivative formulas and proofs for elementary functions.",
     "keywords": [
       "导数",

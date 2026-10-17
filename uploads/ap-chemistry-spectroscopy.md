@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Spectroscopy
 
 ## Contents
@@ -13,13 +9,7 @@ Your notes
 - Properties of Photons
 - Beer-Lambert Law
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## The Electromagnetic Spectrum
 
 ## The Electromagnetic Spectrum
 
@@ -48,11 +38,7 @@ frequencies
 
 - The speed of light (c) is a constant and it has a value of 998 x 10<sup>8</sup> ms<sup>-1</sup>
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 - Molecules behave in particular ways when they are exposed to radiation of different
 frequencies
@@ -63,11 +49,7 @@ frequencies
 - When exposed to ultraviolet or visible radiation, the electrons will jump between
 energy shells
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 ## Transitions Associated with Radiation
 
@@ -103,11 +85,7 @@ microwave oven
 
 - The microwave oven transfer rotational energy to the water molecules in your food
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 ## Transitions Associated with Infrared Radiation
 
@@ -144,11 +122,7 @@ spectrum
 
 - When they absorb a photon, they are promoted to an excited state
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 - The energy of visible and ultraviolet photons is high enough to stimulate electronic
 transitions
@@ -179,19 +153,11 @@ to reach vibrational and rotational excited states
 
 ![Original source figure, page 6](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-02.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 Electronic, vibration and rotational excited states associated with an specific region of the electromagnetic spectrum
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 ## Properties of Photons
 
@@ -237,11 +203,7 @@ The difference between absorption and emission depends on whether electrons are 
 
 ## The Hydrogen Emission Spectrum
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 - Niels Bohr constructed the hydrogen emission spectrum where he showed the energy
 released when electrons jump from higher shells to lower shells
@@ -271,11 +233,7 @@ Electron jumps in the hydrogen spectrum
 
 ## Energy of Photons
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 ## Frequency, Wavelength and Energy
 
@@ -323,11 +281,7 @@ $$v=\frac{E}{h}$$
 
 $$v=\frac{1.632\times10^{-18}\ \mathrm{J}}{6.626\times10^{-34}\ \mathrm{J\,s}}$$
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 v = 2.463 × 10<sup>15</sup> s<sup>-1</sup>
 
@@ -341,13 +295,7 @@ $$\lambda=\frac{2.998\times10^8\ \mathrm{m\,s^{-1}}}{2.463\times10^{15}\ \mathrm
 
 $$\lambda=1.217\times10^{-7}\ \mathrm{m}$$
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
-
-## Beer-Lambert Law
 
 ## Beer-Lambert Law
 
@@ -396,11 +344,7 @@ sample, by comparing its absorbance with the absorbance of standards
 
 ## Example of Calibration Curve
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-01.png)
 
@@ -417,11 +361,7 @@ unknown sample. The absorbance at different concentrations is shown below:
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-02.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 Calibration curve built using standard samples of X
 
@@ -469,11 +409,7 @@ $$A+0.02=60c$$
 
 $$c=\frac{A+0.02}{60}$$
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
 
 Step 4: Calculate the concentration of X in the unknown sample, using the absorbance given in the problem statement by replacing its value in the equation obtained in st
 
@@ -487,4 +423,4 @@ c=4.92×10−3 M
 
 ![Original final calculation as printed](markdown-assets/ap-chemistry-spectroscopy/page-015-calculation-original.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
+> 来源：© 2025 Save My Exams, Ltd.

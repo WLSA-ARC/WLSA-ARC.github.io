@@ -59,7 +59,8 @@ for (const full of fullPaths) {
   const courseIds = course ? sharedCourses.get(course.id) || [course.id] : [];
   const courseTitles = courseIds.map(id=>config.courses.find(c=>c.id===id).title);
   const subjectCode = info.subject || course?.subjectCode || 'general';
-  const typeCode = info.type || 'resource';
+  const originalType = info.type || 'course-notes';
+  const typeCode = config.typeAliases?.[originalType] || originalType;
   const subject = config.subjects[subjectCode];
   if(!subject)throw new Error(`${file}: unknown subject code ${subjectCode}`);
   if(!config.types[typeCode])throw new Error(`${file}: unknown material type ${typeCode}`);

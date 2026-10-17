@@ -16,8 +16,6 @@ Speed: the rate of change in displacement.〔按原文保留。〕
 
 Position–Time graph: secant slope $v_{\rm avg}$; tangent slope $v_{\text{瞬}}$。一个 $s$–$t$ 图只能表示直线运动。
 
-5/20 ★
-
 ## 2 Average acceleration
 
 $$\text{average acceleration}=\frac{\text{change in velocity}}{\text{time required for change}}.$$
@@ -83,7 +81,7 @@ $$a=g,\qquad v_f=v_i+gt,$$
 $$h=v_it+\frac12gt^2,\qquad h=\frac{v_f^2-v_i^2}{2g}.$$
 The diagram takes downward $v$ as positive.
 
-5/23 practice. 51.
+Practice 51.
 
 1. Bearing.
 2. N 85.92° E.
@@ -93,14 +91,14 @@ The diagram takes downward $v$ as positive.
 
 和速度：向量加法。
 
-### 5/31 平抛运动
+### 平抛运动
 
 Simultaneous landing（同时落地）diagram: one object falls vertically, one travels horizontally; $x$ points right, $y$ points down.
 
 $$y:\begin{cases}v_y=gt\\y=\frac12gt^2\end{cases}\qquad
 x:\begin{cases}v_x=v_i\\x=v_it\end{cases}.$$
 
-### 6/4 斜抛
+### 斜抛
 
 $$\begin{cases}v_x=v_i\cos\theta\,t\\x=v_i\cos\theta\,t\end{cases}\qquad
 \begin{cases}v_y=v_i\sin\theta-gt\\y=v_i\sin\theta\,t-\frac12gt^2\end{cases}.$$
@@ -159,8 +157,6 @@ b. 不同物体。Exerted on different objects.
 c. 同类型。
 
 d. 同时存在，同时消失。
-
-### 6/18
 
 〔原文此处无法辨认〕。该行末尾可见“gv.”，见原图。
 
@@ -252,8 +248,6 @@ $$T_2-m_1g=m_1a.$$
 ![Projectile, incline, and connected pulley](markdown-assets/physics-kinematics-review-notes/p8-diagrams.png)
 
 <!-- Source: page 9 -->
-
-10/7
 
 ## 1 Fictional force
 

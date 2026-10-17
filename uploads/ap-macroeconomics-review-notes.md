@@ -1,9 +1,5 @@
 # AP Macroeconomics Review Notes
 
-因为我笔记本没了所以只能再整理一遍了哈哈
-
-会写知识点怎么考，复习完的也可以看
-
 ## 1. GDP
 
 ### (1)

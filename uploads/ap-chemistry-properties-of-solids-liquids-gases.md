@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Properties of Solids, Liquids & Gases
 
 ## Contents
@@ -18,11 +14,7 @@ Your notes
 - The Liquid Phase
 - The Gas Phase
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
 
 ## Explaining the Properties of Solids & Liquids
 
@@ -66,11 +58,7 @@ space above the liquid
 
 ## Vapor Pressure
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 ![Original source figure, page 3](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-003-figure-01.png)
 
@@ -104,11 +92,7 @@ there is a greater attraction between the molecules
 the liquid (atmospheric pressure, unless the vessel containing the liquid is closed) is
 called the boiling point of the liquid
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 - The temperature at which a given liquid boils increases with increasing external
 pressure.
@@ -136,11 +120,7 @@ A graph showing the relationship between vapor pressure of several covalent comp
 - The temperature at which a solid melts is called the melting point, which is identical
 to the freezing point
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 - Melting or freezing occurs at the temperature where the liquid and solid are in dynamic
 equilibrium
@@ -171,11 +151,7 @@ The melting & boiling points of the Group 7a elements increase going down the gr
 - The properties of solids and liquids can be better understood by showing the
 arrangement of particles in each state
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 - The particles in a solid experience intermolecular forces that are strong enough to
 restrict their movement
@@ -207,13 +183,7 @@ times
 
 In a solid, particles are closely packed and can only exhibit vibrational motion about their fixed positions. However, in a liquid, particles are not as closely packed as solids and are capable of both vibrational and translational motion meaning the liquid substance can flow.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
-
-## Properties of Ionic Solids
 
 ## Properties of Ionic Solids
 
@@ -258,11 +228,7 @@ the ions get smaller
 
 - Ionic solids generally have high melting points and high boiling points
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 - This is a result of the strong electrostatic attraction between the oppositely
 charged ions
@@ -296,19 +262,11 @@ The image shows the effect of applying a shear stress to an ionic solid. The cry
 
 - Sodium chloride (Common salt)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 - Zinc sulfide (also known as zinc blende)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 ## Covalent Network Solids
 
@@ -346,11 +304,7 @@ single covalent bonds
 
 ![Original source figure, page 10](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-010-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 Diagram showing the tetrahedral structure of diamond
 
@@ -391,11 +345,7 @@ bonding
 
 ## Graphite
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
 
 ![Original source figure, page 12](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-012-figure-01.png)
 
@@ -427,11 +377,7 @@ number of strong covalent bonds in the solid
 
 ## Silicon Dioxide Structure
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-013-figure-01.png)
 
@@ -462,11 +408,7 @@ added
 - Like in diamond, the hardness of silicon carbide is derived from the tetrahedral
 structure of silicon and carbon atoms which are held together by strong covalent
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 bonds
 - This makes it useful as a cutting tool, bearings and mechanical seals
@@ -484,13 +426,7 @@ materials
 
 Diagram showing the compact crystal structure of silicon carbide. The black atoms are carbon and the blue atoms are silicon
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
-
-## Molecular Solids
 
 ## Molecular Solids
 
@@ -531,13 +467,7 @@ Solid carbon dioxide (CO<sub>2</sub>) consists of small, nonpolar molecules form
 - Unlike covalent network solids, molecular solids have variable hardness and brittleness
 but can be considered to be generally soft and brittle
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
-
-## Metallic Solids
 
 ## Metallic Solids
 
@@ -557,11 +487,7 @@ delocalized electrons
 
 Diagram showing the interaction between the “sea” of delocalized valence electrons and positive metal ions
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
 
 ## Properties of Metallic Solids
 
@@ -622,11 +548,7 @@ substituted with zinc atoms
 
 ## Substitutional Alloy
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
-
 <!-- Source: page 18 -->
-
-Your notes
 
 ![Original source figure, page 18](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-018-figure-01.png)
 
@@ -656,23 +578,13 @@ delocalized electrons are retained in the alloys
 
 ## Interstitial Alloy
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
-
 <!-- Source: page 19 -->
-
-Your notes
 
 ![Original source figure, page 19](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-019-figure-01.png)
 
 Diagram of steel showing carbon atoms occupying the “holes” in a lattice of iron atoms
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 19
-
 <!-- Source: page 20 -->
-
-Your notes
-
-## Noncovalent Interactions in Large Molecules
 
 ## Noncovalent Interactions in Large Molecules
 
@@ -701,11 +613,7 @@ nitrogen, oxygen and fluorine
 
 - Electrostatic/Ionic interactions
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 20
-
 <!-- Source: page 21 -->
-
-Your notes
 
 - These are attractive interactions observed in molecules with permanent dipoles
 - Hydrophobic interactions
@@ -730,13 +638,7 @@ proteins and phenolic compounds found in plant-based foods
 
 Diagram showing possible non-covalent interactions between proteins and Ferulic acid
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 21
-
 <!-- Source: page 22 -->
-
-Your notes
-
-## The Structure of Solids
 
 ## The Structure of Solids
 
@@ -794,23 +696,13 @@ arranged in an orderly pattern
 
 ## Structures of crystalline and amorphous solids
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 22
-
 <!-- Source: page 23 -->
-
-Your notes
 
 ![Original source figure, page 23](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-023-figure-01.png)
 
 The particles in solids may be arranged in a regular repeating pattern (crystalline) or randomly (amorphous)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 23
-
 <!-- Source: page 24 -->
-
-Your notes
-
-## The Liquid Phase
 
 ## The Liquid Phase
 
@@ -851,11 +743,7 @@ unit amount— increases with increasing strength of intermolecular force
 - Viscosity, which measures the resistance to the flow of liquids also increases with
 increasing intermolecular attraction but decreases with increasing temperature
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 24
-
 <!-- Source: page 25 -->
-
-Your notes
 
 - Vapor pressure and boiling point of a liquid are dependent on the strength of the
 intermolecular force between the particles of the liquid
@@ -888,13 +776,7 @@ conditions
 
 The table shows that the molar volumes of metals are similar in both solid and liquid states. The slight differences in value are due to the small space between the particles of the metals in the liquid state, allowing them to flow.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 25
-
 <!-- Source: page 26 -->
-
-Your notes
-
-## The Gas Phase
 
 ## The Gas Phase
 
@@ -936,4 +818,4 @@ explained by the kinetic molecular theory
 
 Diagram showing the arrangement and movement of gas particles
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 26
+> 来源：© 2025 Save My Exams, Ltd.

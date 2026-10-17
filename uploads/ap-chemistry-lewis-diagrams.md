@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Lewis Diagrams
 
 ## Contents
@@ -13,13 +9,7 @@ Your notes
 - Formal Charge
 - Limitations of Lewis Structures
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## Lewis Diagrams
 
 ## Lewis Diagrams
 
@@ -65,11 +55,7 @@ with 6 electrons
 
 ## Steps for drawing Lewis Diagrams
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 1. Calculate the total number of valence electrons using your periodic table
 
@@ -104,11 +90,7 @@ drawn
 | Molecule | Total number of valence electrons | Lewis Diagram |
 | --- | --- | --- |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 | Molecule | Total number of valence electrons | Lewis Diagram |
 | --- | --- | --- |
@@ -124,11 +106,7 @@ Lewis diagrams for common molecules
 
 Which of the following Lewis electron-dot diagrams is drawn incorrectly?
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 ![Original source figure, page 5](markdown-assets/ap-chemistry-lewis-diagrams/page-005-figure-01.png)
 
@@ -143,13 +121,7 @@ bromine atom in C, and the chlorine atom in D complete their octets. In the case
 of D, all hydrogen atoms complete their duet. Therefore, their Lewis Diagrams
 are drawn correctly
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
-
-## Resonance & Lewis Structures
 
 ## Resonance & Lewis Structures
 
@@ -200,11 +172,7 @@ another
 
 ## Resonance in the Nitrate(V) ion
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 ![Original source figure, page 7](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-01.png)
 
@@ -232,11 +200,7 @@ carboxylate ion which are showed in the table below
 | --- | --- | --- |
 | Carbonate ion, CO₃²⁻ | ![Carbonate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-03.png) | ![Carbonate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-04.png) |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 | Species | Lewis Diagram | Resonance Hybrid |
 | --- | --- | --- |
@@ -244,11 +208,7 @@ Your notes
 | Ozone, O₃ | ![Ozone resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-03.png) | ![Ozone resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-04.png) |
 | Carboxylate ion, RCOO⁻ | ![Carboxylate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-05.png) | ![Carboxylate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-06.png) |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 ## Formal Charge
 
@@ -297,11 +257,7 @@ deduced that it has 3 valence electrons.
 the structure is 8.
 - By following the steps to draw a Lewis diagram, the structure should look like this:
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 ![Original source figure, page 10](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-01.png)
 
@@ -340,11 +296,7 @@ What is the formal charge on the two resonance structures shown?
 
 Resonance structures of hydrogen cyanide
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 Deduce which is the preferred structure
 
@@ -385,13 +337,7 @@ ion, therefore, the structure is unstable
 
 The terms Lewis Diagrams, Lewis Structures or Lewis Formulas mean the same thing
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
-
-## Limitations of Lewis Structures
 
 ## Limitations of Lewis Structures
 
@@ -435,11 +381,7 @@ period or below, is surrounded by terminal atoms with high electronegativity val
 
 ## The PCl₅ molecule
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-01.png)
 
@@ -451,4 +393,4 @@ The octet of the central phosphorus atom has been expanded to hold 10 electrons
 
 The octet of the central sulfur atom has been expanded to hold 12 electrons
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
+> 来源：© 2025 Save My Exams, Ltd.

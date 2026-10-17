@@ -24,6 +24,8 @@ try{
   build();
   const context={window:{}};vm.runInNewContext(await fs.readFile(path.join(root,'assets/data.js'),'utf8'),context);
   const items=context.window.ARCHIVE_ITEMS, material=items.find(i=>i.file==='uploads/_smoke-资料.pdf');assert.ok(material?.pdf);assert.equal(material.subject,'Physics');assert.equal(material.course,'physics-em');
+  assert.deepEqual([...new Set(items.map(i=>i.type))].sort(),['Course Notes','Review Guide']);
+  assert.equal(items.find(i=>i.file==='uploads/ap-chemistry-atoms-electrons.pdf').type,'Course Notes');
   assert.ok(material.markdown.endsWith('_smoke-%E8%B5%84%E6%96%99.md'));assert.ok(!items.some(i=>i.file==='uploads/_smoke-资料.md'));
   server=createServer(async(req,res)=>{
     try{
@@ -114,6 +116,11 @@ try{
   await page.locator('.query-builder-input-group input').fill('电磁学');
   await page.locator('.query-builder-input-group input').press('Enter');await page.waitForURL('**/search.html?*');
   assert.equal(new URL(page.url()).searchParams.get('q'),'电磁学');assert.equal(new URL(page.url()).searchParams.get('type'),'Review Guide');assert.ok(await page.locator('.result-item').count()>0);
+  await page.goto(base+'/search.html?type=Reference');
+  assert.deepEqual(await page.locator('#typeFilters input').evaluateAll(inputs=>inputs.map(input=>input.value)),['Review Guide','Course Notes']);
+  assert.equal(await page.locator('input[name=type][value="Course Notes"]').isChecked(),true);
+  assert.ok(await page.locator('.result-item').count()>0);
+  assert.equal(new URL(page.url()).searchParams.get('type'),'Course Notes');
   await page.goto(base+'/search.html?subject=Physics&type=Course+Notes&sort=title');
   assert.equal(await page.locator('.result-item h2').first().evaluate(el=>getComputedStyle(el).fontWeight),'700');
   assert.equal(await page.locator('input[type=search]').count(),1);

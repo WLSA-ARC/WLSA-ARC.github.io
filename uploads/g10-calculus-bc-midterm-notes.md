@@ -2,7 +2,7 @@
 
 <!-- Source: page 1 -->
 
-## Day 5759 Limits
+## Limits
 
 Why is the equation of $PQ$
 $$y-y_1=\frac{y_2-y_1}{x_2-x_1}(x-x_1)?$$
@@ -26,7 +26,7 @@ Unbounded: limit does not exist. The graph tends upward on both sides of $x=0$; 
 
 ![Limit examples and unbounded graph](markdown-assets/g10-calculus-bc-midterm-notes/p1-limits.png)
 
-## Day 5760 Limit Laws
+## Limit Laws
 
 If $\lim_{x\to c}f(x)=L$, $\lim_{x\to c}g(x)=M$, then:
 
@@ -53,7 +53,7 @@ $$f\left(\lim_{x\to c^+}g(x)\right)=f\left(\lim_{x\to c^-}g(x)\right),$$
 then
 $$\lim_{x\to c}f(g(x))=\lim_{x\to c^+}f(g(x))=\lim_{x\to c^-}f(g(x))=f\left(\lim_{x\to c^+}g(x)\right)=f\left(\lim_{x\to c^-}g(x)\right).$$
 
-## Day 5766 The Squeeze Theorem
+## The Squeeze Theorem
 
 If $g(x)\le f(x)\le h(x)$ for all $x$ in the interval containing $c$ (except $c$ itself),
 $$\lim_{x\to c}g(x)=\lim_{x\to c}h(x)=L,$$
@@ -67,7 +67,7 @@ The line $y=b$ is a horizontal asymptote of $f(x)$ if $\lim_{x\to\infty}f(x)=b$ 
 
 The line $x=a$ is a vertical asymptote of $f(x)$ if $\lim_{x\to a^+}f(x)=\pm\infty$ or $\lim_{x\to a^-}f(x)=\pm\infty$.
 
-## Day 5773 End behavior model
+## End behavior model
 
 The function $g$ is a right end behavior model if and only if $\lim_{x\to\infty}\frac{f(x)}{g(x)}=1$.
 
@@ -114,7 +114,7 @@ Prove:
 
 ![Intermediate value diagram](markdown-assets/g10-calculus-bc-midterm-notes/p3-ivt.png)
 
-## Day 5776 Differentiation
+## Differentiation
 
 The slope of the curve at $x=a$ = the slope of the tangent line to the curve at $x=a$:
 $$\lim_{h\to0}\frac{f(a+h)-f(a)}h.$$
@@ -156,7 +156,7 @@ $$\begin{aligned}
 \therefore\lim_{x\to a}f(x)&=f(a)\quad\text{(that's the definition of continuity).}
 \end{aligned}$$
 
-## Day 5780 Differentiation Rule for Evaluation
+## Differentiation Rule for Evaluation
 
 Constant Function: $f(x)=c$, $f'(x)=0$.
 
@@ -180,7 +180,7 @@ Product: $f(x)=u(x)v(x)\Rightarrow f'(x)=u'(x)v(x)+u(x)v'(x)$.
 
 Quotient: $f(x)=\frac{u(x)}{v(x)}\Rightarrow f'(x)=\frac{u'(x)v(x)-u(x)v'(x)}{v^2(x)}$ ($v(x)\ne0$).
 
-## Day 5787 Derivatives for trigonometric functions
+## Derivatives for trigonometric functions
 
 | $f(x)$ | $f'(x)$ |
 |---|---|
@@ -199,11 +199,11 @@ If $g$ is differentiable at $x$, and $f$ is differentiable at $g(x)$,
 $$ (f\circ g)'=f'(g(x))\,g'(x),$$
 $$ (f\circ g\circ h)'=f'(g(h(x)))\,g'(h(x))\,h'(x).$$
 
-## Day 5788 Implicit Differentiation
+## Implicit Differentiation
 
 〔原稿此标题下没有另写正文。〕
 
-## Day 5798 Derivative of Inverse Function
+## Derivative of Inverse Function
 
 $$b=f(a),\quad a=f^{-1}(b),\quad m=f'(a),\quad\frac1m=(f^{-1})'(b).$$
 $$\Rightarrow(f^{-1})'(b)=\frac1{f'(a)}\Rightarrow(f^{-1})'(x_0)=\frac1{f'(f^{-1}(x_0))}.$$
@@ -237,7 +237,7 @@ Graph margin formulas:
 
 ![Inverse function and inverse trigonometric graphs](markdown-assets/g10-calculus-bc-midterm-notes/p5-inverse.png)
 
-## Day 5801 Derivative of Exponential and Logarithmic Functions
+## Derivative of Exponential and Logarithmic Functions
 
 $$f(x)=e^x\Rightarrow f'(x)=e^x.$$
 $$f(x)=a^x\Rightarrow f'(x)=a^x\ln a.$$

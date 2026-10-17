@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Chemical Bonding
 
 ## Contents
@@ -15,11 +11,7 @@ Your notes
 - Intramolecular Force & Potential Energy
 - Coulomb's Law & Attractive Forces
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
 
 ## Electronegativity Values
 
@@ -55,11 +47,7 @@ covalent bond are weakly attracted, and the electronegativity value decrease
 
 ## Change in electronegativity down a group
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 ![Original source figure, page 3](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-01.png)
 
@@ -81,11 +69,7 @@ First three rows of the periodic table showing electronegativity values
 - It is the best when attracting electron density towards itself when it forms a covalent
 bond with an atom
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 ## Molecule of CH₃F
 
@@ -93,11 +77,7 @@ Your notes
 
 Electron distribution in the C-F bond of fluoromethane
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 ## Covalent Bonds
 
@@ -141,11 +121,7 @@ shown in the image below
 
 ## The Formation of a Chlorine Molecule, Cl₂
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 ![Original source figure, page 6](markdown-assets/ap-chemistry-chemical-bonding/page-006-figure-01.png)
 
@@ -157,11 +133,7 @@ The known diatomic elements are: H<sub>2</sub>, N<sub>2</sub>,F<sub>2</sub>, O<s
 
 ## Polar covalent bonds
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 - A polar covalent bond is formed when the nonmetals that share pairs of electrons have a
 greater electronegativity difference
@@ -204,11 +176,7 @@ coulombic attrraction, therefore the distance between the charges is closer
 
 ## The H-F molecule
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
 
 ![Original source figure, page 8](markdown-assets/ap-chemistry-chemical-bonding/page-008-figure-01.png)
 
@@ -226,13 +194,7 @@ electronegative atom
 - The ionic character of a covalent bond increase if the difference of electronegativity
 between the atoms is greater
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
-
-## Ionic vs Covalent
 
 ## Ionic vs Covalent
 
@@ -254,11 +216,7 @@ Forming cations by the removal of electrons from metals
 
 ![Original source figure, page 9](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-02.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
 
 Forming anions by the addition of electrons to nonmetals
 
@@ -294,11 +252,7 @@ Cations and anions bond together using strong Coulombic forces of attraction, wh
 
 - A covalent bond is formed when two nonmetals share a pair of electrons
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 - Atoms form covalent bonds to gain a full outer shell of electrons
 
@@ -326,19 +280,11 @@ physical and chemical properties
 
 ## Examiner Tips and Tricks
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
-
 <!-- Source: page 12 -->
-
-Your notes
 
 Make sure to know how to differentiate the properties of ionic and covalent compounds since this section is usually assessed in Section 1 of your AP Chemistry Exam
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 12
-
 <!-- Source: page 13 -->
-
-Your notes
 
 ## Valence Electrons in a Metallic Solid
 
@@ -363,19 +309,11 @@ positively charged metal ions and a sea of delocalized electrons
 
 ![Original source figure, page 13](markdown-assets/ap-chemistry-chemical-bonding/page-013-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 13
-
 <!-- Source: page 14 -->
-
-Your notes
 
 The positive metal centers interact with a Coulombic force of attraction with in a ‘sea’ of delocalised electrons
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 14
-
 <!-- Source: page 15 -->
-
-Your notes
 
 ## Intramolecular Force & Potential Energy
 
@@ -414,11 +352,7 @@ strongly repel one another
 
 - The attractive and repulsive forces between the two atoms are balanced
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 15
-
 <!-- Source: page 16 -->
-
-Your notes
 
 - The potential energy is at a minimum.
 
@@ -450,13 +384,7 @@ Diagram showing that the bond length of diatomic halogen molecules increases wit
 | C=C | 2 | 2 | 133 | 620 |
 | C≡C | 3 | 3 | 120 | 812 |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 16
-
 <!-- Source: page 17 -->
-
-Your notes
-
-## Coulomb's Law & Attractive Forces
 
 ## Coulomb's Law & Attractive Forces
 
@@ -495,11 +423,7 @@ the two ions
 
 ## Worked Example
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 17
-
 <!-- Source: page 18 -->
-
-Your notes
 
 ![Original source figure, page 18](markdown-assets/ap-chemistry-chemical-bonding/page-018-figure-01.png)
 
@@ -531,4 +455,4 @@ and the most negative minimum potential energy
 least negative minimum potential energy
 - Therefore, the answer is D
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 18
+> 来源：© 2025 Save My Exams, Ltd.

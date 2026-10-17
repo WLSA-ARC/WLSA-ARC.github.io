@@ -1,10 +1,6 @@
 <!-- Source: page 1 -->
 
-# College Board AP® Chemistry
-
 ## Moles & Molar Mass
-
-Your notes
 
 ### Contents
 
@@ -12,13 +8,9 @@ Your notes
 - Masses & Particles
 - Molar Mass
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com. 1
-
 <!-- Source: page 2 -->
 
 ## The Mole Concept
-
-Your notes
 
 ### The Mole Concept
 
@@ -39,13 +31,9 @@ Number of constituent particles = $N_A \times n$
 
 Note that some textbooks will use the terms Avogadro’s constant and Avogadro’s number interchangeably.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com. 2
-
 <!-- Source: page 3 -->
 
 ## Masses & Particles
-
-Your notes
 
 ### Masses & Particles
 
@@ -67,13 +55,9 @@ Comparing average atomic mass and molar mass
 
 To solve multiple choice questions involving molar mass more quickly, use rounded atomic masses and memorize the atomic mass of common elements such as H, O, N, C, S, and Cl. However, be sure to use the atomic mass as written on the provided periodic table for all free response questions.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com. 3
-
 <!-- Source: page 4 -->
 
 ## Molar Mass
-
-Your notes
 
 ### Molar Mass
 
@@ -121,12 +105,8 @@ $$42.0\ \mathrm{g} \times \frac{1\ \mathrm{mol}}{86.172\ \mathrm{g}} \times \fra
 
 ### Examiner Tips and Tricks
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com. 4
-
 <!-- Source: page 5 -->
 
 The factor-label method uses conversions between units that are equivalent to convert from one unit to another. The original number is multiplied by a fraction made up of the equivalent units so that the units of the original number cancel with one of the units in the conversion. If this leads to the units for the answer then the problem is complete. If not, another conversion can be added.
 
-Your notes
-
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com. 5
+> 来源：© 2025 Save My Exams, Ltd.

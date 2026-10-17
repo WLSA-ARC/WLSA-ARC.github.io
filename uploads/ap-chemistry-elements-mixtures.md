@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Elements & Mixtures
 
 ## Contents
@@ -12,11 +8,7 @@ Your notes
 - Composition of Mixtures
 - Elemental Analysis
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
 
 ## Elemental Composition
 
@@ -56,11 +48,7 @@ bond
 
 ![Original source figure, page 2](markdown-assets/ap-chemistry-elements-mixtures/page-002-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 A molecule of water (H<sub>2</sub>O) showing 2 hydrogen atoms, 1 oxygen atom and the covalent bonds
 
@@ -93,11 +81,7 @@ where it comes from
 
 ## Law of Definite Proportions
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 ![Original source figure, page 4](markdown-assets/ap-chemistry-elements-mixtures/page-004-figure-01.png)
 
@@ -125,11 +109,7 @@ in a compound
 - The chemical formula of an ionic compound is both empirical and molecular formula at
 the same time
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
 
 ## Examiner Tips and Tricks
 
@@ -162,11 +142,7 @@ Answer:
 
 Calculate the empirical formula of a compound which contains 86.0% of carbon and 14.0% g of hydrogen
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 Answer:
 
@@ -207,11 +183,7 @@ Answer:
 - Mof empirical formula = (C x 1) + (H x 2) + (O x 1)
 - Mof empirical formula = (12.01 x 1) + (1.008 x 2) + (16.00 x 1)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
 
 - M of empirical formula = 30.026 g mol<sup>-1</sup>
 - Step 2. Calculate the whole number by dividing Mof the molecular formula by M
@@ -230,13 +202,7 @@ $$\mathrm{whole\ number}\approx6$$
 - Molecular formula = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
 - The molecular formula of the unknown compound is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
-
-## Composition of Mixtures
 
 ## Composition of Mixtures
 
@@ -279,21 +245,11 @@ space
 
 ![Original source figure, page 8](markdown-assets/ap-chemistry-elements-mixtures/page-008-figure-01.png)
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
-
 <!-- Source: page 9 -->
-
-Your notes
 
 A pure substance, an homogeneous mixture and a heterogeneous mixture at the molecular level
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 9
-
 <!-- Source: page 10 -->
-
-Your notes
-
-## Elemental Analysis
 
 ## Elemental Analysis
 
@@ -342,11 +298,7 @@ without any foreign substances
 - It can be calculated either using the mass (m) of the desired compound or its %
 composition
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 10
-
 <!-- Source: page 11 -->
-
-Your notes
 
 $$\mathrm{Purity}=\frac{m\ \mathrm{of\ desired\ compound}}{\mathrm{total\ mass\ of\ sample}}\times100$$
 
@@ -378,4 +330,4 @@ $$\mathrm{Purity}=\frac{3.35\ \mathrm{g\ of\ NaCl}}{5.00\ \mathrm{g}}\times100$$
 
 $$\mathrm{Purity}=67.0\%$$
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 11
+> 来源：© 2025 Save My Exams, Ltd.

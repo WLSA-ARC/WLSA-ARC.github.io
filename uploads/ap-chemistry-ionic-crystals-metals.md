@@ -1,9 +1,5 @@
 <!-- Source: page 1 -->
 
-Your notes
-
-# College Board AP® Chemistry
-
 ## Ionic Crystals & Metals
 
 ## Contents
@@ -13,13 +9,7 @@ Your notes
 - Interstitial Alloys
 - Substitutional Alloys
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 1
-
 <!-- Source: page 2 -->
-
-Your notes
-
-## Ionic Crystals
 
 ## Ionic Crystals
 
@@ -53,11 +43,7 @@ attraction between the positive and negative ions
 
 - The strength of the Coulombic forces increase if:
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 2
-
 <!-- Source: page 3 -->
-
-Your notes
 
 - The charge of the ions increase because the force of attraction is proportional to
 the magnitude of the charge
@@ -87,11 +73,7 @@ bigger ion
 
 Molten or aqueous ions move freely but cannot in solid form
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 3
-
 <!-- Source: page 4 -->
-
-Your notes
 
 ## Examiner Tips and Tricks
 
@@ -123,13 +105,7 @@ Therefore, the Coulombic attractions are weaker
 - C is not correct. Even if Te<sup>2−</sup> has a 2− negative charge, its radius is bigger
 compared to S<sup>2−</sup>. Therefore, the forces of attractions are weaker in Te<sup>2−</sup>
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 4
-
 <!-- Source: page 5 -->
-
-Your notes
-
-## Representing Metallic Bonding
 
 ## Representing Metallic Bonding
 
@@ -163,23 +139,13 @@ sea of delocalized electrons, most metals tend to have high melting points
 | --- | --- | --- | --- | --- |
 | Melting Point (°C) | 649.85 | 1084.62 | 29.76 | 1768.40 |
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 5
-
 <!-- Source: page 6 -->
-
-Your notes
 
 ## Examiner Tips and Tricks
 
 Network covalent solids also have high melting points. However, metals are good conductors of electricity while most network covalent solids (excluding graphite) are not.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 6
-
 <!-- Source: page 7 -->
-
-Your notes
-
-## Interstitial Alloys
 
 ## Interstitial Alloys
 
@@ -207,13 +173,7 @@ Diagram of steel showing carbon atoms occupying the interstices in a lattice of 
 
 Alloys containing elements found in the first two periods of the periodic table are typically interstitial alloys.
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 7
-
 <!-- Source: page 8 -->
-
-Your notes
-
-## Substitutional Alloys
 
 ## Substitutional Alloys
 
@@ -230,4 +190,4 @@ atoms in the lattice
 
 Diagram of brass showing zinc atoms occupying some of the positions in a lattice of carbon atoms
 
-© 2025 Save My Exams, Ltd. Get more and ace your exams at savemyexams.com 8
+> 来源：© 2025 Save My Exams, Ltd.
