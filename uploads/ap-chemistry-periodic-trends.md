@@ -1,15 +1,9 @@
-<!-- Source: page 1 -->
-
-## Periodic Trends
-
 ## Contents
 
 - Structure of the Periodic Table
 - Periodic Trends
 - Predicting Properties of Elements
 - Valence Electrons & Ionic Compounds
-
-<!-- Source: page 2 -->
 
 ## Structure of the Periodic Table
 
@@ -21,7 +15,7 @@ called groups
 
 ## The Periodic Table
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-periodic-trends/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-002-figure-01.png)
 
 - Periods represent the principal energy shells of an element
 
@@ -30,9 +24,7 @@ valence electrons
 
 ## The Structure of the Beryllium Atom
 
-<!-- Source: page 3 -->
-
-![Original source figure, page 3](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-01.png)
 
 The beryllium atom in the periodic table
 
@@ -51,11 +43,9 @@ electron in their outer shell
 
 ## Blocks in the Periodic Table
 
-![Original source figure, page 3](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-02.png)
 
 s-block, p-block, d-block, and f-blocks in the Periodic Table
-
-<!-- Source: page 4 -->
 
 ## Electron Configurations
 
@@ -68,7 +58,7 @@ by its electron configuration
 
 ## Electron Configuration of the Germanium Atom
 
-![Original source figure, page 4](markdown-assets/ap-chemistry-periodic-trends/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-004-figure-01.png)
 
 Deducing the electron configuration of germanium as 1s<sup>2</sup>, 2s<sup>2</sup>, 2p<sup>6</sup>, 3s<sup>2</sup>, 3d<sup>10</sup>, 4s<sup>2</sup>, 4p<sup>2</sup>
 
@@ -80,8 +70,6 @@ Deducing the electron configuration of germanium as 1s<sup>2</sup>, 2s<sup>2</su
 
 - Finally, germanium is in the second position of the p-block of the periodic table,
 therefore, two electrons must be in the p subshell
-
-<!-- Source: page 5 -->
 
 ## Periodic Trends
 
@@ -119,9 +107,7 @@ same
 
 ## A graph showing the ionization energies of the elements hydrogen to sodium
 
-<!-- Source: page 6 -->
-
-![Original source figure, page 6](markdown-assets/ap-chemistry-periodic-trends/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-006-figure-01.png)
 
 There is a general increase in ionization energy from left to right
 
@@ -138,9 +124,7 @@ electron
 
 ## A Beryllium and Magnesium Atom
 
-<!-- Source: page 7 -->
-
-![Original source figure, page 7](markdown-assets/ap-chemistry-periodic-trends/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-007-figure-01.png)
 
 Comparison, between beryllium and magnesium, of the factors that affect the ionization energy
 
@@ -152,9 +136,7 @@ Comparison, between beryllium and magnesium, of the factors that affect the ioni
 
 ## Atomic Radius
 
-<!-- Source: page 8 -->
-
-![Original source figure, page 8](markdown-assets/ap-chemistry-periodic-trends/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-008-figure-01.png)
 
 The atomic radius of an atom is the typical distance between the nucleus and the outermost electron shell
 
@@ -185,9 +167,7 @@ not pulled strongly, meaning bigger atoms
 
 ## Atomic Radii in the Periodic Table
 
-<!-- Source: page 9 -->
-
-![Original source figure, page 9](markdown-assets/ap-chemistry-periodic-trends/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-009-figure-01.png)
 
 Trends in the atomic radii across a period and down a group
 
@@ -216,8 +196,6 @@ means a bigger ionic radius
 
 - The ionic radius decreases with an increasing positive charge
 
-<!-- Source: page 10 -->
-
 - Positive ions are formed when electrons are lost, while the nuclear charge is the
 same
 - Removing electrons decreases the repulsion within the valence electrons, which
@@ -227,7 +205,7 @@ means a smaller ionic radius
 
 ## Sizes of Atoms and their Ions in pm
 
-![Original source figure, page 10](markdown-assets/ap-chemistry-periodic-trends/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-010-figure-01.png)
 
 Trends in the ionic radii across a period and down a group
 
@@ -247,8 +225,6 @@ $$\mathrm{Cl}_{(g)}+e^{-}\rightarrow\mathrm{Cl}^{-}_{(g)}$$
 - Elements on the Group 7 (F, Cl, Br, I) of the periodic table have the most negative
 electron affinities
 
-<!-- Source: page 11 -->
-
 - This occurs because these elements tend to be stable as ions with a -1 charge, by
 completing the p subshell
 - Electron affinity generally decreases down the group
@@ -267,7 +243,7 @@ create a considerable repulsion with the other valence electrons
 
 ## Electron Affinities
 
-![Original source figure, page 11](markdown-assets/ap-chemistry-periodic-trends/page-011-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-011-figure-01.png)
 
 Electron affinities down Group 17 from F to I
 
@@ -293,8 +269,6 @@ the same
 - This occurs because the shielding effect increases because the number of inner
 shells increases
 
-<!-- Source: page 12 -->
-
 - The distance between the nucleus and the valence electrons increases, making the
 Coulombic attraction considerably weaker
 - Therefore, the effective nuclear charge decreases and the coulombic attraction to
@@ -304,15 +278,13 @@ bonds
 
 ## Trends in Electronegativity
 
-![Original source figure, page 12](markdown-assets/ap-chemistry-periodic-trends/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-012-figure-01.png)
 
 Periodicity of electronegativity - there is an increase from left to right and a decrease from top to bottom
 
 ## Examiner Tips and Tricks
 
 When answering free-response questions from Section 2 regarding periodic trends, make sure to always mention: Coulomb’s Law, the shell model (inner shells and valence shell), and the shielding/effective nuclear charge. This is a must if you want to be awarded with full credit for the question
-
-<!-- Source: page 13 -->
 
 ## Predicting Properties of Elements
 
@@ -353,8 +325,6 @@ Using your knowledge of atomic structure, predict if the ionization energy of Ch
 
 Answer:
 
-<!-- Source: page 14 -->
-
 - Chlorine has a larger atomic size and more electron shells.
 - This leads to weaker coulombic attraction between the nucleus and outer
 electrons
@@ -362,10 +332,6 @@ electrons
 
 - Fluorine has less shielding effect and the coulombic attraction to its valence
 electrons are stronger
-
-<!-- Source: page 15 -->
-
-## Valence Electrons & Ionic Compounds
 
 ## Valence electrons
 
@@ -378,7 +344,7 @@ atom
 
 ## The Beryllium Atom
 
-![Original source figure, page 15](markdown-assets/ap-chemistry-periodic-trends/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-015-figure-01.png)
 
 Beryllium electron configuration and valence electrons
 
@@ -392,8 +358,6 @@ bonding process: ionic bond and covalent bond
 
 - A covalent bond occurs between two nonmetals
 
-## Ion Charges & Valence Electrons
-
 ## Valence Electrons and the Periodic Table
 
 - Elements in the same group (columns) of the periodic table have the same number of
@@ -403,8 +367,6 @@ electrons in their valence shell
 
 - As you move across a period from left to right, without counting the transition metals,
 the number of valence electrons increases by one
-
-<!-- Source: page 16 -->
 
 ## Formation of Ions
 
@@ -422,7 +384,7 @@ Noble gasses have a stable electron configuration because of their full outer sh
 
 ## Sodium Atom Becoming a Sodium Ion
 
-![Original source figure, page 16](markdown-assets/ap-chemistry-periodic-trends/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-016-figure-01.png)
 
 Formation of positively charged sodium ion - sodium loses 1 electron to become a sodium ion
 
@@ -435,11 +397,9 @@ Formation of positively charged sodium ion - sodium loses 1 electron to become a
 - The electrostatic attraction between a positive ion (cation) and a negative ion (anion) is
 defined as an ionic bond
 
-<!-- Source: page 17 -->
-
 ## Chlorine Atom Becoming a Chloride Ion
 
-![Original source figure, page 17](markdown-assets/ap-chemistry-periodic-trends/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-017-figure-01.png)
 
 Formation of negatively charged chloride ion - it gains 1 electron to become a chloride ion
 
@@ -470,8 +430,6 @@ electrons, therefore, the common charge for all the elements is 3−
 - Elements in the Group 6 (skipping the transition metals) tend to gain two valence
 electrons, therefore, the common charge for all the elements is 2−
 
-<!-- Source: page 18 -->
-
 - E.g. Oxygen (O) tend to form O<sup>2−</sup> anion
 - Elements in the Group 7 (skipping the transition metals) tend to gain one valence
 electron, therefore, the common charge for all the elements is 1−
@@ -484,5 +442,3 @@ compounds with those elements
 ## Examiner Tips and Tricks
 
 From Group 1 to Group 3, the positive charge is equal to: charge = number of group. From Group 5 to Group 7, the negative charge is equal to: charge = number of group - 8. This trick works only if the groups of the transition metals are not numbered
-
-> 来源：© 2025 Save My Exams, Ltd.

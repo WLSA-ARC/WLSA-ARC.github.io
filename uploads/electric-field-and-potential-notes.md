@@ -1,11 +1,9 @@
 # Electric Field and Potential Notes
 
-<!-- Source: page 1 -->
-
 ## 1 Charge is quantized
 
 $$|e|=1.6\times10^{-19}\ \mathrm C.$$
-Smallest amount of charge, cannot be divided. Margin symbol: $q$.
+Smallest amount of charge, cannot be divided.
 
 ## 2 Coulomb's law
 
@@ -13,7 +11,7 @@ Like charges repel; unlike charges attract.
 $$\vec F=k\left|\frac{q_1q_2}{r^2}\right|.$$
 $$k=9\times10^9\ \mathrm{N\,m^2/C^2},\qquad k=\frac1{4\pi\varepsilon_0},\quad\varepsilon_0=8.85\times10^{-12}\ \mathrm{C^2/(N\,m^2)}.$$
 
-Margin spanning Coulomb's law and electric field: VECTOR SUPER POSITION.
+Coulomb's law and electric fields: **vector superposition**.
 
 ## 3 Electric Field
 
@@ -37,8 +35,6 @@ $$dQ=\lambda\,d\ell=\lambda R\,d\theta,\qquad
 
 ![Charged semicircular arc](markdown-assets/electric-field-and-potential-notes/p1-semicircle.png)
 
-<!-- Source: page 2 -->
-
 ## 3 Gauss Law
 
 ### 1 Electric Flux
@@ -52,7 +48,7 @@ The diagram labels a field vector and area vector; $\theta$ is their angle.
 
 ### 2 Symmetry of electric field
 
-几何对称会推出电场对称，〔原文此处无法辨认〕。
+几何对称会推出电场对称。
 
 ![Original symmetry note](markdown-assets/electric-field-and-potential-notes/p2-symmetry-note.png)
 ![Cylinder and plane symmetry diagrams](markdown-assets/electric-field-and-potential-notes/p2-symmetry.png)
@@ -69,8 +65,6 @@ $$\Phi_{\mathrm{en}}=EA\times2=\frac{Q_{\mathrm{en}}}{\varepsilon_0}=\frac{\sigm
 The Gaussian cylinder passes through the plate; arrows $E$ point away from both faces; the figure labels $r$ on each side.
 
 ![Plate and Gaussian cylinder](markdown-assets/electric-field-and-potential-notes/p2-plate.png)
-
-<!-- Source: page 3 -->
 
 ## 4 Conductor and insulator
 
@@ -97,7 +91,6 @@ $$\Delta U=-W_{\mathrm{CF}},\qquad\Delta U_E=-W_E.$$
 $$\therefore W_{A\to B}=\int_A^B\frac{kQ_1Q_2}{r^2}\,dr=-\frac{kQQ_2}{r_B}+\frac{kQQ_2}{r_A}.$$
 $$U_B-U_A=-W_{A\to B}=\frac{kQQ_2}{r_B}-\frac{kQQ_2}{r_A}.$$
 $$\therefore U=\frac{kQQ_2}{r}\qquad(\text{thus when }r\to\infty,\ U=0).$$
-〔积分式写 $Q_1$，其后省为 $Q$，按原稿保留。〕
 
 ### 2 In uniform electric field
 
@@ -106,8 +99,6 @@ $$\therefore\Delta U=-Eqd=-qEr\cos\theta.$$
 The displacement $A\to B$ makes angle $\theta$ to the horizontal field.
 
 ![Uniform field displacement](markdown-assets/electric-field-and-potential-notes/p3-uniform-field.png)
-
-<!-- Source: page 4 -->
 
 ### 3 In a system
 

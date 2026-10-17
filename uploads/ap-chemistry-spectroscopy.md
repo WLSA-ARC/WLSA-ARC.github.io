@@ -1,15 +1,9 @@
-<!-- Source: page 1 -->
-
-## Spectroscopy
-
 ## Contents
 
 - The Electromagnetic Spectrum
 - Transitions Associated with Radiation
 - Properties of Photons
 - Beer-Lambert Law
-
-<!-- Source: page 2 -->
 
 ## The Electromagnetic Spectrum
 
@@ -29,7 +23,7 @@ wavelength and energy
 
 ## The electromagnetic spectrum diagram
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-spectroscopy/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-002-figure-01.png)
 
 The electromagnetic spectrum spans a broad spectrum from very long radio waves to very short gamma rays
 
@@ -37,8 +31,6 @@ The electromagnetic spectrum spans a broad spectrum from very long radio waves t
 frequencies
 
 - The speed of light (c) is a constant and it has a value of 998 x 10<sup>8</sup> ms<sup>-1</sup>
-
-<!-- Source: page 3 -->
 
 - Molecules behave in particular ways when they are exposed to radiation of different
 frequencies
@@ -48,10 +40,6 @@ frequencies
 
 - When exposed to ultraviolet or visible radiation, the electrons will jump between
 energy shells
-
-<!-- Source: page 4 -->
-
-## Transitions Associated with Radiation
 
 ## Transitions Associated with Microwave Radiation
 
@@ -76,7 +64,7 @@ radiation that is absorbed
 
 ## Rotational axis in a water molecule
 
-![Original source figure, page 4](markdown-assets/ap-chemistry-spectroscopy/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-004-figure-01.png)
 
 Different rotational axis in a water molecule
 
@@ -84,8 +72,6 @@ Different rotational axis in a water molecule
 microwave oven
 
 - The microwave oven transfer rotational energy to the water molecules in your food
-
-<!-- Source: page 5 -->
 
 ## Transitions Associated with Infrared Radiation
 
@@ -108,7 +94,7 @@ absorbed
 
 ## Modes of vibration for the CO₂ molecule
 
-![Original source figure, page 5](markdown-assets/ap-chemistry-spectroscopy/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-005-figure-01.png)
 
 Different modes of vibration in a CO<sub>2</sub> molecule. Each mode has a characteristic frequency of vibration
 
@@ -122,8 +108,6 @@ spectrum
 
 - When they absorb a photon, they are promoted to an excited state
 
-<!-- Source: page 6 -->
-
 - The energy of visible and ultraviolet photons is high enough to stimulate electronic
 transitions
 - Therefore, the electrons are promoted from low energy orbitals to high energy
@@ -133,7 +117,7 @@ orbitals
 
 ## Absorption and Emission diagram
 
-![Original source figure, page 6](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-01.png)
 
 The difference between absorption and emission depends on whether electrons are jumping from lower to higher energy levels or the other way around
 
@@ -151,15 +135,9 @@ to reach vibrational and rotational excited states
 
 ## Summary of the molecular and electronic transitions
 
-![Original source figure, page 6](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-02.png)
-
-<!-- Source: page 7 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-02.png)
 
 Electronic, vibration and rotational excited states associated with an specific region of the electromagnetic spectrum
-
-<!-- Source: page 8 -->
-
-## Properties of Photons
 
 ## Photons
 
@@ -197,13 +175,11 @@ equal to the energy of the photon
 
 ## Absorption and Emission diagram
 
-![Original source figure, page 8](markdown-assets/ap-chemistry-spectroscopy/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-008-figure-01.png)
 
 The difference between absorption and emission depends on whether electrons are jumping from lower to higher energy levels or the other way around
 
 ## The Hydrogen Emission Spectrum
-
-<!-- Source: page 9 -->
 
 - Niels Bohr constructed the hydrogen emission spectrum where he showed the energy
 released when electrons jump from higher shells to lower shells
@@ -217,7 +193,7 @@ electromagnetic spectrum
 
 ## Regions of the electromagnetic spectrum
 
-![Original source figure, page 9](markdown-assets/ap-chemistry-spectroscopy/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-009-figure-01.png)
 
 Electron jumps in the hydrogen spectrum
 
@@ -230,10 +206,6 @@ Electron jumps in the hydrogen spectrum
 | $n_{\infty}\rightarrow n_3$ | Infrared | Low |
 | $n_{\infty}\rightarrow n_2$ | Visible | ↓ |
 | $n_{\infty}\rightarrow n_1$ | Ultraviolet | High |
-
-## Energy of Photons
-
-<!-- Source: page 10 -->
 
 ## Frequency, Wavelength and Energy
 
@@ -281,8 +253,6 @@ $$v=\frac{E}{h}$$
 
 $$v=\frac{1.632\times10^{-18}\ \mathrm{J}}{6.626\times10^{-34}\ \mathrm{J\,s}}$$
 
-<!-- Source: page 11 -->
-
 v = 2.463 × 10<sup>15</sup> s<sup>-1</sup>
 
 Step 2: Use the frequency calculated in Step 1 to calculate the wavelength of the photon
@@ -294,10 +264,6 @@ $$\lambda=\frac{c}{v}$$
 $$\lambda=\frac{2.998\times10^8\ \mathrm{m\,s^{-1}}}{2.463\times10^{15}\ \mathrm{s^{-1}}}$$
 
 $$\lambda=1.217\times10^{-7}\ \mathrm{m}$$
-
-<!-- Source: page 12 -->
-
-## Beer-Lambert Law
 
 ## Principles of the Beer-Lambert Law
 
@@ -344,9 +310,7 @@ sample, by comparing its absorbance with the absorbance of standards
 
 ## Example of Calibration Curve
 
-<!-- Source: page 13 -->
-
-![Original source figure, page 13](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-01.png)
 
 Graph showing a calibration curve Absorbance vs Concentration
 
@@ -359,9 +323,7 @@ There is a high probability that you will be assessed in Beer-Lambert Law either
 A student has prepared an experiment to determine the concentration of X (aq) in an
 unknown sample. The absorbance at different concentrations is shown below:
 
-![Original source figure, page 13](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-02.png)
-
-<!-- Source: page 14 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-02.png)
 
 Calibration curve built using standard samples of X
 
@@ -409,8 +371,6 @@ $$A+0.02=60c$$
 
 $$c=\frac{A+0.02}{60}$$
 
-<!-- Source: page 15 -->
-
 Step 4: Calculate the concentration of X in the unknown sample, using the absorbance given in the problem statement by replacing its value in the equation obtained in st
 
 $$c=\frac{A+0.02}{60}$$
@@ -419,8 +379,4 @@ c=0.275+0.0260
 
 c=4.92×10−3 M
 
-<!-- Transcription note: The final two source expressions are printed with a run-together denominator and baseline -3. They are retained as printed, with the original calculation crop below. -->
-
 ![Original final calculation as printed](markdown-assets/ap-chemistry-spectroscopy/page-015-calculation-original.png)
-
-> 来源：© 2025 Save My Exams, Ltd.

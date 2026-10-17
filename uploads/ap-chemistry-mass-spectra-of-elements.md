@@ -1,13 +1,7 @@
-<!-- Source: page 1 -->
-
-## Mass Spectra of Elements
-
 ## Contents
 
 - Mass Spectrum of an Element
 - Average Atomic Mass
-
-<!-- Source: page 2 -->
 
 ## Mass Spectrum of an Element
 
@@ -18,7 +12,7 @@ determined using a mass spectrometer
 
 ## Sample mass spectrum
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-002-figure-01.png)
 
 The mass spectrum of chlorine with peaks for the isotopes chlorine-35 and chlorine-37 have abundances of 25% and 75% respectively
 
@@ -27,9 +21,7 @@ using the approximate isotopic mass and abundance from a mass spectrum
 
 ## Worked Example
 
-<!-- Source: page 3 -->
-
-![Original source figure, page 3](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-003-figure-01.png)
 
 Based on the mass spectrum of a pure element shown above, what is the most likely identity of the element?
 
@@ -57,8 +49,6 @@ has isotopes of significant abundance with masses of 66 and 68
 ## Examiner Tips and Tricks
 
 Note that some textbooks will use the terms relative abundance and percent abundance interchangeably.
-
-<!-- Source: page 4 -->
 
 ## Average Atomic Mass
 
@@ -109,8 +99,6 @@ Answer:
 × relative abundance)<sub>2</sub>
 $10.81 = 10.01x + 11.01y$
 
-<!-- Source: page 5 -->
-
 - Substituting the value of x
 
 - 10.81 = 10.01(1–y) + 11.01y
@@ -149,5 +137,3 @@ Answer:
 - average atomic mass = (106.91 amu × 0.5180) + (108.90 amu × 0.4820)
 - average atomic mass = 55.38 amu + 52.49 amu
 - average atomic mass = 107.87 amu
-
-> 来源：© 2025 Save My Exams, Ltd.

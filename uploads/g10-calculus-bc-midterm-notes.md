@@ -1,7 +1,5 @@
 # G10 Calculus BC Midterm Notes
 
-<!-- Source: page 1 -->
-
 ## Limits
 
 Why is the equation of $PQ$
@@ -12,7 +10,7 @@ $$\frac{y-y_1}{x-x_1}=\frac{y_2-y_1}{x_2-x_1}\quad\therefore\quad y-y_1=\frac{y_
 $$\lim_{x\to c}f(x)=L.$$
 If $f(x)$ is arbitrarily close to the number $L$ for all $x$ sufficiently close to $c$ (other than $c$ itself), we say that $f$ approaches the limit $L$ as $x$ approaches $c$.
 
-Margin: the function value doesn't matter; the trend matters. $\lim_{x\to c}f(x)\ne f(c)$.
+The function value doesn't matter; the trend matters. $\lim_{x\to c}f(x)\ne f(c)$.
 
 $$\lim_{n\to\infty}\left(1+\frac1n\right)^n=e.$$
 
@@ -39,12 +37,9 @@ If $\lim_{x\to c}f(x)=L$, $\lim_{x\to c}g(x)=M$, then:
 
 Polynomial Function Limits Law:
 $$f(x)=a_1x^n+a_2x^{n+1}+a_3x^{n+2}+\cdots+a_{n+1},\qquad\lim_{x\to c}f(x)=f(c).$$
-〔上式各幂次按原稿书写保留。〕
 
 Rational Functions Limits Law: $p(x),q(x)$ are polynomials.
 $$f(x)=\frac{p(x)}{q(x)}\text{ (rational function)},\ q(x)\ne0,\quad\lim_{x\to c}f(x)=f(c).$$
-
-<!-- Source: page 2 -->
 
 $$\lim_{x\to c}f(g(x))=f\left(\lim_{x\to c}g(x)\right)\quad\left(\lim_{x\to c}g(x)\text{ exists}\right).$$
 $$\lim_{x\to c^+}f(g(x))=f\left(\lim_{x\to c^+}g(x)\right),\qquad\lim_{x\to c^-}f(g(x))=f\left(\lim_{x\to c^-}g(x)\right).$$
@@ -84,8 +79,6 @@ $$\lim_{x\to a^+}f(x)=f(a)\Rightarrow f(x)\text{ is continuous at left endpoint 
 $$\lim_{x\to b^-}f(x)=f(b)\Rightarrow f(x)\text{ is continuous at right endpoint }b.$$
 
 ![Squeeze theorem and endpoint continuity diagrams](markdown-assets/g10-calculus-bc-midterm-notes/p2-diagrams.png)
-
-<!-- Source: page 3 -->
 
 Discontinuity = not continuous.
 
@@ -138,8 +131,6 @@ If $f'(x_0)$ exists, we say that $f$ is differentiable at point $x=x_0$.
 
 A function is differentiable if every point on its domain is differentiable.
 
-<!-- Source: page 4 -->
-
 Five Types of functions without a derivative at a point:
 
 Discontinuity; Corner; Cusp ($x^{2/3}$); Vertical tangent line; Oscillating.
@@ -169,8 +160,8 @@ $$\begin{aligned}
 &=\lim_{h\to0}\frac{nx_0^{n-1}h+2x_0^{n-2}h^2+\cdots+h^n}{h}\\
 &=\lim_{h\to0}\left(nx_0^{n-1}+2x_0^{n-2}h+\cdots+h^{n-1}\right)=nx_0^{n-1}.
 \end{aligned}$$
-〔展开式中的系数“2”按原稿保留，见局部原图。〕
-![Power rule proof original](markdown-assets/g10-calculus-bc-midterm-notes/p4-power-proof.png)
+
+![Power rule proof](markdown-assets/g10-calculus-bc-midterm-notes/p4-power-proof.png)
 
 Constant Multiple: $f(x)=cu(x)\Rightarrow f'(x)=cu'(x)$ ($u$ is differentiable).
 
@@ -191,17 +182,11 @@ Quotient: $f(x)=\frac{u(x)}{v(x)}\Rightarrow f'(x)=\frac{u'(x)v(x)-u(x)v'(x)}{v^
 | $\sec x=\frac1{\cos x}$ | $\frac{\sin x}{\cos^2x}=\sec x\tan x$ |
 | $\csc x=\frac1{\sin x}$ | $-\frac{\cos x}{\sin^2x}=-\csc x\cot x$ |
 
-<!-- Source: page 5 -->
-
 ### The Chain Rule for Derivatives
 
 If $g$ is differentiable at $x$, and $f$ is differentiable at $g(x)$,
 $$ (f\circ g)'=f'(g(x))\,g'(x),$$
 $$ (f\circ g\circ h)'=f'(g(h(x)))\,g'(h(x))\,h'(x).$$
-
-## Implicit Differentiation
-
-〔原稿此标题下没有另写正文。〕
 
 ## Derivative of Inverse Function
 
@@ -226,7 +211,7 @@ $$\because\cos y\ge0,\quad\therefore\frac{dy}{dx}=\frac1{\sqrt{1-x^2}}.$$
 2. $y=\cos^{-1}x$, domain $[-1,1]$, range $[0,\pi]$ $\Rightarrow y'=-\frac1{\sqrt{1-x^2}}$.
 3. $y=\tan^{-1}x$, domain $\mathbb R$, range $(-\pi/2,\pi/2)$ $\Rightarrow y'=\frac1{1+x^2}$.
 
-Graph margin formulas:
+Derivative formulas:
 
 - inverse sin: $y'=\frac1{\sqrt{1-x^2}}$; endpoints not differentiable.
 - inverse cos: $y'=-\frac1{\sqrt{1-x^2}}$; endpoints not differentiable.

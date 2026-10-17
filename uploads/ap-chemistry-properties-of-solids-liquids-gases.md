@@ -1,7 +1,3 @@
-<!-- Source: page 1 -->
-
-## Properties of Solids, Liquids & Gases
-
 ## Contents
 
 - Explaining the Properties of Solids & Liquids
@@ -13,10 +9,6 @@
 - The Structure of Solids
 - The Liquid Phase
 - The Gas Phase
-
-<!-- Source: page 2 -->
-
-## Explaining the Properties of Solids & Liquids
 
 ## Vapor Pressure & Boiling Point
 
@@ -58,9 +50,7 @@ space above the liquid
 
 ## Vapor Pressure
 
-<!-- Source: page 3 -->
-
-![Original source figure, page 3](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-003-figure-01.png)
 
 A vapor pressure develops in the evacuated closed container as an equilibrium is established between the rate of vaporization of liquid ethanol and the rate of condensation of gaseous ethanol.
 
@@ -92,8 +82,6 @@ there is a greater attraction between the molecules
 the liquid (atmospheric pressure, unless the vessel containing the liquid is closed) is
 called the boiling point of the liquid
 
-<!-- Source: page 4 -->
-
 - The temperature at which a given liquid boils increases with increasing external
 pressure.
 - When the pressure is 1 atm, the boiling point is known as normal boiling point
@@ -105,7 +93,7 @@ boiling point
 
 ## Vapor Pressure Vs Temperature Graph
 
-![Original source figure, page 4](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-004-figure-01.png)
 
 A graph showing the relationship between vapor pressure of several covalent compounds and their boiling points
 
@@ -119,8 +107,6 @@ A graph showing the relationship between vapor pressure of several covalent comp
 
 - The temperature at which a solid melts is called the melting point, which is identical
 to the freezing point
-
-<!-- Source: page 5 -->
 
 - Melting or freezing occurs at the temperature where the liquid and solid are in dynamic
 equilibrium
@@ -142,7 +128,7 @@ F<sub>2</sub> < Cl<sub>2</sub> < Br<sub>2</sub> < I<sub>2</sub> < At<sub>2</sub>
 
 ## Melting & boiling points of the Group 7a elements
 
-![Original source figure, page 5](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-005-figure-01.png)
 
 The melting & boiling points of the Group 7a elements increase going down the group as the strength of the intermolecular forces increase
 
@@ -150,8 +136,6 @@ The melting & boiling points of the Group 7a elements increase going down the gr
 
 - The properties of solids and liquids can be better understood by showing the
 arrangement of particles in each state
-
-<!-- Source: page 6 -->
 
 - The particles in a solid experience intermolecular forces that are strong enough to
 restrict their movement
@@ -179,11 +163,9 @@ times
 
 ## Particulate Representation of Solid and Liquid
 
-![Original source figure, page 6](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-006-figure-01.png)
 
 In a solid, particles are closely packed and can only exhibit vibrational motion about their fixed positions. However, in a liquid, particles are not as closely packed as solids and are capable of both vibrational and translational motion meaning the liquid substance can flow.
-
-<!-- Source: page 7 -->
 
 ## Properties of Ionic Solids
 
@@ -217,7 +199,7 @@ negative ions to give a solid crystal lattice
 
 ## Ionic Solid Crystal Lattice
 
-![Original source figure, page 7](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-007-figure-01.png)
 
 A diagram showing the regular arrangement of alternating positive and negative ions that make up an ionic solid
 
@@ -227,8 +209,6 @@ the ions get smaller
 ## Properties of Ionic Solids
 
 - Ionic solids generally have high melting points and high boiling points
-
-<!-- Source: page 8 -->
 
 - This is a result of the strong electrostatic attraction between the oppositely
 charged ions
@@ -252,7 +232,7 @@ crystal lattice
 
 ## Brittleness of Ionic Solids
 
-![Original source figure, page 8](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-008-figure-01.png)
 
 The image shows the effect of applying a shear stress to an ionic solid. The crystal separates along a plane of atoms and leads to repulsive interaction between ions with like charges
 
@@ -262,13 +242,7 @@ The image shows the effect of applying a shear stress to an ionic solid. The cry
 
 - Sodium chloride (Common salt)
 
-<!-- Source: page 9 -->
-
 - Zinc sulfide (also known as zinc blende)
-
-<!-- Source: page 10 -->
-
-## Covalent Network Solids
 
 ## Diamond
 
@@ -302,9 +276,7 @@ single covalent bonds
 
 ## Diamond
 
-![Original source figure, page 10](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-010-figure-01.png)
-
-<!-- Source: page 11 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-010-figure-01.png)
 
 Diagram showing the tetrahedral structure of diamond
 
@@ -345,9 +317,7 @@ bonding
 
 ## Graphite
 
-<!-- Source: page 12 -->
-
-![Original source figure, page 12](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-012-figure-01.png)
 
 Diagram showing the bonding and structure of graphite
 
@@ -377,9 +347,7 @@ number of strong covalent bonds in the solid
 
 ## Silicon Dioxide Structure
 
-<!-- Source: page 13 -->
-
-![Original source figure, page 13](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-013-figure-01.png)
 
 Diagram showing the tetrahedral structure of silicon dioxide. The red atoms are oxygen and the blue atoms are silicon
 
@@ -408,8 +376,6 @@ added
 - Like in diamond, the hardness of silicon carbide is derived from the tetrahedral
 structure of silicon and carbon atoms which are held together by strong covalent
 
-<!-- Source: page 14 -->
-
 bonds
 - This makes it useful as a cutting tool, bearings and mechanical seals
 - Silicon carbide is resistant to high temperature
@@ -422,11 +388,9 @@ materials
 
 ## Silicon Carbide Structure
 
-![Original source figure, page 14](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-014-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-014-figure-01.png)
 
 Diagram showing the compact crystal structure of silicon carbide. The black atoms are carbon and the blue atoms are silicon
-
-<!-- Source: page 15 -->
 
 ## Molecular Solids
 
@@ -454,7 +418,7 @@ melt/decompose(as in the case of sucrose) at higher temperatures
 
 ## Molecular Solid structure
 
-![Original source figure, page 15](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-015-figure-01.png)
 
 Solid carbon dioxide (CO<sub>2</sub>) consists of small, nonpolar molecules forming a molecular solid with a melting point of −78 °C, while iodine (I<sub>2</sub>) consists of larger, nonpolar molecules forms a molecular solid with a melting point of 114 °C
 
@@ -466,8 +430,6 @@ Solid carbon dioxide (CO<sub>2</sub>) consists of small, nonpolar molecules form
 
 - Unlike covalent network solids, molecular solids have variable hardness and brittleness
 but can be considered to be generally soft and brittle
-
-<!-- Source: page 16 -->
 
 ## Metallic Solids
 
@@ -483,11 +445,9 @@ delocalized electrons
 
 ## Bonding in metallic solids
 
-![Original source figure, page 16](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-016-figure-01.png)
 
 Diagram showing the interaction between the “sea” of delocalized valence electrons and positive metal ions
-
-<!-- Source: page 17 -->
 
 ## Properties of Metallic Solids
 
@@ -548,9 +508,7 @@ substituted with zinc atoms
 
 ## Substitutional Alloy
 
-<!-- Source: page 18 -->
-
-![Original source figure, page 18](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-018-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-018-figure-01.png)
 
 Diagram of brass showing zinc atoms occupying some of the positions in a lattice of carbon atoms
 
@@ -578,13 +536,9 @@ delocalized electrons are retained in the alloys
 
 ## Interstitial Alloy
 
-<!-- Source: page 19 -->
-
-![Original source figure, page 19](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-019-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-019-figure-01.png)
 
 Diagram of steel showing carbon atoms occupying the “holes” in a lattice of iron atoms
-
-<!-- Source: page 20 -->
 
 ## Noncovalent Interactions in Large Molecules
 
@@ -599,7 +553,7 @@ monomers
 
 ## Chemical Structures of Starch and Cellulose
 
-![Original source figure, page 20](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-020-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-020-figure-01.png)
 
 Diagram showing the structures of the starch polymer made from the α-glucose monomers while the cellulose polymer is made from β-glucose monomers
 
@@ -612,8 +566,6 @@ bond and the lone electron pairs of very electronegative atoms such as
 nitrogen, oxygen and fluorine
 
 - Electrostatic/Ionic interactions
-
-<!-- Source: page 21 -->
 
 - These are attractive interactions observed in molecules with permanent dipoles
 - Hydrophobic interactions
@@ -634,11 +586,9 @@ proteins and phenolic compounds found in plant-based foods
 
 ## Noncovalent Interactions between Proteins and Ferulic Acid
 
-![Original source figure, page 21](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-021-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-021-figure-01.png)
 
 Diagram showing possible non-covalent interactions between proteins and Ferulic acid
-
-<!-- Source: page 22 -->
 
 ## The Structure of Solids
 
@@ -696,13 +646,9 @@ arranged in an orderly pattern
 
 ## Structures of crystalline and amorphous solids
 
-<!-- Source: page 23 -->
-
-![Original source figure, page 23](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-023-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-023-figure-01.png)
 
 The particles in solids may be arranged in a regular repeating pattern (crystalline) or randomly (amorphous)
-
-<!-- Source: page 24 -->
 
 ## The Liquid Phase
 
@@ -714,7 +660,7 @@ means that liquids can flow
 
 ## Liquid Phase
 
-![Original source figure, page 24](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-024-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-024-figure-01.png)
 
 Diagram showing the arrangement and movement of particles that make up the liquid phase
 
@@ -742,8 +688,6 @@ unit amount— increases with increasing strength of intermolecular force
 
 - Viscosity, which measures the resistance to the flow of liquids also increases with
 increasing intermolecular attraction but decreases with increasing temperature
-
-<!-- Source: page 25 -->
 
 - Vapor pressure and boiling point of a liquid are dependent on the strength of the
 intermolecular force between the particles of the liquid
@@ -775,8 +719,6 @@ conditions
 | Palladium (Pd) | 8.9 | 9.1 |
 
 The table shows that the molar volumes of metals are similar in both solid and liquid states. The slight differences in value are due to the small space between the particles of the metals in the liquid state, allowing them to flow.
-
-<!-- Source: page 26 -->
 
 ## The Gas Phase
 
@@ -814,8 +756,6 @@ explained by the kinetic molecular theory
 
 ## Gas Particles
 
-![Original source figure, page 26](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-026-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-026-figure-01.png)
 
 Diagram showing the arrangement and movement of gas particles
-
-> 来源：© 2025 Save My Exams, Ltd.

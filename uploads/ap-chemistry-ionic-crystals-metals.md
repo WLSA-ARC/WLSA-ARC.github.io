@@ -1,15 +1,9 @@
-<!-- Source: page 1 -->
-
-## Ionic Crystals & Metals
-
 ## Contents
 
 - Ionic Crystals
 - Representing Metallic Bonding
 - Interstitial Alloys
 - Substitutional Alloys
-
-<!-- Source: page 2 -->
 
 ## Ionic Crystals
 
@@ -32,7 +26,7 @@ equally charged ions
 
 ## Ionic Lattice
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-ionic-crystals-metals/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-002-figure-01.png)
 
 Ionic crystals are arranged in lattice structures
 
@@ -42,8 +36,6 @@ Ionic crystals are arranged in lattice structures
 attraction between the positive and negative ions
 
 - The strength of the Coulombic forces increase if:
-
-<!-- Source: page 3 -->
 
 - The charge of the ions increase because the force of attraction is proportional to
 the magnitude of the charge
@@ -69,11 +61,9 @@ bigger ion
 
 ## Ionic Compound in a Solid and Molten / Solution
 
-![Original source figure, page 3](markdown-assets/ap-chemistry-ionic-crystals-metals/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-003-figure-01.png)
 
 Molten or aqueous ions move freely but cannot in solid form
-
-<!-- Source: page 4 -->
 
 ## Examiner Tips and Tricks
 
@@ -105,8 +95,6 @@ Therefore, the Coulombic attractions are weaker
 - C is not correct. Even if Te<sup>2−</sup> has a 2− negative charge, its radius is bigger
 compared to S<sup>2−</sup>. Therefore, the forces of attractions are weaker in Te<sup>2−</sup>
 
-<!-- Source: page 5 -->
-
 ## Representing Metallic Bonding
 
 - In a metal, metal cations arranged in a fixed lattice are surrounded by delocalized
@@ -116,7 +104,7 @@ valence electrons
 
 ## A metallic lattice
 
-![Original source figure, page 5](markdown-assets/ap-chemistry-ionic-crystals-metals/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-005-figure-01.png)
 
 Diagram showing metallic lattice structure with delocalized electrons
 
@@ -139,13 +127,9 @@ sea of delocalized electrons, most metals tend to have high melting points
 | --- | --- | --- | --- | --- |
 | Melting Point (°C) | 649.85 | 1084.62 | 29.76 | 1768.40 |
 
-<!-- Source: page 6 -->
-
 ## Examiner Tips and Tricks
 
 Network covalent solids also have high melting points. However, metals are good conductors of electricity while most network covalent solids (excluding graphite) are not.
-
-<!-- Source: page 7 -->
 
 ## Interstitial Alloys
 
@@ -165,15 +149,13 @@ interstices or spaces between the larger atoms
 
 ## Diagram of an interstitial alloy
 
-![Original source figure, page 7](markdown-assets/ap-chemistry-ionic-crystals-metals/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-007-figure-01.png)
 
 Diagram of steel showing carbon atoms occupying the interstices in a lattice of iron atoms
 
 ## Examiner Tips and Tricks
 
 Alloys containing elements found in the first two periods of the periodic table are typically interstitial alloys.
-
-<!-- Source: page 8 -->
 
 ## Substitutional Alloys
 
@@ -186,8 +168,6 @@ atoms in the lattice
 
 ## Diagram of a substitutional alloy
 
-![Original source figure, page 8](markdown-assets/ap-chemistry-ionic-crystals-metals/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-008-figure-01.png)
 
 Diagram of brass showing zinc atoms occupying some of the positions in a lattice of carbon atoms
-
-> 来源：© 2025 Save My Exams, Ltd.

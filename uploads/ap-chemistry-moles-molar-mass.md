@@ -1,5 +1,3 @@
-<!-- Source: page 1 -->
-
 ## Moles & Molar Mass
 
 ### Contents
@@ -8,11 +6,7 @@
 - Masses & Particles
 - Molar Mass
 
-<!-- Source: page 2 -->
-
 ## The Mole Concept
-
-### The Mole Concept
 
 - The number of particles that react in a chemical experiment cannot be directly determined because the size and mass of an individual particle is so small
 - Moles are used to relate the mass of a sample to the number of particles it contains
@@ -31,11 +25,7 @@ Number of constituent particles = $N_A \times n$
 
 Note that some textbooks will use the terms Avogadro’s constant and Avogadro’s number interchangeably.
 
-<!-- Source: page 3 -->
-
 ## Masses & Particles
-
-### Masses & Particles
 
 - The average mass of an individual atom, molecule, or formula unit is reported in atomic mass units (amu)
 - **Molar mass** ($M$) is the mass of one mole of a substance
@@ -55,11 +45,7 @@ Comparing average atomic mass and molar mass
 
 To solve multiple choice questions involving molar mass more quickly, use rounded atomic masses and memorize the atomic mass of common elements such as H, O, N, C, S, and Cl. However, be sure to use the atomic mass as written on the provided periodic table for all free response questions.
 
-<!-- Source: page 4 -->
-
 ## Molar Mass
-
-### Molar Mass
 
 The mass of a substance ($m$), the number of moles it contains, and its molar mass are related by
 
@@ -105,8 +91,4 @@ $$42.0\ \mathrm{g} \times \frac{1\ \mathrm{mol}}{86.172\ \mathrm{g}} \times \fra
 
 ### Examiner Tips and Tricks
 
-<!-- Source: page 5 -->
-
 The factor-label method uses conversions between units that are equivalent to convert from one unit to another. The original number is multiplied by a fraction made up of the equivalent units so that the units of the original number cancel with one of the units in the conversion. If this leads to the units for the answer then the problem is complete. If not, another conversion can be added.
-
-> 来源：© 2025 Save My Exams, Ltd.

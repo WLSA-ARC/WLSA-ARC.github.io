@@ -1,7 +1,5 @@
 # Physics Kinematics Review Notes
 
-<!-- Source: page 1 -->
-
 ## 1 Definition
 
 Acceleration: the rate of change in velocity. $a=\Delta v/\Delta t$.
@@ -12,7 +10,7 @@ Distance: length of route.
 
 Velocity: the rate of change in displacement.
 
-Speed: the rate of change in displacement.〔按原文保留。〕
+Speed: the rate of change in displacement.
 
 Position–Time graph: secant slope $v_{\rm avg}$; tangent slope $v_{\text{瞬}}$。一个 $s$–$t$ 图只能表示直线运动。
 
@@ -38,11 +36,8 @@ Calculus: 分割成无限多个正方形。
 
 Example sketch: initial velocity $83.9\ \mathrm{m/s}$, stopping distance $195\ \mathrm m$.
 $$195=-\frac{83.9^2}{2a}\Rightarrow390a=-83.9^2,\qquad a=-\frac{83.9^2}{390}=18.0\ \mathrm{m/s^2}.$$
-〔末尾正号按原稿保留。〕
 
 ![Position, velocity, and shaded-area diagrams](markdown-assets/physics-kinematics-review-notes/p1-graphs.png)
-
-<!-- Source: page 2 -->
 
 Practice:
 
@@ -60,7 +55,7 @@ $$x=h=\frac{v_f^2}{2a}=\frac{v_f^2}{2g},\qquad v_f^2=2gh.$$
 ### 1 上抛
 
 $$a=-g=9.8\ \mathrm{m/s^2}.$$
-〔数值前未写负号，按原稿保留。〕
+
 $$v_f=v_i-gt,$$
 $$x=h=v_it-\frac12gt^2,$$
 $$x=h=\frac{v_i^2-v_f^2}{2g}.$$
@@ -72,8 +67,6 @@ Origin point ($H=0$): $t=2v_i/g$, $v_f=-v_i$.
 Why $2t_h=t_0$? In the $v$–$t$ graph, the shaded triangles above and below the time axis are congruent; the line crosses at the highest point.
 
 ![Upward projection and congruent areas](markdown-assets/physics-kinematics-review-notes/p2-graphs.png)
-
-<!-- Source: page 3 -->
 
 ## 5 下抛
 
@@ -102,13 +95,10 @@ x:\begin{cases}v_x=v_i\\x=v_it\end{cases}.$$
 
 $$\begin{cases}v_x=v_i\cos\theta\,t\\x=v_i\cos\theta\,t\end{cases}\qquad
 \begin{cases}v_y=v_i\sin\theta-gt\\y=v_i\sin\theta\,t-\frac12gt^2\end{cases}.$$
-〔第一行 $v_x$ 后原稿写有 $t$，照录。〕
 
 斜抛图中初速度旁写有 $v_i=x$。
 
 ![Horizontal and angled projection diagrams](markdown-assets/physics-kinematics-review-notes/p3-graphs.png)
-
-<!-- Source: page 4 -->
 
 ### Range
 
@@ -140,11 +130,7 @@ $$a=\frac Fm=g\sin\theta.$$
 
 ![Inclined-plane force diagram](markdown-assets/physics-kinematics-review-notes/p4-incline.png)
 
-<!-- Source: page 5 -->
-
 ### 3 Newton's second law
-
-〔标题按原文保留。〕
 
 If two objects interact, the magnitude of the force exerted on object 1 by object 2 is equal to the magnitude of the force simultaneously.
 
@@ -158,10 +144,6 @@ c. 同类型。
 
 d. 同时存在，同时消失。
 
-〔原文此处无法辨认〕。该行末尾可见“gv.”，见原图。
-
-![Unclear handwritten line](markdown-assets/physics-kinematics-review-notes/p5-title.png)
-
 1. 弹力。
 
 The contact diagrams draw the force normals at a wall, a floor, an inclined surface, and the contact between two spheres.
@@ -173,8 +155,6 @@ Two spring sketches: each has $5\ \mathrm N$ outward at both ends. 受力相同�
 
 ![Contact forces and springs](markdown-assets/physics-kinematics-review-notes/p5-diagrams.png)
 
-<!-- Source: page 6 -->
-
 ## 3 连接体
 
 先整体，后隔离。
@@ -183,7 +163,6 @@ First sketch: $m_1=1\ \mathrm{kg}$ above $m_2=1\ \mathrm{kg}$, joined by a sprin
 $$\begin{cases}F-(m_1+m_2)g=(m_1+m_2)a,\\m_2:\ kx-m_2g=m_2a,\\a=10\ \mathrm{m/s},\\x=20\ \mathrm{cm}.
 \end{cases}$$
 $$\frac{40}{1}-2g=2a,\qquad10=kx,\qquad ka=20.$$
-〔右侧草算按原稿照录，见图。〕
 
 Second sketch: two $1\ \mathrm{kg}$ blocks joined by a spring, a marked $0.5\ \mathrm N$ by the spring, and $1\ \mathrm N$ to the right of the right block.
 $$\begin{cases}F=(m_1+m_2)a,\\m_2:\ N=m_2a.\end{cases}$$
@@ -206,8 +185,6 @@ $g=?$ Compare plots of $h$ versus $t$ and $h$ versus $t^2$. The $h$–$t^2$ plot
 ![Connected bodies and friction examples](markdown-assets/physics-kinematics-review-notes/p6-forces.png)
 ![Free fall graphs and data table](markdown-assets/physics-kinematics-review-notes/p6-freefall.png)
 
-<!-- Source: page 7 -->
-
 $u=v_i$, $v=v_f$.
 
 Lever sketch: $2\ \mathrm{kg}$ on the left, $1\ \mathrm{kg}$ on the right, upward $20\ \mathrm N$ and $10\ \mathrm N$ respectively, distances $0.1$ and $0.2$ from the marked center.
@@ -227,8 +204,6 @@ $$v_B=at_B=g\sin\theta\sqrt{\frac{2h}{g\sin^2\theta}}=\sqrt{2gh}.$$
 
 ![Lever, center of mass, stack, and descent diagrams](markdown-assets/physics-kinematics-review-notes/p7-diagrams.png)
 
-<!-- Source: page 8 -->
-
 Projectile trajectory: initial $v_0\sin\theta$ vertically, $v_0\cos\theta$ horizontally, vector $v$; the two halves of flight are each $\frac12t$.
 
 $t$: total time.
@@ -247,11 +222,7 @@ $$T_2-m_1g=m_1a.$$
 
 ![Projectile, incline, and connected pulley](markdown-assets/physics-kinematics-review-notes/p8-diagrams.png)
 
-<!-- Source: page 9 -->
-
 ## 1 Fictional force
-
-〔标题按原文保留。〕
 
 Graph: friction rises to a peak, drops, then is constant.
 $$f_s\le f_{s\max},\qquad f_{s\max}=\mu_sF_n.$$

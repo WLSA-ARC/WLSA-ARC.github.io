@@ -1,7 +1,5 @@
 # AP Statistics Handwritten Notes
 
-<!-- Source: page 1 -->
-
 ## U1 Exploring One Variable Data and Collecting Data
 
 ### 1.0 Introduction Statistics
@@ -32,8 +30,6 @@ The source gives a Frequency Table and a separate Relative Frequency Table with 
 Left graph: vertical axis Number of Students, heights 2, 1, 3, 4. Right graph: vertical axis Percent, heights 20, 10, 30, 40. Both horizontal axes list Cell Phone, Facebook, In person, Text messaging.
 
 ![Categorical bar graphs](markdown-assets/ap-statistics-handwritten-notes/p01-bar-graphs.png)
-
-<!-- Source: page 2 -->
 
 #### Pie Chart
 
@@ -94,8 +90,6 @@ Menu → Plot type → Histogram. Vertical axis Frequency (or relative frequency
 
 ![Dotplot, stemplots, and histogram](markdown-assets/ap-statistics-handwritten-notes/p02-plots.png)
 
-<!-- Source: page 3 -->
-
 **Bimodal**: two clear peaks; two centers; gap.
 
 **Uniform**: each bar height is approximately the same; no prominent peaks.
@@ -120,8 +114,6 @@ $$z=\frac{x-\mu}{\sigma}.$$
 → “'s … is … standard deviations above/below the mean of …”
 
 ![Bimodal and uniform curves](markdown-assets/ap-statistics-handwritten-notes/p03-curves.png)
-
-<!-- Source: page 4 -->
 
 #### Boxplot
 
@@ -168,8 +160,6 @@ Unimodal: single peak.
 
 ![Three unimodal distribution shapes](markdown-assets/ap-statistics-handwritten-notes/p04-shapes.png)
 
-<!-- Source: page 5 -->
-
 ### 1.5 Sampling and Surveys
 
 **Population**: the entire group of individuals we want information about.
@@ -202,8 +192,6 @@ How?
 
 **Census**: select all items/subjects in a population.
 
-<!-- Source: page 6 -->
-
 #### Sampling Bias
 
 Bias; Sampling variability.
@@ -228,8 +216,6 @@ Bias; Sampling variability.
 **Experiment**: Treatments are imposed; manipulate factor levels; compare responses.
 
 **Treatment**: the levels or combination of levels of the explanatory variable(s) are called treatments.
-
-<!-- Source: page 7 -->
 
 **Experimental units**: the individuals (which may be people or other objects of study).
 
@@ -266,8 +252,6 @@ Diagram: a circle “Confounding” lies inside a larger circle “extraneous.�
 
 **Control**: making conditions as similar as possible to control potential confounding variables.
 
-<!-- Source: page 8 -->
-
 #### Experimental Design
 
 **Completely Randomized Design**: Treatments are assigned to experimental units completely at random.
@@ -279,8 +263,6 @@ Diagram: a circle “Confounding” lies inside a larger circle “extraneous.�
 - Special case of randomized block design.
 - Using a blocking variable, subjects are arranged in pairs matched on relevant factors.
 - Each pair receives both treatments by randomly assigning one treatment to one member of the pair.
-
-<!-- Source: page 9 -->
 
 ## U2 Probability Random Variables and Probability Distributions
 
@@ -312,8 +294,6 @@ Horizontal axis Environmental Club Membership: No/Yes. Vertical axis Percent (0�
 
 ![Side by side bar graph](markdown-assets/ap-statistics-handwritten-notes/p09-bar.png)
 
-<!-- Source: page 10 -->
-
 #### Segmented Bar Graph
 
 Displays the same information as a pie chart. Horizontal axis Environmental Club Membership (No/Yes), vertical axis Percent (0–100). Legend Snowmobile Use: Never (blue), Rent (green), Own (yellow).
@@ -325,8 +305,6 @@ Displays the same information as a pie chart. Horizontal axis Environmental Club
 Horizontal axis Environmental Club Membership (No/Yes), vertical axis Percent (0–100). Legend Snowmobile Use: Never (blue), Rent (green), Own (yellow). The No column is wider than the Yes column.
 
 ![Mosaic plot](markdown-assets/ap-statistics-handwritten-notes/p10-mosaic.png)
-
-<!-- Source: page 11 -->
 
 ### 2.2 Density Curves and Normal Distributions
 
@@ -356,11 +334,8 @@ The curve labels intervals from −1 to 1, −2 to 2, −3 to 3 standard deviati
 
 #### Standard Normal Distribution
 
-The normal distribution having a mean of 0 and a standard deviation of 〔原稿此句未写完〕。
 $$z=\frac{x-\mu}{\sigma}.$$
 Margin: 一个 observation 距离 mean 相几个 SD; tells Distance & direction.
-
-<!-- Source: page 12 -->
 
 #### Finding Areas in a Normal Distribution
 
@@ -397,8 +372,6 @@ Range: $0\le P(A)\le1$.
 - $P(A)=0$: impossible.
 - $P(A)=1$: certain.
 
-<!-- Source: page 13 -->
-
 #### Simulation
 
 - Definition: using a random process to model real world random events.
@@ -426,15 +399,13 @@ As the number of trials increases, empirical probability tends to get closer to 
 
 **Sample Space**: List of all possible outcomes. $S=\{a,b,c\}$.
 
-**Event**: A collection of outcomes. Event $\in$ Sample Space.〔符号按原文保留。〕
+**Event**: A collection of outcomes. Event $\in$ Sample Space.
 
 **Equally Likely Outcomes**: If all outcomes in the sample space are equally likely,
 $$P(A)=\frac{\#\text{ of outcomes in event }A}{\text{total }\#\text{ of outcomes in sample space}}.$$
 
 **Complement Rule**: Complement of Event $A$: $A^c$.
 $$P(A^c)=1-P(A).$$
-
-<!-- Source: page 14 -->
 
 #### Disjoint Events Mutually Exclusive
 
@@ -451,7 +422,7 @@ Margin: $\cup=$ or (union); $\cap=$ and (intersection).
 
 #### Venn Diagrams and Probability
 
-Complement $A^c$: outside of $A$ shaded, $S$ rectangle. Union $A\cup B$: both overlapping circles shaded. Intersect $A\cap B$: only the overlap shaded. Margin under complement: $c=$ mutually exclusive.〔原稿浅色批注照录。〕
+Complement $A^c$: outside of $A$ shaded, $S$ rectangle. Union $A\cup B$: both overlapping circles shaded. Intersect $A\cap B$: only the overlap shaded. Margin under complement: $c=$ mutually exclusive.
 
 ![Complement, union, intersection Venn diagrams](markdown-assets/ap-statistics-handwritten-notes/p14-venn.png)
 
@@ -471,8 +442,6 @@ Multiplication Rule for Independent Events:
 $$P(A\cap B)=P(A)\cdot P(B).$$
 
 With replacement: independent. Without replacement: dependent.
-
-<!-- Source: page 15 -->
 
 #### Tree Diagram
 
@@ -510,8 +479,6 @@ $$\sigma_X=\sqrt{\sum(x_i-\mu_X)^2p_i}.$$
 - can take any value in an interval.
 - usually comes from measuring.
 - probability = area under the density curve.
-
-<!-- Source: page 16 -->
 
 ### 2.7 Binomial Distribution
 

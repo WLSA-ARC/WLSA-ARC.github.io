@@ -1,7 +1,3 @@
-<!-- Source: page 1 -->
-
-## Solutions & Mixtures
-
 ## Contents
 
 - Calculations About Solutions
@@ -11,8 +7,6 @@
 - Separation By Chromatography
 - Separation by Distillation
 - Solubility of Ionic & Molecular Compounds
-
-<!-- Source: page 2 -->
 
 ## Calculations About Solutions
 
@@ -65,8 +59,6 @@ $$n_{\mathrm{Pb(NO_3)_2}}=n_{\mathrm{Pb}^{2+}}=0.50\ \mathrm{mol}$$
 
 $$n_{\mathrm{NO_3}^{-}}=2\times n_{\mathrm{Pb}^{2+}}=2\times0.50=1.0\ \mathrm{mol}$$
 
-<!-- Source: page 3 -->
-
 - Step 3: Determine the volume of the solution using the molarity expression
 
 - n = M × V
@@ -117,8 +109,6 @@ Answer:
 - n<sub>KOH</sub> = 0.15 × 0.0750
 - n<sub>KOH</sub>= 0.01125 mol
 
-<!-- Source: page 4 -->
-
 - Step 2: Add up the number of moles of KOH from each solution:
 
 $$(n_{\mathrm{KOH}})_T=(n_{\mathrm{KOH}})_A+(n_{\mathrm{KOH}})_B$$
@@ -168,13 +158,9 @@ dilute solution (V<sub>d</sub>) to obtain the volume of water:
 
 ## Examiner Tips and Tricks
 
-<!-- Source: page 5 -->
-
 - When using the dilution formula, ensure the volume of the dilute and stock
 solutions are in the same units
 - When using the molarity expression, always change your volume to liters, L
-
-<!-- Source: page 6 -->
 
 ## Homogeneous & Heterogeneous Mixtures
 
@@ -222,8 +208,6 @@ are known as aqueous solutions
 
 - However, it consists of comparatively large particles of one substance dispersed
 throughout another substance or solution
-
-<!-- Source: page 7 -->
 
 ## Molarity
 
@@ -278,11 +262,9 @@ dissolve the solute
 
 ## Preparing a Solution
 
-<!-- Source: page 8 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-01.png)
 
-![Original source figure, page 8](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-01.png)
-
-![Original source figure, page 8](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-02.png)
 
 How to prepare a 250mL of 1.00 M solution of CuSO<sub>4</sub>
 
@@ -297,8 +279,6 @@ solvent cannot change the number of moles of solute
 - That is:
 
 n<sub>solute</sub> (stock solution) = n<sub>solute</sub>(dilute solution)
-
-<!-- Source: page 9 -->
 
 - In both solutions, n can be found by multiplying the molarity, M, by the volume in litres, V
 
@@ -348,8 +328,6 @@ solution
 Plan:
 
 For part a:
-
-<!-- Source: page 10 -->
 
 - Use the molarity expression to determine the number of moles of the solute (n)
 - Convert this number of moles to mass
@@ -404,8 +382,6 @@ Plan:
 - Using the dilution formula, we can calculate the volume of the concentrated
 solution required
 
-<!-- Source: page 11 -->
-
 - Then subtract that volume from the volume of the dilute solution to obtain the
 volume of water required
 
@@ -425,8 +401,6 @@ Answer:
 
 - V<sub>H2O</sub>= 250 - 5.0
 - V<sub>H2O</sub>= 245 mL
-
-<!-- Source: page 12 -->
 
 ## Particulate Representations of Solutions
 
@@ -463,9 +437,7 @@ Solutions are homogeneous mixtures, therefore the molecules of solute and solven
 
 Which of the following samples of a salt + water solution has the highest concentration?
 
-<!-- Source: page 13 -->
-
-![Original source figure, page 13](markdown-assets/ap-chemistry-solutions-mixtures/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-013-figure-01.png)
 
 Answer:
 
@@ -476,12 +448,6 @@ The correct answer is C because:
 also a solution
 - A and D are not correct. The particles are forming individual regions of solute and
 solvent. Therefore, they are heterogenous mixtures which are not solutions
-
-<!-- Source: page 14 -->
-
-## Separation By Chromatography
-
-## Paper Chromatography
 
 ## Principles of Paper Chromatography
 
@@ -523,11 +489,7 @@ compounds
 
 ## Diagram to Show the Method of Chromatography
 
-<!-- Source: page 15 -->
-
-![Original source figure, page 15](markdown-assets/ap-chemistry-solutions-mixtures/page-015-figure-01.png)
-
-<!-- Source: page 16 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-015-figure-01.png)
 
 Analysis of the composition of ink that can be used using paper chromatography. Blue ink travels the most distance showing the strongest interaction with the solvent and the weakest interaction with the chromatography paper
 
@@ -538,8 +500,6 @@ stationary phase
 - The component that travels the shortest distance along the paper has the weakest
 intermolecular interaction with the mobile phase and the strongest interaction with
 the stationary phase
-
-## Thin Layer Chromatography
 
 ## Principles of Thin Layer Chromatography
 
@@ -583,8 +543,6 @@ washing into the solvent container
 
 4. The solvent will begin to travel up the plate
 
-<!-- Source: page 17 -->
-
 5. When the solvent almost reaches the top, draw another pencil line where the solvent has
 reached. This indicates the solvent font
 6. Analyze the TLC plate and identify the components of the mixture by using the reference
@@ -592,7 +550,7 @@ compounds
 
 ## Method for TLC Analysis
 
-![Original source figure, page 17](markdown-assets/ap-chemistry-solutions-mixtures/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-017-figure-01.png)
 
 A dot of the sample is placed on the baseline and allowed to separate as the mobile phase flows through the stationary phase; The reference compound/s will also move with the solvent
 
@@ -619,15 +577,11 @@ component
 - The R<sub>f</sub> value and the difference between the separated substances will also depend on
 their solubility in the solvent that acts as the mobile phase
 
-<!-- Source: page 18 -->
-
 ## Calculating the R<sub>f</sub> value
 
-![Original source figure, page 18](markdown-assets/ap-chemistry-solutions-mixtures/page-018-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-018-figure-01.png)
 
 R<sub>f</sub> values can be calculated by taking 2 measurements from the TLC plate
-
-## Column Chromatography
 
 ## Principles of Column Chromatography
 
@@ -658,8 +612,6 @@ the
 
 ## Conducting a Column Chromatography analysis
 
-<!-- Source: page 19 -->
-
 1. Pack the column with a stationary phase and ensure an even packing to facilitate uniform
 flow. Dissolve the sample in a solvent that is compatible with the stationary phase. Apply
 the sample onto the top of the column using a pipette, ensuring a concentrated and
@@ -677,13 +629,9 @@ the interactions for the stationary phase
 
 ## Column Chromatography
 
-![Original source figure, page 19](markdown-assets/ap-chemistry-solutions-mixtures/page-019-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-019-figure-01.png)
 
 Steps for performing a Column chromatography analysis
-
-<!-- Source: page 20 -->
-
-## Separation by Distillation
 
 ## Principles of Distillation
 
@@ -731,13 +679,9 @@ points of the components from the mixture
 
 ## Method of Separation by Distillation
 
-<!-- Source: page 21 -->
-
-![Original source figure, page 21](markdown-assets/ap-chemistry-solutions-mixtures/page-021-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-021-figure-01.png)
 
 Separation of a mixture of ethanol and water is best achieved by fractional distillation when the two components are close together in boiling point or there are multiple components
-
-<!-- Source: page 22 -->
 
 ## Solubility of Ionic & Molecular Compounds
 
@@ -779,9 +723,7 @@ the strength of the solvent-solute interaction must be considered
 
 ## The three interactions between the particles of solute and solvent
 
-<!-- Source: page 23 -->
-
-![Original source figure, page 23](markdown-assets/ap-chemistry-solutions-mixtures/page-023-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-023-figure-01.png)
 
 Solvent-solvent, solvent-solute and solute-solute interactions must be considered for solubility
 
@@ -814,8 +756,6 @@ London-Dispersion Forces < hydrogen bonding
 | Solvent-solute = Solvent-solvent | Yes |
 | Solvent-solute > Solvent-solvent | Yes |
 
-<!-- Source: page 24 -->
-
 | Comparison of the strength between intermolecular interactions | Solution formed? |
 | --- | --- |
 | Solvent-solute < Solvent-solvent | May or may not form |
@@ -824,7 +764,7 @@ London-Dispersion Forces < hydrogen bonding
 
 Predict if a solution will be formed when chloroform is mixed with an acetone solvent.
 
-![Original source figure, page 24](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-01.png)
 
 Answer:
 
@@ -835,18 +775,16 @@ Step 2: Identify the solvent-solvent intermolecular interactions
 - Acetone is our solvent. Since oxygen is more electronegative than carbon, a
 dipole moment will be formed
 
-![Original source figure, page 24](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-02.png)
 
 - Therefore, the solvent-solvent intermolecular interaction is dipole-dipole
 
 Step 3: Identify the solute-solute intermolecular interactions
 
-<!-- Source: page 25 -->
-
 - Chloroform is our solute. Since it is a non-symmetrical molecule and chlorine is
 more electronegative than carbon, dipole moments will be formed
 
-![Original source figure, page 25](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-01.png)
 
 - Therefore, the solute-solute intermolecular interaction is dipole-dipole
 
@@ -859,7 +797,7 @@ dipole-dipole interactions, both solute and solvent will be miscible in one anot
 
 Predict if a solution will be formed when hexane is mixed with water as solvent.
 
-![Original source figure, page 25](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-02.png)
 
 Answer:
 
@@ -871,16 +809,14 @@ Step 2: Identify the solvent-solvent intermolecular interactions
 such as oxygen, a strong dipole moment will be formed
 - Therefore, the solvent-solvent intermolecular interaction is hydrogen bonding
 
-<!-- Source: page 26 -->
-
-![Original source figure, page 26](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-01.png)
 
 Step 3: Identify the solute-solute intermolecular interactions
 
 - Hexane is our solute. Since hexane is a symmetrical molecule, all its dipole
 moments are canceled out
 
-![Original source figure, page 26](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-02.png)
 
 - Therefore, the solute-solute intermolecular interaction are London dispersion
 forces
@@ -890,9 +826,7 @@ Step 4: If the solute-solute interaction and the solvent-solvent interactions ar
 - The solvent-solvent interaction is not the same as solute-solute interaction
 - The solvent-solute interaction must be considered
 
-<!-- Source: page 27 -->
-
-![Original source figure, page 27](markdown-assets/ap-chemistry-solutions-mixtures/page-027-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-027-figure-01.png)
 
 - As shown in the image below, hexane and water present London dispersion
 forces interactions because oxygen induces momentaneous dipoles in hexane
@@ -900,5 +834,3 @@ forces interactions because oxygen induces momentaneous dipoles in hexane
 be formed
 - Since London-dispersion forces < hydrogen bonding in terms of relative
 strength, hexane and water are not miscible, and a solution will not be formed
-
-> 来源：© 2025 Save My Exams, Ltd.

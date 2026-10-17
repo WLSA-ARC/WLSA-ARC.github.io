@@ -80,8 +80,6 @@ Two criteria for organic substances：
 
 Photosynthesis uses condensation/dehydration reaction; cellular respiration uses hydrolysis.
 
-## Carbohydrates / Saccharides
-
 ## Monosaccharides
 
 - Two classes: hexose, pentose
@@ -205,4 +203,3 @@ Temperature / pH changes disrupt higher‑order protein structures first. Denatu
 Key rule: structure determines function (including solubility).
 
 Reaction that breaks down proteins: hydrolysis.
-

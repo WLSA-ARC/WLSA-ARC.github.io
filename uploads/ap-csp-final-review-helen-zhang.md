@@ -1,7 +1,5 @@
 # AP CSP Revision
 
-<!-- Source: page 1 -->
-
 ## Big idea 1 : Creative Development
 
 ### Computing Innovation
@@ -198,13 +196,13 @@
 
 | Division Step | Quotient | Remainder | Bit Position |
 | --- | --- | --- | --- |
-| 100〔原文此处无法辨认〕2 | 50 | 0 | Least Significant Bit (LSB) |
-| 50〔原文此处无法辨认〕2 | 25 | 0 | / |
-| 25〔原文此处无法辨认〕2 | 12 | 1 | / |
-| 12〔原文此处无法辨认〕2 | 6 | 0 | / |
-| 6〔原文此处无法辨认〕2 | 3 | 0 | / |
-| 3〔原文此处无法辨认〕2 | 1 | 1 | / |
-| 1〔原文此处无法辨认〕2 | 0 | 1 | Most Significant Bit (MSB) |
+| 100 ÷ 2 | 50 | 0 | Least Significant Bit (LSB) |
+| 50 ÷ 2 | 25 | 0 | / |
+| 25 ÷ 2 | 12 | 1 | / |
+| 12 ÷ 2 | 6 | 0 | / |
+| 6 ÷ 2 | 3 | 0 | / |
+| 3 ÷ 2 | 1 | 1 | / |
+| 1 ÷ 2 | 0 | 1 | Most Significant Bit (MSB) |
 
 result : 1100100
 
@@ -366,7 +364,7 @@ result : 1100100
 
 ### Assignment Operators
 
-such as a〔原文此处无法辨认〕expression means it evaluates expression and assign the result to the variable a.
+Assignment evaluates an expression and assigns its result to the variable a.
 
 ### Lists
 
@@ -374,9 +372,9 @@ such as a〔原文此处无法辨认〕expression means it evaluates expression 
 
 - alist[value1 , value2 , value3] means create a new list where the aList[1]=value[1]...the same moving on (分别 赋值)
 
-aList〔原文此处无法辨认〕[ ] means create a new empty list and assigns it to the name aList
+Creating an empty list assigns [ ] to the name aList.
 
-aList〔原文此处无法辨认〕bList means assign a copy of the bList to the aList
+Assigning bList to aList gives aList a copy of bList.
 
 ### Display Operators
 
@@ -410,8 +408,6 @@ aList〔原文此处无法辨认〕bList means assign a copy of the bList to the
 | AND | and | Logical Conjunction | Returns True only if both operands are true. | True AND True → True True AND False→ False False AND False → False |
 | OR | or or | Logical Disjunction |  |  |
 | NOT | not | Logical Negation | Reverses the state of the operand. | NOT True → False NOT False → True |
-
-〔原文 OR 行仅有前三列，后两列为空。〕
 
 ### Numeric Procedures
 
@@ -457,8 +453,8 @@ aList〔原文此处无法辨认〕bList means assign a copy of the bList to the
 | Command | Description | Return Value |
 | --- | --- | --- |
 | `MOVE_FORWARD()` | Moves the robot one square in the direction it is currently facing. | None |
-| `ROTATE_LEFT()` | Rotates the robot 90 degrees counter-clockwise (e.g. North〔原文此处无法辨认〕West). | None |
-| `ROTATE_RIGHT()` | Rotates the robot 90 degrees clockwise (e.g. North〔原文此处无法辨认〕East). | None |
+| `ROTATE_LEFT()` | Rotates the robot 90 degrees counter-clockwise (e.g. North → West). | None |
+| `ROTATE_RIGHT()` | Rotates the robot 90 degrees clockwise (e.g. North → East). | None |
 | `CAN_MOVE(direction)` | Checks if a move is possible in the specified direction. | Boolean (true/false) |
 
 | Condition | Behavior / Logic |
@@ -536,7 +532,7 @@ The Internet refers to the hardware and the World Wide Web refers to the softwar
 
 ![The distributed computing process](markdown-assets/ap-csp-final-review-helen-zhang/figure.png)
 
-图中文字：The distributed computing process；Node 1、Node 2、Node 3；Servers；Network。来源标注：ICONS: DESIGNER/GETTY IMAGES；©2024 TECHTARGET. ALL RIGHTS RESERVED；TechTarget。
+图中文字：The distributed computing process；Node 1、Node 2、Node 3；Servers；Network。
 
 ## Big Idea 5 : Impact of Computing
 

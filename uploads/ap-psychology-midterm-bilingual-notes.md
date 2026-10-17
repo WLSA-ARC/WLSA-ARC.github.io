@@ -1,18 +1,4 @@
-> **转写核对说明（非原文）**：以下按所提供的 81 页 PDF 转写。原件内容在这些位置直接跳转或结束，未自行补写：
->
-> - 第 49 页在脑结构表的 Temporal Lobe 行后结束，第 50 页直接接 ESP 表格末行及 Unit 4 FRQ 清单；目录所列 Modules 16–21 的完整正文未见于原件。
-> - 第 79 页止于 Big Five Personality Traits 标题，第 80 页直接接 Drive Reduction 的中文释义并进入第 27 条 Incentive；第 23–26 条的完整条目未见于原件。
-> - 第 81 页在第 35 条 Sarcomere 的英文定义处结束，没有后续中文释义及目录所列的其余神经肌肉条目。
->
-> 少量无法可靠辨认的手写内容已明确标记并保留局部原图。
-
-<!-- Source: page 1 -->
-
 # AP Psychology 期中复习笔记（中英文对照）
-
-# AP Psychology 期中复习笔记（中英文对照）
-
-教材： Myers' Psychology for AP®, 2e（David G. Myers）
 
 覆盖范围： Unit 2 研究方法 · Unit 3 生物基础 · Unit 4 感觉与知觉 · Unit 5 意识状态 · 社会认知/人格动机情绪/神经肌肉补充术语
 
@@ -60,8 +46,6 @@
 
 - Module 18 视觉
 
-<!-- Source: page 2 -->
-
 - Module 19 视觉组织与解释
 
 - Module 20 听觉
@@ -94,8 +78,6 @@
 
 # AP Psychology Unit 2: Research Methods 研究方法 复习笔记
 
-教材： Myers' Psychology for AP®, 2e — Modules 4–8
-
 Unit Overview： Research Methods: Thinking Critically With Psychological Science
 
 考试占比： AP Psychology 考试中约占 8–10%（选择题 + FRQ 高频考点）
@@ -113,8 +95,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 - Module 8: Frequently Asked Questions About Psychology 心理学常见问题
 
 - 易混淆概念对比总结
-
-<!-- Source: page 3 -->
 
 - 研究方法对比总表
 
@@ -134,6 +114,10 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 它解释了为什么心理学研究结果看起来"显而易见"——因为我们总是在知道结果后才觉得它理所当然。
 
+- 事后诸葛亮。
+
+- 艺人丑闻曝光后，人们声称早就知道他会出事，却在事先并未真正留意。
+
 ### 2. Overconfidence（过度自信）
 
 - English Definition: The tendency to think we know more than we actually do; our self-confidence exceeds our actual accuracy.
@@ -148,39 +132,11 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 两者共同导致我们高估直觉和常识的可靠性。
 
+- 人们倾向于觉得自己在简单事会做好，过度相信自己的能力。
+
 ### 3. Perceiving Order in Random Events（在随机事件中感知秩序）
 
 - English Definition: Our natural tendency to perceive patterns or order in random events, stemming from our need to make sense out of the world.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p03-01 -->
-
-**原位置：1. Hindsight Bias 标题右侧。**
-
-> → 事后诸葛亮。
-
-![第3页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p03-01.png)
-
-<!-- Handwritten annotation: p03-02 -->
-
-**原位置：1. Hindsight Bias 的灾难发生后例子下方，红笔。**
-
-> hindsight bias：一个艺人终于有丑闻了，人们说：早知道他这么〔原文此处无法辨认〕肯定出事，但事先无人真正在意过。
-
-辨认说明：“这么”后、“肯定出事”前的两个手写字未能可靠辨认。
-
-![第3页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p03-02.png)
-
-<!-- Handwritten annotation: p03-03 -->
-
-**原位置：2. Overconfidence 标题右侧，红笔。**
-
-> 人们倾向于觉得自己在简单事会做好，过度相信自己的能力。
-
-![第3页手写局部，3](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p03-03.png)
-
-<!-- Source: page 4 -->
 
 - 中文释义： 人类倾向于在随机、偶然的事件中寻找规律和模式，因为我们需要对世界建立理解和控制感。
 
@@ -224,8 +180,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 验证证据（confirms evidence）
 
-<!-- Source: page 5 -->
-
   - 评判结论（assesses conclusions）
 
 - 📝 Example/Key Point：
@@ -256,6 +210,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - ⭐ 考试重点： 理论 → 假设 → 研究观察 → 修正理论，这是一个循环（circular）过程。
 
+- Hypothesis：一个假说（实验假说）。Theory：一套学说。
+
 ### 7. Hypothesis（假设）
 
 - English Definition: A testable prediction, often implied by a theory. It can be confirmed or refuted.
@@ -269,20 +225,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - ⭐ Theory vs. Hypothesis 对比：
 
     - Theory = 宽泛的解释体系（如"运动改善心情"）
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p05-01 -->
-
-**原位置：6. Theory 中文释义右侧，红笔括线对照。**
-
-> hypothesis：一个假说（实验假说）。theory：一套学说（〔原文此处无法辨认〕，推断）。
-
-辨认说明：theory 括号内第一词不能完全确认；后文“推断”可辨。
-
-![第5页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p05-01.png)
-
-<!-- Source: page 6 -->
 
   - Hypothesis = 具体的、可检验的预测（如"每天跑步 30 分钟持续两周的人，抑郁评分会下降"）
 
@@ -304,6 +246,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - FRQ 高频考点！题目给你一个研究场景，让你写出某个变量的 operational definition。
 
+- abstract → quantify。
+
 ### 9. Replication（重复/复制） ⭐
 
 - English Definition: Repeating the essence of a research study, usually with different participants in different situations, to see whether the basic finding extends to other participants and circumstances.
@@ -321,18 +265,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 ### 10. Case Study（个案研究）
 
 - English Definition: A descriptive technique in which one individual or group is studied in depth in the hope of revealing universal principles.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p06-01 -->
-
-**原位置：8. Operational Definition 例子上方，红笔。**
-
-> abstract → quantify。
-
-![第6页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p06-01.png)
-
-<!-- Source: page 7 -->
 
 - 中文释义： 一种描述性研究技术，深入研究一个个体或一个小组，期望从中揭示普遍性的原则。
 
@@ -378,8 +310,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 缺点：依赖自我报告，可能存在社会期望偏差。
 
-<!-- Source: page 8 -->
-
 ### 13. Sampling Bias（抽样偏差） ⭐
 
 - English Definition: A flawed sampling process that produces an unrepresentative sample.
@@ -393,6 +323,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - ⭐ 考试重点： 抽样偏差意味着你的样本不能代表总体，研究结果就不能推广。
 
   - 与 Random Sample 对比：Random Sample 是解决方案，Sampling Bias 是问题。
+
+- 结果有明显倾向，不随机。
 
 ### 14. Population（总体）
 
@@ -424,27 +356,9 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 | 目的 | 让样本代表总体 | 让实验组和控制组相等 |
 | 用于 | 描述性/调查研究 | 实验研究 |
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p08-01 -->
-
-**原位置：13. Sampling Bias 标题右侧，红笔。**
-
-> 结果有明显倾向，不随机。
-
-![第8页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p08-01.png)
-
-<!-- Handwritten annotation: p08-02 -->
-
-**原位置：15. Random Sample 释义右下，红笔。**
-
-> Random sample：实验开始前。Random assignment：实验后随机分。
-
-![第8页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p08-02.png)
-
-<!-- Source: page 9 -->
-
   - 不要搞混！选择题常考这两个的区别。
+
+- Random sample：实验开始前。Random assignment：实验后随机分。
 
 ## Module 6: Correlation and Experimentation 相关与实验
 
@@ -454,7 +368,7 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 - 中文释义： 衡量两个因素共同变化的程度，以及一个因素能多好地预测另一个因素的指标。
 
-![原件嵌入的手写图层，第9页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-09-figure-01.png)
+![复习图示 9](markdown-assets/ap-psychology-midterm-bilingual-notes/page-09-figure-01.png)
 
 - 📝 Example/Key Point：
 
@@ -463,6 +377,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - 正相关（Positive Correlation）：两个变量同增同减（如身高和体重）。
 
   - 负相关（Negative Correlation）：一个增加另一个减少（如学习时间和考试错误数）。
+
+- 散点无明显趋势：No correlation；散点由左下向右上：Positive correlation；散点由左上向右下：Negative correlation。
 
 ### 17. Correlation Coefficient（相关系数） ⭐
 
@@ -487,18 +403,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - r = -0.90 比 r = +0.50 的相关更强。
 
 ### 18. Scatterplot（散点图） ⭐
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p09-01 -->
-
-**原位置：16. Correlation 右侧，三幅手绘散点图。**
-
-> 上图为无明显趋势的散点，标注“No correlation”；左下图散点由左下向右上，标注“Positive”；右下图散点由左上向右下，标注“Negative”。
-
-![第9页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p09-01.png)
-
-<!-- Source: page 10 -->
 
 - English Definition: A graphed cluster of dots, each of which represents the values of two variables. The slope suggests the direction of the relationship; the amount of scatter suggests the strength of the correlation.
 
@@ -534,6 +438,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 例子：觉得"戴幸运袜就会考好"——其实是错觉相关。
 
+- 根本没有关联，一次偶然就让人看到了希望。
+
 ### 20. Correlation and Causation（相关与因果） ⭐⭐
 
 - English Definition: Correlation indicates the possibility of a cause-effect relationship but does not prove such. Correlation helps predict but does not imply causation.
@@ -544,18 +450,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - ⭐⭐ 超级高频考点！ 这是整个 Unit 2 最重要的概念之一。
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p10-01 -->
-
-**原位置：19. Illusory Correlation 的领养后怀孕例子下方。**
-
-> 根本没有关联，一次偶然就让人看到了希望。
-
-![第10页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p10-01.png)
-
-<!-- Source: page 11 -->
-
   - 经典例子：低自尊（low self-esteem）和抑郁（depression）正相关。但到底谁导致谁？有三种可能：
 
   - i. 低自尊 → 导致抑郁
@@ -565,6 +459,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - iii. 第三个变量（如压力事件或生物易感性）→ 同时导致低自尊和抑郁
 
   - 只有实验（Experiment）能确定因果关系。
+
+- Correlation 没有因果关系 indication。
 
 ### 21. Experiment（实验） ⭐
 
@@ -596,27 +492,9 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 在母乳喂养的研究中，"被鼓励母乳喂养"的那组是实验组。
 
+- 相对的就是不要 breast feeding。
+
 ### 23. Control Group（控制组）
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p11-01 -->
-
-**原位置：20. Correlation and Causation 续文、“只有实验……”右侧。**
-
-> Correlation 没有因果关系 indication。
-
-![第11页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p11-01.png)
-
-<!-- Handwritten annotation: p11-02 -->
-
-**原位置：22. Experimental Group 的母乳喂养例子右侧。**
-
-> 相对的就是不要 breast feeding。
-
-![第11页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p11-02.png)
-
-<!-- Source: page 12 -->
 
 - English Definition: In an experiment, the group that is NOT exposed to the treatment; contrasts with the experimental group and serves as a comparison for evaluating the effect of the treatment.
 
@@ -633,6 +511,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - 在母乳喂养研究中，"不被鼓励母乳喂养"的那组是控制组。
 
   - 控制组通常服用安慰剂（placebo）而不是完全不接受任何处理，以控制安慰剂效应。
+
+- placebo：把药 switch 成糖，让 patients 吃，patient 也会觉得被医治了。
 
 ### 24. Random Assignment（随机分配） ⭐⭐
 
@@ -662,18 +542,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 - English Definition: An experimental procedure in which both the research participants and the research staff are ignorant (blind) about whether the research participants have received the treatment or the placebo. Commonly used in drug-evaluation studies.
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p12-01 -->
-
-**原位置：23. Control Group 右侧，placebo 说明。**
-
-> placebo：把药 switch 成糖，让 patients 吃，patient 也会觉得被医治了。
-
-![第12页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p12-01.png)
-
-<!-- Source: page 13 -->
-
 - 中文释义： 一种实验程序，其中研究参与者和研究人员双方都不知道参与者接受的是处理还是安慰剂。常用于药物评估研究。
 
 - 📝 Example/Key Point：
@@ -685,6 +553,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
     - Double-Blind：参与者 和 实验人员都不知道
 
   - 双盲的目的：防止实验者期望效应（experimenter bias）和参与者的安慰剂效应影响结果。
+
+- 单盲和双盲对照用于减少 experimental bias 与 placebo effect。
 
 ### 26. Placebo Effect（安慰剂效应） ⭐
 
@@ -700,7 +570,7 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - Placebo 的拉丁语意思是"我会取悦"（I shall please）。
 
-![原件嵌入的手写图层，第13页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-13-figure-01.png)
+![复习图示 13](markdown-assets/ap-psychology-midterm-bilingual-notes/page-13-figure-01.png)
 
 ### 27. Independent Variable（自变量） ⭐⭐
 
@@ -718,39 +588,13 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 自变量是研究者主动改变的那个变量。
 
+- X → 自变量；y → 因变量。
+
 ### 28. Confounding Variable（混淆变量） ⭐
 
-![原件嵌入的手写图层，第13页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-13-figure-02.png)
+![复习图示 13](markdown-assets/ap-psychology-midterm-bilingual-notes/page-13-figure-02.png)
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p13-01 -->
-
-**原位置：25. Double-Blind Procedure 对照条目右侧，带箭头。**
-
-> 消除 experimental bias，placebo effect。箭头关联单盲/双盲对照区。
-
-![第13页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p13-01.png)
-
-<!-- Handwritten annotation: p13-02 -->
-
-**原位置：27. Independent Variable 标题右侧及红色箭头。**
-
-> X → 自变量；y → 因变量。红色箭头指向自变量记号。
-
-![第13页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p13-02.png)
-
-<!-- Handwritten annotation: p13-03 -->
-
-**原位置：28. Confounding Variable 页脚附近，手绘分支。**
-
-> 熬夜学习，第2天考试成绩很理想 → 前天晚上摄入咖啡因；另一下分支为“睡眠剥夺”；两项旁用括线合到“confounding variable”。
-
-![第13页手写局部，3](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p13-03.png)
-
-<!-- Source: page 14 -->
-
-![原件嵌入的手写图层，第14页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-14-figure-01.png)
+![复习图示 14](markdown-assets/ap-psychology-midterm-bilingual-notes/page-14-figure-01.png)
 
 - English Definition: A factor other than the independent variable that might produce an effect in an experiment.
 
@@ -763,6 +607,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - ⭐ Random Assignment 的作用就是平衡这些混淆变量，让两组在混淆变量上大致相等。
 
   - 如果混淆变量没有被控制，你就无法确定结果是由自变量引起的，还是由混淆变量引起的。
+
+- 熬夜学习与次日考试成绩的关系，可能受到咖啡因摄入、睡眠剥夺等 confounding variables 的影响。
 
 ### 29. Dependent Variable（因变量） ⭐⭐
 
@@ -786,6 +632,8 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 | 原因（推测的） | 结果（观测的） |
 | "我改变什么" | "我测量什么" |
 
+- y → 因变量。
+
 ### 30. Validity（效度）
 
 - English Definition: The extent to which a test or experiment measures or predicts what it is supposed to.
@@ -794,29 +642,11 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 - 📝 Example/Key Point：
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p14-01 -->
-
-**原位置：29. Dependent Variable 标题右侧。**
-
-> y → 因变量。
-
-![第14页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p14-01.png)
-
-<!-- Handwritten annotation: p14-02 -->
-
-**原位置：30. Validity 页脚，与下一页圈注配合。**
-
-> 无关联。
-
-![第14页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p14-02.png)
-
-<!-- Source: page 15 -->
-
   - 如果一个"智力测试"实际上测的是阅读速度，那它就没有效度。
 
   - 实验的效度：实验结果是否真正反映了自变量对因变量的影响，而不是混淆变量的影响。
+
+- 若智力测试实际测量的是阅读速度，就不能有效测量目标概念。
 
 ## Module 7: Statistical Reasoning in Everyday Life 统计推理
 
@@ -860,18 +690,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 例子：考试分数 [60, 70, 70, 80, 85, 90, 90, 90, 100]，众数是 90。
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p15-01 -->
-
-**原位置：30. Validity 的“智力测试实际测阅读速度”例子。**
-
-> “智力测试”与“阅读速度”被分别圈出并用两条线关联；红字“无效”。与第14页页脚“无关联”配合。
-
-![第15页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p15-01.png)
-
-<!-- Source: page 16 -->
-
   - 是最简单的集中趋势指标，但可能不唯一（可以有多个众数）。
 
 ### 34. Mean（平均数）
@@ -888,13 +706,15 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - 这就是为什么在偏态分布中，Median 比 Mean 更能代表典型值。
 
+- mean 容易有极高与极低值影响。
+
 ### 35. Median（中数/中位数）
 
 - English Definition: The middle score in a distribution; half the scores are above it and half are below it.
 
 - 中文释义： 一组数据中位于中间位置的分数；一半的分数在它之上，一半在它之下。
 
-![原件嵌入的手写图层，第16页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-16-figure-01.png)
+![复习图示 16](markdown-assets/ap-psychology-midterm-bilingual-notes/page-16-figure-01.png)
 
 - 📝 Example/Key Point：
 
@@ -917,26 +737,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - ⭐ 考试重点：
 
     - 正偏态（Positive Skew / 右偏）：长尾在右边（高分端），Mean > Median > Mode。例： 收入分布。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p16-01 -->
-
-**原位置：34. Mean 例子右侧，红笔。**
-
-> mean 容易有极高与极低值影响。
-
-![第16页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p16-01.png)
-
-<!-- Handwritten annotation: p16-02 -->
-
-**原位置：35. Median 对照区，手绘收入轴与红笔标签。**
-
-> “收入轴”箭头指向一条横轴，依次标 1000、3000、5000、8000–10000、10万；3000 附近有密集竖线，8000–10000 区段有波浪线。红色 mean 标签及箭头位于 3000 一带；红色 median 标签以弯箭头关联右侧 8000–10000 区段。按图保留标注位置，不代作者修正。
-
-![第16页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p16-02.png)
-
-<!-- Source: page 17 -->
 
   - 负偏态（Negative Skew / 左偏）：长尾在左边（低分端），Mean < Median < Mode。 例：非常简单的考试分数。
 
@@ -980,8 +780,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 - English Definition: A symmetrical, bell-shaped curve that describes the distribution of many types of data; most scores fall near the mean (about 68 percent fall within one standard deviation of it) and fewer and fewer near the extremes. Also called Normal Distribution.
 
-<!-- Source: page 18 -->
-
 - 中文释义： 对称的、钟形的曲线，描述许多类型数据的分布。大多数分数落在均值附近（约 68% 落在均值上下一个标准差范围内），越往极端分数越少。
 
 - 📝 Example/Key Point：
@@ -998,7 +796,7 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
     - 68% 的人智商在 85–115 之间
 
-![原件嵌入的手写图层，第18页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-18-figure-01.png)
+![复习图示 18](markdown-assets/ap-psychology-midterm-bilingual-notes/page-18-figure-01.png)
 
   - 95% 的人智商在 70–130 之间
 
@@ -1031,18 +829,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 - 中文释义： 一个统计陈述，说明得到的结果由偶然因素导致的可能性有多大。在心理学中，如果结果由偶然发生的概率小于 5%（p < .05），就认为统计上显著。
 
 - 📝 Example/Key Point：
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p18-01 -->
-
-**原位置：39. Normal Curve 的68–95–99.7规则右侧。**
-
-> → 严肃记住这2个数据!!!
-
-![第18页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p18-01.png)
-
-<!-- Source: page 19 -->
 
   - ⭐ 考试重点： Statistical significance 意味着：
 
@@ -1086,8 +872,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - iv. Debriefing（事后解释/汇报）——研究结束后向参与者说明研究目的和任何欺骗
 
-<!-- Source: page 20 -->
-
 ### 44. Debriefing（事后解释/汇报） ⭐
 
 - English Definition: The postexperimental explanation of a study, including its purpose and any deceptions, to its participants.
@@ -1125,8 +909,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 | 让样本代表总体 | 让实验组和控制组相等 |
 | 用于调查/描述性研究 | 用于实验研究 |
 
-<!-- Source: page 21 -->
-
 ### 4. Correlation vs. Causation ⭐⭐
 
 | Correlation 相关 | Causation 因果 |
@@ -1163,8 +945,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 | Single-Blind 单盲 | Double-Blind 双盲 |
 | --- | --- |
 
-<!-- Source: page 22 -->
-
 | Single-Blind 单盲 | Double-Blind 双盲 |
 | --- | --- |
 | 参与者不知道分组 | 参与者和实验者都不知道分组 |
@@ -1196,8 +976,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 8. 描述统计 vs. 推论统计的区别
 
-<!-- Source: page 23 -->
-
 9. 正态曲线的 68-95-99.7 法则
 
 10. 研究伦理：informed consent, debriefing, confidentiality
@@ -1209,8 +987,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 理解这个循环，所有概念就都串起来了！
 
 # AP Psychology — Unit 3: Biological Bases of Behavior 生物基础 复习笔记
-
-来源：Myers' Psychology for AP® (2e), Unit 3 / Modules 9–15
 
 结构：Module 9 神经传递 → Module 10 神经与内分泌系统 → Module 11 脑研究与旧脑结构 → Module 12 大脑皮层 → Module 13 大脑半球与意识 → Module 14 行为遗传学 → Module 15 进化心理学
 
@@ -1226,31 +1002,13 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 虽然颅相学本身是错的，但它提醒了后人"脑的特定部位可能对应特定功能"这一思路。考试常考它是 Gall 提出、属于历史错误理论。⭐
 
+- Phrenology 是错误理论，但启发了对不同脑区功能的探索。
+
 ### 2. Biological Psychology 生物心理学
 
 - English Definition: The scientific study of the links between biological (genetic, neural, hormonal) and psychological processes.
 
 - 中文释义: 研究生物因素（基因、神经、激素）与心理过程之间联系的科学。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p23-01 -->
-
-**原位置：1. Phrenology 标题右侧。**
-
-> 错误理论！引出了人类对于脑子不同地方不同事的思考。
-
-![第23页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p23-01.png)
-
-<!-- Handwritten annotation: p23-02 -->
-
-**原位置：2. Biological Psychology 标题右侧。**
-
-> 故名思义。
-
-![第23页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p23-02.png)
-
-<!-- Source: page 24 -->
 
 - 📝 Key Point: 别名包括 behavioral neuroscientist、neuropsychologist、behavior geneticist、 physiological psychologist、biopsychologist。核心信条："一切心理活动同时也是神经活动 （everything psychological is simultaneously biological）"。
 
@@ -1269,6 +1027,10 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 神经细胞；神经系统的基本结构与功能单位。
 
 - 📝 Key Point: 全身约有860亿个神经元。理解神经元要按"接收→整合→传递"的方向记。⭐
+
+- Dendrites 接收信息；axon 为轴突。
+
+![Neuron 图示](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p24-01.png)
 
 ### 5. Cell Body (Soma) 细胞体
 
@@ -1292,18 +1054,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 中文释义: 神经元的长延伸，通过其分支把信息传递给其他神经元、肌肉或腺体。
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p24-01 -->
-
-**原位置：5. Cell Body (Soma) 至6. Dendrites 旁的多色神经元手绘图。**
-
-> 图中蓝字“轴突 axon.”以弯线指向向右延伸的长突起；紫字“dendrites”旁有黑字“（接收信息）”，紫色箭头指向树枝状突起。图包含胞体中心点、多条树枝状突起及突起内的箭头、向右延伸轴突、轴突上两个红色框、末端点状标记。
-
-![第24页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p24-01.png)
-
-<!-- Source: page 25 -->
-
 - 📝 Key Point: 轴突末端即 terminal buttons（突触小体/终扣），负责释放神经递质。轴突可长达数英尺（如脊髓到脚趾）。
 
 ### 8. Myelin Sheath 髓鞘 ⭐
@@ -1321,6 +1071,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 髓鞘退化导致的疾病，神经与肌肉间的信息传递变慢，最终丧失肌肉控制能力。
 
 - 📝 Key Point: 直接对应"髓鞘功能"考点——髓鞘损坏→传导变慢/中断。
+
+- Myelin sheath 出现问题。
 
 ### 10. Action Potential 动作电位 ⭐⭐
 
@@ -1341,18 +1093,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 ### 12. Selectively Permeable 选择性通透
 
 - English Definition: The axon's surface is selective about what it allows through its gates; it will not easily let positively charged sodium ions in when resting.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p25-01 -->
-
-**原位置：9. Multiple Sclerosis (MS) 标题右侧，浅蓝手写。**
-
-> → myelin shealth 出问题了。
-
-![第25页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p25-01.png)
-
-<!-- Source: page 26 -->
 
 - 中文释义: 轴突膜对进出物质有选择性；静息时不让带正电的钠离子轻易进入。
 
@@ -1390,6 +1130,10 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 当兴奋性信号 > 抑制性信号并超过阈值，神经元即放电。⭐
 
+- 动作电位曲线与 threshold：
+
+![Threshold / Action Potential 图示](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p26-01.png)
+
 ### 17. All-or-None Response 全或无反应 ⭐
 
 - English Definition: A neuron's reaction of either firing (with a full-strength response) or not firing.
@@ -1398,25 +1142,7 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 类比——像手枪扣扳机，不会"半发射"。刺激越强，不会让单次冲动更大，只会让更多神经元、以更高频率放电。⭐
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p26-01 -->
-
-**原位置：16. Threshold 右侧，动作电位手绘曲线。**
-
-> 绘有横纵轴、水平参考线、先升高成尖峰再下降并回稳的曲线。左侧竖向双箭头旁标“threshold”。图中未写明轴名称或单位。
-
-![第26页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p26-01.png)
-
-<!-- Handwritten annotation: p26-02 -->
-
-**原位置：17. All-or-None Response 中文释义右侧。**
-
-> 完整的爆发，不会一半一半。
-
-![第26页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p26-02.png)
-
-<!-- Source: page 27 -->
+- 完整的爆发，不会一半一半。
 
 ### 18. Synapse 突触 ⭐
 
@@ -1433,6 +1159,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 突触处两个神经元之间微小、充满液体的间隙。
 
 - 📝 Key Point: 神经元之间并不真正相连，靠化学物质"跨桥"。⭐
+
+- Cross-bridge。
 
 ### 20. Neurotransmitters 神经递质 ⭐⭐
 
@@ -1461,18 +1189,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
   - 功能：激活肌肉（使肌肉收缩）、参与学习记忆。
 
   - 不足（不足）： Alzheimer's disease（阿尔茨海默症）时 ACh 水平下降。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p27-01 -->
-
-**原位置：19. Synaptic Gap / Synaptic Cleft 中文释义右侧。**
-
-> Cross-bridge。
-
-![第27页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p27-01.png)
-
-<!-- Source: page 28 -->
 
   - 例子：某些 snake venom / botulinum toxin（肉毒杆菌毒素）阻断 ACh 释放→肌肉麻痹； curare（箭毒）占据 ACh 受体→麻痹；尼古丁模拟 ACh。⭐⭐
 
@@ -1524,17 +1240,7 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
   - 酒精（alcohol）抑制中枢的作用就是增强 GABA。⚠️ GABA 是抑制性（记住 G = Gone/抑制），Glutamate 是兴奋性。
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p28-01 -->
-
-**原位置：26. GABA 的过少条目右侧，箭头指向文字。**
-
-> 过少会抖，都是和抖有关的。
-
-![第28页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p28-01.png)
-
-<!-- Source: page 29 -->
+- 过少会抖，都是和抖有关的。
 
 ### 27. Glutamate 谷氨酸 ⭐
 
@@ -1556,6 +1262,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 剧烈运动后的"跑者愉悦感 runner's high"。人工鸦片（heroin/morphine）会让脑停止自产内啡肽→突然停药导致戒断痛。⭐
 
+- 受伤后分泌抑制疼痛。
+
 ### 29. Agonist 激动剂/拟制剂 ⭐⭐
 
 - English Definition: A molecule that, by binding to a receptor site, stimulates a response (it mimics/enhances a neurotransmitter's effect).
@@ -1576,18 +1284,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 ### 31. Nervous System 神经系统 ⭐
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p29-01 -->
-
-**原位置：28. Endorphins 标题右侧。**
-
-> 受伤后分泌抑制疼痛。
-
-![第29页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p29-01.png)
-
-<!-- Source: page 30 -->
-
 - English Definition: The body's speedy, electrochemical communication network, consisting of all the nerve cells of the peripheral and central nervous systems.
 
 - 中文释义: 身体快速的电化学通讯网络，由外周神经系统和中枢神经系统的所有神经细胞组成。
@@ -1601,6 +1297,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 脑和脊髓。
 
 - 📝 Key Point: CNS 是决策与信息整合中心。⚠️ 注意：CNS = brain + spinal cord，不包括外周神经。
+
+- CNS：only composed with spine & brain。
 
 ### 33. Peripheral Nervous System (PNS) 外周神经系统 ⭐
 
@@ -1626,6 +1324,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 记忆口诀——"Afferent = Arrive（到达 CNS）"。走向是 感受器→CNS。⭐⭐ 必考方向。
 
+- afferent = arrive。
+
 ### 36. Motor (Efferent) Neurons 运动（传出）神经元 ⭐⭐
 
 - English Definition: Neurons that carry outgoing information from the brain and spinal cord to the muscles and glands.
@@ -1634,35 +1334,9 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 记忆口诀——"Efferent = Exit（离开 CNS）"。走向是 CNS→肌肉/腺体。⭐⭐
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p30-01 -->
-
-**原位置：32. Central Nervous System 标题下、中文释义右侧。**
-
-> CNS：only composed with spine & brain。
-
-![第30页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p30-01.png)
-
-<!-- Handwritten annotation: p30-02 -->
-
-**原位置：35. Sensory (Afferent) Neurons 中文释义右侧。**
-
-> afferent = arrive。
-
-![第30页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p30-02.png)
-
-<!-- Handwritten annotation: p30-03 -->
-
-**原位置：36. Motor (Efferent) Neurons 中文释义右侧。**
-
-> efferent → exit。
-
-![第30页手写局部，3](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p30-03.png)
-
-<!-- Source: page 31 -->
-
 - ⚠️ 必考对比：Afferent (in) vs Efferent (out)。
+
+- efferent → exit。
 
 ### 37. Interneurons 中间神经元 ⭐
 
@@ -1679,6 +1353,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 外周神经系统中控制骨骼肌的分支，又称骨骼神经系统。
 
 - 📝 Key Point: 负责随意动作（voluntary），如抬手、走路；也含牵张反射（如膝跳反射）。⭐
+
+- 肌肉随意运动。
 
 ### 39. Autonomic Nervous System (ANS) 自主神经系统 ⭐⭐
 
@@ -1701,26 +1377,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - English Definition: The division of the autonomic nervous system that calms the body, conserving its energy.
 
 - 中文释义: 自主神经系统中让身体平静、保存能量的分支。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p31-01 -->
-
-**原位置：38. Somatic Nervous System 标题右侧。**
-
-> 肌肉随意运动。
-
-![第31页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p31-01.png)
-
-<!-- Handwritten annotation: p31-02 -->
-
-**原位置：40. Sympathetic 与41. Parasympathetic 标题左侧。**
-
-> “Sympathetic”开头部分与“Parasympathetic”的 Para 前缀被圈注，并以一条长弯线连在一起，构成两者的对照标记。
-
-![第31页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p31-02.png)
-
-<!-- Source: page 32 -->
 
 - 📝 Key Point: "休息与消化 rest-and-digest"。作用：降低心率、促消化、储存能量。记忆"Parasympathetic = Peace / Place"。
 
@@ -1762,39 +1418,11 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - English Definition: A pair of endocrine glands that sit just above the kidneys and secrete hormones (epinephrine and norepinephrine) that help arouse the body in times of stress.
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p32-01 -->
-
-**原位置：42. Neural Networks 的释义和Key Point之间。**
-
-> 做数学的时候。我就是缺乏训练的小猪脑，旁画一个不开心表情。
-
-![第32页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p32-01.png)
-
-<!-- Handwritten annotation: p32-02 -->
-
-**原位置：43. Reflex 右侧，连接示意与底部文字。**
-
-> 遇到危险时，reflection arc 会〔原文此处无法辨认〕；末尾可见“spin…”但被右页边截断。向下箭头关联“大脑来不及 process”。
-
-辨认说明：“会”后的动词无法可靠辨认；英语尾词被原页右边截断，不补成完整单词。
-
-![第32页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p32-02.png)
-
-<!-- Handwritten annotation: p32-03 -->
-
-**原位置：45. Hormones 中文释义右侧。**
-
-> Ach。
-
-![第32页手写局部，3](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p32-03.png)
-
-<!-- Source: page 33 -->
-
 - 中文释义: 位于肾脏正上方的一对内分泌腺，分泌激素（肾上腺素和去甲肾上腺素），在应激时唤起身体。
 
 - 📝 Key Point: 应激时释放 epinephrine（肾上腺素）和 norepinephrine（去甲肾上腺素）→ 加快心跳、升血压、升血糖。⭐
+
+- 跳伞，过山车。
 
 ### 47. Epinephrine / Norepinephrine 肾上腺素/去甲肾上腺素
 
@@ -1812,6 +1440,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 与 sympathetic nervous system + adrenal glands 直接挂钩。
 
+- 冒冷汗，肌肉紧绷。随时准备跑。
+
 ### 49. Pituitary Gland 垂体 ⭐⭐
 
 - English Definition: The endocrine system's most influential gland. Under the influence of the hypothalamus, the pituitary regulates growth and controls other endocrine glands.
@@ -1828,29 +1458,11 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - English Definition: Tissue destruction. A brain lesion is a naturally or experimentally caused destruction of brain tissue.
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p33-01 -->
-
-**原位置：46. Adrenal Glands 续文、应激激素释放行上方。**
-
-> ↑ 跳伞，过山车。
-
-![第33页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p33-01.png)
-
-<!-- Handwritten annotation: p33-02 -->
-
-**原位置：48. Fight-or-Flight Response 右侧，延伸到49标题附近。**
-
-> 冒冷汗，肌肉紧绷。随时准备跑。
-
-![第33页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p33-03.png)
-
-<!-- Source: page 34 -->
-
 - 中文释义: 组织破坏。脑损伤指自然或实验造成的脑组织破坏。
 
 - 📝 Key Point: 通过观察某部位损毁后行为的变化，来推断该部位功能（经典研究方法）。
+
+- 摧毁脑子的一部分。
 
 ### 51. EEG (Electroencephalogram) 脑电图 ⭐
 
@@ -1867,6 +1479,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 从不同角度拍摄的一系列 X 光照片，经计算机合成出脑某一层结构的复合图像。又称 CAT scan。
 
 - 📝 Key Point: X射线，看结构，主要用于发现肿瘤、脑损伤。⚠️ 是结构成像，不是活动成像。⭐
+
+- CT：结构；PET：活动。
 
 ### 53. PET Scan (Positron Emission Tomography) PET扫描 ⭐
 
@@ -1888,34 +1502,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - English Definition: A technique for revealing bloodflow and, therefore, brain activity by comparing successive MRI scans. fMRI scans show brain function as well as its structure.
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p34-01 -->
-
-**原位置：50. Lesion 中文释义右侧，页顶。**
-
-> 摧毁脑子的一部分。
-
-![第34页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p34-01.png)
-
-<!-- Handwritten annotation: p34-02 -->
-
-**原位置：53. PET Scan / 54. MRI 之间，括线对照。**
-
-> CT：结构；PET：活动。
-
-![第34页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p34-02.png)
-
-<!-- Handwritten annotation: p34-03 -->
-
-**原位置：55. fMRI 标题右侧。**
-
-> MRI 与 fMRI，本质都是核共振，fMRI 是高级一点的。
-
-![第34页手写局部，3](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p34-03.png)
-
-<!-- Source: page 35 -->
-
 - 中文释义: 通过比较连续的 MRI 扫描来显示血流、进而显示脑活动的技术。fMRI 既显示脑功能也显示脑结构。
 
 - 📝 Key Point: 看血流变化 → 既看结构又看活动/功能。
@@ -1929,6 +1515,10 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
   - PET = 活动（葡萄糖）
 
   - MRI = 精细结构；fMRI = 结构 + 活动（血流）⭐⭐
+
+- MRI 与 fMRI，本质都是核共振，fMRI 是高级一点的。
+
+- 脑电图。
 
 ### 56. Brainstem 脑干 ⭐
 
@@ -1960,18 +1550,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 中文释义: 脑的"感觉交换机/中继站"，位于脑干上方；把信息导向皮层的感觉接收区，并把回复传给小脑和延髓。
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p35-01 -->
-
-**原位置：55. fMRI续文的四种成像对照、EEG行右侧。**
-
-> → 脑电图。
-
-![第35页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p35-01.png)
-
-<!-- Source: page 36 -->
-
 - 📝 Key Point: ⭐ 除了嗅觉(smell)之外，所有感觉信息都要先经过丘脑中转。这是AP超级高频考点！⭐⭐
 
 ### 60. Reticular Formation 网状结构 ⭐
@@ -1998,6 +1576,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 三大件——Hippocampus（记忆）、Amygdala（情绪）、Hypothalamus（动机/奖赏）。记忆口诀"边缘系统管情绪与欲望"。⭐⭐
 
+- Amygdala 与情绪有关，许多为负面情绪；Hypothalamus 与动机、奖励及 flee / fight / food / fuck 四大本能有关。
+
 ### 63. Hippocampus 海马 ⭐⭐
 
 - English Definition: A neural center located in the limbic system that helps process explicit memories for storage.
@@ -2007,18 +1587,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 📝 Key Point: 负责形成新的外显/陈述性记忆（explicit memories）。海马受损→无法形成新记忆（类似 H.M. 病人、Alzheimer's 早期先损伤海马）。⭐⭐
 
 ### 64. Amygdala 杏仁核 ⭐⭐
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p36-01 -->
-
-**原位置：62. Limbic System Key Point 下方，多色补记。**
-
-> Amygdala（情绪）下写“多数是负面！”；Hypothalamus（动机/奖励）下箭头写“四大本能”；红笔列出“flee / fight / food / fuck.”。
-
-![第36页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p36-01.png)
-
-<!-- Source: page 37 -->
 
 - English Definition: Two lima-bean-sized neural clusters in the limbic system; linked to emotion.
 
@@ -2056,8 +1624,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - English Definition: The intricate fabric of interconnected neural cells covering the cerebral hemispheres; the body's ultimate control and information-processing center.
 
-<!-- Source: page 38 -->
-
 - 中文释义: 覆盖大脑半球的、由相互连接神经细胞构成的复杂织物；身体最高的控制与信息加工中心。
 
 - 📝 Key Point: 人类思维、知觉、随意运动都在这里。是进化上最新、最发达的部分。⭐⭐
@@ -2078,6 +1644,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 三大功能——运动控制、言语表达、人格与决策（执行功能）。包含 motor cortex 和 prefrontal cortex。⭐⭐
 
+- Frontal lobes 与高级认知功能有关。
+
 ### 71. Parietal Lobes 顶叶 ⭐
 
 - English Definition: Portion of the cerebral cortex lying at the top of the head and toward the rear; receives sensory input for touch and body position.
@@ -2085,6 +1653,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 位于头顶靠后方的皮层部分；接收触觉和身体位置的感觉输入。
 
 - 📝 Key Point: 包含 sensory cortex（体感皮层），处理 touch。⭐
+
+- 处理体感。
 
 ### 72. Occipital Lobes 枕叶 ⭐⭐
 
@@ -2102,26 +1672,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 听觉中枢（auditory cortex）所在地。⚠️ 听觉信息交叉投射（左耳→右颞叶）。 颞叶还含 Wernicke's area（语言理解）。⭐⭐
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p38-01 -->
-
-**原位置：70. Frontal Lobes 标题右侧。**
-
-> 你做为高级动物有的功能都在 frontal！
-
-![第38页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p38-01.png)
-
-<!-- Handwritten annotation: p38-02 -->
-
-**原位置：71. Parietal Lobes 中文释义右侧。**
-
-> → 处理体感。
-
-![第38页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p38-02.png)
-
-<!-- Source: page 39 -->
-
 ### 74. Motor Cortex 运动皮层 ⭐⭐
 
 - English Definition: An area at the rear/back of the frontal lobes that controls voluntary movements.
@@ -2130,7 +1680,9 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 位于额叶后缘；交叉控制（左脑运动皮层控制右侧身体）。身体越大/越精细的部位 （手、嘴）在皮层上占的映射面积越大（homunculus 侏儒图）。⭐⭐
 
-![原件嵌入的手写图层，第39页](markdown-assets/ap-psychology-midterm-bilingual-notes/page-39-figure-01.png)
+![复习图示 39](markdown-assets/ap-psychology-midterm-bilingual-notes/page-39-figure-01.png)
+
+- frontal lobe 后边。
 
 ### 75. Sensory Cortex 体感皮层 ⭐⭐
 
@@ -2148,6 +1700,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 占皮层的大部分；"无声"区域（用电刺激不能直接触发反应）。高级思维都在联合区。⭐⭐
 
+- 高级思考。
+
 ### 77. Prefrontal Cortex 前额叶皮层 ⭐
 
 - English Definition: The forward part of the frontal lobes that enables judgment, planning, social control, and processing of new memories.
@@ -2159,34 +1713,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 ### 78. Phineas Gage 菲尼亚斯·盖奇 ⭐⭐
 
 - English Definition: A railroad worker whose frontal lobes were damaged by an iron rod through his head in an 1848 accident; his personality and behavior changed dramatically (from responsible to impulsive, irreverent) though his intellect and memory remained intact — showing the frontal lobes' role in personality and judgment.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p39-01 -->
-
-**原位置：74. Motor Cortex 标题右侧。**
-
-> → frontal lobe 后边。
-
-![第39页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p39-01.png)
-
-<!-- Handwritten annotation: p39-02 -->
-
-**原位置：74–75. Motor / Sensory Cortex 右侧椭圆示意图。**
-
-> 绘有一个椭圆轮廓，左侧蓝色短带、右侧红色短带。motor 的指示箭头指向红色短带，frontal 的箭头关联右侧；sensory 下箭头关联蓝色短带。保留手图原来的左右位置。
-
-![第39页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p39-02.png)
-
-<!-- Handwritten annotation: p39-03 -->
-
-**原位置：76. Association Areas 标题右侧。**
-
-> ← 高级思考。
-
-![第39页手写局部，3](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p39-03.png)
-
-<!-- Source: page 40 -->
 
 - 中文释义: 1848年事故中一根铁棍穿过他额叶的铁路工人；事故后智力、记忆完好，但人格和行为剧变（从负责稳重变得冲动、无礼）——证明额叶与人格、判断有关。
 
@@ -2207,6 +1733,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义: 通过强迫脑损伤患者使用被忽视（受损）的手/肢体来重塑脑功能、减轻残疾的疗法。
 
 - 📝 Key Point: 利用可塑性来恢复功能。
+
+- Constraint-induced therapy 利用大脑可塑性。
 
 ### 81. Neurogenesis 神经发生 ⭐
 
@@ -2229,18 +1757,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 ### 83. Split Brain 裂脑 ⭐⭐
 
 - English Definition: A condition resulting from surgery that isolates the brain's two hemispheres by cutting the fibers (mainly those of the corpus callosum) connecting them.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p40-01 -->
-
-**原位置：80. Constraint-Induced Therapy 与79. Plasticity 之间。**
-
-> 利用大脑可塑性。长弯箭头从80附近指回79. Plasticity。
-
-![第40页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p40-01.png)
-
-<!-- Source: page 41 -->
 
 - 中文释义: 通过手术切断连接两半球的纤维（主要是胼胝体），使两半球彼此隔离而造成的状态。
 
@@ -2274,6 +1790,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
   - 右半球：空间知觉、面孔识别、艺术、情绪、感知任务、"sense of self"。⚠️ 流行文化夸大了"左脑人/右脑人"——正常人两半球协同工作。⭐
 
+- 左理右艺。
+
 ### 87. Handedness 利手
 
 - English Definition: The preference for using one hand over the other (right-handed vs. left-handed); about 90% of humans are right-handed.
@@ -2287,18 +1805,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - English Definition: Our awareness of ourselves and our environment.
 
 - 中文释义: 我们对自身及周围环境的觉察。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p41-01 -->
-
-**原位置：86. Hemispheric Specialization 中文释义右侧。**
-
-> 左理右艺。
-
-![第41页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p41-01.png)
-
-<!-- Source: page 42 -->
 
 - 📝 Key Point: 心理学曾一度（行为主义时期）回避研究意识，如今重新成为认知神经科学核心。 ⭐
 
@@ -2339,8 +1845,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - English Definition: Study of the relative power and limits of genetic and environmental influences on behavior.
 
 - 中文释义: 研究遗传与环境对行为影响的相对强度和限度。
-
-<!-- Source: page 43 -->
 
 - 📝 Key Point: 核心问题：Heredity（遗传）vs. Environment（环境）哪个更重要？ 答案：二者相互作用，不是二选一。⭐
 
@@ -2386,8 +1890,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 ### 98. Identical (Monozygotic) Twins 同卵（单卵）双胞胎 ⭐⭐
 
-<!-- Source: page 44 -->
-
 - English Definition: Twins who develop from a single fertilized egg that splits in two, creating two genetically identical organisms.
 
 - 中文释义: 由一个受精卵分裂成两个而发育成的双胞胎，两个个体基因完全相同。
@@ -2426,8 +1928,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 中文释义: 对收养儿童的研究把他们与其亲生（遗传）父母和收养（环境）父母比较；发现被收养者的特质（如人格）往往更像亲生父母而非养父母。
 
-<!-- Source: page 45 -->
-
 - 📝 Key Point: 结论：遗传relatives预测人格；环境relatives影响价值观、信仰、政治态度。
 
 ### 103. Molecular Genetics 分子遗传学 ⭐
@@ -2463,8 +1963,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 📝 Key Point: "表观"=在DNA序列之上。环境（压力、饮食、营养）像"开关"一样把基因打开/关闭。例：母鼠照料幼鼠的方式会改变幼鼠基因表达。⚠️ 对比：Genes（基因序列）不变； Epigenetics（表达开关）变。⭐⭐
 
 ### 107. Evocative Interactions 唤起式交互
-
-<!-- Source: page 46 -->
 
 - English Definition: The tendency of genetically influenced traits to evoke particular responses from the environment (e.g., an outgoing child evokes more social stimulation from others).
 
@@ -2506,8 +2004,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 自然选择的结果。
 
-<!-- Source: page 47 -->
-
 ### 112. Fitness 适应度
 
 - English Definition: In evolutionary theory, the reproductive success of an organism; how well an organism survives and reproduces to pass its genes on.
@@ -2532,6 +2028,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 进化心理学解释：男性祖先通过广泛繁殖提高基因传递机会；女性通过精心选择配偶（投入孕育）提高后代存活概率。
 
+- 男性性欲比女性重（生理性别划分）。
+
 ### 115. Natural Selection and Mating Preferences 自然选择与择偶偏好
 
 - English Definition: Evolutionary explanations for why males and females tend to prefer different partner traits: males prefer signs of fertility/youth; females prefer signs of resources, protection, and commitment.
@@ -2545,18 +2043,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - English Definition: A criticism of evolutionary psychology: the tendency to first observe an existing behavior and then work backward to invent an explanation ("after-the-fact" theorizing), which is hard to falsify.
 
 - 中文释义: 对进化心理学的批评：先观察到某行为、再倒过来编一个解释（"事后诸葛"式理论化），难以证伪。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p47-01 -->
-
-**原位置：114. Gender Differences in Sexuality 英文释义右下。**
-
-> 男性性欲比女性重（生理性别划分）。
-
-![第47页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p47-01.png)
-
-<!-- Source: page 48 -->
 
 - 📝 Key Point: ⚠️ 这是对进化心理学的主要批评之一——不能预测新现象、难以证伪；同时还忽视了社会文化影响（impact of social influence）。
 
@@ -2579,8 +2065,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 | Genes vs Epigenetics | 基因序列不变；表观遗传学调控基因表达开关 | DNA不变 vs 开关变 |
 
 # 附录：神经递质速记表 ⭐⭐⭐
-
-<!-- Source: page 49 -->
 
 | Neurotransmitter | Function 功能 | 过多(Excess) | 过少(Deficit) |
 | --- | --- | --- | --- |
@@ -2610,8 +2094,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 | Occipital Lobe | 脑后部 | 视觉 |
 | Temporal Lobe | 耳上方 | 听觉 |
 
-<!-- Source: page 50 -->
-
 |  |  |
 | --- | --- |
 | ESP | 无科学证据；含 telepathy/clairvoyance/precognition |
@@ -2636,25 +2118,15 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 祝期中顺利！Good luck on your midterm! 🎯
 
-# Unit 5: States of Consciousness — AP Psychology 期中复习笔记
-
 # 第五单元：意识状态 — 中英文对照详细笔记
 
-来源：Myers' Psychology for AP®, 2e — PowerPoint Slides (Modules 22–25)
-
 标注说明：⭐ = 考试高频考点；⚠️ = 易混淆概念对比
-
-## Module 22: Understanding Consciousness and Hypnosis
 
 ## 模块22：理解意识与催眠
 
 ### 1. Consciousness（意识）
 
 - English Definition: Our subjective awareness of ourselves and our environment. It is the medium through which we experience the world, ourselves, and our mental processes.
-
-<!-- Source discontinuity: page 49 ends with the Unit 3 brain-structure table; page 50 begins with an ESP table row and Unit 4 FRQ reminders. The listed Unit 4 Modules 16-21 body is absent from the supplied PDF. No missing content has been invented. -->
-
-<!-- Source: page 51 -->
 
 - 中文释义：我们对自身及周围环境的主观觉知/觉察。意识是我们体验世界、自我和心理过程的媒介。
 
@@ -2690,8 +2162,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Example/Key Point: Often involves staring at a spot, slow breathing, and repeated suggestions of relaxation. 通常包括凝视某一点、缓慢呼吸和反复放松暗示。
 
-<!-- Source: page 52 -->
-
 ### 5. Postural Sway（姿势摇摆）
 
 - English Definition: A test of hypnotic susceptibility where the subject stands with eyes closed and the hypnotist suggests they are falling backward; people who sway are more likely to be hypnotizable.
@@ -2724,8 +2194,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Example/Key Point: Note — hypnosis alone is not a guaranteed cure; it works best as a complement to other therapies. 催眠本身不是万能疗法，最好作为其他治疗的辅助。
 
-<!-- Source: page 53 -->
-
 ### 9. Social Influence Theory of Hypnosis（催眠的社会影响理论） ⭐
 
 - English Definition: The theory that hypnosis is not an altered state of consciousness, but rather the subject is acting out the role of a "good hypnotic subject" — behaving in ways they believe a hypnotized person should act, driven by social expectations and role-playing.
@@ -2752,8 +2220,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
   - Social Influence: 催眠 = 角色扮演/社会服从，不是真正的意识改变
 
-<!-- Source: page 54 -->
-
   - Divided Consciousness (Hilgard): 催眠 = 真正的意识分离（dissociation），是改变状态
 
   - Modern view: "Unified account" — hypnosis involves BOTH role-playing AND dissociation, plus biological changes. 现代观点认为两者都有道理。
@@ -2765,8 +2231,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义：从三个水平理解催眠：生物水平（独特脑活动、无意识信息加工）、心理水平（集中注意、期望、高度暗示性、感觉与意识觉知的分离）、社会文化水平（合法情境中的权威人物、扮演"好被试"）。
 
 - 📝 Example/Key Point: This is the biopsychosocial approach applied to hypnosis. 这是生物-心理-社会途径在催眠上的应用。
-
-## Module 23: Sleep Patterns and Sleep Theories
 
 ## 模块23：睡眠模式与睡眠理论
 
@@ -2783,8 +2247,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - English Definition: The biological clock; regular bodily rhythms (temperature, wakefulness) that occur on a 24-hour cycle.
 
 - 中文释义：生物钟；以24小时为周期的规律身体节律（体温、觉醒度）。
-
-<!-- Source: page 55 -->
 
 - 📝 Example/Key Point: ⭐ Our body temperature rises in the morning, peaks during the day, dips in the afternoon, and drops at night. Morning types (larks) do better early; evening types (owls) peak later. 年轻人偏夜猫子，老年人偏早起鸟。年龄会影响昼夜节律。
 
@@ -2812,6 +2274,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Example/Key Point: Associated with normal waking consciousness and active thought. 与正常清醒意识和主动思考相关。
 
+- REM sleep。
+
 ### 18. Alpha Waves（α波）
 
 - English Definition: The relatively slow brain waves of a relaxed, awake state (drowsy, relaxed wakefulness).
@@ -2819,18 +2283,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义：放松清醒状态（昏昏欲睡、放松）下相对较慢的脑电波。
 
 - 📝 Example/Key Point: ⭐ You produce alpha waves when you are awake but relaxed — e.g., when closing your eyes and beginning to drift toward sleep. 闭眼放松、即将入睡时出现α波。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p55-01 -->
-
-**原位置：17. Beta Waves 标题右侧。**
-
-> → REM sleep。
-
-![第55页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p55-01.png)
-
-<!-- Source: page 56 -->
 
 ### 19. Delta Waves（δ波） ⭐
 
@@ -2865,8 +2317,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 ### 22. NREM-3 Sleep（非快速眼动睡眠第三阶段 / 深睡眠） ⭐⚠️
 
 - English Definition: Deep sleep, lasting about 30 minutes early in the night, characterized by large, slow delta waves. Hard to awaken from.
-
-<!-- Source: page 57 -->
 
 - 中文释义：深睡眠，前半夜约持续30分钟，以大而慢的δ波为特征。难以被唤醒。
 
@@ -2908,8 +2358,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Example/Key Point: The "paradox" is that your brain is as active as when awake, but your body is immobile. 矛盾在于脑像清醒时一样活跃，但身体不动。
 
-<!-- Source: page 58 -->
-
 ### 25. REM Rebound（REM反弹） ⭐
 
 - English Definition: The tendency for REM sleep to increase following REM sleep deprivation (created by repeated awakenings during REM sleep).
@@ -2944,18 +2392,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
   - c. Memory storage: Sleep consolidates and restores our memories of the day's experiences.
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p58-01 -->
-
-**原位置：25. REM Rebound 右侧。**
-
-> 这个我自己有体会！特别难受，并画不开心表情。（2个小时做了6个梦，头疼得快炸了，还会鬼压床）
-
-![第58页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p58-01.png)
-
-<!-- Source: page 59 -->
-
   - d. Sleep and creative thinking: Sleep boosts problem-solving and creative thinking.
 
   - e. Sleep and growth: Deep sleep (NREM-3) triggers pituitary gland to release growth hormone.
@@ -2973,8 +2409,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
   - e. 生长：深睡眠（NREM-3）刺激脑垂体释放生长激素
 
 - 📝 Example/Key Point: ⭐ Sleep duration varies by species: bat 20hrs, cat 12hrs, human 8hrs, giraffe 2hrs. 不同动物睡眠时长差异大（蝙蝠20h，长颈鹿2h）。
-
-## Module 24: Sleep Deprivation, Sleep Disorders, and Dreams
 
 ## 模块24：睡眠剥夺、睡眠障碍与梦
 
@@ -3000,8 +2434,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
   - Muscles: Reduced strength, slower reaction time, impaired motor learning. 力量下降、反应变慢、运动学习受损。
 
-<!-- Source: page 60 -->
-
   - Spring forward daylight saving time: More traffic accidents the Monday after we lose one hour of sleep. 夏令时调快一小时后，周一交通事故增加。
 
 ### 30. Insomnia（失眠症） ⭐
@@ -3020,6 +2452,8 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Example/Key Point: ⭐ Key: Narcolepsy = sudden, uncontrollable attacks of sleep, often directly into REM. Caused by lack of orexin (hypocretin), a neurotransmitter produced in the hypothalamus. 发作性睡病 = 突然不可控的睡眠发作，常直接进入REM。由下丘脑分泌的食欲素 （orexin）缺乏导致。
 
+- 比如开车开一半开始睡，很危险。
+
 ### 32. Sleep Apnea（睡眠呼吸暂停） ⭐
 
 - English Definition: A sleep disorder in which the sleeping person repeatedly stops breathing during sleep, waking up gasping for air.
@@ -3031,18 +2465,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 ### 33. Night Terrors（夜惊） ⭐⚠️
 
 - English Definition: A sleep disorder characterized by high arousal and an appearance of being terrified; unlike nightmares, night terrors occur during NREM-3 (deep sleep), within 2–3 hours of falling asleep, and are seldom remembered.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p60-01 -->
-
-**原位置：31. Narcolepsy 标题右侧。**
-
-> 比如开车开一半开始睡，很危险。
-
-![第60页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p60-01.png)
-
-<!-- Source: page 61 -->
 
 - 中文释义：一种以高度觉醒和恐惧表现为特征的睡眠障碍；与噩梦不同，夜惊发生在NREM-3（深睡眠），入睡后2-3小时内，很少被记住。
 
@@ -3077,18 +2499,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 中文释义：根据弗洛伊德，梦的字面的、被记住的故事情节（区别于隐藏的隐梦内容）。
 
 - 📝 Example/Key Point: ⭐ If you dream of taking a math test naked, the manifest content is "taking a test naked." 梦见裸体考试，显梦内容就是"裸体考试"本身。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p61-01 -->
-
-**原位置：35. Dreams 的例子下方右侧。**
-
-> 我做好梦比较多，并画笑脸。
-
-![第61页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p61-01.png)
-
-<!-- Source: page 62 -->
 
 ### 37. Latent Content（隐梦/隐性内容） ⭐
 
@@ -3130,8 +2540,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 中文释义：REM睡眠中规律的脑刺激可能帮助发展和保持神经通路。
 
-<!-- Source: page 63 -->
-
 - 📝 Criticism: This does not explain why we experience meaningful dreams. 这不能解释为什么我们体验到有意义的梦。
 
 38d. Neural Activation / Activation-Synthesis Theory（神经激活/激活-合成理论） ⭐
@@ -3152,8 +2560,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Criticism: Does not address the neuroscience of dreams. 没有涉及梦的神经科学。
 
-## Module 25: Psychoactive Drugs
-
 ## 模块25：精神活性药物
 
 ### 39. Psychoactive Drug（精神活性药物） ⭐
@@ -3169,8 +2575,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - English Definition: A disorder characterized by continued substance craving and use despite significant life disruption and/or physical risk.
 
 - 中文释义：一种障碍，尽管生活受到严重扰乱和/或身体风险，仍持续渴望和使用某种物质。
-
-<!-- Source: page 64 -->
 
 - 📝 Example/Key Point: ⭐ Diagnostic criteria (11 symptoms, grouped in 4 categories):
 
@@ -3206,8 +2610,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 中文释义：停止使用成瘾药物后出现的不适和痛苦。
 
-<!-- Source: page 65 -->
-
 - 📝 Example/Key Point: ⭐ Physical symptoms (aches, nausea, tremors) and psychological distress (anxiety, cravings). 躯体症状（疼痛、恶心、震颤）和心理痛苦（焦虑、渴求）。
 
 ### 44. Dependence（依赖）
@@ -3242,8 +2644,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
   - d. Reduced self-awareness and self-control（自我觉知和自控降低）: People focus on the immediate situation and ignore normal restraints. 只关注当下情境，忽视正常约束。
 
-<!-- Source: page 66 -->
-
   - e. Expectancy effects（期望效应）: When people believe alcohol has affected them, they behave accordingly — even if they drank a placebo. 即使喝的是安慰剂，只要相信自己喝了酒，行为也会像醉酒一样。
 
 ### 45b. Barbiturates / Tranquilizers（巴比妥类/镇静剂） ⭐
@@ -3271,8 +2671,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 - 📝 Example/Key Point: ⭐⚠️ Types: Caffeine 咖啡因, Nicotine 尼古丁, Amphetamines 安非他明, Cocaine 可卡因, Methamphetamine 冰毒/甲基苯丙胺, Ecstasy (MDMA) 摇头丸. 所有兴奋剂都加速心率、呼吸、血糖，带来警觉和能量。
 
 ### 46a. Caffeine（咖啡因） ⭐
-
-<!-- Source: page 67 -->
 
 - English Definition: A stimulant found in coffee, tea, and energy drinks; increases alertness and wakefulness.
 
@@ -3308,8 +2706,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Example/Key Point: ⭐ Mechanism: Cocaine binds to reuptake sites → neurotransmitters (dopamine, norepinephrine, serotonin) stay in synapse → intensified mood-altering effects → euphoric rush. When cocaine drops, absence of these neurotransmitters produces a crash （崩溃/低谷）. 可卡因阻断再摄取 → 神经递质留在突触 → 快感冲击；药效退去后神经递质缺乏 → crash（情绪崩溃）。Crack（快克可卡因）: a faster-acting, cheaper, smokable form. 快克是速效、可吸食的形式。Adverse: cardiovascular stress, suspiciousness, depressive crash. 心血管压力、多疑、抑郁性崩溃。
 
-<!-- Source: page 68 -->
-
 ### 46d. Amphetamines（安非他明）
 
 - English Definition: Stimulants that stimulate neural activity, causing speeded-up body functions and associated energy and mood changes.
@@ -3340,8 +2736,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 中文释义：迷幻（"显现心灵"）药物，在没有感觉输入的情况下扭曲知觉并唤起感觉意象。
 
-<!-- Source: page 69 -->
-
 - 📝 Example/Key Point: ⭐⚠️ Two main types: LSD 麦角酸二乙酰胺, Marijuana/THC 大麻. 致幻剂 = 在没有外部刺激时产生幻觉。
 
 ### 47a. LSD (Lysergic Acid Diethylamide)（麦角酸二乙酰胺/迷幻药） ⭐
@@ -3367,8 +2761,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 | Alcohol 酒精 | Depressant 抑制剂 | Initial high, relaxation, disinhibition | Depression, memory loss, organ damage, impaired reactions |
 | Heroin 海洛因 | Depressant 抑制剂 | Rush of euphoria, pain relief | Depressed physiology, agonizing withdrawal |
 
-<!-- Source: page 70 -->
-
 | Drug 药物 | Type 类型 | Pleasurable Effects 愉悦效果 | Adverse Effects 副作用 |
 | --- | --- | --- | --- |
 | Caffeine 咖啡因 | Stimulant 兴奋剂 | Increased alertness, wakefulness | Anxiety, restlessness, insomnia, uncomfortable withdrawal |
@@ -3388,8 +2780,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 | NREM-1 | Irregular, small | Hallucinations, hypnagogic sensations | 刚入睡几分钟 |
 | NREM-2 | Sleep spindles 睡眠纺锤波 | Clearly asleep | ~20 min early night |
 | NREM-3 | Delta δ波 | Deep sleep, hard to wake | ~30 min early night; sleepwalking/night terrors here |
-
-<!-- Source: page 71 -->
 
 | Stage 阶段 | Brain Waves 脑波 | Key Feature 关键特征 | When 何时 |
 | --- | --- | --- | --- |
@@ -3418,8 +2808,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 | --- | --- | --- |
 | Depressants 抑制剂 | Slow down nervous system 减缓神经系统 | Alcohol, barbiturates, opiates (heroin) |
 | Stimulants 兴奋剂 | Speed up nervous system 加速神经系统 | Caffeine, nicotine, cocaine, amphetamines, meth, MDMA |
-
-<!-- Source: page 72 -->
 
 | Category 类别 | Effect 效果 | Examples 举例 |
 | --- | --- | --- |
@@ -3467,10 +2855,6 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 20. Marijuana/THC = mild hallucinogen, impairs memory and learning.
 
-🎯 End of Unit 5 Notes. Good luck on your midterm! 期中加油！
-
-<!-- Source: page 73 -->
-
 # AP Psychology 期中复习笔记：社会认知 · 人格动机情绪 · 神经肌肉动作电位
 
 本笔记覆盖三大模块：
@@ -3509,8 +2893,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
 - 中文释义： 用外部环境因素解释行为——情境、环境、运气、社会压力等。
 
-<!-- Source: page 74 -->
-
 - 📝 Example/Key Point: "He was rude because he was having a terrible day and under enormous stress."（他粗鲁是因为今天很惨、压力很大。）⭐ 现实中大多数行为是两者共同作用的结果，关键看人倾向于用哪一种、以及归因是否准确。
 
 ## 二、Explanatory Style 解释风格
@@ -3543,6 +2925,8 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
   - 与更高的心理韧性、动机、身心健康相关。
 
+- 赞美自己，我就是最权威的。
+
 ### 6. Pessimistic Explanatory Style（悲观型解释风格） ⭐
 
 - English Definition: Bad events are attributed to internal, stable, global causes; good events are attributed to external, unstable, specific causes.
@@ -3555,27 +2939,9 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
   - 好事："I succeeded because I got lucky this time."（我成功是因为这次运气好。）
 
-#### 本页手写批注
-
-<!-- Handwritten annotation: p74-01 -->
-
-**原位置：5. Optimistic Explanatory Style 英文释义右下。**
-
-> 赞美自己，我就是最权威的。
-
-![第74页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p74-01.png)
-
-<!-- Handwritten annotation: p74-02 -->
-
-**原位置：6. Pessimistic Explanatory Style 英文释义右下。**
-
-> 贬低自己，谦虚。
-
-![第74页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p74-02.png)
-
-<!-- Source: page 75 -->
-
   - ⚠️ 与抑郁和习得性无助（learned helplessness）高度相关——这是FRQ常考链。
+
+- 贬低自己，谦虚。
 
 ## 三、Attributional Biases 归因偏差
 
@@ -3590,6 +2956,8 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
   - ⭐ 文化差异考点：FAE 在个人主义文化（如美国）中更常见；在集体主义文化（如中国）中人们更倾向考虑情境因素。
 
   - ⭐ 现实后果考点（Skill 4.A）：导致对困境中人的苛刻评判，如指责无家可归者、陪审团假定被告"本性坏"而忽视胁迫/极端压力等情境因素。
+
+- 针对人。
 
 ### 8. Actor-Observer Bias（行动者—观察者偏差） ⭐
 
@@ -3614,18 +2982,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 - English Definition: The tendency to attribute successes to internal (dispositional) factors and failures to external (situational) factors, in order to protect and enhance self-esteem.
 
 - 中文释义： 把成功归因为内部特质因素、把失败归因为外部情境因素的倾向，用以维护和提升自尊。
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p75-01 -->
-
-**原位置：7. Fundamental Attribution Error 英文释义右下。**
-
-> 针对人。
-
-![第75页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p75-01.png)
-
-<!-- Source: page 76 -->
 
 - 📝 Example/Key Point: "我拿A是因为我聪明又努力"（成功→内部）；"我挂了是因为老师出题不公平"（失败→外部）。
 
@@ -3663,8 +3019,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
 ### 13. Person Perception（人际知觉）
 
-<!-- Source: page 77 -->
-
 - English Definition: The processes by which we form impressions and make judgments about others, and about ourselves in relation to others. These judgments are not purely objective, but are shaped by cognitive shortcuts, prior expectations, and social context.
 
 - 中文释义： 我们对他人（以及与他人关系中的自己）形成印象和判断的过程。这些判断并非纯客观，而是受认知捷径、先前期望和社会情境影响。
@@ -3701,8 +3055,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
 ### 16. Social Comparison（社会比较） ⭐
 
-<!-- Source: page 78 -->
-
 - English Definition: The process of evaluating ourselves by comparing to others. Festinger (1954) proposed that people have a natural drive to assess their abilities and opinions, especially when objective standards are unavailable.
 
 - 中文释义： 通过与他人比较来评价自己的过程。Festinger（1954）提出，当缺乏客观标准时，人们有评估自身能力与观点的天然驱力。
@@ -3738,8 +3090,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 - English Definition: A defense mechanism where people disguise their own threatening impulses or flaws by attributing them to others.
 
 - 中文释义： 把自己身上令人不安的冲动或缺点，归咎到别人身上，以此掩饰自己。
-
-<!-- Source: page 79 -->
 
 - 📝 Example/Key Point: 经常出轨的人，反而毫无根据地指责伴侣冷落自己。⚠️ 核心："把自己的问题安到别人头上"。
 
@@ -3779,8 +3129,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
 ## 三、Big Five Personality Traits 大五人格（OCEAN）
 
-<!-- Source: page 80 -->
-
 - 中文释义： 生理需求产生唤醒紧张状态（驱力），驱动有机体去满足需求、恢复体内平衡。
 
 - 📝 Example/Key Point: 身体缺水→产生口渴的不适感（drive）→驱动喝水→口渴消除，恢复平衡。⭐ 关键词：homeostasis 体内平衡。
@@ -3795,6 +3143,8 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 
 - ⚠️ Drive Reduction vs Incentive 对比： drive reduction 是从内部需求往外推（push，内因）；incentive 是外部目标往里拉（pull，外因）。
 
+- 外界诱因。
+
 ### 28. Optimum Arousal（最佳唤醒理论） ⭐
 
 - English Definition: The theory that human motivation aims not to eliminate arousal but to seek optimum levels of arousal. Too little or too much arousal leads to discomfort.
@@ -3802,6 +3152,8 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 - 中文释义： 动机的目标不是消除唤醒，而是寻求最佳唤醒水平；太低或太高都不舒服。
 
 - 📝 Example/Key Point: 疲惫一周后决定去演唱会放松、"充电"。⭐ 与 Yerkes-Dodson Law（耶克斯-多德森定律） 联动：中等唤醒水平表现最佳。
+
+- 累的时候找出口。
 
 ### 29. Approach-Approach Conflict（双趋冲突） ⭐
 
@@ -3824,28 +3176,6 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 ### 30. Cognitive Appraisal（认知评价） ⭐⭐
 
 - English Definition: The theory that one's personal interpretation (appraisal) of a situation ultimately determines one's emotional response to it.
-
-#### 本页手写批注
-
-<!-- Handwritten annotation: p80-01 -->
-
-**原位置：27. Incentive Theory 标题右侧。**
-
-> 外界诱因。
-
-![第80页手写局部，1](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p80-01.png)
-
-<!-- Handwritten annotation: p80-02 -->
-
-**原位置：28. Optimum Arousal 的例子右下。**
-
-> 累的时候找出口。
-
-![第80页手写局部，2](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p80-03.png)
-
-<!-- Source discontinuity: page 79 ends with the Big Five heading; page 80 begins with a Chinese definition and then item 27. Items 23-26 are not present as complete entries in the supplied PDF. -->
-
-<!-- Source: page 81 -->
 
 - 中文释义： 个体对情境的主观解释（评价）最终决定其情绪反应。
 
@@ -3888,5 +3218,3 @@ Part 3 肌肉结构 · 细胞膜 · 动作电位术语表（Neuromuscular & Acti
 ### 35. Sarcomere（肌节） ⭐⭐
 
 - English Definition: The basic contractile unit of skeletal muscle, located between two Z disks.
-
-<!-- Source ends here after the English definition of item 35, Sarcomere. No following Chinese definition or later neuromuscular entries are present in the supplied PDF. -->

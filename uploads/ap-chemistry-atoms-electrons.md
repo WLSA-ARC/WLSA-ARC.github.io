@@ -1,7 +1,3 @@
-<!-- Source: page 1 -->
-
-## Atoms & Electrons
-
 ## Contents
 
 - Atomic Structure
@@ -10,10 +6,6 @@
 - The Aufbau Principle
 - Ionization Energy
 - Photoelectron Spectroscopy
-
-<!-- Source: page 2 -->
-
-## Atomic Structure
 
 ## The Atom
 
@@ -57,9 +49,7 @@ $$ {}^{A}_{Z}\mathrm{Atomic\ symbol} $$
 
 ## The beryllium atom
 
-<!-- Source: page 3 -->
-
-![Original source figure, page 3](markdown-assets/ap-chemistry-atoms-electrons/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-003-figure-01.png)
 
 The beryllium atom contains 4 protons, 5 neutrons and 4 electrons
 
@@ -93,8 +83,6 @@ chlorine (Cl).
 - So, the atom in question is a chlorine atom with 17 protons, 20 neutrons, an
 atomic number (Z) of 17, and a mass number (A) of 37.
 
-<!-- Source: page 4 -->
-
 - Step 5: Write it down with the A/Z notation
 
 $$ {}^{A}_{Z}\mathrm{Atomic\ symbol} $$
@@ -119,11 +107,9 @@ contain an small, dense, and positively charged core at the center
 
 ## The Rutherford Experiment
 
-![Original source figure, page 4](markdown-assets/ap-chemistry-atoms-electrons/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-004-figure-01.png)
 
 The Rutherford experiment showed atoms contain a small, dense, and positively charged core at the center
-
-<!-- Source: page 5 -->
 
 ## Using Coulomb’s Law
 
@@ -164,8 +150,6 @@ Answer:
 - Step 1: Write down the values and the Coulomb's law formula
 q<sub>1</sub> = +1.602 x 10<sup>-19</sup> C
 
-<!-- Source: page 6 -->
-
 q<sub>2</sub>= -1.602 x 10<sup>-19</sup> C
 
 r = 1 x 10<sup>-10</sup> m k = 8.99 x 10<sup>9</sup> N·m² C<sup>-</sup>²
@@ -187,12 +171,6 @@ opposite charges
 ## Examiner Tips and Tricks
 
 If the problem does not state the charge of the electron, you can find it in the AP Chemistry Equations and Constants that appear at the beginning of your examination. The charge of the proton has the same value but with a positive sign
-
-<!-- Source: page 7 -->
-
-## Electron Configuration
-
-## Shells & Subshells
 
 ## Electrons and Light
 
@@ -240,8 +218,6 @@ h = 6.626 x 10<sup>-34</sup>J s
 c = 3 x 10<sup>8</sup>ms<sup>-1</sup>
 
 E = hv
-
-<!-- Source: page 8 -->
 
 $$c=\lambda v$$
 
@@ -295,9 +271,7 @@ $$\lambda=4.13\times10^{-7}\ \mathrm{m}$$
 
 ## s orbital and p orbital shapes
 
-<!-- Source: page 9 -->
-
-![Original source figure, page 9](markdown-assets/ap-chemistry-atoms-electrons/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-009-figure-01.png)
 
 The s orbital is spherical and the p orbital is a dumbbell shape
 
@@ -326,8 +300,6 @@ electrons
 
 - Electrons in the inner shell are called core electrons
 
-<!-- Source: page 10 -->
-
 ## The Aufbau Principle
 
 - The Aufbau Principle helps us understand how electrons are arranged in atoms
@@ -341,7 +313,7 @@ ones
 
 ## The Aufbau Diagram
 
-![Original source figure, page 10](markdown-assets/ap-chemistry-atoms-electrons/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-010-figure-01.png)
 
 Electrons fill the lowest energy orbitals first before moving to higher energy ones
 
@@ -358,8 +330,6 @@ orbitals
 
 - A condensed electron configuration uses the closest previous noble gas to describe
 the electron arrangement
-
-<!-- Source: page 11 -->
 
 ## Worked Example
 
@@ -414,9 +384,7 @@ configuration of an element based on its position in the table
 
 ## The Periodic Table
 
-<!-- Source: page 12 -->
-
-![Original source figure, page 12](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-01.png)
 
 Electron configuration in the periodic table
 
@@ -441,11 +409,9 @@ electron with opposite spin
 
 ## Representing the electron configuration in a fluorine atom
 
-![Original source figure, page 12](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-02.png)
 
 Orbital diagram for the electron configuration of the fluorine (F) atom
-
-<!-- Source: page 13 -->
 
 ## Ionization Energy
 
@@ -491,8 +457,6 @@ Answer:
 and the Coulombic attraction should be greater
 - Step 2: Analyze distance from the nucleus
 
-<!-- Source: page 14 -->
-
 - Chlorine has its outermost electron in the 3p subshell
 - Fluorine has its outermost electron in the 2p subshell
 - The distance from the nucleus is greater in Cl, therefore the electron in Cl
@@ -516,8 +480,6 @@ a valence electron from a F atom compared to a Cl atom
 ## Examiner Tips and Tricks
 
 It is compulsory to make reference to the Coulomb’s Law in every estimation of ionization energies between atoms
-
-<!-- Source: page 15 -->
 
 ## Photoelectron Spectroscopy
 
@@ -562,9 +524,7 @@ Interpreting a PES spectrum is assessed in most of the AP Chemistry Examinations
 
 A PES analysis of an unknown element (X) was performed and the spectrum below was obtained. The sample does not contain any impurities. What is the identity of X?
 
-<!-- Source: page 16 -->
-
-![Original source figure, page 16](markdown-assets/ap-chemistry-atoms-electrons/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-016-figure-01.png)
 
 Unknown sample PES Spectrum
 
@@ -596,9 +556,7 @@ in the 2p subshell for this atom was 2
 - We can connect the electron configuration with the PES Spectrum labeled
 below
 
-<!-- Source: page 17 -->
-
-![Original source figure, page 17](markdown-assets/ap-chemistry-atoms-electrons/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-017-figure-01.png)
 
 PES Spectrum labeled
 
@@ -616,5 +574,3 @@ OR
 - Since the valence electrons are in the second shell, the element should
 be in the second period of the periodic table
 - Therefore, element X is carbon (C)
-
-> 来源：© 2025 Save My Exams, Ltd.

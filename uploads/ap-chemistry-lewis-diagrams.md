@@ -1,15 +1,9 @@
-<!-- Source: page 1 -->
-
-## Lewis Diagrams
-
 ## Contents
 
 - Lewis Diagrams
 - Resonance & Lewis Structures
 - Formal Charge
 - Limitations of Lewis Structures
-
-<!-- Source: page 2 -->
 
 ## Lewis Diagrams
 
@@ -21,7 +15,7 @@ molecule can be represented as:
 
 ## Lewis Diagrams for Water
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-lewis-diagrams/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-002-figure-01.png)
 
 Different Lewis Diagrams for the water molecule showing bonding pairs as lines or dots
 
@@ -55,8 +49,6 @@ with 6 electrons
 
 ## Steps for drawing Lewis Diagrams
 
-<!-- Source: page 3 -->
-
 1. Calculate the total number of valence electrons using your periodic table
 
 2. Draw a correct skeletal structure to show how the atoms are linked between them
@@ -78,7 +70,7 @@ Draw a Lewis structure for CCl<sub>4</sub>
 
 Answer:
 
-![Original source figure, page 3](markdown-assets/ap-chemistry-lewis-diagrams/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-003-figure-01.png)
 
 Steps in drawing the Lewis Structure for CCl<sub>4</sub>
 
@@ -89,8 +81,6 @@ drawn
 
 | Molecule | Total number of valence electrons | Lewis Diagram |
 | --- | --- | --- |
-
-<!-- Source: page 4 -->
 
 | Molecule | Total number of valence electrons | Lewis Diagram |
 | --- | --- | --- |
@@ -106,9 +96,7 @@ Lewis diagrams for common molecules
 
 Which of the following Lewis electron-dot diagrams is drawn incorrectly?
 
-<!-- Source: page 5 -->
-
-![Original source figure, page 5](markdown-assets/ap-chemistry-lewis-diagrams/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-005-figure-01.png)
 
 Answer:
 
@@ -120,8 +108,6 @@ not correctly drawn.
 bromine atom in C, and the chlorine atom in D complete their octets. In the case
 of D, all hydrogen atoms complete their duet. Therefore, their Lewis Diagrams
 are drawn correctly
-
-<!-- Source: page 6 -->
 
 ## Resonance & Lewis Structures
 
@@ -172,9 +158,7 @@ another
 
 ## Resonance in the Nitrate(V) ion
 
-<!-- Source: page 7 -->
-
-![Original source figure, page 7](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-01.png)
 
 Resonance structures in the nitrate ion
 
@@ -189,7 +173,7 @@ nitrate(V) ion
 
 ## The Nitrate(V) Ion
 
-![Original source figure, page 7](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-02.png)
 
 Resonance hybrid nitrate(V) ion
 
@@ -200,17 +184,11 @@ carboxylate ion which are showed in the table below
 | --- | --- | --- |
 | Carbonate ion, CO₃²⁻ | ![Carbonate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-03.png) | ![Carbonate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-04.png) |
 
-<!-- Source: page 8 -->
-
 | Species | Lewis Diagram | Resonance Hybrid |
 | --- | --- | --- |
 | Benzene, C₆H₆ | ![Benzene resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-01.png) | ![Benzene resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-02.png) |
 | Ozone, O₃ | ![Ozone resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-03.png) | ![Ozone resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-04.png) |
 | Carboxylate ion, RCOO⁻ | ![Carboxylate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-05.png) | ![Carboxylate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-06.png) |
-
-<!-- Source: page 9 -->
-
-## Formal Charge
 
 ## The Octet Rule & Formal Charge
 
@@ -257,9 +235,7 @@ deduced that it has 3 valence electrons.
 the structure is 8.
 - By following the steps to draw a Lewis diagram, the structure should look like this:
 
-<!-- Source: page 10 -->
-
-![Original source figure, page 10](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-01.png)
 
 Lewis formula of BH<sub>4</sub><sup>–</sup>
 
@@ -292,11 +268,9 @@ common in atoms
 
 What is the formal charge on the two resonance structures shown?
 
-![Original source figure, page 10](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-02.png)
 
 Resonance structures of hydrogen cyanide
-
-<!-- Source: page 11 -->
 
 Deduce which is the preferred structure
 
@@ -337,8 +311,6 @@ ion, therefore, the structure is unstable
 
 The terms Lewis Diagrams, Lewis Structures or Lewis Formulas mean the same thing
 
-<!-- Source: page 12 -->
-
 ## Limitations of Lewis Structures
 
 - There are some chemical compounds that cannot be represented with Lewis diagrams
@@ -358,7 +330,7 @@ an molecules with unpaired electrons are highly reactive and unstable
 
 ## Examples of Free Radicals
 
-![Original source figure, page 12](markdown-assets/ap-chemistry-lewis-diagrams/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-012-figure-01.png)
 
 Molecules with an odd number of electrons
 
@@ -381,16 +353,12 @@ period or below, is surrounded by terminal atoms with high electronegativity val
 
 ## The PCl₅ molecule
 
-<!-- Source: page 13 -->
-
-![Original source figure, page 13](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-01.png)
 
 The octet of the central phosphorus atom has been expanded to hold 10 electrons
 
 ## The SF₆ molecule
 
-![Original source figure, page 13](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-02.png)
 
 The octet of the central sulfur atom has been expanded to hold 12 electrons
-
-> 来源：© 2025 Save My Exams, Ltd.

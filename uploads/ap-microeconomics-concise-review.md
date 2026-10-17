@@ -1,7 +1,5 @@
 # AP Microeconomics | Concise English Review
 
-<!-- Source: page 1 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 1 Basic Economic Concepts**
 
 All 36 topics. Read the rule, inspect the graph, then recall it without looking.
@@ -44,8 +42,6 @@ PPC: A is efficient; B is feasible but inefficient; C is currently unattainable.
 
 > **REMEMBER** A change in productive capacity shifts the PPC; a change in resource use moves the point.
 
-<!-- Source: page 2 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 2 / A Demand, Supply & Elasticity**
 
 ### 2.1 Demand
@@ -84,8 +80,6 @@ Left: Demand rises: D1 to D2. With supply unchanged, price and quantity both ris
 
 > **REMEMBER** Own price changes quantity demanded/supplied. Other determinants shift demand/supply.
 
-<!-- Source: page 3 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 2 / B Welfare & Market Policy**
 
 ### 2.6 Equilibrium & surplus
@@ -120,8 +114,6 @@ Two shifts: D up + S up: Q rises, P unclear. D up + S down: P rises, Q unclear. 
 
 > **REMEMBER** Ceiling below equilibrium: shortage. Floor above equilibrium: surplus. Tax burden depends on elasticity, not who legally pays.
 
-<!-- Source: page 4 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 3 / A Production, Costs & Profit**
 
 ### 3.1 Production function
@@ -154,8 +146,6 @@ MC crosses AVC and ATC at their minima. ATC - AVC = AFC.
 
 > **REMEMBER** Zero economic profit includes the opportunity cost of the owner's resources.
 
-<!-- Source: page 5 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 3 / B Firm Decisions & Competition**
 
 ### 3.5 Profit maximization
@@ -186,8 +176,6 @@ Quick check P = 8, AVC = 6, ATC = 11, Q = 10: operating loss = 30; shutdown loss
 
 > **REMEMBER** Find output using MC, then judge profit using ATC and shutdown using AVC.
 
-<!-- Source: page 6 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 4 / A Market Power & Monopoly**
 
 ### 4.1 Market power & barriers
@@ -211,8 +199,6 @@ Graph labels: Price / cost (\$); Quantity; Pm; MC; DWL; MR; D; Qm; Qe; PS; 0.
 Left: P = 30 - Q; MC = 6. Qm = 12, Pm = 18; efficient Qe = 24. Purple = DWL. Right: Perfect discrimination: produce to D = MC. CS = 0; shaded area = PS.
 
 > **REMEMBER** Monopoly: MR = MC -> Q -> up to demand for P. Do not read price from MR.
-
-<!-- Source: page 7 -->
 
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 4 / B Competition & Strategy**
 
@@ -240,8 +226,6 @@ Payoff matrix: (A payoff, B payoff)
 Low price is dominant for each firm. Nash equilibrium: (low, low), earning (4, 4). Joint profit is higher at (high, high), but either firm can gain by undercutting.
 
 > **REMEMBER** Zero long-run profit does not guarantee productive or allocative efficiency.
-
-<!-- Source: page 8 -->
 
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 5 Factor Markets**
 
@@ -273,8 +257,6 @@ Left: Competitive employer: hire where MRP = wage = MFC. Right: Monopsony: MRP =
 
 > **REMEMBER** Monopsony: MFC sets hiring; supply sets the wage. Do not confuse monopoly with monopsony.
 
-<!-- Source: page 9 -->
-
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 6 / A Efficiency & Externalities**
 
 ### 6.1 Social efficiency
@@ -300,8 +282,6 @@ Graph labels: Price / cost (\$); Quantity; MSC; MPC; DWL; MPB = MSB; Q*; Qm; MPC
 Left: Negative production externality: Qmarket > Q*. Purple = DWL. Right: Positive consumption externality: Qmarket < Q*. Purple = lost net benefit.
 
 > **REMEMBER** Private equilibrium: MPB = MPC. Social optimum: MSB = MSC.
-
-<!-- Source: page 10 -->
 
 **AP MICROECONOMICS / CONCISE REVIEW / UNIT 6 / B Policy & Inequality**
 

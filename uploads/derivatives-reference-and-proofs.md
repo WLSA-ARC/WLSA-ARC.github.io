@@ -2,8 +2,6 @@
 
 Reference Table and Proofs
 
-<!-- Source: page 1 -->
-
 ## 1 Derivative reference table
 
 All trigonometric angles are measured in **radians**.
@@ -27,8 +25,6 @@ All trigonometric angles are measured in **radians**.
 
 Differentiation finds a function's **instantaneous rate of change** at a point. Every derivative formula ultimately comes from the same definition:
 $$f'(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}h.$$
-
-<!-- Source: page 2 -->
 
 ## 2 The four differentiation rules
 
@@ -67,8 +63,6 @@ $$[f(g(x))]'=f'(g(x))g'(x).$$
 $$\left(\frac1v\right)'=\lim_{h\to0}\frac{v(x)-v(x+h)}{h\,v(x+h)v(x)}=-\frac{v'}{v^2}.$$
 Now write $u/v=u\cdot(1/v)$ and apply the product rule.
 
-<!-- Source: page 3 -->
-
 ## 3 Constants and powers: proofs
 
 ### 3.1 Constants
@@ -104,8 +98,6 @@ $$\begin{aligned}
 The same defining limit gives $e$ as $n\to-\infty$, so this works from either side. The change-of-base formula gives
 $$\log_a x=\frac{\ln x}{\ln a},\qquad (\log_a x)'=\frac1{x\ln a}.$$
 
-<!-- Source: page 4 -->
-
 ### 4.2 Natural exponentials
 
 Let $t=e^h-1$. As $h\to0$, we have $t\to0$ and $h=\ln(1+t)$. Therefore,
@@ -125,8 +117,6 @@ $$x^\alpha=e^{\alpha\ln x}.$$
 Therefore,
 $$ (x^\alpha)'=e^{\alpha\ln x}\cdot\frac\alpha x=\alpha x^{\alpha-1}.$$
 Here $\alpha$ must be a **constant**. For example, in $x^x$ the exponent also varies, so the power rule cannot be applied directly.
-
-<!-- Source: page 5 -->
 
 ## 5 Trigonometric functions: proofs
 
@@ -165,8 +155,6 @@ $$\begin{aligned}
 (\csc x)'&=\left(\frac1{\sin x}\right)'=-\frac{\cos x}{\sin^2x}=-\csc x\cot x.
 \end{aligned}$$
 
-<!-- Source: page 6 -->
-
 ## 6 What is easiest to overlook in practice?
 
 **When $x$ in a formula is replaced by a function, multiply by the derivative of that inner function.**
@@ -186,11 +174,9 @@ For the last formula, write $x^x=e^{x\ln x}$ and differentiate.
 
 **First identify whether the base, the exponent, or both are changing; then choose the formula.**
 
-<!-- Source: page 7 -->
-
 ## 7 Practice Exercises
 
-**Source:** Joel Hass, Christopher Heil, and Maurice D. Weir, *Thomas' Calculus*, 14th edition, Pearson, 2018. ISBN 978-0-13-443898-6. References below use the book's printed page numbers.
+练习参考：*Thomas' Calculus*，第 14 版。
 
 Find the first derivative of each function with respect to its independent variable. Each answer follows its question; no working is included.
 
@@ -205,8 +191,6 @@ Find the first derivative of each function with respect to its independent varia
 5. Source: Section 3.5, Exercise 12, p. 138.
    $$y=\frac{\cos x}{1+\sin x}\qquad\left[\frac{dy}{dx}=-\frac1{1+\sin x}\right]$$
 
-<!-- Source: page 8 -->
-
 6. Source: Section 3.6, Exercise 19, p. 145.
    $$p=\sqrt{3-t}\qquad\left[\frac{dp}{dt}=-\frac1{2\sqrt{3-t}}\right]$$
 7. Source: Section 3.6, Exercise 29, p. 145.
@@ -217,8 +201,6 @@ Find the first derivative of each function with respect to its independent varia
    $$y=t(\ln t)^2\qquad\left[\frac{dy}{dt}=(\ln t)^2+2\ln t\right]$$
 10. Source: Section 7.2, Exercise 25, p. 385.
     $$y=\ln(\ln x)\qquad\left[\frac{dy}{dx}=\frac1{x\ln x}\right]$$
-
-<!-- Source: page 9 -->
 
 11. Source: Section 7.3, Exercise 75, p. 395.
     $$y=x^3\log_{10}x\qquad\left[\frac{dy}{dx}=3x^2\log_{10}x+\frac{x^2}{\ln10}\right]$$

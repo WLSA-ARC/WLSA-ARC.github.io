@@ -1,7 +1,5 @@
 # G11 S1-Mid
 
-MADE BY G11 Vinent Wan
-
 ### WLSA 2026–2027 学年第 1 学期 SG G11 语文期中考试说明
 
 **一、考试题型及说明**
@@ -31,7 +29,7 @@ MADE BY G11 Vinent Wan
    - 了解关于老舍和话剧的相关文学常识；
    - 掌握文中部分台词背后的潜台词含义。
 
-![原文图 1](markdown-assets/g11-chinese-midterm-vincent-wan/image1.png)
+![图 1](markdown-assets/g11-chinese-midterm-vincent-wan/image1.png)
 
 这次需要关注的是问答题他只考茶馆的内容 但是氓的复习重点却不少 所以我们可以推测选择题填空题对于氓的考察有可能比茶馆多
 
@@ -105,9 +103,7 @@ MADE BY G11 Vinent Wan
 
 图中注音：蚩 chī；淇 qí；匪 fēi；愆 qiān；将 qiāng；垝垣 guǐ yuán；涟 lián；筮 shì；于嗟鸠 xū jiē jiū；耽 dān；说 tuō；陨 yǔn；徂 cú；汤汤 shāng shāng；渐 jiān；贰 èr；罔 wǎng；靡 mǐ；朝 zhāo；咥 xì；隰 xí。
 
-〔图中“匪”标为 fēi；下文作者另外强调 fěi，原资料中的差异均保留。〕
-
-![原文图 2](markdown-assets/g11-chinese-midterm-vincent-wan/image2.png)
+![图 2](markdown-assets/g11-chinese-midterm-vincent-wan/image2.png)
 
 **需要注意的点：**
 
@@ -283,9 +279,9 @@ MADE BY G11 Vinent Wan
 
 ### 剧情流水线
 
-常四爷议论群架被而二德子找茬（原图用字）→ 马五爷施威 → 康六卖女儿 → 常四爷锐评洋货 → 鸽子之争 → 秦仲义出场跟王利发商量房租 → 乡妇进茶馆卖女儿 → 秦仲义表明实业救国的梦想 → 庞太监与秦仲义过招 → 众人纷纷议论戊戌变法 → 常四爷被特务带走 → 乡妇带着女儿离开、康顺子晕过去、众人离场。
+常四爷议论群架被而二德子找茬→ 马五爷施威 → 康六卖女儿 → 常四爷锐评洋货 → 鸽子之争 → 秦仲义出场跟王利发商量房租 → 乡妇进茶馆卖女儿 → 秦仲义表明实业救国的梦想 → 庞太监与秦仲义过招 → 众人纷纷议论戊戌变法 → 常四爷被特务带走 → 乡妇带着女儿离开、康顺子晕过去、众人离场。
 
-![原文图 3](markdown-assets/g11-chinese-midterm-vincent-wan/image3.png)
+![图 3](markdown-assets/g11-chinese-midterm-vincent-wan/image3.png)
 
 大体故事时间线（不能只看这个） 这个我盲猜填空+判断都会考一次情节
 
@@ -310,7 +306,7 @@ MADE BY G11 Vinent Wan
 
 他的作品以独特的幽默风格和浓郁的民族色彩以及从内容到形式的雅俗共赏而赢得了广大读者的喜爱。
 
-![原文图 4](markdown-assets/g11-chinese-midterm-vincent-wan/image4.png)
+![图 4](markdown-assets/g11-chinese-midterm-vincent-wan/image4.png)
 
 最后每个分类记住一个：
 
@@ -330,7 +326,7 @@ MADE BY G11 Vinent Wan
 
 **剧本**：文学作品中的一种体裁，指戏剧艺术的文学部分，它直接规定了戏剧的题材、主题、人物、情节、语言和结构，是戏剧演出的基础和依据。
 
-![原文图 5](markdown-assets/g11-chinese-midterm-vincent-wan/image5.png)
+![图 5](markdown-assets/g11-chinese-midterm-vincent-wan/image5.png)
 
 剧本是由这几个组成的
 
@@ -347,7 +343,7 @@ MADE BY G11 Vinent Wan
 | 按创作方法分类 | 古典主义戏剧 · 浪漫主义戏剧 |
 | 按矛盾冲突性质与人物命运的结局呈现出的价值取向分类 | 喜剧 · 悲剧 · 正剧 |
 
-![原文图 6](markdown-assets/g11-chinese-midterm-vincent-wan/image6.png)
+![图 6](markdown-assets/g11-chinese-midterm-vincent-wan/image6.png)
 
 并且剧本也是有分类的 这些大概有个印象就好
 
@@ -363,7 +359,7 @@ MADE BY G11 Vinent Wan
 | 开放式结构（“线性式”） | 将事件按照发生发展的顺序的从头写到尾，作品反映事件的始末，风格较为洒脱。 | 《奥赛罗》（莎士比亚） |
 | 人像展览式结构 | 以人物呈现为中心的结构，以刻画形形色色的人物表现时代的社会风貌，剧情往往在一个比较特殊的地点展开，作为一个平台。 | 《茶馆》（老舍）、《日出》（曹禺） |
 
-![原文图 7](markdown-assets/g11-chinese-midterm-vincent-wan/image7.png)
+![图 7](markdown-assets/g11-chinese-midterm-vincent-wan/image7.png)
 
 话剧也是由分类的分为
 
@@ -381,13 +377,13 @@ MADE BY G11 Vinent Wan
 
 鉴赏方法：把握戏剧冲突；分析人物形象；揣摩戏剧语言。
 
-![原文图 8](markdown-assets/g11-chinese-midterm-vincent-wan/image8.png)
+![图 8](markdown-assets/g11-chinese-midterm-vincent-wan/image8.png)
 
 ### 创作背景
 
 老舍说：“茶馆是三教九流会面之处，可以容纳各色人物，一个大茶馆就是一个小社会。这出戏虽只有三幕，可是写了五十来年的变迁。我不熟悉政治舞台上的高官大人，没法子正面描写他们的促进与促退。我也不十分懂政治，只认识一些小人物，这些人是经常下茶馆的。那么，我要是把他们集合到一个茶馆里，用他们生活上的变迁反映社会的变迁，不就侧面地透露出一些政治消息么？这样，我就决定了去写《茶馆》。”
 
-![原文图 9](markdown-assets/g11-chinese-midterm-vincent-wan/image9.png)
+![图 9](markdown-assets/g11-chinese-midterm-vincent-wan/image9.png)
 
 创作背景：
 
@@ -399,7 +395,7 @@ MADE BY G11 Vinent Wan
 
 在小小的茶馆里，没有一句写政治，却通过人事展现了那个时代的政治全貌。
 
-![原文图 10](markdown-assets/g11-chinese-midterm-vincent-wan/image10.png)
+![图 10](markdown-assets/g11-chinese-midterm-vincent-wan/image10.png)
 
 大茶馆小社会是核心，通过了一件件事情展示了时代的政治全貌
 
@@ -433,7 +429,7 @@ MADE BY G11 Vinent Wan
 4. 反动统治阶级的走狗：二德子、马五爷、庞太监、宋恩子、吴祥子。
 5. 社会渣滓：唐铁嘴、刘麻子、黄胖子。
 
-![原文图 11](markdown-assets/g11-chinese-midterm-vincent-wan/image11.png)
+![图 11](markdown-assets/g11-chinese-midterm-vincent-wan/image11.png)
 
 ### 王利发：裕泰茶馆的掌柜（线索人物）
 
@@ -444,7 +440,7 @@ MADE BY G11 Vinent Wan
 
 旧社会小商人的代表，广大市民的典型，乱世底层商贩维生之艰难。
 
-![原文图 12](markdown-assets/g11-chinese-midterm-vincent-wan/image12.png)
+![图 12](markdown-assets/g11-chinese-midterm-vincent-wan/image12.png)
 
 ### 常四爷：正义爱国的晚清旗人
 
@@ -454,7 +450,7 @@ MADE BY G11 Vinent Wan
 
 晚清遗老中的正义爱国之士。
 
-![原文图 13](markdown-assets/g11-chinese-midterm-vincent-wan/image13.png)
+![图 13](markdown-assets/g11-chinese-midterm-vincent-wan/image13.png)
 
 ### 松二爷：懒散无能、善良却胆小怯懦的晚清旗人
 
@@ -465,7 +461,7 @@ MADE BY G11 Vinent Wan
 
 缺乏谋生能力、留恋旧时代、无力适应新时代的晚清遗老。
 
-![原文图 14](markdown-assets/g11-chinese-midterm-vincent-wan/image14.png)
+![图 14](markdown-assets/g11-chinese-midterm-vincent-wan/image14.png)
 
 ### 秦仲义：裕泰茶馆的房东、维新浪潮中成长起来的民族资本家
 
@@ -476,7 +472,7 @@ MADE BY G11 Vinent Wan
 
 黑暗中的一道微光。
 
-![原文图 15](markdown-assets/g11-chinese-midterm-vincent-wan/image15.png)
+![图 15](markdown-assets/g11-chinese-midterm-vincent-wan/image15.png)
 
 | 人物 | 特征 |
 | --- | --- |
@@ -486,7 +482,7 @@ MADE BY G11 Vinent Wan
 
 一群社会底层的地痞无赖，反映出社会的畸形与病态。
 
-![原文图 16](markdown-assets/g11-chinese-midterm-vincent-wan/image16.png)
+![图 16](markdown-assets/g11-chinese-midterm-vincent-wan/image16.png)
 
 | 人物 | 特征 |
 | --- | --- |
@@ -496,9 +492,7 @@ MADE BY G11 Vinent Wan
 
 一群社会底层的地痞无赖，反映出社会的畸形与病态。
 
-人物照片上的影视字幕：左图“〔原文此处无法辨认〕”；右图“〔原文此处无法辨认〕”。
-
-![原文图 17](markdown-assets/g11-chinese-midterm-vincent-wan/image17.png)
+![图 17](markdown-assets/g11-chinese-midterm-vincent-wan/image17.png)
 
 围绕着文章的一个关键词出现了：
 
@@ -524,7 +518,7 @@ MADE BY G11 Vinent Wan
 | 常四爷被抓走 | 封建统治下的言论不自由，好人遭殃 |
 | 庞太监买妻 | 封建势力腐朽没落，荒淫无耻 |
 
-![原文图 18](markdown-assets/g11-chinese-midterm-vincent-wan/image18.png)
+![图 18](markdown-assets/g11-chinese-midterm-vincent-wan/image18.png)
 
 ## 潜台词
 
@@ -540,7 +534,7 @@ MADE BY G11 Vinent Wan
 
 侧面交代了一个社会现实：清朝末年，鸦片战争失败，清政府腐败，大量鸦片流入中国，腐蚀着中国人民的身体和灵魂。
 
-![原文图 19](markdown-assets/g11-chinese-midterm-vincent-wan/image19.png)
+![图 19](markdown-assets/g11-chinese-midterm-vincent-wan/image19.png)
 
 ### 品读台词
 
@@ -552,7 +546,7 @@ MADE BY G11 Vinent Wan
 
 一种社会现象：农村破产，民不聊生。农民已经无法生存下去，只能靠卖儿卖女以维持暂时的生计。
 
-![原文图 20](markdown-assets/g11-chinese-midterm-vincent-wan/image20.png)
+![图 20](markdown-assets/g11-chinese-midterm-vincent-wan/image20.png)
 
 ### 品读台词
 
@@ -564,7 +558,7 @@ MADE BY G11 Vinent Wan
 
 这是一句典型的一语双关的台词，它既表示一局棋已经下完，也更点明了一个时代的终结：封建社会已经走到尽头。
 
-![原文图 21](markdown-assets/g11-chinese-midterm-vincent-wan/image21.png)
+![图 21](markdown-assets/g11-chinese-midterm-vincent-wan/image21.png)
 
 ## 最后的总结：
 
@@ -578,9 +572,7 @@ MADE BY G11 Vinent Wan
 
 你赞成哪一种观点？为什么？
 
-![原文图 22](markdown-assets/g11-chinese-midterm-vincent-wan/image22.png)
-
-我不排除这个就是考试原题因为之前就有类似的题目
+![图 22](markdown-assets/g11-chinese-midterm-vincent-wan/image22.png)
 
 我赞成“大茶馆，小社会”的观点。老舍以**裕泰茶馆作为时代缩影**，在**狭小空间汇集清末各阶层人物，用众生百态展现社会危机**。这种**以小见大**的独特构思，突破传统戏剧叙事，正是第一幕的罕见之处，其余手法只是实现构思的手段。
 
@@ -590,19 +582,19 @@ MADE BY G11 Vinent Wan
 
 没有统一的情节，也没有一个中心人物，一个个人物的展出，一个个情节的嵌入，使舞台呈现出社会生活的一个横截面，如同画卷逐渐展开。人物虽多，但大多单线联系，故事较为独立。
 
-![原文图 23](markdown-assets/g11-chinese-midterm-vincent-wan/image23.png)
+![图 23](markdown-assets/g11-chinese-midterm-vincent-wan/image23.png)
 
 ### ②特殊的戏剧冲突
 
 全剧没有一个贯穿始终的戏剧冲突，但每个小故事小矛盾又不约而同指向时代与社会的黑暗与腐朽，展现不同阶层的人们的生存状态，都在为主题服务。
 
-![原文图 24](markdown-assets/g11-chinese-midterm-vincent-wan/image24.png)
+![图 24](markdown-assets/g11-chinese-midterm-vincent-wan/image24.png)
 
 ### 艺术特色 — ③充满幽默的语言风格
 
 王利发说：您怕什么呢？那么多的买卖，您的小手指头都比我的腰还粗。作者把对黑暗社会的讽刺批判与强烈的爱国热情、对劳动人民的同情联系起来，在微笑中蕴藏着严肃和悲哀，寓庄于谐的幽默风格，给读者留下了深长的回味和思考。
 
-![原文图 25](markdown-assets/g11-chinese-midterm-vincent-wan/image25.png)
+![图 25](markdown-assets/g11-chinese-midterm-vincent-wan/image25.png)
 
 ### 艺术特色 — ④京味儿语言
 
@@ -615,8 +607,4 @@ MADE BY G11 Vinent Wan
 7. 也甜不到哪儿去，弄好了，赚个元宝。
 8. 我老觉乎着咱们的大缎子，川绸，更体面。
 
-![原文图 26](markdown-assets/g11-chinese-midterm-vincent-wan/image26.png)
-
-这里的大家只要看看就好 毕竟前面讲过了
-
-最后ARC祝你们考试顺利，加油！
+![图 26](markdown-assets/g11-chinese-midterm-vincent-wan/image26.png)

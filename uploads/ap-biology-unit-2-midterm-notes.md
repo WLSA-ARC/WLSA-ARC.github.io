@@ -226,8 +226,6 @@ Theory: Mitochondria and chloroplasts evolved from free‑living ancient prokary
 
 Membrane permeability rule: Small non‑polar substances can pass through membrane directly without protein assistance.
 
-## Passive Transport (no energy required; moves down concentration gradient)
-
 ## Diffusion
 
 - Random thermal movement of molecules toward equilibrium. Molecules move from higher concentration → lower concentration.
@@ -283,4 +281,3 @@ Higher solute concentration → solute potential more negative (farther from zer
 1. Endocytosis: bring large macromolecules into eukaryotic cell; may depend on receptor proteins on membrane.
 
 2. Exocytosis: expel large macromolecules / particles out of eukaryotic cell.
-

@@ -2,8 +2,6 @@
 
 Unit 5 Heredity
 
-<!-- Source: page 1 -->
-
 ## 1 Basic Concepts
 
 | Keyword | 中文解释 |
@@ -18,19 +16,17 @@ Unit 5 Heredity
 
 注意区分 Homologous chromosomes和 Sister chromatids Homologous chromosomes本身就存在一直是两条独立的染色体只是对应位置有 Alleles Sister chromatids是cell division时DNA复制后才产生的 mitosis的Anaphase和 meiosis的Anaphase II时Sister chromatids分离此前视为一条染色体
 
-![原文第 1 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-1-image-1.jpg)
+![知识点图示 1-1](markdown-assets/ap-biology-unit-5-heredity/page-1-image-1.jpg)
 
 图中文字：我长眠的记忆复苏了。
 
-![原文第 1 页图 2](markdown-assets/ap-biology-unit-5-heredity/page-1-image-2.jpg)
+![知识点图示 1-2](markdown-assets/ap-biology-unit-5-heredity/page-1-image-2.jpg)
 
 图中文字：人类染色体核型图，展示 23 对染色体（1–22、X、Y）。
 
-![原文第 1 页图 3](markdown-assets/ap-biology-unit-5-heredity/page-1-image-3.jpg)
+![知识点图示 1-3](markdown-assets/ap-biology-unit-5-heredity/page-1-image-3.jpg)
 
 图中文字：Sister chromatids of one duplicated chromosome；Centromere；Two nonsister chromatids in a homologous pair；Pair of homologous chromosomes (one from each set)。
-
-<!-- Source: page 2 -->
 
 ## Life Cycle｜生活史
 
@@ -44,13 +40,11 @@ One DNA replication is followed by two cell divisions. DNA 只在减数分裂前
 | --- | --- |
 | Prophase I | Homologous chromosomes synapsis（联会），形成 tetrad / bivalent。非姐妹染色单体之间发生 crossing over。 |
 
-![原文第 2 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-2-image-1.jpg)
+![知识点图示 2-1](markdown-assets/ap-biology-unit-5-heredity/page-2-image-1.jpg)
 
 图中文字：MEIOSIS I: Separates homologous chromosomes；Prophase I → Metaphase I → Anaphase I → Telophase I and Cytokinesis。MEIOSIS II: Separates sister chromatids；Prophase II → Metaphase II → Anaphase II → Telophase II and Cytokinesis。图中标注：Centrosome (with centriole pair)；Sister chromatids；Chiasmata；Spindle；Homologous chromosomes；Fragments of nuclear envelope；Centromere (with kinetochore)；Metaphase plate；Microtubules attached to kinetochore；Sister chromatids remain attached；Homologous chromosomes separate；Cleavage furrow；Sister chromatids separate；Haploid daughter cells forming。
 
-![原文第 2 页图 2](markdown-assets/ap-biology-unit-5-heredity/page-2-image-2.jpg)
-
-<!-- Source: page 3 -->
+![知识点图示 2-2](markdown-assets/ap-biology-unit-5-heredity/page-2-image-2.jpg)
 
 | Stage | 主要事件 |
 | --- | --- |
@@ -64,13 +58,9 @@ One DNA replication is followed by two cell divisions. DNA 只在减数分裂前
 
 Homologous chromosomes separate in meiosis I; sister chromatids separate in meiosis II. Crossing over发生在同源染色体的 nonsister chromatids之间。
 
-![原文第 3 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-3-image-1.jpg)
+![知识点图示 3-1](markdown-assets/ap-biology-unit-5-heredity/page-3-image-1.jpg)
 
 图中文字：Crossing Over。- Crossing over produces recombinant chromosomes, which combine DNA inherited from each parent. - Crossing over contributes to genetic variation by combining DNA from two parents into a single chromosome. - In humans, an average of one to three crossover events occurs per chromosome.
-
-<!-- Source: page 4 -->
-
-## 3 Chromosome Counting and Variation｜计数与变异
 
 ## Chromosome Number vs.DNA Content｜染色体数与 DNA 含量
 
@@ -99,15 +89,13 @@ Mutation产生新的等位基因；Independent assortment、Crossing over与Rand
 
 Crossing over见上文
 
-![原文第 4 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-4-image-1.jpg)
+![知识点图示 4-1](markdown-assets/ap-biology-unit-5-heredity/page-4-image-1.jpg)
 
 图中文字：Independent Assortment of Chromosomes。- Homologous pairs of chromosomes orient randomly at metaphase I of meiosis. - In independent assortment, each pair of chromosomes sorts maternal and paternal homologs into daughter cells independently of the other pairs.
 
-![原文第 4 页图 2](markdown-assets/ap-biology-unit-5-heredity/page-4-image-2.jpg)
+![知识点图示 4-2](markdown-assets/ap-biology-unit-5-heredity/page-4-image-2.jpg)
 
 图中文字：Random Fertilization。- Random fertilization adds to genetic variation because any sperm can fuse with any ovum (unfertilized egg). - The fusion of two gametes (each with 8.4 million possible chromosome combinations from independent assortment) produces a zygote with any of about 70 trillion diploid combinations.
-
-<!-- Source: page 5 -->
 
 ## 4 Mendelian Genetics｜孟德尔遗传
 
@@ -129,21 +117,17 @@ The two alleles for a gene segregate during gamete formation. 二倍体个体的
 | Aa × Aa | 1 AA : 2 Aa : 1 aa | 完全显性时 3 : 1 |
 | Aa × aa | 1 Aa : 1 aa | 完全显性时 1 : 1 |
 
-![原文第 5 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-5-image-1.jpg)
+![知识点图示 5-1](markdown-assets/ap-biology-unit-5-heredity/page-5-image-1.jpg)
 
 图中文字：P Generation：Appearance: Purple flowers × White flowers；Genetic makeup: PP × pp；Gametes: P、p。F₁ Generation：Appearance: Purple flowers；Genetic makeup: Pp；Gametes: ½ P、½ p。F₂ Generation：Sperm from F₁ (Pp) plant 与 Eggs from F₁ (Pp) plant 形成 PP、Pp、Pp、pp；表型 3 : 1。
 
-![原文第 5 页图 2](markdown-assets/ap-biology-unit-5-heredity/page-5-image-2.jpg)
+![知识点图示 5-2](markdown-assets/ap-biology-unit-5-heredity/page-5-image-2.jpg)
 
 图中文字：大脑空空。
-
-<!-- Source: page 6 -->
 
 ## Testcross｜测交
 
 将显性表型但基因型未知的个体 A_与纯合隐性 aa杂交。若未知亲本是 AA，子代全部 Aa；若是 Aa，期望为 1Aa :1aa。 A recessive offspring reveals that the dominant parent carries a recessive allele.
-
-## 5 Independent Assortment｜自由组合与概率
 
 ## Law of Independent Assortment｜自由组合定律
 
@@ -158,15 +142,13 @@ Alleles of unlinked genes assort independently during gamete formation. 不同�
 
 Square：男性；Circle：女性；Shaded symbol：表现目标性状；水平连线表示亲本关系，竖线连接后代。优先用已知表型限制基因型，再计算概率。 Autosomal recessive：在标准单基因模型下，两个未患病亲本生出患病孩子，亲本应为 Aa× Aa。Carrier是携带隐性等位基因的杂合个体。 For Aa × Aa, an unaffected child has a 2/3 probability of being a carrier. 因为未患病子代只包括 AA、Aa、Aa，3 种等可能组合中 2 种是携带者。不要将有条件的 2/3 与全部子代中 Aa 的概率 1/2混淆。
 
-![原文第 6 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-6-image-1.jpg)
+![知识点图示 6-1](markdown-assets/ap-biology-unit-5-heredity/page-6-image-1.jpg)
 
 图中文字：1st generation (grandparents)：两组亲本为 Ww × ww、ww × Ww。2nd generation (parents, aunts, and uncles)：左支四名子代 Ww、ww、ww、Ww，右支两名子代 Ww、ww；中间两个 Ww 组成亲本。3rd generation (two sisters)：WW or Ww（Widow’s peak）；ww（No widow’s peak）。
 
-![原文第 6 页图 2](markdown-assets/ap-biology-unit-5-heredity/page-6-image-2.jpg)
+![知识点图示 6-2](markdown-assets/ap-biology-unit-5-heredity/page-6-image-2.jpg)
 
 图中文字：我喜欢你。
-
-<!-- Source: page 7 -->
 
 ## 6 Degrees of Dominance
 
@@ -195,11 +177,9 @@ Dominance describes the phenotype of a heterozygote; it does not change allele s
 
 例：Iᴬi ×Iᴮi，子代 IᴬIᴮ、Iᴬi、Iᴮi、ii各占1/4，因此 AB、A、B、O 四种血型都可能出现。 例：IᴬIᴮ× ii，子代 Iᴬi与 Iᴮi各占 1/2；在标准 ABO 模型下不出现 AB 或 O 型。
 
-![原文第 7 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-7-image-1.jpg)
+![知识点图示 7-1](markdown-assets/ap-biology-unit-5-heredity/page-7-image-1.jpg)
 
 图中文字：舒服了。
-
-<!-- Source: page 8 -->
 
 ## 7 Gene Interactions｜基因与性状的关系
 
@@ -227,9 +207,7 @@ Recessive epistasis can modify a 9:3:3:1 ratio into a 9:3:4 ratio. 基因仍可�
 
 The same genotype can produce different phenotypes in different environments. Phenotypic plasticity（表型可塑性）：相同基因型在不同环境中表现出不同表型。环境因素可影响 gene expression；表型改变不一定意味着 DNA 序列发生改变。例如营养条件会影响身高。
 
-![原文第 8 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-8-image-1.jpg)
-
-<!-- Source: page 9 -->
+![知识点图示 8-1](markdown-assets/ap-biology-unit-5-heredity/page-8-image-1.jpg)
 
 ## 8 Sex-Linked Inheritance｜伴性遗传
 
@@ -259,8 +237,6 @@ Sex-linked gene位于性染色体上；X-linked 位于 X 染色体，Y-linked �
 | X–Y | XX 为雌性，XY 为雄性；如人类的典型情况。 |
 | X–0 | XX 为雌性，X0 为雄性；0 表示缺少另一条性染色体。 |
 
-<!-- Source: page 10 -->
-
 | Sex-determination system | 典型组合 |
 | --- | --- |
 | Z–W | ZW 为雌性，ZZ 为雄性；如鸟类。 |
@@ -287,11 +263,9 @@ Worked Example AaBb ×aabb；假设两基因不连锁，预期比例为 1:1 :1: 
 
 χ²=482/225≈ 2.14；df = 4− 1= 3。在 α= 0.05时，critical value= 7.815。因为 2.14< 7.815，所以 fail to reject H₀。 Fail to reject H₀: the data are consistent with the expected ratio.
 
-![原文第 10 页图 1](markdown-assets/ap-biology-unit-5-heredity/page-10-image-1.jpg)
+![知识点图示 10-1](markdown-assets/ap-biology-unit-5-heredity/page-10-image-1.jpg)
 
 图中文字：不是很懂。
-
-<!-- Source: page 11 -->
 
 结论：数据与 1:1:1:1的预期比例相容，差异不足以拒绝该模型；这不是“证明两基因一定不连锁”。
 
@@ -303,8 +277,6 @@ Worked Example AaBb ×aabb；假设两基因不连锁，预期比例为 1:1 :1: 
 | $\chi^2$ 小于临界值（$p>\alpha$） | Fail to reject H₀：证据不足以拒绝模型。 |
 
 常见错误：用观察数计算期望比例；把 df写成总个体数减 1；认为拒绝假设就能直接证明某种机制。期望频数太小时，普通卡方近似可能不可靠。
-
-## Non-Nuclear Inheritance and Nondisjunction｜核外遗传与不分离
 
 ## Non-Nuclear Inheritance｜核外遗传
 

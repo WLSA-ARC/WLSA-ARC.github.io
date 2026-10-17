@@ -12,7 +12,7 @@ Definition: The market value of all final goods and services produced within a c
 2. **Income Approach** — Add up all the income earned from selling all final goods and services produced in a given year.
 3. **Value-added Approach** — Add up the dollar value added at each stage of the production process.
 
-![原文图 1](markdown-assets/ap-macroeconomics-review-notes/image1.png)
+![图 1](markdown-assets/ap-macroeconomics-review-notes/image1.png)
 
 可能会专门出一道选择题，给你五个选项问哪个能算出正确的GDP，所以要每个都理解
 
@@ -31,7 +31,7 @@ Includes spending on:
 - structures (factories, office buildings, houses)
 - inventories (goods produced but not yet sold)
 
-![原文图 2](markdown-assets/ap-macroeconomics-review-notes/image2.png)
+![图 2](markdown-assets/ap-macroeconomics-review-notes/image2.png)
 
 **Investment does not mean the purchase of financial assets like stocks and bonds**
 
@@ -56,7 +56,7 @@ B. Compute real GDP in 2012.
 
 \[ \text{\$30}\times1000+\text{\$100}\times200=\text{\$50,000} \]
 
-![原文图 3](markdown-assets/ap-macroeconomics-review-notes/image3.png)
+![图 3](markdown-assets/ap-macroeconomics-review-notes/image3.png)
 
 注意Real GDP是当年Q乘上base year P, Nomial GDP是当年P乘上当年Q
 
@@ -66,7 +66,7 @@ Definition:
 
 $$\text{GDP deflator}=100\times\frac{\text{nominal GDP}}{\text{real GDP}}$$
 
-![原文图 4](markdown-assets/ap-macroeconomics-review-notes/image4.png)
+![图 4](markdown-assets/ap-macroeconomics-review-notes/image4.png)
 
 注意要乘100！！！！
 
@@ -84,7 +84,7 @@ One way to measure price level and calculate inflation
 - leakages：households → saving → financial markets；households → taxes → government；households → spending on imports → other countries
 - injections：financial markets → investment → firms；government → government spending → firms；other countries → spending on exports → firms
 
-![原文图 5](markdown-assets/ap-macroeconomics-review-notes/image5.png)
+![图 5](markdown-assets/ap-macroeconomics-review-notes/image5.png)
 
 图中流向：
 - households (consumers) → land, labour, capital, entrepreneurship → resource markets → land, labour, capital, entrepreneurship → firms (businesses)
@@ -92,7 +92,7 @@ One way to measure price level and calculate inflation
 - firms → goods and services → product markets → goods and services → households
 - households → household expenditure → product markets → revenues → firms
 
-![原文图 6](markdown-assets/ap-macroeconomics-review-notes/image6.png)
+![图 6](markdown-assets/ap-macroeconomics-review-notes/image6.png)
 
 这张表里要记住不同东西的流向，会考的
 
@@ -114,11 +114,7 @@ Entrepreneurship → Profit
 2. **Find the prices.** The BLS collects data on the prices of all the goods in the basket.
 3. **Compute the basket’s cost.** Use the prices to compute the total cost of the basket.
 
-原截图来源：CPI & INFLATION.pptx，第 3 页；WPS 预览 4/32。
-
-©2015 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part, except for use as permitted in a license distributed with a certain product or service or otherwise on a password-protected website for classroom use.
-
-![原文图 7](markdown-assets/ap-macroeconomics-review-notes/image7.png)
+![图 7](markdown-assets/ap-macroeconomics-review-notes/image7.png)
 
 4. **Choose a base year and compute the index.** The CPI in any year equals
 
@@ -128,7 +124,7 @@ $$100\times\frac{\text{cost of basket in current year}}{\text{cost of basket in 
 
 $$\text{Inflation rate}=\frac{\text{CPI this year}-\text{CPI last year}}{\text{CPI last year}}\times100\%$$
 
-![原文图 8](markdown-assets/ap-macroeconomics-review-notes/image8.png)
+![图 8](markdown-assets/ap-macroeconomics-review-notes/image8.png)
 
 简而言之就是选一个固定的basket，然后观察篮子中物品物价的变化来算CPI，衡量物价水平。**定义**和公式都会考
 
@@ -144,7 +140,7 @@ Unmeasured Quality Change（质量变化难以充分测量）
 
 $$\text{Real interest rate}=(\text{nominal interest rate})-(\text{inflation rate})$$
 
-![原文图 9](markdown-assets/ap-macroeconomics-review-notes/image9.png)
+![图 9](markdown-assets/ap-macroeconomics-review-notes/image9.png)
 
 直接减inflation就可以，肯定会考的
 
@@ -168,7 +164,7 @@ $$\text{Unemployment Rate}=\frac{\text{Unemployed}}{\text{Labor Force}}\times100
 
 $$LFPR=\frac{\text{Labor Force}}{\text{Adult Population}}\times100\%$$
 
-![原文图 10](markdown-assets/ap-macroeconomics-review-notes/image10.png)
+![图 10](markdown-assets/ap-macroeconomics-review-notes/image10.png)
 
 公式2，3不要混淆
 
@@ -196,10 +192,8 @@ The national economy goes up and down like a roller coaster over time.
 
 图中标注：纵轴 Real GDP，横轴 Time；上升直线 Full Employment；波动曲线 Real GDP；高点 Peak，低点 Trough；高于直线为 Positive Output Gap，低于直线为 Negative Output Gap；Peak 到 Trough 为 Recession (Contraction)，Trough 到下一 Peak 为 Recovery (Expansion)。
 
-![原文图 11](markdown-assets/ap-macroeconomics-review-notes/image11.png)
+![图 11](markdown-assets/ap-macroeconomics-review-notes/image11.png)
 
 这个图理解然后背下来就可以，考试一般会直接给你这个图让你identify哪个点是处于什么状态，在不在full employment，属于什么gap这样的问题，或者反过来问你ABCD哪个点符合要求
 
 ADAS应该还没学到
-
-总而言之macro不是很难的科目，目前学的也比较简单，希望大家都能满昏lol

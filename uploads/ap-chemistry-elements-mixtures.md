@@ -1,18 +1,8 @@
-<!-- Source: page 1 -->
-
-## Elements & Mixtures
-
 ## Contents
 
 - Elemental Composition
 - Composition of Mixtures
 - Elemental Analysis
-
-<!-- Source: page 2 -->
-
-## Elemental Composition
-
-## Formula Units
 
 ## Pure substances and chemical formula
 
@@ -46,9 +36,7 @@ bond
 
 ## A molecule of water (H2O)
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-elements-mixtures/page-002-figure-01.png)
-
-<!-- Source: page 3 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-002-figure-01.png)
 
 A molecule of water (H<sub>2</sub>O) showing 2 hydrogen atoms, 1 oxygen atom and the covalent bonds
 
@@ -65,7 +53,7 @@ fixed arrangement by ionic bonds
 
 ## Formula unit of sodium chloride (NaCl)
 
-![Original source figure, page 3](markdown-assets/ap-chemistry-elements-mixtures/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-003-figure-01.png)
 
 A formula unit of sodium chloride (NaCl) showing the regular but alternating arrangement of sodium ions and chloride ions
 
@@ -81,17 +69,13 @@ where it comes from
 
 ## Law of Definite Proportions
 
-<!-- Source: page 4 -->
-
-![Original source figure, page 4](markdown-assets/ap-chemistry-elements-mixtures/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-004-figure-01.png)
 
 Understanding the Law of Definite Proportions with two samples of H<sub>2</sub>O with different masses
 
 ## Examiner Tips and Tricks
 
 Most of the exam questions regarding the Law of Definite Proportions involve calculating the ratio between the masses of the elements in different compounds. This information can be used to identify if two unknown compounds are the same or not
-
-## Empirical Formula
 
 ## Molecular and empirical formulae
 
@@ -108,8 +92,6 @@ in a compound
 
 - The chemical formula of an ionic compound is both empirical and molecular formula at
 the same time
-
-<!-- Source: page 5 -->
 
 ## Examiner Tips and Tricks
 
@@ -142,8 +124,6 @@ Answer:
 
 Calculate the empirical formula of a compound which contains 86.0% of carbon and 14.0% g of hydrogen
 
-<!-- Source: page 6 -->
-
 Answer:
 
 | | Carbon | Hydrogen |
@@ -153,8 +133,6 @@ Answer:
 | Calculate the moles using the molar mass using $n=m/M$ | n=86.0 g of C12.01 g mol-1 of C<br>n=7.16 mol C | n=14.0 g of H1.008 g mol-1 of H<br>n=13.8 mol H |
 | Divide answers by the smaller value | =7.167.16<br>= 1 | =13.87.16<br>= 1.93<br>≈ 2 |
 | Use the answers as subscripts | CH₂ | |
-
-<!-- Transcription note: The original table prints the calculation and division expressions run together, with no fraction bars. Their printed strings are retained above; the original local crop below permits comparison. -->
 
 ![Original table including the printed calculation layout](markdown-assets/ap-chemistry-elements-mixtures/page-006-table-original.png)
 
@@ -183,8 +161,6 @@ Answer:
 - Mof empirical formula = (C x 1) + (H x 2) + (O x 1)
 - Mof empirical formula = (12.01 x 1) + (1.008 x 2) + (16.00 x 1)
 
-<!-- Source: page 7 -->
-
 - M of empirical formula = 30.026 g mol<sup>-1</sup>
 - Step 2. Calculate the whole number by dividing Mof the molecular formula by M
 of the empirical formula. If the whole number has decimal places, round it to the
@@ -201,10 +177,6 @@ $$\mathrm{whole\ number}\approx6$$
 - Molecular formula = 6 x CH<sub>2</sub>O
 - Molecular formula = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
 - The molecular formula of the unknown compound is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
-
-<!-- Source: page 8 -->
-
-## Composition of Mixtures
 
 ## Classification of matter
 
@@ -243,15 +215,9 @@ space
 
 ## Molecules in a pure substance and mixtures
 
-![Original source figure, page 8](markdown-assets/ap-chemistry-elements-mixtures/page-008-figure-01.png)
-
-<!-- Source: page 9 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-008-figure-01.png)
 
 A pure substance, an homogeneous mixture and a heterogeneous mixture at the molecular level
-
-<!-- Source: page 10 -->
-
-## Elemental Analysis
 
 ## Analyzing the composition
 
@@ -298,8 +264,6 @@ without any foreign substances
 - It can be calculated either using the mass (m) of the desired compound or its %
 composition
 
-<!-- Source: page 11 -->
-
 $$\mathrm{Purity}=\frac{m\ \mathrm{of\ desired\ compound}}{\mathrm{total\ mass\ of\ sample}}\times100$$
 
 $$\mathrm{Purity}=\frac{\%\ \mathrm{composition\ of\ desired\ compound}}{100\%\ \mathrm{of\ total\ sample}}\times100$$
@@ -329,5 +293,3 @@ $$\mathrm{Purity}=\frac{m\ \mathrm{of\ desired\ compound}}{\mathrm{total\ mass\ 
 $$\mathrm{Purity}=\frac{3.35\ \mathrm{g\ of\ NaCl}}{5.00\ \mathrm{g}}\times100$$
 
 $$\mathrm{Purity}=67.0\%$$
-
-> 来源：© 2025 Save My Exams, Ltd.

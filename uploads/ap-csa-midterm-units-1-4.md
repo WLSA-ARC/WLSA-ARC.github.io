@@ -2,13 +2,7 @@
 
 Units 1–4
 
-<!-- Source: page 1 -->
-
 根据《CSA WorkBook-1》前四个 units 的题型与考点整理
-
-## 使用方式
-
-第一遍按 Unit 阅读；第二遍只看“高频陷阱”和代码模板；考前最后 20 分钟使用末尾 Quick Sheet。所有关键名词与代码保留 English，其余说明使用中文。
 
 ## 覆盖范围
 
@@ -21,8 +15,6 @@ Units 1–4
 - Unit 4: Iteration
 
 基于题目归纳，不复刻原题；示例代码为重新编写。
-
-<!-- Source: page 2 -->
 
 ## 总览：这四个 Units 在考什么
 
@@ -48,8 +40,6 @@ Units 1–4
 ## 题型信号
 
 题目出现 works as intended 时，通常要找 boundary case；出现 same output 时，要同时比较初值、condition、update 与输出位置；出现 cannot cause a run-time error 时，优先检查 null 与 index。
-
-<!-- Source: page 3 -->
 
 ## Unit 1 · Primitive Types
 
@@ -90,8 +80,6 @@ x -= 3 / 2; // 10, because 3 / 2 is 1
 ## 高频陷阱
 
 赋值不是数学等式。x = x + 1 表示先读取旧 x，再把新值存回 x。交换两个值必须借助 temporary variable。
-
-<!-- Source: page 4 -->
 
 ## 1.3 Casting：先算还是先转？
 
@@ -147,8 +135,6 @@ System.out.println(a + c); // 16
 
 - 能否指出正数 rounding 技巧为什么不适用于负数？
 
-<!-- Source: page 5 -->
-
 ## Unit 2 · Using Objects
 
 Workbook 将 String、Math、wrapper class 与 method call 放在同一组考查：核心是读懂 method signature，并严格追踪 return value 与 object state。
@@ -190,8 +176,6 @@ double result = myMethod(2, false); // valid
 ## 高频陷阱
 
 判断 method call 是否能 compile：先看 parameter list，再看 return type，最后看调用位置。不要被 method 名字或 variable 名字干扰。
-
-<!-- Source: page 6 -->
 
 ## 2.3 String：immutable，但 reference 可重新指向
 
@@ -245,8 +229,6 @@ double value2 = Math.random() * (high - low) + low;
 
 - 模拟两个骰子必须独立调用两次 Math.random()；把一次结果乘 2 不会得到正确分布。
 
-<!-- Source: page 7 -->
-
 ## 2.5 Wrapper classes
 
 Integer 与 Double 把 primitive value 包装为 object。Java 可自动进行 autoboxing 与 unboxing。
@@ -279,8 +261,6 @@ double total = a + b; // b is unboxed for arithmetic
 - 能否判断 String method 是否改变原 object？
 
 - 能否用 parameter list 判断 overload 是否合法？
-
-<!-- Source: page 8 -->
 
 ## Unit 3 · Boolean Expressions and if Statements
 
@@ -325,8 +305,6 @@ if (score >= 90) {
 ## Boundary test
 
 若分类规则含 999、1000、2999、3000 一类阈值，至少测试 threshold-1、threshold、threshold+1。很多“看起来正确”的代码只在边界失败。
-
-<!-- Source: page 9 -->
 
 ## 3.3 De Morgan's laws 与等价改写
 
@@ -382,8 +360,6 @@ a == c        // true: same reference
 
 若 a 可能是 null，调用 a.equals(b) 会失败。可先判断 a != null；对已知 non-null literal，也可用 "AP".equals(a)。
 
-<!-- Source: page 10 -->
-
 ## 3.6 判断两段代码是否 equivalent
 
 不要凭感觉。把输入空间分区，再逐区比较。
@@ -418,8 +394,6 @@ a == c        // true: same reference
 - 能否解释 == 与 equals 对 String 的区别？
 
 - 能否用一个 boundary counterexample 否定“equivalent”？
-
-<!-- Source: page 11 -->
 
 ## Unit 4 · Iteration
 
@@ -483,8 +457,6 @@ for (initialization; condition; update) {
 - 确认 update 在每条可能执行的 branch 中都会发生，避免 infinite loop。
 
 - 比较两个 loops 时，同时核对 initialization、condition、body、update 与 output position。
-
-<!-- Source: page 12 -->
 
 ## 考前 Quick Sheet
 

@@ -1,7 +1,3 @@
-<!-- Source: page 1 -->
-
-## Chemical Bonding
-
 ## Contents
 
 - Electronegativity Values
@@ -10,10 +6,6 @@
 - Valence Electrons in a Metallic Solid
 - Intramolecular Force & Potential Energy
 - Coulomb's Law & Attractive Forces
-
-<!-- Source: page 2 -->
-
-## Electronegativity Values
 
 ## Electronegativity values
 
@@ -31,7 +23,7 @@ the covalent bond stronger
 
 ## Change in electronegativity across a period
 
-![Original source figure, page 2](markdown-assets/ap-chemistry-chemical-bonding/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-002-figure-01.png)
 
 Electronegativity increases going across the periods of the periodic table
 
@@ -47,9 +39,7 @@ covalent bond are weakly attracted, and the electronegativity value decrease
 
 ## Change in electronegativity down a group
 
-<!-- Source: page 3 -->
-
-![Original source figure, page 3](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-01.png)
 
 Electronegativity decreases going down the groups of the Periodic table
 
@@ -60,7 +50,7 @@ bonds because of their full valence shell
 
 ## The Pauling Scale
 
-![Original source figure, page 3](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-02.png)
 
 First three rows of the periodic table showing electronegativity values
 
@@ -69,17 +59,11 @@ First three rows of the periodic table showing electronegativity values
 - It is the best when attracting electron density towards itself when it forms a covalent
 bond with an atom
 
-<!-- Source: page 4 -->
-
 ## Molecule of CH₃F
 
-![Original source figure, page 4](markdown-assets/ap-chemistry-chemical-bonding/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-004-figure-01.png)
 
 Electron distribution in the C-F bond of fluoromethane
-
-<!-- Source: page 5 -->
-
-## Covalent Bonds
 
 ## Non-polar Covalent bonds
 
@@ -121,9 +105,7 @@ shown in the image below
 
 ## The Formation of a Chlorine Molecule, Cl₂
 
-<!-- Source: page 6 -->
-
-![Original source figure, page 6](markdown-assets/ap-chemistry-chemical-bonding/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-006-figure-01.png)
 
 Diagram showing how a covalent bond forms between two chlorine atoms
 
@@ -132,8 +114,6 @@ Diagram showing how a covalent bond forms between two chlorine atoms
 The known diatomic elements are: H<sub>2</sub>, N<sub>2</sub>,F<sub>2</sub>, O<sub>2</sub>, I<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>. You can remember them by using the mnemonic: Have No Fear Of Ice Cold Bear
 
 ## Polar covalent bonds
-
-<!-- Source: page 7 -->
 
 - A polar covalent bond is formed when the nonmetals that share pairs of electrons have a
 greater electronegativity difference
@@ -176,9 +156,7 @@ coulombic attrraction, therefore the distance between the charges is closer
 
 ## The H-F molecule
 
-<!-- Source: page 8 -->
-
-![Original source figure, page 8](markdown-assets/ap-chemistry-chemical-bonding/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-008-figure-01.png)
 
 Polar covalent bond in hydrofluoric acid (HF)
 
@@ -194,10 +172,6 @@ electronegative atom
 - The ionic character of a covalent bond increase if the difference of electronegativity
 between the atoms is greater
 
-<!-- Source: page 9 -->
-
-## Ionic vs Covalent
-
 ## Ionic bonding
 
 - An ionic bond is formed when a metal donates electrons to a non metal
@@ -206,7 +180,7 @@ between the atoms is greater
 
 ## Forming a Cation
 
-![Original source figure, page 9](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-01.png)
 
 Forming cations by the removal of electrons from metals
 
@@ -214,9 +188,7 @@ Forming cations by the removal of electrons from metals
 
 ## Forming an Anion
 
-![Original source figure, page 9](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-02.png)
-
-<!-- Source: page 10 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-02.png)
 
 Forming anions by the addition of electrons to nonmetals
 
@@ -244,15 +216,13 @@ the oppositely charged ions
 
 ## Forming an Ionic Bond
 
-![Original source figure, page 10](markdown-assets/ap-chemistry-chemical-bonding/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-010-figure-01.png)
 
 Cations and anions bond together using strong Coulombic forces of attraction, which require a lot of energy to overcome
 
 ## Covalent bonding
 
 - A covalent bond is formed when two nonmetals share a pair of electrons
-
-<!-- Source: page 11 -->
 
 - Atoms form covalent bonds to gain a full outer shell of electrons
 
@@ -280,13 +250,7 @@ physical and chemical properties
 
 ## Examiner Tips and Tricks
 
-<!-- Source: page 12 -->
-
 Make sure to know how to differentiate the properties of ionic and covalent compounds since this section is usually assessed in Section 1 of your AP Chemistry Exam
-
-<!-- Source: page 13 -->
-
-## Valence Electrons in a Metallic Solid
 
 ## Valence electrons in a Metallic Solid
 
@@ -307,15 +271,9 @@ positively charged metal ions and a sea of delocalized electrons
 
 ## The Structure of a Metal
 
-![Original source figure, page 13](markdown-assets/ap-chemistry-chemical-bonding/page-013-figure-01.png)
-
-<!-- Source: page 14 -->
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-013-figure-01.png)
 
 The positive metal centers interact with a Coulombic force of attraction with in a ‘sea’ of delocalised electrons
-
-<!-- Source: page 15 -->
-
-## Intramolecular Force & Potential Energy
 
 ## Potential Energy & Interatomic Distance
 
@@ -330,7 +288,7 @@ the amount of energy required to break the covalent bond
 
 ## Potential Energy Diagram
 
-![Original source figure, page 15](markdown-assets/ap-chemistry-chemical-bonding/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-015-figure-01.png)
 
 Potential energy diagram of hydrogen gas (H<sub>2</sub>) showing a minimum potential energy of -436 kJ/mol which corresponds to a bond length of 74 pm
 
@@ -352,8 +310,6 @@ strongly repel one another
 
 - The attractive and repulsive forces between the two atoms are balanced
 
-<!-- Source: page 16 -->
-
 - The potential energy is at a minimum.
 
 ## Examiner Tips and Tricks
@@ -370,7 +326,7 @@ The minimum potential energy will always be a negative value. Bond energy is alw
 
 ## Bond length in halogens
 
-![Original source figure, page 16](markdown-assets/ap-chemistry-chemical-bonding/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-016-figure-01.png)
 
 Diagram showing that the bond length of diatomic halogen molecules increases with increasing atomic radius
 
@@ -383,8 +339,6 @@ Diagram showing that the bond length of diatomic halogen molecules increases wit
 | C-C | 1 | 1 | 154 | 347 |
 | C=C | 2 | 2 | 133 | 620 |
 | C≡C | 3 | 3 | 120 | 812 |
-
-<!-- Source: page 17 -->
 
 ## Coulomb's Law & Attractive Forces
 
@@ -408,7 +362,7 @@ The formula for Coulomb's law is $F_{\mathrm{coulombic}}=k\frac{q_1q_2}{r^2}$, w
 
 ## Coulombic force between cations and anions
 
-![Original source figure, page 17](markdown-assets/ap-chemistry-chemical-bonding/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-017-figure-01.png)
 
 Diagram showing that the Coulombic force between a cation and anion decreases with increasing ionic radius and increases with increasing charge
 
@@ -423,9 +377,7 @@ the two ions
 
 ## Worked Example
 
-<!-- Source: page 18 -->
-
-![Original source figure, page 18](markdown-assets/ap-chemistry-chemical-bonding/page-018-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-018-figure-01.png)
 
 The graph shows the potential energy of three potassium salts, X, Y, and Z, as a function of internuclear distance. Based on the data, what are the most likely identities of compounds X, Y, and Z?
 
@@ -454,5 +406,3 @@ and the most negative minimum potential energy
 - KI with the largest halide ion will have the largest internuclear distance and the
 least negative minimum potential energy
 - Therefore, the answer is D
-
-> 来源：© 2025 Save My Exams, Ltd.
