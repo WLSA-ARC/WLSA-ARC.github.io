@@ -34,7 +34,7 @@ Increase an activity while marginal benefit exceeds marginal cost. Diminishing M
 
 Interior optimum: MB = MC. Consumer: $MU_x/P_x=MU_y/P_y$, subject to the budget. Discrete choices may not satisfy exact equality.
 
-![Original graph, page 1](markdown-assets/ap-microeconomics-concise-review/page-1-graph.png)
+![Original graph, page 1](markdown-assets/ap-microeconomics-concise-review/page-1-graph.svg)
 
 Graph labels: Good Y; Good X; 0; A; B; C; PPC.
 
@@ -72,7 +72,7 @@ Cross-price elasticity: positive = substitutes; negative = complements. Income e
 
 $$E_{xy}=\frac{\%\text{ change in }Q_x}{\%\text{ change in }P_y},\qquad E_i=\frac{\%\text{ change in }Q}{\%\text{ change in income}}$$
 
-![Original graph, page 2](markdown-assets/ap-microeconomics-concise-review/page-2-graph.png)
+![Original graph, page 2](markdown-assets/ap-microeconomics-concise-review/page-2-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; S; E₁; E₂; P₁; P₂; Q₁; Q₂; D₁; D₂; S = MC; CS; PS; Pe; Qe; D = MB; 0.
 
@@ -104,7 +104,7 @@ Small-country model: world price below the closed-economy price means imports; a
 
 Tariff revenue = tariff x imports after tariff. DWL = production-distortion triangle + consumption-distortion triangle.
 
-![Original graph, page 3](markdown-assets/ap-microeconomics-concise-review/page-3-graph.png)
+![Original graph, page 3](markdown-assets/ap-microeconomics-concise-review/page-3-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; S + tax; S; D; Pc; P0; Pp; Qt; Q0; Tax revenue; DWL; Purple triangles = DWL; Pw + t; Pw; Tax; Qs0; Qs1; Qd1; Qd0; 0.
 
@@ -138,7 +138,7 @@ Accounting profit subtracts explicit costs. Economic profit subtracts explicit a
 
 $\text{Economic profit}=TR-TC=(P-ATC)Q$. Example: P = 12, ATC = 10, Q = 5 gives profit = 10.
 
-![Original graph, page 4](markdown-assets/ap-microeconomics-concise-review/page-4-graph.png)
+![Original graph, page 4](markdown-assets/ap-microeconomics-concise-review/page-4-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; MC; ATC; AVC; Qavc; Qatc; 0.
 
@@ -166,7 +166,7 @@ Many firms, identical products and free entry/exit. Industry S and D set price; 
 
 Standard long-run equilibrium: P = MR = MC = minimum ATC. Productive efficiency: minimum ATC. Allocative efficiency: P = MC, absent externalities.
 
-![Original graph, page 5](markdown-assets/ap-microeconomics-concise-review/page-5-graph.png)
+![Original graph, page 5](markdown-assets/ap-microeconomics-concise-review/page-5-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; MC; ATC; P = MR = d; P; Profit; ATC*; Q*; 0.
 
@@ -192,7 +192,7 @@ If P = a - bQ, then MR = a - 2bQ. Example: P = 30 - Q, MC = 6 gives Q = 12 and P
 
 Requires market power, separation of buyers and limited resale. Charge more to less price-sensitive groups. Perfect discrimination charges each unit's willingness to pay: output reaches D = MC, CS = 0 and monopoly quantity DWL disappears in the standard model. PS still excludes fixed cost.
 
-![Original graph, page 6](markdown-assets/ap-microeconomics-concise-review/page-6-graph.png)
+![Original graph, page 6](markdown-assets/ap-microeconomics-concise-review/page-6-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; Pm; MC; DWL; MR; D; Qm; Qe; PS; 0.
 
@@ -210,7 +210,7 @@ Differentiated products, many firms and free entry. Short run: choose MR = MC an
 
 A dominant strategy is best regardless of the rival's choice. A Nash equilibrium is a set of mutual best responses: nobody gains by changing alone. Collusion can raise joint profit, but cheating incentives undermine it. Nash outcomes need not maximize joint profit; a dominant strategy need not exist.
 
-![Original graph, page 7](markdown-assets/ap-microeconomics-concise-review/page-7-graph.png)
+![Original graph, page 7](markdown-assets/ap-microeconomics-concise-review/page-7-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; MC; ATC; P = ATC; MC*; D; MR; Q*; Qmin; 0.
 
@@ -249,7 +249,7 @@ Hire where MRP = MFC. Competitive labor market: MRP = w. Cost-minimizing input m
 
 A powerful buyer faces upward labor supply. With a uniform wage, hiring more requires raises for existing workers, so MFC > wage. Choose L at MRP = MFC, then read wage from labor supply. Compared with competition, wage and employment are lower. A suitably set minimum wage can raise both.
 
-![Original graph, page 8](markdown-assets/ap-microeconomics-concise-review/page-8-graph.png)
+![Original graph, page 8](markdown-assets/ap-microeconomics-concise-review/page-8-graph.svg)
 
 Graph labels: Wage / MRP (\$); Labor (L); w; w = MFC = S firm; MRP; L*; MFC; S labor; MFCm; wc; wm; Lm; Lc; 0.
 
@@ -275,7 +275,7 @@ Corrective unit tax = MEC at Q*. Corrective subsidy = marginal external benefit 
 
 Public goods are nonrival and nonexcludable: free riding causes underprovision. Add willingness to pay vertically for public goods. Common resources are rival but nonexcludable: overuse is the tragedy of the commons. Private goods are rival/excludable; club goods are nonrival/excludable before congestion.
 
-![Original graph, page 9](markdown-assets/ap-microeconomics-concise-review/page-9-graph.png)
+![Original graph, page 9](markdown-assets/ap-microeconomics-concise-review/page-9-graph.svg)
 
 Graph labels: Price / cost (\$); Quantity; MSC; MPC; DWL; MPB = MSB; Q*; Qm; MPC = MSC; MSB; MPB; 0.
 
@@ -297,7 +297,7 @@ Income is a flow; wealth is a stock of assets minus liabilities. Lorenz curves f
 
 $\text{Average tax rate}=\text{total tax}/\text{income}$. Understand Lorenz/Gini comparisons; drawing Lorenz curves and calculating Gini are outside the AP requirement.
 
-![Original graph, page 10](markdown-assets/ap-microeconomics-concise-review/page-10-graph.png)
+![Original graph, page 10](markdown-assets/ap-microeconomics-concise-review/page-10-graph.svg)
 
 Graph labels: Income (%); Population (%); 100; 0; Equality; Lorenz.
 

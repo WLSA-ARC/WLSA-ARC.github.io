@@ -190,7 +190,7 @@ Natural rate of unemployment= Structural Unemployment+ Frictional Unemployment (
 
 The national economy goes up and down like a roller coaster over time.
 
-图中标注：纵轴 Real GDP，横轴 Time；上升直线 Full Employment；波动曲线 Real GDP；高点 Peak，低点 Trough；高于直线为 Positive Output Gap，低于直线为 Negative Output Gap；Peak 到 Trough 为 Recession (Contraction)，Trough 到下一 Peak 为 Recovery (Expansion)。
+纵轴 Real GDP，横轴 Time；上升直线 Full Employment；波动曲线 Real GDP；高点 Peak，低点 Trough；高于直线为 Positive Output Gap，低于直线为 Negative Output Gap；Peak 到 Trough 为 Recession (Contraction)，Trough 到下一 Peak 为 Recovery (Expansion)。
 
 ![图 11](markdown-assets/ap-macroeconomics-review-notes/image11.png)
 

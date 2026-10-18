@@ -532,7 +532,7 @@ The Internet refers to the hardware and the World Wide Web refers to the softwar
 
 ![The distributed computing process](markdown-assets/ap-csp-final-review-helen-zhang/figure.png)
 
-图中文字：The distributed computing process；Node 1、Node 2、Node 3；Servers；Network。
+The distributed computing process；Node 1、Node 2、Node 3；Servers；Network。
 
 ## Big Idea 5 : Impact of Computing
 

@@ -98,7 +98,7 @@ correct number of significant figures
 
 ## Demonstrating Gas Pressure
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-004-figure-01.svg)
 
 Gas particles exert pressure by constant collision with the walls of their container
 
@@ -205,7 +205,7 @@ pressure of H<sub>2</sub> after mixing?
 partial pressure of Ne in the mixture?
 3. What is the total pressure in the container after the gases mix?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-006-figure-01.svg)
 
 Answer:
 
@@ -313,7 +313,7 @@ P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ## Pressure-Volume Relationship
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-009-figure-01.svg)
 
 Boyle’s experiment uses a J-tube to demonstrate the volume-pressure relationship of a
 gas. Gas volume decreases on increasing the pressure in the tube
@@ -325,7 +325,7 @@ A straight line is obtained when V is plotted against 1/P or P against 1/V
 
 ## Graphical Representation of Pressure-Volume Relationship
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-010-figure-01.svg)
 
 Graphical representations of Boyle’s Law
 
@@ -344,7 +344,7 @@ axis to be -273.15 ℃
 
 ## Temperature-Volume Relationship on Celsius Scale
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-010-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-010-figure-02.svg)
 
 A graph showing the linear relationship between temperature (in degrees Celsius) and volume. The line intercepts the temperature axis at a value of 273.15 ℃ This implies that at a temperature of 273.15 ℃, the volume of a substance, if it remains gaseous will be zero
 
@@ -379,7 +379,7 @@ the volume and temperature axis at zero
 
 ## Temperature-Volume Relationship on the Kelvin Scale
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-011-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-011-figure-01.svg)
 
 A graph showing the linear relationship between absolute temperature and volume. The line intercepts the temperature axis at a value of 0 K
 
@@ -417,7 +417,7 @@ V<sub>1</sub>/n<sub>1</sub> = V<sub>2</sub>/n<sub>2</sub>
 
 ## Quantity-Volume Relationship
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-012-figure-01.svg)
 
 Graphical representation of Avogadro’s Law
 
@@ -648,7 +648,7 @@ because of their different masses
 Two identical flasks, X and Y, containing 2 moles samples of N<sub>2</sub> (g) are shown below.
 Which of the following statements is true?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-017-figure-01.svg)
 
 1. The rate of collision of N<sub>2</sub> gas molecules with the walls of the flask in X and Y are
 the same
@@ -702,7 +702,7 @@ K.E ∝ T
 
 ## Average Kinetic Energy-Temperature Graph
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-019-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-019-figure-01.svg)
 
 A graph showing the linear relationship between average kinetic energy and absolute temperature of a gas.
 
@@ -765,7 +765,7 @@ Maxwell-Boltzmann distribution
 
 ## Maxwell-Boltzmann Curve
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-021-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-021-figure-01.svg)
 
 A graph showing the general distribution of the speed of gas molecules
 
@@ -782,7 +782,7 @@ temperatures:
 
 ## Distribution Curve for O₂
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-022-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-022-figure-01.svg)
 
 A graph showing the distribution of molecular velocities of oxygen molecules at 25℃ and 1000℃. At a higher temperature, more molecules of oxygen move at higher velocities.
 
@@ -801,7 +801,7 @@ Consider the Maxwell-Boltzmann distribution curve for O<sub>2</sub> molecules at
 
 Which of the following statements about the curve is correct if the temperature of the O<sub>2</sub> molecules was lowered to 200 K?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-023-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-023-figure-01.svg)
 
 1. The curve shifts to the left with a lower peak corresponding to a decrease in the
 number of molecules with the most probable kinetic energy
@@ -873,7 +873,7 @@ the pressure axis
 
 ## Graph Representation of an Ideal Behavior
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-025-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-025-figure-01.svg)
 
 A graph showing an ideal gas behavior for one mole of a gas at different pressures
 
@@ -903,7 +903,7 @@ to the container volume
 
 ## Effect of High Pressure on Volume of Real Gases
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-026-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-026-figure-01.svg)
 
 At high pressure, the volume of molecules of real gases is not negligible
 
@@ -930,7 +930,7 @@ become negligible
 
 ## Deviation from Ideal Behavior
 
-![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-027-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-gas-laws/page-027-figure-01.svg)
 
 A graph showing the effect of temperature and pressure on real gases. The deviation is more significant at higher pressures and lower temperatures as seen by the direction of the curve away from the ideal gas.
 

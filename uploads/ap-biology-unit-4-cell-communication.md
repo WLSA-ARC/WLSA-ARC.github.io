@@ -15,10 +15,6 @@ Signal通常是化学分子。Ligand（配体）与特定 receptor（受体）�
 - Endocrine signaling：Hormone经血液到达远处
 - Neuroendocrine signaling：神经分泌细胞释放 hormone进入血液
 
-![知识点图示 1-1](markdown-assets/ap-biology-unit-4-cell-communication/page-1-image-1.jpg)
-
-图中文字：可以更快点吗？这个真的好好看。
-
 ## Three stages of cell signaling
 
 Reception（接收）：ligand 与 receptor结合，通常引起 receptor的形状改变 Transduction（转导）：receptor 状态变化通过 relay molecules传入细胞，常包含多个步骤。 Response（反应）：最终改变细胞活动，如 enzyme activity、gene expression、分泌或细胞分裂。
@@ -38,11 +34,7 @@ Reception（接收）：ligand 与 receptor结合，通常引起 receptor的形�
 
 ![知识点图示 2-1](markdown-assets/ap-biology-unit-4-cell-communication/page-2-image-1.jpg)
 
-图中文字：EXTRACELLULAR FLUID；Plasma membrane；CYTOPLASM。1 Reception：Signaling molecule → Receptor；2 Transduction：Relay molecules（1 → 2 → 3）；3 Response：Activation of cellular response。
-
-![知识点图示 2-2](markdown-assets/ap-biology-unit-4-cell-communication/page-2-image-2.png)
-
-图中文字：何意味
+EXTRACELLULAR FLUID；Plasma membrane；CYTOPLASM。1 Reception：Signaling molecule → Receptor；2 Transduction：Relay molecules（1 → 2 → 3）；3 Response：Activation of cellular response。
 
 | 比较 | Cell-surface receptor | Intracellular receptor |
 | --- | --- | --- |
@@ -57,7 +49,7 @@ Reception（接收）：ligand 与 receptor结合，通常引起 receptor的形�
 
 ![知识点图示 3-1](markdown-assets/ap-biology-unit-4-cell-communication/page-3-image-1.jpg)
 
-图中文字：图中标注：G protein-coupled receptor；Plasma membrane；CYTOPLASM；G protein (inactive)，GDP；Enzyme；Activated receptor；Signaling molecule；Inactive enzyme；GTP；Activated enzyme；Cellular response。
+G protein-coupled receptor；Plasma membrane；CYTOPLASM；G protein (inactive)，GDP；Enzyme；Activated receptor；Signaling molecule；Inactive enzyme；GTP；Activated enzyme；Cellular response。
 
 ## 2.Receptor tyrosine kinase RTK
 
@@ -69,11 +61,11 @@ Ligand结合改变通道形状，使 Na⁺、Ca²⁺等特定离子顺 electroch
 
 ![知识点图示 4-1](markdown-assets/ap-biology-unit-4-cell-communication/page-4-image-1.jpg)
 
-图中文字：Signaling molecule (ligand)；α helix in the membrane；Tyrosines；CYTOPLASM；Ligand-binding site；Receptor tyrosine kinase proteins (inactive monomers)；Dimer；Activated tyrosine kinase regions (unphosphorylated dimer)；6 ATP → 6 ADP；Fully activated receptor tyrosine kinase (phosphorylated dimer)；Inactive relay proteins → Activated relay proteins；Cellular response 1 / Cellular response 2。
+Signaling molecule (ligand)；α helix in the membrane；Tyrosines；CYTOPLASM；Ligand-binding site；Receptor tyrosine kinase proteins (inactive monomers)；Dimer；Activated tyrosine kinase regions (unphosphorylated dimer)；6 ATP → 6 ADP；Fully activated receptor tyrosine kinase (phosphorylated dimer)；Inactive relay proteins → Activated relay proteins；Cellular response 1 / Cellular response 2。
 
 ![知识点图示 4-2](markdown-assets/ap-biology-unit-4-cell-communication/page-4-image-2.jpg)
 
-图中文字：Ligand-gated ion channel receptor；Signaling molecule (ligand)；Ions；Plasma membrane；1 Gate closed → 2 Gate open，产生 Cellular response → 3 Gate closed。
+Ligand-gated ion channel receptor；Signaling molecule (ligand)；Ions；Plasma membrane；1 Gate closed → 2 Gate open，产生 Cellular response → 3 Gate closed。
 
 ## Intracellular receptor
 
@@ -88,13 +80,9 @@ Protein kinase（蛋白激酶）把 ATP 的磷酸基团转移到蛋白质上。P
 First messenger是最初的胞外信号（Ligand） Second messenger是参与胞内信号传递的小分子或离子；不是 receptor，也不是 protein kinase。
 - 最常见：cAMP——（由 Adenylyl cyclase将ATP转得到）；常用于活化 protein kinase A （PKA）
 
-![知识点图示 5-1](markdown-assets/ap-biology-unit-4-cell-communication/page-5-image-1.png)
-
-图中文字：这么强？
-
 ![知识点图示 5-2](markdown-assets/ap-biology-unit-4-cell-communication/page-5-image-2.jpg)
 
-图中文字：Cyclic AMP。a) Cyclic AMP (cAMP) is one of the most widely used second messengers. b) Adenylyl cyclase, an enzyme in the plasma membrane, converts ATP to cAMP in response to an extracellular signal. 图：ATP —Adenylyl cyclase→ cAMP + Pyrophosphate。
+Cyclic AMP。a) Cyclic AMP (cAMP) is one of the most widely used second messengers. b) Adenylyl cyclase, an enzyme in the plasma membrane, converts ATP to cAMP in response to an extracellular signal. 图：ATP —Adenylyl cyclase→ cAMP + Pyrophosphate。
 
 ## cAMP pathway
 
@@ -120,10 +108,6 @@ Ligand浓度下降或与受体解离；GTP hydrolysis 使 G protein失活；prot
 
 Apoptosis通过受控的酶级联拆解细胞，碎片被包裹并清除，减少内容物泄漏对邻近细胞的伤害。它参与胚胎发育、组织维护和异常细胞清除。 ]Apoptosis is a regulated process that removes unnecessary or damaged cells.
 
-![知识点图示 6-1](markdown-assets/ap-biology-unit-4-cell-communication/page-6-image-1.jpg)
-
-图中文字：我没意见。
-
 ## Homeostasis是动态稳定
 
 Homeostasis（稳态）是将内环境变量维持在正常范围，不是保持绝对不变。Set point是调节参考值；偏离产生 stimulus，由sensor检测，并经控制系统引发 response。 Homeostasis is a dynamic equilibrium maintained mainly by negative feedback.
@@ -140,8 +124,6 @@ Negative/positive表示反馈方向，不表示有害 /有益。一个让血糖�
 ## Regulator与Conformer
 
 Regulator通过内部机制抵抗外界变化；conformer 的某项内部变量随外界改变。同一动物可以调节某些变量，同时让另一些变量随环境变化。
-
-![知识点图示 7-1](markdown-assets/ap-biology-unit-4-cell-communication/page-7-image-1.png)
 
 ## 6 Cell Cycle 与 Chromosomes
 
@@ -174,11 +156,11 @@ DNA replication doubles the DNA content but does not immediately double the chro
 
 ![知识点图示 9-1](markdown-assets/ap-biology-unit-4-cell-communication/page-9-image-1.jpg)
 
-图中文字：G₂ of Interphase → Prophase → Prometaphase。图中标注：Centrosomes (with centriole pairs)；Chromosomes (duplicated, uncondensed)；Early mitotic spindle；Aster；Centromere；Fragments of nuclear envelope；Nonkinetochore microtubules；Nucleolus；Nuclear envelope；Plasma membrane；Two sister chromatids of one chromosome；Kinetochore；Kinetochore microtubule；10 μm。
+G₂ of Interphase → Prophase → Prometaphase。Centrosomes (with centriole pairs)；Chromosomes (duplicated, uncondensed)；Early mitotic spindle；Aster；Centromere；Fragments of nuclear envelope；Nonkinetochore microtubules；Nucleolus；Nuclear envelope；Plasma membrane；Two sister chromatids of one chromosome；Kinetochore；Kinetochore microtubule；10 μm。
 
 ![知识点图示 9-2](markdown-assets/ap-biology-unit-4-cell-communication/page-9-image-2.jpg)
 
-图中文字：Metaphase → Anaphase → Telophase and Cytokinesis。图中标注：Metaphase plate；Spindle；Centrosome at one spindle pole；Daughter chromosomes；Cleavage furrow；Nucleolus forming；Nuclear envelope forming；10 μm。
+Metaphase → Anaphase → Telophase and Cytokinesis。Metaphase plate；Spindle；Centrosome at one spindle pole；Daughter chromosomes；Cleavage furrow；Nucleolus forming；Nuclear envelope forming；10 μm。
 
 ## Mitotic spindle纺锤体
 
@@ -195,9 +177,7 @@ Metaphase plate是假想平面，不是细胞中真实存在的板。
 
 ![知识点图示 10-1](markdown-assets/ap-biology-unit-4-cell-communication/page-10-image-1.jpg)
 
-图中文字：a) An aster (a radial array of short microtubules) extends from each centrosome. b) The spindle includes the centrosomes, the spindle microtubules, and the asters. 图中标注：Sister chromatids；Aster；Centrosome；Metaphase plate (imaginary)；Kinetochores；Kinetochore microtubules；Overlapping nonkinetochore microtubules；Microtubules；Chromosomes。
-
-![知识点图示 10-2](markdown-assets/ap-biology-unit-4-cell-communication/page-10-image-2.png)
+a) An aster (a radial array of short microtubules) extends from each centrosome. b) The spindle includes the centrosomes, the spindle microtubules, and the asters. Sister chromatids；Aster；Centrosome；Metaphase plate (imaginary)；Kinetochores；Kinetochore microtubules；Overlapping nonkinetochore microtubules；Microtubules；Chromosomes。
 
 ## Binary fission二分裂
 
@@ -212,7 +192,7 @@ Checkpoints接收internal signals与external signals，决定细胞是否继续�
 
 ![知识点图示 11-1](markdown-assets/ap-biology-unit-4-cell-communication/page-11-image-1.jpg)
 
-图中文字：Figure 12.15：G₁ checkpoint；G₂ checkpoint；M checkpoint；Control system；G₁ → S → G₂ → M。
+Figure 12.15：G₁ checkpoint；G₂ checkpoint；M checkpoint；Control system；G₁ → S → G₂ → M。
 
 ## Cyclins 与 Cyclin-dependent kinases
 
@@ -220,11 +200,11 @@ Cyclin（周期蛋白）的浓度随周期升降。Cdk（周期蛋白依赖性�
 
 ![知识点图示 12-1](markdown-assets/ap-biology-unit-4-cell-communication/page-12-image-1.jpg)
 
-图中文字：The Cell Cycle Clock: Cyclins and Cyclin-Dependent Kinases。a) Two types of regulatory proteins are involved in cell cycle control: cyclins and cyclin-dependent kinases (Cdks). b) The activity of a Cdk rises and falls with changes in concentration of its cyclin partner. c) MPF (maturation-promoting factor) is a cyclin-Cdk complex that triggers a cell’s passage past the G₂ checkpoint into the M phase.
+The Cell Cycle Clock: Cyclins and Cyclin-Dependent Kinases。a) Two types of regulatory proteins are involved in cell cycle control: cyclins and cyclin-dependent kinases (Cdks). b) The activity of a Cdk rises and falls with changes in concentration of its cyclin partner. c) MPF (maturation-promoting factor) is a cyclin-Cdk complex that triggers a cell’s passage past the G₂ checkpoint into the M phase.
 
 ![知识点图示 12-2](markdown-assets/ap-biology-unit-4-cell-communication/page-12-image-2.jpg)
 
-图中文字：(a) Fluctuation of MPF activity and cyclin concentration during the cell cycle：MPF activity；Cyclin concentration；Time；M、G₁、S、G₂。(b) Molecular mechanisms that help regulate the cell cycle：Cdk；Cyclin；MPF；G₂ checkpoint；Degraded cyclin；Cyclin is degraded。
+(a) Fluctuation of MPF activity and cyclin concentration during the cell cycle：MPF activity；Cyclin concentration；Time；M、G₁、S、G₂。(b) Molecular mechanisms that help regulate the cell cycle：Cdk；Cyclin；MPF；G₂ checkpoint；Degraded cyclin；Cyclin is degraded。
 
 ## 高频易错点
 
@@ -234,7 +214,3 @@ Cyclin（周期蛋白）的浓度随周期升降。Cdk（周期蛋白依赖性�
 - DNA replication与mitosis：S phase复制DNA；M phase分配复制后的染色体。
 - Sister chromatids与chromosomes：复制后Sister chromatids仍算一条染色体；分离后各算一条。
 - Cyclin与Cdk：正确理解：Cyclin 浓度变化影响复合物活性；Cdk 不必同步被降解。
-
-![知识点图示 13-1](markdown-assets/ap-biology-unit-4-cell-communication/page-13-image-1.jpg)
-
-图中文字：二阶堂希罗。我当时睡得可香了。

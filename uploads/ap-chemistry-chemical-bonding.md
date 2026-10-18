@@ -23,7 +23,7 @@ the covalent bond stronger
 
 ## Change in electronegativity across a period
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-002-figure-01.svg)
 
 Electronegativity increases going across the periods of the periodic table
 
@@ -39,7 +39,7 @@ covalent bond are weakly attracted, and the electronegativity value decrease
 
 ## Change in electronegativity down a group
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-01.svg)
 
 Electronegativity decreases going down the groups of the Periodic table
 
@@ -50,7 +50,7 @@ bonds because of their full valence shell
 
 ## The Pauling Scale
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-003-figure-02.svg)
 
 First three rows of the periodic table showing electronegativity values
 
@@ -61,7 +61,7 @@ bond with an atom
 
 ## Molecule of CH₃F
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-004-figure-01.svg)
 
 Electron distribution in the C-F bond of fluoromethane
 
@@ -105,7 +105,7 @@ shown in the image below
 
 ## The Formation of a Chlorine Molecule, Cl₂
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-006-figure-01.svg)
 
 Diagram showing how a covalent bond forms between two chlorine atoms
 
@@ -156,7 +156,7 @@ coulombic attrraction, therefore the distance between the charges is closer
 
 ## The H-F molecule
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-008-figure-01.svg)
 
 Polar covalent bond in hydrofluoric acid (HF)
 
@@ -180,7 +180,7 @@ between the atoms is greater
 
 ## Forming a Cation
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-01.svg)
 
 Forming cations by the removal of electrons from metals
 
@@ -188,7 +188,7 @@ Forming cations by the removal of electrons from metals
 
 ## Forming an Anion
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-009-figure-02.svg)
 
 Forming anions by the addition of electrons to nonmetals
 
@@ -216,7 +216,7 @@ the oppositely charged ions
 
 ## Forming an Ionic Bond
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-010-figure-01.svg)
 
 Cations and anions bond together using strong Coulombic forces of attraction, which require a lot of energy to overcome
 
@@ -271,7 +271,7 @@ positively charged metal ions and a sea of delocalized electrons
 
 ## The Structure of a Metal
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-013-figure-01.svg)
 
 The positive metal centers interact with a Coulombic force of attraction with in a ‘sea’ of delocalised electrons
 
@@ -288,7 +288,7 @@ the amount of energy required to break the covalent bond
 
 ## Potential Energy Diagram
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-015-figure-01.svg)
 
 Potential energy diagram of hydrogen gas (H<sub>2</sub>) showing a minimum potential energy of -436 kJ/mol which corresponds to a bond length of 74 pm
 
@@ -326,7 +326,7 @@ The minimum potential energy will always be a negative value. Bond energy is alw
 
 ## Bond length in halogens
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-016-figure-01.svg)
 
 Diagram showing that the bond length of diatomic halogen molecules increases with increasing atomic radius
 
@@ -362,7 +362,7 @@ The formula for Coulomb's law is $F_{\mathrm{coulombic}}=k\frac{q_1q_2}{r^2}$, w
 
 ## Coulombic force between cations and anions
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-017-figure-01.svg)
 
 Diagram showing that the Coulombic force between a cation and anion decreases with increasing ionic radius and increases with increasing charge
 
@@ -377,7 +377,7 @@ the two ions
 
 ## Worked Example
 
-![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-018-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-chemical-bonding/page-018-figure-01.svg)
 
 The graph shows the potential energy of three potassium salts, X, Y, and Z, as a function of internuclear distance. Based on the data, what are the most likely identities of compounds X, Y, and Z?
 

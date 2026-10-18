@@ -570,8 +570,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
   - Placebo 的拉丁语意思是"我会取悦"（I shall please）。
 
-![复习图示 13](markdown-assets/ap-psychology-midterm-bilingual-notes/page-13-figure-01.png)
-
 ### 27. Independent Variable（自变量） ⭐⭐
 
 - English Definition: The experimental factor that is manipulated; the variable whose effect is being studied.
@@ -591,10 +589,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 - X → 自变量；y → 因变量。
 
 ### 28. Confounding Variable（混淆变量） ⭐
-
-![复习图示 13](markdown-assets/ap-psychology-midterm-bilingual-notes/page-13-figure-02.png)
-
-![复习图示 14](markdown-assets/ap-psychology-midterm-bilingual-notes/page-14-figure-01.png)
 
 - English Definition: A factor other than the independent variable that might produce an effect in an experiment.
 
@@ -795,8 +789,6 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
   - 以 Wechsler 智力测试为例：均值 = 100，标准差 = 15
 
     - 68% 的人智商在 85–115 之间
-
-![复习图示 18](markdown-assets/ap-psychology-midterm-bilingual-notes/page-18-figure-01.png)
 
   - 95% 的人智商在 70–130 之间
 

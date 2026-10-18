@@ -36,7 +36,7 @@ bond
 
 ## A molecule of water (H2O)
 
-![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-002-figure-01.svg)
 
 A molecule of water (H<sub>2</sub>O) showing 2 hydrogen atoms, 1 oxygen atom and the covalent bonds
 
@@ -53,7 +53,7 @@ fixed arrangement by ionic bonds
 
 ## Formula unit of sodium chloride (NaCl)
 
-![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-003-figure-01.svg)
 
 A formula unit of sodium chloride (NaCl) showing the regular but alternating arrangement of sodium ions and chloride ions
 
@@ -69,7 +69,7 @@ where it comes from
 
 ## Law of Definite Proportions
 
-![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-004-figure-01.svg)
 
 Understanding the Law of Definite Proportions with two samples of H<sub>2</sub>O with different masses
 
@@ -134,7 +134,7 @@ Answer:
 | Divide answers by the smaller value | =7.167.16<br>= 1 | =13.87.16<br>= 1.93<br>≈ 2 |
 | Use the answers as subscripts | CH₂ | |
 
-![Original table including the printed calculation layout](markdown-assets/ap-chemistry-elements-mixtures/page-006-table-original.png)
+![Original table including the printed calculation layout](markdown-assets/ap-chemistry-elements-mixtures/page-006-table-original.svg)
 
 ## Calculating the molecular formula
 
@@ -215,7 +215,7 @@ space
 
 ## Molecules in a pure substance and mixtures
 
-![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-elements-mixtures/page-008-figure-01.svg)
 
 A pure substance, an homogeneous mixture and a heterogeneous mixture at the molecular level
 

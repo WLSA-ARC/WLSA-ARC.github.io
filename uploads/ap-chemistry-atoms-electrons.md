@@ -49,7 +49,7 @@ $$ {}^{A}_{Z}\mathrm{Atomic\ symbol} $$
 
 ## The beryllium atom
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-003-figure-01.svg)
 
 The beryllium atom contains 4 protons, 5 neutrons and 4 electrons
 
@@ -107,7 +107,7 @@ contain an small, dense, and positively charged core at the center
 
 ## The Rutherford Experiment
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-004-figure-01.svg)
 
 The Rutherford experiment showed atoms contain a small, dense, and positively charged core at the center
 
@@ -271,7 +271,7 @@ $$\lambda=4.13\times10^{-7}\ \mathrm{m}$$
 
 ## s orbital and p orbital shapes
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-009-figure-01.svg)
 
 The s orbital is spherical and the p orbital is a dumbbell shape
 
@@ -313,7 +313,7 @@ ones
 
 ## The Aufbau Diagram
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-010-figure-01.svg)
 
 Electrons fill the lowest energy orbitals first before moving to higher energy ones
 
@@ -384,7 +384,7 @@ configuration of an element based on its position in the table
 
 ## The Periodic Table
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-01.svg)
 
 Electron configuration in the periodic table
 
@@ -409,7 +409,7 @@ electron with opposite spin
 
 ## Representing the electron configuration in a fluorine atom
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-012-figure-02.svg)
 
 Orbital diagram for the electron configuration of the fluorine (F) atom
 
@@ -524,7 +524,7 @@ Interpreting a PES spectrum is assessed in most of the AP Chemistry Examinations
 
 A PES analysis of an unknown element (X) was performed and the spectrum below was obtained. The sample does not contain any impurities. What is the identity of X?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-016-figure-01.svg)
 
 Unknown sample PES Spectrum
 
@@ -556,7 +556,7 @@ in the 2p subshell for this atom was 2
 - We can connect the electron configuration with the PES Spectrum labeled
 below
 
-![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-atoms-electrons/page-017-figure-01.svg)
 
 PES Spectrum labeled
 

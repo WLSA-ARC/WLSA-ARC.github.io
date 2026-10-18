@@ -559,7 +559,7 @@ Routing is the process of **finding a path** from sender to receiver.
 
 If the path from sender to receiver is broken, the path will be rerouted. This fault-tolerant nature of the internet makes connections between computing devices more reliable.
 
-图中标注：Sender；Path；Receiver；Broken node。粗箭头由 Sender 经未损坏的替代节点抵达 Receiver。
+Sender；Path；Receiver；Broken node。粗箭头由 Sender 经未损坏的替代节点抵达 Receiver。
 
 ![图 22](markdown-assets/ap-csp-review-vincent-wan/image22.png)就是说如果path坏了话，就走另外一条
 
@@ -787,7 +787,7 @@ Inherence：你独一无二的生物特征
 
 Symmetric key encryption uses the same key for both encryption and decryption. The one key is a shared secret and relies on both sides keeping their key secret.
 
-图中文字：Same key to encrypt and decrypt；One key to encrypt data；Same key to decrypt data。
+Same key to encrypt and decrypt；One key to encrypt data；Same key to decrypt data。
 
 ![图 28](markdown-assets/ap-csp-review-vincent-wan/image28.png)
 
@@ -817,7 +817,7 @@ Symmetric key encryption uses the same key for both encryption and decryption. T
 
 Public key encryption (also called asymmetric encryption) uses two keys—one private and one public. Anyone with the public key can encrypt data, and the public key is public. To decrypt, a second key, which is private, is needed.
 
-图中文字：Key one；One public key to encrypt data；Key two；Second private key to decrypt data；One key to encrypt and a separate second key to decrypt。
+Key one；One public key to encrypt data；Key two；Second private key to decrypt data；One key to encrypt and a separate second key to decrypt。
 
 ![图 29](markdown-assets/ap-csp-review-vincent-wan/image29.png)
 
