@@ -28,7 +28,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B4"
     }
@@ -50,7 +50,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B5"
     }
@@ -73,7 +73,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B6"
     }
@@ -94,7 +94,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B7"
     }
@@ -116,14 +116,14 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B8"
     }
   },
   {
     "id": "ap-english-literature",
-    "title": "English language+Literature",
+    "title": "English Literature",
     "subject": "English",
     "subjectCode": "english",
     "grade": "",
@@ -137,11 +137,12 @@ window.ARCHIVE_COURSES = [
       "文学",
       "阅读",
       "G10 English Literature",
-      "AP English Language"
+      "AP English Language",
+      "English Literature"
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B9"
     }
@@ -162,7 +163,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B10"
     }
@@ -183,7 +184,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B11"
     }
@@ -204,7 +205,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B12"
     }
@@ -226,7 +227,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B13"
     }
@@ -247,7 +248,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B14"
     }
@@ -268,7 +269,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B15"
     }
@@ -290,7 +291,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B16"
     }
@@ -311,7 +312,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B17"
     }
@@ -335,7 +336,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B18"
     }
@@ -356,7 +357,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B19"
     }
@@ -377,7 +378,7 @@ window.ARCHIVE_COURSES = [
     ],
     "topics": [],
     "source": {
-      "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+      "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
       "sheet": "2027 S1 Mid",
       "cell": "B20"
     }
@@ -1294,6 +1295,46 @@ window.ARCHIVE_ITEMS = [
     "available": true
   },
   {
+    "id": "arc-431f4b0ae5571293e967fa94",
+    "title": "AP Physics C: Electricity & Magnetism Review Notes",
+    "author": "",
+    "subject": "Physics",
+    "subjectCode": "physics",
+    "course": "physics-em",
+    "courses": [
+      "physics-em"
+    ],
+    "courseTitles": [
+      "G11 AP Physics C: E&M"
+    ],
+    "type": "Course Notes",
+    "typeCode": "course-notes",
+    "description": "Review notes on electric charges and fields, Gauss’s law, electric potential, conductors and capacitors.",
+    "keywords": [
+      "AP Physics C",
+      "E&M",
+      "电磁学",
+      "高斯定律",
+      "电势",
+      "电容器"
+    ],
+    "topics": [],
+    "grade": "G11",
+    "examBoard": "AP",
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
+    "source": "G11 AP Physics C: E&M",
+    "format": "DOCX",
+    "file": "uploads/ap-physics-c-electricity-magnetism-review.docx",
+    "href": "./uploads/ap-physics-c-electricity-magnetism-review.docx",
+    "markdown": "./uploads/ap-physics-c-electricity-magnetism-review.md",
+    "size": 1689702,
+    "updated": "2026-10-18",
+    "available": true
+  },
+  {
     "id": "arc-93fb246b061e0a2421c3df0d",
     "title": "AP Physics C: Mechanics — Unit 1 & Unit 2 Review",
     "author": "Jackson 招亦凡",
@@ -1454,6 +1495,48 @@ window.ARCHIVE_ITEMS = [
     "pages": 16,
     "size": 16152996,
     "updated": "",
+    "available": true
+  },
+  {
+    "id": "arc-57ceb55bbc2b167b0b20bde2",
+    "title": "Calculus BC Comprehensive Review Notes",
+    "author": "",
+    "subject": "Mathematics",
+    "subjectCode": "mathematics",
+    "course": "ap-calculus-bc",
+    "courses": [
+      "ap-calculus-bc"
+    ],
+    "courseTitles": [
+      "Calculus BC"
+    ],
+    "type": "Course Notes",
+    "typeCode": "course-notes",
+    "description": "Calculus BC notes on derivatives, limits, applications, integration and related review topics.",
+    "keywords": [
+      "Calculus BC",
+      "微积分",
+      "导数",
+      "极限",
+      "积分",
+      "复习笔记"
+    ],
+    "topics": [],
+    "grade": "",
+    "examBoard": "AP",
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
+    "source": "Calculus BC",
+    "format": "PDF",
+    "file": "uploads/calculus-bc-comprehensive-review-notes.pdf",
+    "href": "./uploads/calculus-bc-comprehensive-review-notes.pdf",
+    "markdown": "./uploads/calculus-bc-comprehensive-review-notes.md",
+    "pdf": "./uploads/calculus-bc-comprehensive-review-notes.pdf",
+    "pages": 35,
+    "size": 64905856,
+    "updated": "2026-10-18",
     "available": true
   },
   {
@@ -1785,7 +1868,7 @@ window.ARCHIVE_ITEMS = [
   },
   {
     "id": "ap-english-literature",
-    "title": "English language+Literature",
+    "title": "English Literature",
     "subject": "English",
     "subjectCode": "english",
     "grade": "",
@@ -1799,7 +1882,8 @@ window.ARCHIVE_ITEMS = [
       "文学",
       "阅读",
       "G10 English Literature",
-      "AP English Language"
+      "AP English Language",
+      "English Literature"
     ],
     "topics": [],
     "source": "Course collection",

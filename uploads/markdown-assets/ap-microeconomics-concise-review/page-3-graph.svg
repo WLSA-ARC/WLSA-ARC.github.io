@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="892" height="360" viewBox="47.1458271484 454.6204760742 500.6437835286 202.0535449219" role="img" aria-labelledby="title desc" overflow="hidden"><title id="title">Left unit tax: S+tax vs S, D, Pc/P0/Pp, Qt/Q0, tax revenue and DWL. Right tariff: Pw+t/Pw, Qs0/Qs1/Qd1/Qd0, tax revenue/DWL.</title><desc id="desc">Reconstructed from original PDF vector geometry after reading the diagram. No bitmap embedding or bitmap tracing. Original embedded font glyph outlines retained to preserve typography. Raster antialiasing may differ.</desc><defs><path id="font_1_74" d="M.1499939 .5239868H.066986087V0H.1499939V.5239868M.1499939 .72898867H.06599426V.6239929H.1499939V.72898867Z" />
 <path id="font_1_83" d="M.068984989 .5239868V0H.15299988V.27198792C.1539917 .397995 .20599365 .45399476 .32099916 .45098878V.5359955C.30699159 .5379944 .29899598 .5389862 .2889862 .5389862 .23498535 .5389862 .19400025 .5069885 .1459961 .42900086V.5239868H.068984989Z" />
 <path id="font_1_70" d="M.5130005 .23399353C.5130005 .31399537 .5069885 .3619995 .49198915 .40098573 .45799256 .4869995 .37799073 .5389862 .27999879 .5389862 .13398743 .5389862 .039993287 .42799378 .039993287 .25498963 .039993287 .08198547 .12998963-.023010254 .27799989-.023010254 .397995-.023010254 .48098756 .04499817 .5019989 .15899658H.41799928C.394989 .08999634 .34799195 .053985597 .2809906 .053985597 .22799683 .053985597 .18299866 .07798767 .15499878 .12199402 .1349945 .1519928 .12799073 .18199158 .1269989 .23399353H.5130005M.1289978 .3019867C.13598633 .39898683 .19499207 .46199037 .2789917 .46199037 .3639984 .46199037 .4229889 .3959961 .4229889 .3019867H.1289978Z" />
@@ -91,14 +90,14 @@
 </g><g id="source-labels-33" data-role="source-labels"><use data-text="y" xlink:href="#font_3_92" transform="matrix(7.547932,0,0,-7.547932,245.75359,653.3785)" fill="#243648" />
 </g><g id="source-labels-34" data-role="source-labels"><use data-text="0" xlink:href="#font_3_19" transform="matrix(7.103936,0,0,-7.103936,70.19576,636.5066)" fill="#243648" />
 </g><g id="source-labels-35" data-role="source-labels"><use data-text="D" xlink:href="#font_3_39" transform="matrix(7.991928,0,0,-7.991928,252.36733,617.2372)" fill="#2462a8" />
-</g><g id="source-labels-36" data-role="source-labels"><use data-text="S" xlink:href="#font_3_54" transform="matrix(7.991928,0,0,-7.991928,250.45815,550.105)" fill="#17816b" />
-</g><g id="source-labels-37" data-role="source-labels"><use data-text="S" xlink:href="#font_3_54" transform="matrix(7.991928,0,0,-7.991928,235.1847,519.4395)" fill="#c44b38" />
-</g><g id="source-labels-38" data-role="source-labels"><use data-text=" " xlink:href="#font_3_3" transform="matrix(7.991928,0,0,-7.991928,239.79602,519.4395)" fill="#c44b38" />
-</g><g id="source-labels-39" data-role="source-labels"><use data-text="+" xlink:href="#font_3_14" transform="matrix(7.991928,0,0,-7.991928,242.16164,519.4395)" fill="#c44b38" />
-</g><g id="source-labels-40" data-role="source-labels"><use data-text=" " xlink:href="#font_3_3" transform="matrix(7.991928,0,0,-7.991928,248.09165,519.4395)" fill="#c44b38" />
-</g><g id="source-labels-41" data-role="source-labels"><use data-text="t" xlink:href="#font_3_87" transform="matrix(7.991928,0,0,-7.991928,250.45725,519.4395)" fill="#c44b38" />
-</g><g id="source-labels-42" data-role="source-labels"><use data-text="a" xlink:href="#font_3_68" transform="matrix(7.991928,0,0,-7.991928,253.43824,519.4395)" fill="#c44b38" />
-</g><g id="source-labels-43" data-role="source-labels"><use data-text="x" xlink:href="#font_3_91" transform="matrix(7.991928,0,0,-7.991928,257.8578,519.4395)" fill="#c44b38" />
+</g><g id="source-labels-36" data-role="source-labels"><use data-text="S" xlink:href="#font_3_54" transform="matrix(7.991928,0,0,-7.991928,250.45815,542.105)" fill="#17816b" />
+</g><g id="source-labels-37" data-role="source-labels"><use data-text="S" xlink:href="#font_3_54" transform="matrix(7.991928,0,0,-7.991928,235.1847,509.4395)" fill="#c44b38" />
+</g><g id="source-labels-38" data-role="source-labels"><use data-text=" " xlink:href="#font_3_3" transform="matrix(7.991928,0,0,-7.991928,239.79602,509.4395)" fill="#c44b38" />
+</g><g id="source-labels-39" data-role="source-labels"><use data-text="+" xlink:href="#font_3_14" transform="matrix(7.991928,0,0,-7.991928,242.16164,509.4395)" fill="#c44b38" />
+</g><g id="source-labels-40" data-role="source-labels"><use data-text=" " xlink:href="#font_3_3" transform="matrix(7.991928,0,0,-7.991928,248.09165,509.4395)" fill="#c44b38" />
+</g><g id="source-labels-41" data-role="source-labels"><use data-text="t" xlink:href="#font_3_87" transform="matrix(7.991928,0,0,-7.991928,250.45725,509.4395)" fill="#c44b38" />
+</g><g id="source-labels-42" data-role="source-labels"><use data-text="a" xlink:href="#font_3_68" transform="matrix(7.991928,0,0,-7.991928,253.43824,509.4395)" fill="#c44b38" />
+</g><g id="source-labels-43" data-role="source-labels"><use data-text="x" xlink:href="#font_3_91" transform="matrix(7.991928,0,0,-7.991928,257.8578,509.4395)" fill="#c44b38" />
 </g><g id="source-labels-44" data-role="source-labels"><use data-text="Q" xlink:href="#font_3_52" transform="matrix(7.103936,0,0,-7.103936,131.91121,636.9506)" fill="#243648" />
 </g><g id="source-labels-45" data-role="source-labels"><use data-text="t" xlink:href="#font_3_87" transform="matrix(7.103936,0,0,-7.103936,137.70093,636.9506)" fill="#243648" />
 </g><g id="source-labels-46" data-role="source-labels"><use data-text="P" xlink:href="#font_3_51" transform="matrix(7.103936,0,0,-7.103936,49.327955,571.387)" fill="#243648" />
@@ -109,17 +108,17 @@
 </g><g id="source-labels-51" data-role="source-labels"><use data-text="0" xlink:href="#font_3_19" transform="matrix(7.103936,0,0,-7.103936,175.88459,636.9506)" fill="#243648" />
 </g><g id="source-labels-52" data-role="source-labels"><use data-text="P" xlink:href="#font_3_51" transform="matrix(7.103936,0,0,-7.103936,49.327955,587.9632)" fill="#243648" />
 </g><g id="source-labels-53" data-role="source-labels"><use data-text="0" xlink:href="#font_3_19" transform="matrix(7.103936,0,0,-7.103936,53.67556,587.9632)" fill="#243648" />
-</g><g id="source-labels-54" data-role="source-labels"><use data-text="T" xlink:href="#font_3_55" transform="matrix(7.991928,0,0,-7.991928,83.40465,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-55" data-role="source-labels"><use data-text="a" xlink:href="#font_3_68" transform="matrix(7.991928,0,0,-7.991928,87.984027,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-56" data-role="source-labels"><use data-text="x" xlink:href="#font_3_91" transform="matrix(7.991928,0,0,-7.991928,92.403568,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-57" data-role="source-labels"><use data-text=" " xlink:href="#font_3_3" transform="matrix(7.991928,0,0,-7.991928,96.45547,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-58" data-role="source-labels"><use data-text="r" xlink:href="#font_3_85" transform="matrix(7.991928,0,0,-7.991928,98.821079,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-59" data-role="source-labels"><use data-text="e" xlink:href="#font_3_72" transform="matrix(7.991928,0,0,-7.991928,101.87399,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-60" data-role="source-labels"><use data-text="v" xlink:href="#font_3_89" transform="matrix(7.991928,0,0,-7.991928,106.40541,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-61" data-role="source-labels"><use data-text="e" xlink:href="#font_3_72" transform="matrix(7.991928,0,0,-7.991928,110.60117,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-62" data-role="source-labels"><use data-text="n" xlink:href="#font_3_81" transform="matrix(7.991928,0,0,-7.991928,115.1326,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-63" data-role="source-labels"><use data-text="u" xlink:href="#font_3_88" transform="matrix(7.991928,0,0,-7.991928,120.055629,585.7432)" fill="#7d6116" />
-</g><g id="source-labels-64" data-role="source-labels"><use data-text="e" xlink:href="#font_3_72" transform="matrix(7.991928,0,0,-7.991928,124.97865,585.7432)" fill="#7d6116" />
+</g><g id="source-labels-54" data-role="source-labels"><use data-text="T" xlink:href="#font_3_55" transform="matrix(7.991928,0,0,-7.991928,83.40465,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-55" data-role="source-labels"><use data-text="a" xlink:href="#font_3_68" transform="matrix(7.991928,0,0,-7.991928,87.984027,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-56" data-role="source-labels"><use data-text="x" xlink:href="#font_3_91" transform="matrix(7.991928,0,0,-7.991928,92.403568,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-57" data-role="source-labels"><use data-text=" " xlink:href="#font_3_3" transform="matrix(7.991928,0,0,-7.991928,96.45547,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-58" data-role="source-labels"><use data-text="r" xlink:href="#font_3_85" transform="matrix(7.991928,0,0,-7.991928,98.821079,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-59" data-role="source-labels"><use data-text="e" xlink:href="#font_3_72" transform="matrix(7.991928,0,0,-7.991928,101.87399,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-60" data-role="source-labels"><use data-text="v" xlink:href="#font_3_89" transform="matrix(7.991928,0,0,-7.991928,106.40541,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-61" data-role="source-labels"><use data-text="e" xlink:href="#font_3_72" transform="matrix(7.991928,0,0,-7.991928,110.60117,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-62" data-role="source-labels"><use data-text="n" xlink:href="#font_3_81" transform="matrix(7.991928,0,0,-7.991928,115.1326,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-63" data-role="source-labels"><use data-text="u" xlink:href="#font_3_88" transform="matrix(7.991928,0,0,-7.991928,120.05563,525.7432)" fill="#7d6116" />
+</g><g id="source-labels-64" data-role="source-labels"><use data-text="e" xlink:href="#font_3_72" transform="matrix(7.991928,0,0,-7.991928,124.97865,525.7432)" fill="#7d6116" />
 </g><g id="source-labels-65" data-role="source-labels"><use data-text="D" xlink:href="#font_3_39" transform="matrix(7.991928,0,0,-7.991928,177.9092,574.96878)" fill="#8055ac" />
 </g><g id="source-labels-66" data-role="source-labels"><use data-text="W" xlink:href="#font_3_58" transform="matrix(7.991928,0,0,-7.991928,183.99906,574.96878)" fill="#8055ac" />
 </g><g id="source-labels-67" data-role="source-labels"><use data-text="L" xlink:href="#font_3_47" transform="matrix(7.991928,0,0,-7.991928,192.13484,574.96878)" fill="#8055ac" />

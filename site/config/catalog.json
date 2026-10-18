@@ -17,7 +17,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B4"
       }
@@ -39,7 +39,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B5"
       }
@@ -62,7 +62,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B6"
       }
@@ -83,7 +83,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B7"
       }
@@ -105,14 +105,14 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B8"
       }
     },
     {
       "id": "ap-english-literature",
-      "title": "English language+Literature",
+      "title": "English Literature",
       "subject": "English",
       "subjectCode": "english",
       "grade": "",
@@ -126,11 +126,12 @@
         "文学",
         "阅读",
         "G10 English Literature",
-        "AP English Language"
+        "AP English Language",
+        "English Literature"
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B9"
       }
@@ -151,7 +152,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B10"
       }
@@ -172,7 +173,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B11"
       }
@@ -193,7 +194,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B12"
       }
@@ -215,7 +216,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B13"
       }
@@ -236,7 +237,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B14"
       }
@@ -257,7 +258,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B15"
       }
@@ -279,7 +280,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B16"
       }
@@ -300,7 +301,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B17"
       }
@@ -324,7 +325,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B18"
       }
@@ -345,7 +346,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B19"
       }
@@ -366,7 +367,7 @@
       ],
       "topics": [],
       "source": {
-        "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
+        "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
         "sheet": "2027 S1 Mid",
         "cell": "B20"
       }
@@ -973,6 +974,51 @@
       "grade": "G11",
       "examBoard": "",
       "updated": "2026-10-18"
+    },
+    "uploads/calculus-bc-comprehensive-review-notes.pdf": {
+      "title": "Calculus BC Comprehensive Review Notes",
+      "course": "ap-calculus-bc",
+      "description": "Calculus BC notes on derivatives, limits, applications, integration and related review topics.",
+      "keywords": [
+        "Calculus BC",
+        "微积分",
+        "导数",
+        "极限",
+        "积分",
+        "复习笔记"
+      ],
+      "type": "course-notes",
+      "id": "arc-57ceb55bbc2b167b0b20bde2",
+      "author": "",
+      "languages": [
+        "zh-CN",
+        "en"
+      ],
+      "examBoard": "AP",
+      "updated": "2026-10-18"
+    },
+    "uploads/ap-physics-c-electricity-magnetism-review.docx": {
+      "title": "AP Physics C: Electricity & Magnetism Review Notes",
+      "course": "physics-em",
+      "description": "Review notes on electric charges and fields, Gauss’s law, electric potential, conductors and capacitors.",
+      "keywords": [
+        "AP Physics C",
+        "E&M",
+        "电磁学",
+        "高斯定律",
+        "电势",
+        "电容器"
+      ],
+      "type": "course-notes",
+      "grade": "G11",
+      "id": "arc-431f4b0ae5571293e967fa94",
+      "author": "",
+      "languages": [
+        "zh-CN",
+        "en"
+      ],
+      "examBoard": "AP",
+      "updated": "2026-10-18"
     }
   },
   "subjects": {
@@ -996,8 +1042,8 @@
     "course-notes": "Course Notes"
   },
   "courseImport": {
-    "workbook": "ARC_2027S1_Mid_已完善(2).xlsx",
-    "sha256": "1f92bea9a81453d0196fb22e3988933573d7bdfc8797d16f08fa29fb81f3631f",
+    "workbook": "ARC_2027S1_Mid_已完善(3).xlsx",
+    "sha256": "8758a551890728fe91a495ba132e92b79e549cb16777ff089df8bbd8091d1379",
     "sheets": [
       "2027 S1 Mid"
     ],

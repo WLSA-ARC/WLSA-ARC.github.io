@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import MarkdownIt from 'markdown-it';
 import './build-catalog.mjs';
 
 const root = fileURLToPath(new URL('../',import.meta.url));
@@ -48,6 +49,27 @@ await fs.copyFile(path.join(root,'node_modules/markdown-it-texmath/texmath.js'),
 await fs.copyFile(path.join(root,'node_modules/markdown-it-texmath/license.txt'),path.join(output,'assets/texmath.LICENSE.txt'));
 const uploadRoot=path.resolve(root,'../uploads');
 await fs.cp(uploadRoot,path.join(output,'uploads'),{recursive:true});
+// Keep diagram updates fresh even when a reader has the previous SVG cached.
+const publishedUploads=path.join(output,'uploads'),diagramVersions=new Map(),markdown=new MarkdownIt({html:false});
+for(const file of await fs.readdir(publishedUploads)){
+  if(!file.endsWith('.md')||file==='README.md')continue;
+  const full=path.join(publishedUploads,file),source=await fs.readFile(full,'utf8'),images=new Set(),revisions=new Map();
+  const visit=tokens=>{for(const token of tokens){if(token.type==='image')images.add(token.attrGet('src'));if(token.children)visit(token.children);}};
+  visit(markdown.parse(source,{}));
+  for(const url of images){
+    if(/^(?:[a-z]+:|\/\/)/i.test(url))continue;
+    const parsed=new URL(url,'https://archive.invalid/uploads/');
+    if(!parsed.pathname.endsWith('.svg'))continue;
+    const target=path.resolve(path.dirname(full),decodeURIComponent(url.split(/[?#]/,1)[0]));
+    if(!target.startsWith(output+path.sep))continue;
+    let version=diagramVersions.get(target);
+    if(!version){version=createHash('sha256').update(await fs.readFile(target)).digest('hex').slice(0,12);diagramVersions.set(target,version);}
+    parsed.searchParams.set('v',version);
+    revisions.set(url,url.split(/[?#]/,1)[0]+parsed.search+parsed.hash);
+  }
+  const revised=source.replace(/(!\[[^\]]*\]\()([^)]+)(\))/g,(all,open,url,close)=>revisions.has(url)?open+revisions.get(url)+close:all);
+  if(revised!==source)await fs.writeFile(full,revised);
+}
 await fs.cp(path.join(root,'docs'),path.join(output,'docs'),{recursive:true});
 // New deployments must not mix cached CSS/JS with the updated page markup.
 const versions=new Map();
