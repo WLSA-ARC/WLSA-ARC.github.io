@@ -23,7 +23,7 @@ wavelength and energy
 
 ## The electromagnetic spectrum diagram
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-002-figure-01.svg)
 
 The electromagnetic spectrum spans a broad spectrum from very long radio waves to very short gamma rays
 
@@ -64,7 +64,7 @@ radiation that is absorbed
 
 ## Rotational axis in a water molecule
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-004-figure-01.svg)
 
 Different rotational axis in a water molecule
 
@@ -94,7 +94,7 @@ absorbed
 
 ## Modes of vibration for the CO₂ molecule
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-005-figure-01.svg)
 
 Different modes of vibration in a CO<sub>2</sub> molecule. Each mode has a characteristic frequency of vibration
 
@@ -117,7 +117,7 @@ orbitals
 
 ## Absorption and Emission diagram
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-01.svg)
 
 The difference between absorption and emission depends on whether electrons are jumping from lower to higher energy levels or the other way around
 
@@ -135,7 +135,7 @@ to reach vibrational and rotational excited states
 
 ## Summary of the molecular and electronic transitions
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-006-figure-02.svg)
 
 Electronic, vibration and rotational excited states associated with an specific region of the electromagnetic spectrum
 
@@ -175,7 +175,7 @@ equal to the energy of the photon
 
 ## Absorption and Emission diagram
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-008-figure-01.svg)
 
 The difference between absorption and emission depends on whether electrons are jumping from lower to higher energy levels or the other way around
 
@@ -193,7 +193,7 @@ electromagnetic spectrum
 
 ## Regions of the electromagnetic spectrum
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-009-figure-01.svg)
 
 Electron jumps in the hydrogen spectrum
 
@@ -310,7 +310,7 @@ sample, by comparing its absorbance with the absorbance of standards
 
 ## Example of Calibration Curve
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-01.svg)
 
 Graph showing a calibration curve Absorbance vs Concentration
 
@@ -323,7 +323,7 @@ There is a high probability that you will be assessed in Beer-Lambert Law either
 A student has prepared an experiment to determine the concentration of X (aq) in an
 unknown sample. The absorbance at different concentrations is shown below:
 
-![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-spectroscopy/page-013-figure-02.svg)
 
 Calibration curve built using standard samples of X
 
@@ -379,4 +379,4 @@ c=0.275+0.0260
 
 c=4.92×10−3 M
 
-![Original final calculation as printed](markdown-assets/ap-chemistry-spectroscopy/page-015-calculation-original.png)
+![Original final calculation as printed](markdown-assets/ap-chemistry-spectroscopy/page-015-calculation-original.svg)

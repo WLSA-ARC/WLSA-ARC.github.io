@@ -368,7 +368,7 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 - 中文释义： 衡量两个因素共同变化的程度，以及一个因素能多好地预测另一个因素的指标。
 
-![复习图示 9](markdown-assets/ap-psychology-midterm-bilingual-notes/page-09-figure-01.png)
+![复习图示 9](markdown-assets/ap-psychology-midterm-bilingual-notes/page-09-figure-01.svg)
 
 - 📝 Example/Key Point：
 
@@ -708,7 +708,7 @@ Unit Overview： Research Methods: Thinking Critically With Psychological Scienc
 
 - 中文释义： 一组数据中位于中间位置的分数；一半的分数在它之上，一半在它之下。
 
-![复习图示 16](markdown-assets/ap-psychology-midterm-bilingual-notes/page-16-figure-01.png)
+![复习图示 16](markdown-assets/ap-psychology-midterm-bilingual-notes/page-16-figure-01.svg)
 
 - 📝 Example/Key Point：
 
@@ -1022,7 +1022,7 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - Dendrites 接收信息；axon 为轴突。
 
-![Neuron 图示](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p24-01.png)
+![Neuron 图示](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p24-01.svg)
 
 ### 5. Cell Body (Soma) 细胞体
 
@@ -1124,7 +1124,7 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 动作电位曲线与 threshold：
 
-![Threshold / Action Potential 图示](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p26-01.png)
+![Threshold / Action Potential 图示](markdown-assets/ap-psychology-midterm-bilingual-notes/ink-p26-01.svg)
 
 ### 17. All-or-None Response 全或无反应 ⭐
 
@@ -1672,7 +1672,7 @@ Theory → Hypothesis → Operational Definition → Research (Descriptive/Corre
 
 - 📝 Key Point: 位于额叶后缘；交叉控制（左脑运动皮层控制右侧身体）。身体越大/越精细的部位 （手、嘴）在皮层上占的映射面积越大（homunculus 侏儒图）。⭐⭐
 
-![复习图示 39](markdown-assets/ap-psychology-midterm-bilingual-notes/page-39-figure-01.png)
+![复习图示 39](markdown-assets/ap-psychology-midterm-bilingual-notes/page-39-figure-01.svg)
 
 - frontal lobe 后边。
 

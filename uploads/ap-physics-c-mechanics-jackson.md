@@ -22,13 +22,13 @@ Vector operations:
 
 Figure 3–5. The resultant of three vectors: $\vec V_R=\vec V_1+\vec V_2+\vec V_3$. The arrows are arranged tail to tip.
 
-![Figure 1](markdown-assets/ap-physics-c-mechanics-jackson/image1.png)
+![Figure 1](markdown-assets/ap-physics-c-mechanics-jackson/image1.svg)
 
 - Parallelogram method
 
 Figure 3–6. Vector addition by two different methods, (a) and (b). Part (c) is incorrect. Labels: (a) Tail to tip; (b) Parallelogram; (c) Wrong, INCORRECT. The first two construct $\vec V_R=\vec V_1+\vec V_2$.
 
-![Figure 2](markdown-assets/ap-physics-c-mechanics-jackson/image2.png)
+![Figure 2](markdown-assets/ap-physics-c-mechanics-jackson/image2.svg)
 
 - We can now define the subtraction of one vector from another: the difference between two vectors V 2- V 1 is defined as V 2- V 1 = V 2 +(-V 1 ).
 
@@ -39,7 +39,7 @@ We can shift from one description to the other using Eqs. 3–2, and, for the re
 $$V=\sqrt{V_x^2+V_y^2}\tag{3–3a}$$
 $$\tan\theta=\frac{V_y}{V_x}\tag{3–3b}$$
 
-![Figure 3](markdown-assets/ap-physics-c-mechanics-jackson/image3.png)
+![Figure 3](markdown-assets/ap-physics-c-mechanics-jackson/image3.svg)
 
 AP C focus: vector addition/subtraction, component method, dot product and cross product basics.
 
@@ -89,15 +89,15 @@ Speed is simply a positive number, with units. Velocity, on the other hand, is u
 
 Position $x$ (m) versus $t$ (s) graph (b). $P_1$ to $P_2$ straight-line slope $\bar v=16.8\ \mathrm{m/s}$; tangent at $P_2$ slope $v_2=21.0\ \mathrm{m/s}$; $\Delta t=2.00\ \mathrm s$, $\Delta x=33.6\ \mathrm m$.
 
-![Figure 4](markdown-assets/ap-physics-c-mechanics-jackson/image4.png)
+![Figure 4](markdown-assets/ap-physics-c-mechanics-jackson/image4.svg)
 
 Figure 2–10. Graph of a particle's position $x$ vs. time $t$. The slope of the straight line $P_1P_2$ represents the average velocity of the particle during the time interval $\Delta t=t_2-t_1$. Graph labels: $x_1,x_2,t_1,t_2$, $\Delta x=x_2-x_1$.
 
-![Figure 5](markdown-assets/ap-physics-c-mechanics-jackson/image5.png)
+![Figure 5](markdown-assets/ap-physics-c-mechanics-jackson/image5.svg)
 
 Figure 2–12. Same $x$ vs. $t$ curve as in Figs. 2–10 and 2–11 but here showing the slope at four different points: At $P_3$, the slope is zero, so $v=0$. At $P_4$ the slope is negative, so $v<0$. The other marked points are $P_1,P_2$, at times $t_1,t_2$; the maximum is at $t_3$.
 
-![Figure 6](markdown-assets/ap-physics-c-mechanics-jackson/image6.png)
+![Figure 6](markdown-assets/ap-physics-c-mechanics-jackson/image6.svg)
 
 2.  Velocity–time (v–t) graph
 
@@ -109,7 +109,7 @@ Figure 2–12. Same $x$ vs. $t$ curve as in Figs. 2–10 and 2–11 but here sho
 
 Figure 2–9. Velocity of a car as a function of time: (a) at constant velocity; (b) with velocity varying in time. Vertical axes Velocity (km/h), horizontal axes Time (h), 0–0.5. Graph (a) is constant 40 km/h; graph (b) has a dashed Average velocity line.
 
-![Figure 7](markdown-assets/ap-physics-c-mechanics-jackson/image7.png)
+![Figure 7](markdown-assets/ap-physics-c-mechanics-jackson/image7.svg)
 
 3.  Acceleration–time (a–t) graph
 
@@ -123,7 +123,7 @@ In symbols, the average acceleration over a time interval $\Delta t=t_2-t_1$ dur
 $$\bar a=\frac{v_2-v_1}{t_2-t_1}=\frac{\Delta v}{\Delta t}.\tag{2–5}$$
 Because velocity is a vector, acceleration is a vector too. But for one-dimensional motion, we need only use a plus or minus sign to indicate acceleration direction relative to a chosen coordinate axis.
 
-![Figure 8](markdown-assets/ap-physics-c-mechanics-jackson/image8.png)
+![Figure 8](markdown-assets/ap-physics-c-mechanics-jackson/image8.svg)
 
 - This can be expressed in equation form: since a = dv/dt and v = dx/dt, the acceleration is equal to the first order derivative of velocity and equals the second order derivative of displacement.
 
@@ -147,7 +147,7 @@ The same boat (V = 1.85 m/s) now heads directly across the river whose current i
 
 Figure 3–34. Example 3–14. A boat heading directly across a river whose current moves at 1.20 m/s. Vector labels: $\vec v_{WS}$ along the current, $\vec v_{BW}$ directly across, $\vec v_{BS}$ resultant; angle $\theta$ between the last two.
 
-![Figure 9](markdown-assets/ap-physics-c-mechanics-jackson/image9.png)
+![Figure 9](markdown-assets/ap-physics-c-mechanics-jackson/image9.svg)
 
  
 
@@ -161,7 +161,7 @@ A calculator with a key such as INV TAN or ARC TAN or TAN$^{-1}$ gives $\theta=\
 (b) To find the travel time for the boat to cross the river, recall the river's width $D=110\ \mathrm m$, and use the velocity component that points directly across the river, $v_{BW}=D/t$. Solving for $t$, we get $t=110\ \mathrm m/(1.85\ \mathrm{m/s})=59.5\ \mathrm s$. Also, the boat will have been carried downstream, in this time, a distance
 $$d=v_{WS}t=(1.20\ \mathrm{m/s})(59.5\ \mathrm s)=71.4\ \mathrm m\approx71\ \mathrm m.$$
 
-![Figure 10](markdown-assets/ap-physics-c-mechanics-jackson/image10.png)
+![Figure 10](markdown-assets/ap-physics-c-mechanics-jackson/image10.svg)
 
 ### 1.5 Motion in Two or Three Dimensions
 
@@ -188,7 +188,7 @@ $$y_2=\frac12at_2^2=\frac12(9.80\ \mathrm{m/s^2})(2.00\ \mathrm s)^2=19.6\ \math
 Finally, after 3.00 s ($=t_3$), the ball's position is (see Fig. 2–3a)
 $$y_3=\frac12at_3^2=\frac12(9.80\ \mathrm{m/s^2})(3.00\ \mathrm s)^2=44.1\ \mathrm m.$$
 
-![Figure 11](markdown-assets/ap-physics-c-mechanics-jackson/image11.png)
+![Figure 11](markdown-assets/ap-physics-c-mechanics-jackson/image11.svg)
 
 Example 2
 
@@ -196,7 +196,7 @@ Example 2
 
 Figure 2–49. Problem 69. Labels: 2.2 m; To travel this distance takes 0.28 s.
 
-![Figure 12](markdown-assets/ap-physics-c-mechanics-jackson/image12.png)
+![Figure 12](markdown-assets/ap-physics-c-mechanics-jackson/image12.svg)
 
 Answer:
 
@@ -209,7 +209,7 @@ $$2.2=v_0(0.28)+\frac12(9.8)(0.28)^2,\quad 2.2=0.28v_0+0.38416,\quad0.28v_0=1.81
 The stone falls from rest to reach speed $v_0$. Use $v^2=2gh$:
 $$h=\frac{v_0^2}{2g},\qquad h=\frac{(6.485)^2}{2(9.8)}\approx2.1\ \mathrm m.$$
 
-![Figure 13](markdown-assets/ap-physics-c-mechanics-jackson/image13.png)
+![Figure 13](markdown-assets/ap-physics-c-mechanics-jackson/image13.svg)
 
 **Projectile motion**
 
@@ -229,7 +229,7 @@ Figure 3–22. Path of a projectile fired with initial velocity $\vec v_0$ at an
 
 Figure labels include $v_y=0$ at this point (top); $\vec a=\vec g=-g\hat j$ downward; $v_x,v_y,\vec v$ along the trajectory.
 
-![Figure 14](markdown-assets/ap-physics-c-mechanics-jackson/image14.png)
+![Figure 14](markdown-assets/ap-physics-c-mechanics-jackson/image14.svg)
 
 - Vx is constant through the whole motion process
 
@@ -251,7 +251,7 @@ When air resistance is important, the range is less for a given $v_0$, and the m
 
 Figure 3–27. (a) The range $R$ of a projectile. (b) There are generally two angles $\theta_0$ that will give the same range. If one angle is $\theta_{01}$, the other is $\theta_{02}=90^\circ-\theta_{01}$. Also see Example 3–10. Figure labels: $x_0=0,y_0=0$; $y=0$ again here (where $x=R$); 30°, 45°, 60° trajectories.
 
-![Figure 15](markdown-assets/ap-physics-c-mechanics-jackson/image15.png)
+![Figure 15](markdown-assets/ap-physics-c-mechanics-jackson/image15.svg)
 
 Example 1
 
@@ -259,7 +259,7 @@ Example 1
 
 Figure 3–52. Problem 60. Given $\phi$ and $v_0$, determine $\theta$ to make $d$ maximum.
 
-![Figure 16](markdown-assets/ap-physics-c-mechanics-jackson/image16.png)
+![Figure 16](markdown-assets/ap-physics-c-mechanics-jackson/image16.svg)
 
 **Solution**
 
@@ -333,13 +333,13 @@ Now let us consider shorter and shorter time intervals—that is, we let $\Delta
 $$\vec v=\lim_{\Delta t\to0}\frac{\Delta\vec r}{\Delta t}=\frac{d\vec r}{dt}.\tag{3–8}$$
 The direction of $\vec v$ at any moment is along the line tangent to the path at that moment (Fig. 3–17b).
 
-![Figure 17](markdown-assets/ap-physics-c-mechanics-jackson/image17.png)
+![Figure 17](markdown-assets/ap-physics-c-mechanics-jackson/image17.svg)
 
 Example 1
 
 31. (III) A particle starts from the origin at $t=0$ with an initial velocity of 5.0 m/s along the positive $x$ axis. If the acceleration is $(-3.0\hat i+4.5\hat j)\ \mathrm{m/s^2}$, determine the velocity and position of the particle at the moment it reaches its maximum $x$ coordinate.
 
-![Figure 18](markdown-assets/ap-physics-c-mechanics-jackson/image18.png)
+![Figure 18](markdown-assets/ap-physics-c-mechanics-jackson/image18.svg)
 
 **Solution**
 
@@ -425,13 +425,13 @@ $$
 $$x_{CM}=\frac{mx_A+mx_B+mx_C}{m+m+m}=\frac{m(x_A+x_B+x_C)}{3m}=\frac{(1.0\ \mathrm m+5.0\ \mathrm m+6.0\ \mathrm m)}3=\frac{12.0\ \mathrm m}3=4.0\ \mathrm m.$$
 The CM is 4.0 m from the left-hand end of the boat. Figure 9–24. Example 9–14.
 
-![Figure 19](markdown-assets/ap-physics-c-mechanics-jackson/image19.png)
+![Figure 19](markdown-assets/ap-physics-c-mechanics-jackson/image19.svg)
 
 ### 2.2 Forces and Free-Body Diagrams (FBD)
 
 Figure 4–18. (a) Two horizontal forces, $\vec F_A$ and $\vec F_B$, exerted by workers A and B, act on a crate (we are looking down from above). (b) The sum, or resultant, of $\vec F_A$ and $\vec F_B$ is $\vec F_R$. The arrows have $F_A=100\ \mathrm N$, $F_B=100\ \mathrm N$; resultant angle 45°.
 
-![Figure 20](markdown-assets/ap-physics-c-mechanics-jackson/image20.png)
+![Figure 20](markdown-assets/ap-physics-c-mechanics-jackson/image20.svg)
 
 When solving problems involving Newton’s laws and force, it is very important to draw a diagram showing all the forces acting on each object involved. Such a diagram is called a free-body diagram, or force diagram: choose one object, and draw an arrow to represent each force acting on it. Include every force acting on that object. Do not show forces that the chosen object exerts on other objects. To help you identify each and every force that is exerted on your chosen object, ask yourself what other objects could exert a force on it.
 
@@ -456,17 +456,17 @@ Figure 4–8. If your hand pushes against the edge of a desk (the force vector i
 
 Labels: Force exerted on hand by desk; Force exerted on desk by hand.
 
-![Figure 21](markdown-assets/ap-physics-c-mechanics-jackson/image21.png)
+![Figure 21](markdown-assets/ap-physics-c-mechanics-jackson/image21.svg)
 
 One way to keep clear which force acts on which object is to use double subscripts. For example, the force exerted on the Person by the Ground as the person walks in Fig. 4–11 can be labeled $\vec F_{PG}$. And the force exerted on the ground by the person is $\vec F_{GP}$. By Newton's third law
 $$\vec F_{GP}=-\vec F_{PG}.\tag{4–2}$$
 $\vec F_{GP}$ and $\vec F_{PG}$ have the same magnitude (Newton's third law), and the minus sign reminds us that these two forces are in opposite directions.
 
-![Figure 22](markdown-assets/ap-physics-c-mechanics-jackson/image22.png)
+![Figure 22](markdown-assets/ap-physics-c-mechanics-jackson/image22.svg)
 
 Diagram labels: Force on assistant exerted by sled, $\vec F_{AS}$, leftward; Force on assistant exerted by ground, $\vec F_{AG}$, rightward.
 
-![Figure 23](markdown-assets/ap-physics-c-mechanics-jackson/image23.png)
+![Figure 23](markdown-assets/ap-physics-c-mechanics-jackson/image23.svg)
 
 ### 2.4 Newton's First Law (Law of Inertia)
 
@@ -498,7 +498,7 @@ Newton's second law can be written as an equation:
 $$\vec a=\frac{\sum\vec F}{m}.$$
 Margin: NEWTON'S SECOND LAW OF MOTION.
 
-![Figure 24](markdown-assets/ap-physics-c-mechanics-jackson/image24.png)
+![Figure 24](markdown-assets/ap-physics-c-mechanics-jackson/image24.svg)
 
 ### 2.6 Gravitational Force
 
@@ -520,7 +520,7 @@ upward. See Fig. 4–16. We apply Newton's second law and see that the box moves
 $$a_y=\frac{\sum F_y}{m}=\frac{2.0\ \mathrm N}{10.0\ \mathrm{kg}}=0.20\ \mathrm{m/s^2}.$$
 Figure 4–16. Example 4–7. The box accelerates upward because $F_P>mg$.
 
-![Figure 25](markdown-assets/ap-physics-c-mechanics-jackson/image25.png)
+![Figure 25](markdown-assets/ap-physics-c-mechanics-jackson/image25.svg)
 
 > Example 1
 >
@@ -546,7 +546,7 @@ so $\theta=7.0^\circ$.
 
 **NOTE** This simple device is an accelerometer: it can be used to determine acceleration by measuring the angle $\theta$. Figure 4–25. Example 4–15.
 
-![Figure 26](markdown-assets/ap-physics-c-mechanics-jackson/image26.png)
+![Figure 26](markdown-assets/ap-physics-c-mechanics-jackson/image26.svg)
 
 >
 > Example 1
@@ -555,7 +555,7 @@ so $\theta=7.0^\circ$.
 
 27. (II) A person jumps from the roof of a house 2.8 m high. When he strikes the ground below, he bends his knees so that his torso decelerates over an approximate distance of 0.70 m. If the mass of his torso (excluding legs) is 42 kg, find (a) his velocity just before his feet strike the ground, and (b) the average force exerted on his torso by his legs during deceleration.
 
-![Figure 27](markdown-assets/ap-physics-c-mechanics-jackson/image27.png)
+![Figure 27](markdown-assets/ap-physics-c-mechanics-jackson/image27.svg)
 
 **Part (a) — Velocity Just Before Hitting the Ground**
 
@@ -742,17 +742,17 @@ In the absence of friction, as we saw in Example 4–11, the acceleration would 
 
 **NOTE** Our final answer has only two significant figures because our least significant input value ($\mu_k=0.30$) has two. Figure 5–5. Example 5–3.
 
-![Figure 28](markdown-assets/ap-physics-c-mechanics-jackson/image28.png)
+![Figure 28](markdown-assets/ap-physics-c-mechanics-jackson/image28.svg)
 
 Inclined-plane diagram: axes $x$ down the plane and $y$ normal to it; $\vec F_N$ outward, $\vec F_{fr}$ uphill, $\vec F_G$ vertically downward, components $F_{Gx}$ downhill and $F_{Gy}$ into the plane; $(F_{fr}=\mu_kF_N)$; angles $\theta$ and $90^\circ-\theta$.
 
-![Figure 29](markdown-assets/ap-physics-c-mechanics-jackson/image29.png)
+![Figure 29](markdown-assets/ap-physics-c-mechanics-jackson/image29.svg)
 
 **CAUTION — Directions of gravity and the normal force.** In problems involving a slope or “inclined plane,” avoid making errors in the directions of the normal force and gravity. The normal force is not vertical: it is perpendicular to the slope or plane. And gravity is not perpendicular to the slope—gravity acts vertically downward toward the center of the Earth.
 
 Diagrams (a)–(c): $m_A=10.0\ \mathrm{kg}$ on incline $\theta=37^\circ$ attached by cord over pulley to $m_B$; free-body diagrams of $m_A$ for case i and case ii show reversed friction; $m_B$ has upward $F_T$ and downward $m_Bg$.
 
-![Figure 30](markdown-assets/ap-physics-c-mechanics-jackson/image30.png)
+![Figure 30](markdown-assets/ap-physics-c-mechanics-jackson/image30.svg)
 
 > Example 1
 >
@@ -854,7 +854,7 @@ Example 2
 
 33. (III) A 4.0 kg block is stacked on top of a 12.0 kg block, which is accelerating along a horizontal table at $a=5.2\ \mathrm{m/s^2}$ (Fig. 5–43). Let $\mu_k=\mu_s=\mu$. (a) What minimum coefficient of friction $\mu$ between the two blocks will prevent the 4.0 kg block from sliding off? (b) If $\mu$ is only half this minimum value, what is the acceleration of the 4.0 kg block with respect to the table, and (c) with respect to the 12.0 kg block? (d) What is the force that must be applied to the 12.0 kg block in (a) and in (b), assuming that the table is frictionless? Figure 5–43. Problem 33.
 
-![Figure 31](markdown-assets/ap-physics-c-mechanics-jackson/image31.png)
+![Figure 31](markdown-assets/ap-physics-c-mechanics-jackson/image31.svg)
 
 **Part (a) — Minimum Coefficient of Static Friction**
 
@@ -954,7 +954,7 @@ Example 3
 
 29. (II) Two blocks made of different materials connected together by a thin cord slide down a ramp inclined at an angle $\theta$ to the horizontal, Fig. 5–40 (block B is above block A). The masses of the blocks are $m_A$ and $m_B$ and the coefficients of friction are $\mu_A$ and $\mu_B$. If $m_A=m_B=4.0\ \mathrm{kg}$, and $\mu_A=0.20$ and $\mu_B=0.30$, determine (a) the acceleration of the blocks and (b) the tension in the cord, for an angle $\theta=32^\circ$. Figure 5–40. Problems 29 and 30.
 
-![Figure 32](markdown-assets/ap-physics-c-mechanics-jackson/image32.png)
+![Figure 32](markdown-assets/ap-physics-c-mechanics-jackson/image32.svg)
 
 **Part (a) — Acceleration of the Blocks**
 
@@ -1054,19 +1054,19 @@ where $k$ is a constant, called the spring constant (or spring stiffness constan
 $$F_S=-kx.\tag{7–8}$$
 This force is sometimes called a “restoring force” because the spring exerts its force in the direction opposite to the displacement (hence the minus sign), and thus acts to restore the spring to its normal length. Equation 7–8 is known as the spring equation or Hooke's law, and is accurate for springs as long as $x$ is not too great (see Section 12–5) and no permanent deformation occurs.
 
-![Figure 33](markdown-assets/ap-physics-c-mechanics-jackson/image33.png)
+![Figure 33](markdown-assets/ap-physics-c-mechanics-jackson/image33.svg)
 
 Figure 7–10. (a) Spring in normal (unstretched) position. (b) Spring is stretched by a person exerting a force $\vec F_P$ to the right (positive direction). The spring pulls back with a force $\vec F_S$ where $F_S=-kx$. (c) Person compresses the spring ($x<0$), and the spring pushes back with a force $F_S=-kx$ where $F_S>0$ because $x<0$. Diagram labels: (a) Unstretched, $x=0$; (b) Stretched; (c) Compressed.
 
-![Figure 34](markdown-assets/ap-physics-c-mechanics-jackson/image34.png)
+![Figure 34](markdown-assets/ap-physics-c-mechanics-jackson/image34.svg)
 
 Figure 7–11. Work done to stretch a spring a distance $x$ equals the triangular area under the curve $F=kx$. The area of a triangle is $\frac12\times\text{base}\times\text{altitude}$, so $W=\frac12(x)(kx)=\frac12kx^2$. Graph labels $F$, $x$, height $kx$, base $x$.
 
-![Figure 35](markdown-assets/ap-physics-c-mechanics-jackson/image35.png)
+![Figure 35](markdown-assets/ap-physics-c-mechanics-jackson/image35.svg)
 
 $$W=\frac12(kx)(x)=\frac12kx^2.$$
 
-![Figure 36](markdown-assets/ap-physics-c-mechanics-jackson/image36.png)
+![Figure 36](markdown-assets/ap-physics-c-mechanics-jackson/image36.svg)
 
 Work is proportional to x squared
 
@@ -1076,7 +1076,7 @@ Example1
 $$\vec F(x)=-\frac{k}{x^3}\hat i$$
 where $k$ is a constant with units appropriate to the SI system. Find the potential energy function $U(x)$, if $U$ is arbitrarily defined to be zero at $x=2.0\ \mathrm m$, so that $U(2.0\ \mathrm m)=0$.
 
-![Figure 37](markdown-assets/ap-physics-c-mechanics-jackson/image37.png)
+![Figure 37](markdown-assets/ap-physics-c-mechanics-jackson/image37.svg)
 
 **Key Relation**
 

@@ -16,11 +16,11 @@ Unit 5 Heredity
 
 注意区分 Homologous chromosomes和 Sister chromatids Homologous chromosomes本身就存在一直是两条独立的染色体只是对应位置有 Alleles Sister chromatids是cell division时DNA复制后才产生的 mitosis的Anaphase和 meiosis的Anaphase II时Sister chromatids分离此前视为一条染色体
 
-![知识点图示 1-1](markdown-assets/ap-biology-unit-5-heredity/page-1-image-1.jpg)
+![知识点图示 1-1](markdown-assets/ap-biology-unit-5-heredity/page-1-image-1.svg)
 
 人类染色体核型图，展示 23 对染色体（1–22、X、Y）。
 
-![知识点图示 1-3](markdown-assets/ap-biology-unit-5-heredity/page-1-image-3.jpg)
+![知识点图示 1-3](markdown-assets/ap-biology-unit-5-heredity/page-1-image-3.svg)
 
 Sister chromatids of one duplicated chromosome；Centromere；Two nonsister chromatids in a homologous pair；Pair of homologous chromosomes (one from each set)。
 
@@ -36,7 +36,7 @@ One DNA replication is followed by two cell divisions. DNA 只在减数分裂前
 | --- | --- |
 | Prophase I | Homologous chromosomes synapsis（联会），形成 tetrad / bivalent。非姐妹染色单体之间发生 crossing over。 |
 
-![知识点图示 2-2](markdown-assets/ap-biology-unit-5-heredity/page-2-image-2.jpg)
+![知识点图示 2-2](markdown-assets/ap-biology-unit-5-heredity/page-2-image-2.svg)
 
 MEIOSIS I: Separates homologous chromosomes；Prophase I → Metaphase I → Anaphase I → Telophase I and Cytokinesis。MEIOSIS II: Separates sister chromatids；Prophase II → Metaphase II → Anaphase II → Telophase II and Cytokinesis。Centrosome (with centriole pair)；Sister chromatids；Chiasmata；Spindle；Homologous chromosomes；Fragments of nuclear envelope；Centromere (with kinetochore)；Metaphase plate；Microtubules attached to kinetochore；Sister chromatids remain attached；Homologous chromosomes separate；Cleavage furrow；Sister chromatids separate；Haploid daughter cells forming。
 
@@ -52,7 +52,7 @@ MEIOSIS I: Separates homologous chromosomes；Prophase I → Metaphase I → Ana
 
 Homologous chromosomes separate in meiosis I; sister chromatids separate in meiosis II. Crossing over发生在同源染色体的 nonsister chromatids之间。
 
-![知识点图示 3-1](markdown-assets/ap-biology-unit-5-heredity/page-3-image-1.jpg)
+![知识点图示 3-1](markdown-assets/ap-biology-unit-5-heredity/page-3-image-1.svg)
 
 Crossing Over。- Crossing over produces recombinant chromosomes, which combine DNA inherited from each parent. - Crossing over contributes to genetic variation by combining DNA from two parents into a single chromosome. - In humans, an average of one to three crossover events occurs per chromosome.
 
@@ -83,11 +83,11 @@ Mutation产生新的等位基因；Independent assortment、Crossing over与Rand
 
 Crossing over见上文
 
-![知识点图示 4-1](markdown-assets/ap-biology-unit-5-heredity/page-4-image-1.jpg)
+![知识点图示 4-1](markdown-assets/ap-biology-unit-5-heredity/page-4-image-1.svg)
 
 Independent Assortment of Chromosomes。- Homologous pairs of chromosomes orient randomly at metaphase I of meiosis. - In independent assortment, each pair of chromosomes sorts maternal and paternal homologs into daughter cells independently of the other pairs.
 
-![知识点图示 4-2](markdown-assets/ap-biology-unit-5-heredity/page-4-image-2.jpg)
+![知识点图示 4-2](markdown-assets/ap-biology-unit-5-heredity/page-4-image-2.svg)
 
 Random Fertilization。- Random fertilization adds to genetic variation because any sperm can fuse with any ovum (unfertilized egg). - The fusion of two gametes (each with 8.4 million possible chromosome combinations from independent assortment) produces a zygote with any of about 70 trillion diploid combinations.
 
@@ -111,7 +111,7 @@ The two alleles for a gene segregate during gamete formation. 二倍体个体的
 | Aa × Aa | 1 AA : 2 Aa : 1 aa | 完全显性时 3 : 1 |
 | Aa × aa | 1 Aa : 1 aa | 完全显性时 1 : 1 |
 
-![知识点图示 5-1](markdown-assets/ap-biology-unit-5-heredity/page-5-image-1.jpg)
+![知识点图示 5-1](markdown-assets/ap-biology-unit-5-heredity/page-5-image-1.svg)
 
 P Generation：Appearance: Purple flowers × White flowers；Genetic makeup: PP × pp；Gametes: P、p。F₁ Generation：Appearance: Purple flowers；Genetic makeup: Pp；Gametes: ½ P、½ p。F₂ Generation：Sperm from F₁ (Pp) plant 与 Eggs from F₁ (Pp) plant 形成 PP、Pp、Pp、pp；表型 3 : 1。
 
@@ -132,7 +132,7 @@ Alleles of unlinked genes assort independently during gamete formation. 不同�
 
 Square：男性；Circle：女性；Shaded symbol：表现目标性状；水平连线表示亲本关系，竖线连接后代。优先用已知表型限制基因型，再计算概率。 Autosomal recessive：在标准单基因模型下，两个未患病亲本生出患病孩子，亲本应为 Aa× Aa。Carrier是携带隐性等位基因的杂合个体。 For Aa × Aa, an unaffected child has a 2/3 probability of being a carrier. 因为未患病子代只包括 AA、Aa、Aa，3 种等可能组合中 2 种是携带者。不要将有条件的 2/3 与全部子代中 Aa 的概率 1/2混淆。
 
-![知识点图示 6-1](markdown-assets/ap-biology-unit-5-heredity/page-6-image-1.jpg)
+![知识点图示 6-1](markdown-assets/ap-biology-unit-5-heredity/page-6-image-1.svg)
 
 1st generation (grandparents)：两组亲本为 Ww × ww、ww × Ww。2nd generation (parents, aunts, and uncles)：左支四名子代 Ww、ww、ww、Ww，右支两名子代 Ww、ww；中间两个 Ww 组成亲本。3rd generation (two sisters)：WW or Ww（Widow’s peak）；ww（No widow’s peak）。
 

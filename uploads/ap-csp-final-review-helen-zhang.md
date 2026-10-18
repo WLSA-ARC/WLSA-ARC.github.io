@@ -530,7 +530,7 @@ The Internet refers to the hardware and the World Wide Web refers to the softwar
 
 - Distributed Computing : This is a computational model in which a multiple devices are used to run a program
 
-![The distributed computing process](markdown-assets/ap-csp-final-review-helen-zhang/figure.png)
+![The distributed computing process](markdown-assets/ap-csp-final-review-helen-zhang/figure.svg)
 
 The distributed computing process；Node 1、Node 2、Node 3；Servers；Network。
 
@@ -626,8 +626,8 @@ The distributed computing process；Node 1、Node 2、Node 3；Servers；Network
 
 - Rogue Access Point: A wireless access point set up by attackers to intercept data on public networks.
 
-![原文缺失字形局部：division-table](markdown-assets/ap-csp-final-review-helen-zhang/division-table.png)
+![原文缺失字形局部：division-table](markdown-assets/ap-csp-final-review-helen-zhang/division-table.svg)
 
-![原文缺失字形局部：assignment-list](markdown-assets/ap-csp-final-review-helen-zhang/assignment-list.png)
+![原文缺失字形局部：assignment-list](markdown-assets/ap-csp-final-review-helen-zhang/assignment-list.svg)
 
-![原文缺失字形局部：robot-rotation](markdown-assets/ap-csp-final-review-helen-zhang/robot-rotation.png)
+![原文缺失字形局部：robot-rotation](markdown-assets/ap-csp-final-review-helen-zhang/robot-rotation.svg)

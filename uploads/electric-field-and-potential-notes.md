@@ -21,7 +21,7 @@ $$E=\frac1{4\pi\varepsilon_0}\frac Q{r^2}.$$
 
 Electric field vector is tangent to every field line drawn. Check its (1) direction; (2) density (strength).
 
-![Field lines around a positive charge](markdown-assets/electric-field-and-potential-notes/p1-field.png)
+![Field lines around a positive charge](markdown-assets/electric-field-and-potential-notes/p1-field.svg)
 
 ### Example
 
@@ -33,7 +33,7 @@ $$E=\int_0^\pi\frac{k\,dQ}{R^2}\sin\theta
 $$dQ=\lambda\,d\ell=\lambda R\,d\theta,\qquad
 \left[-\frac{k\lambda}{R}\cos\theta\right]_0^\pi=\frac{2k\lambda}{R}=\frac{\lambda}{2\pi\varepsilon_0R}.$$
 
-![Charged semicircular arc](markdown-assets/electric-field-and-potential-notes/p1-semicircle.png)
+![Charged semicircular arc](markdown-assets/electric-field-and-potential-notes/p1-semicircle.svg)
 
 ## 3 Gauss Law
 
@@ -44,14 +44,14 @@ $$\Phi_E=\vec E\cdot\vec A=EA\cos\theta.$$
 $$\Phi_E=\int d\Phi_E=\int E\,dA.$$
 The diagram labels a field vector and area vector; $\theta$ is their angle.
 
-![Electric flux diagrams](markdown-assets/electric-field-and-potential-notes/p2-flux.png)
+![Electric flux diagrams](markdown-assets/electric-field-and-potential-notes/p2-flux.svg)
 
 ### 2 Symmetry of electric field
 
 几何对称会推出电场对称。
 
-![Original symmetry note](markdown-assets/electric-field-and-potential-notes/p2-symmetry-note.png)
-![Cylinder and plane symmetry diagrams](markdown-assets/electric-field-and-potential-notes/p2-symmetry.png)
+![Original symmetry note](markdown-assets/electric-field-and-potential-notes/p2-symmetry-note.svg)
+![Cylinder and plane symmetry diagrams](markdown-assets/electric-field-and-potential-notes/p2-symmetry.svg)
 
 ### 3 Gauss Law
 
@@ -64,7 +64,7 @@ $$\Phi_{\mathrm{en}}=\oint E\,dA=\frac{Q_{\mathrm{en}}}{\varepsilon_0}.$$
 $$\Phi_{\mathrm{en}}=EA\times2=\frac{Q_{\mathrm{en}}}{\varepsilon_0}=\frac{\sigma A}{\varepsilon_0},\qquad E=\frac\sigma{2\varepsilon_0}.$$
 The Gaussian cylinder passes through the plate; arrows $E$ point away from both faces; the figure labels $r$ on each side.
 
-![Plate and Gaussian cylinder](markdown-assets/electric-field-and-potential-notes/p2-plate.png)
+![Plate and Gaussian cylinder](markdown-assets/electric-field-and-potential-notes/p2-plate.svg)
 
 ## 4 Conductor and insulator
 
@@ -81,7 +81,7 @@ Density of charge depends on radius of curvature.
 
 Electric field will $\perp$ to surface.
 
-![Conductor diagrams](markdown-assets/electric-field-and-potential-notes/p3-conductors.png)
+![Conductor diagrams](markdown-assets/electric-field-and-potential-notes/p3-conductors.svg)
 
 ## 5 Electric Potential Energy
 
@@ -98,7 +98,7 @@ $$W=Eqd=F_ed=qEr\cos\theta,$$
 $$\therefore\Delta U=-Eqd=-qEr\cos\theta.$$
 The displacement $A\to B$ makes angle $\theta$ to the horizontal field.
 
-![Uniform field displacement](markdown-assets/electric-field-and-potential-notes/p3-uniform-field.png)
+![Uniform field displacement](markdown-assets/electric-field-and-potential-notes/p3-uniform-field.svg)
 
 ### 3 In a system
 
@@ -121,4 +121,4 @@ Equipotential surface: perpendicular to all electric field lines.
 
 （因为 $q$ 在等势面移动时不做功，无沿力方向的位移。）
 
-![Conductor and equipotential surfaces](markdown-assets/electric-field-and-potential-notes/p4-equipotential.png)
+![Conductor and equipotential surfaces](markdown-assets/electric-field-and-potential-notes/p4-equipotential.svg)

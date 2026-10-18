@@ -37,7 +37,7 @@ Note that some textbooks will use the terms Avogadroâ€™s constant and Avogadroâ€
 
 Comparing average atomic mass and molar mass
 
-![The mass of one carbon atom versus one mole of carbon atoms](markdown-assets/ap-chemistry-moles-molar-mass/page-003-figure-01.png)
+![The mass of one carbon atom versus one mole of carbon atoms](markdown-assets/ap-chemistry-moles-molar-mass/page-003-figure-01.svg)
 
 *The mass of one carbon atom versus one mole of carbon atoms*
 

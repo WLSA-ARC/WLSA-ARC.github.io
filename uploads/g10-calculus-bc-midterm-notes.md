@@ -22,7 +22,7 @@ $$\lim_{x\to c}f(x)=L\iff\lim_{x\to c^+}f(x)=L,\quad\lim_{x\to c^-}f(x)=L.$$
 
 Unbounded: limit does not exist. The graph tends upward on both sides of $x=0$; $\lim_{x\to0}f(x)$ does not exist.
 
-![Limit examples and unbounded graph](markdown-assets/g10-calculus-bc-midterm-notes/p1-limits.png)
+![Limit examples and unbounded graph](markdown-assets/g10-calculus-bc-midterm-notes/p1-limits.svg)
 
 ## Limit Laws
 
@@ -78,7 +78,7 @@ $$\lim_{x\to c}f(x)=f(c)\Rightarrow f(x)\text{ is continuous at }c.$$
 $$\lim_{x\to a^+}f(x)=f(a)\Rightarrow f(x)\text{ is continuous at left endpoint }a.$$
 $$\lim_{x\to b^-}f(x)=f(b)\Rightarrow f(x)\text{ is continuous at right endpoint }b.$$
 
-![Squeeze theorem and endpoint continuity diagrams](markdown-assets/g10-calculus-bc-midterm-notes/p2-diagrams.png)
+![Squeeze theorem and endpoint continuity diagrams](markdown-assets/g10-calculus-bc-midterm-notes/p2-diagrams.svg)
 
 Discontinuity = not continuous.
 
@@ -91,7 +91,7 @@ Four types of discontinuity:
 | Infinite discontinuity | undefined value |
 | Oscillating discontinuity ($y=\sin\frac1x$, $x=0$) | undefined value |
 
-![Four types of discontinuity](markdown-assets/g10-calculus-bc-midterm-notes/p3-discontinuities.png)
+![Four types of discontinuity](markdown-assets/g10-calculus-bc-midterm-notes/p3-discontinuities.svg)
 
 ### IVT Intermediate Value Theorem for Continuous Functions
 
@@ -105,7 +105,7 @@ Prove:
 2. $f(a)<f(c)<f(b)$.
 3. $\therefore$ + conclusion.
 
-![Intermediate value diagram](markdown-assets/g10-calculus-bc-midterm-notes/p3-ivt.png)
+![Intermediate value diagram](markdown-assets/g10-calculus-bc-midterm-notes/p3-ivt.svg)
 
 ## Differentiation
 
@@ -135,7 +135,7 @@ Five Types of functions without a derivative at a point:
 
 Discontinuity; Corner; Cusp ($x^{2/3}$); Vertical tangent line; Oscillating.
 
-![Functions without derivatives](markdown-assets/g10-calculus-bc-midterm-notes/p4-nondifferentiable.png)
+![Functions without derivatives](markdown-assets/g10-calculus-bc-midterm-notes/p4-nondifferentiable.svg)
 
 If $f$ has a derivative (differentiable) at a point $a$, then it is continuous at $a$.
 
@@ -161,7 +161,7 @@ $$\begin{aligned}
 &=\lim_{h\to0}\left(nx_0^{n-1}+2x_0^{n-2}h+\cdots+h^{n-1}\right)=nx_0^{n-1}.
 \end{aligned}$$
 
-![Power rule proof](markdown-assets/g10-calculus-bc-midterm-notes/p4-power-proof.png)
+![Power rule proof](markdown-assets/g10-calculus-bc-midterm-notes/p4-power-proof.svg)
 
 Constant Multiple: $f(x)=cu(x)\Rightarrow f'(x)=cu'(x)$ ($u$ is differentiable).
 
@@ -195,7 +195,7 @@ $$\Rightarrow(f^{-1})'(b)=\frac1{f'(a)}\Rightarrow(f^{-1})'(x_0)=\frac1{f'(f^{-1
 
 Diagram: $a\xrightarrow{f}b$, $b\xrightarrow{f^{-1}}a$; the two slopes are reciprocal (倒数). Curves reflect across $y=x$.
 
-![Inverse function slope diagram](markdown-assets/g10-calculus-bc-midterm-notes/p5-inverse-function.png)
+![Inverse function slope diagram](markdown-assets/g10-calculus-bc-midterm-notes/p5-inverse-function.svg)
 
 ### Derivative of Inverse Trig function
 
@@ -220,7 +220,7 @@ Derivative formulas:
 - inverse csc: $y'=-\frac1{|x|\sqrt{x^2-1}}=\begin{cases}-\frac1{x\sqrt{x^2-1}},&x>1\\\frac1{x\sqrt{x^2-1}},&x<-1\end{cases}$.
 - inverse sec: $y'=\frac1{|x|\sqrt{x^2-1}}=\begin{cases}\frac1{x\sqrt{x^2-1}},&x>1\\-\frac1{x\sqrt{x^2-1}},&x<-1\end{cases}$.
 
-![Inverse function and inverse trigonometric graphs](markdown-assets/g10-calculus-bc-midterm-notes/p5-inverse.png)
+![Inverse function and inverse trigonometric graphs](markdown-assets/g10-calculus-bc-midterm-notes/p5-inverse.svg)
 
 ## Derivative of Exponential and Logarithmic Functions
 

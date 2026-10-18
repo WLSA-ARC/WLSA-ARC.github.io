@@ -15,7 +15,7 @@ called groups
 
 ## The Periodic Table
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-002-figure-01.svg)
 
 - Periods represent the principal energy shells of an element
 
@@ -24,7 +24,7 @@ valence electrons
 
 ## The Structure of the Beryllium Atom
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-01.svg)
 
 The beryllium atom in the periodic table
 
@@ -43,7 +43,7 @@ electron in their outer shell
 
 ## Blocks in the Periodic Table
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-003-figure-02.svg)
 
 s-block, p-block, d-block, and f-blocks in the Periodic Table
 
@@ -58,7 +58,7 @@ by its electron configuration
 
 ## Electron Configuration of the Germanium Atom
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-004-figure-01.svg)
 
 Deducing the electron configuration of germanium as 1s<sup>2</sup>, 2s<sup>2</sup>, 2p<sup>6</sup>, 3s<sup>2</sup>, 3d<sup>10</sup>, 4s<sup>2</sup>, 4p<sup>2</sup>
 
@@ -107,7 +107,7 @@ same
 
 ## A graph showing the ionization energies of the elements hydrogen to sodium
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-006-figure-01.svg)
 
 There is a general increase in ionization energy from left to right
 
@@ -124,7 +124,7 @@ electron
 
 ## A Beryllium and Magnesium Atom
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-007-figure-01.svg)
 
 Comparison, between beryllium and magnesium, of the factors that affect the ionization energy
 
@@ -136,7 +136,7 @@ Comparison, between beryllium and magnesium, of the factors that affect the ioni
 
 ## Atomic Radius
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-008-figure-01.svg)
 
 The atomic radius of an atom is the typical distance between the nucleus and the outermost electron shell
 
@@ -167,7 +167,7 @@ not pulled strongly, meaning bigger atoms
 
 ## Atomic Radii in the Periodic Table
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-009-figure-01.svg)
 
 Trends in the atomic radii across a period and down a group
 
@@ -205,7 +205,7 @@ means a smaller ionic radius
 
 ## Sizes of Atoms and their Ions in pm
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-010-figure-01.svg)
 
 Trends in the ionic radii across a period and down a group
 
@@ -243,7 +243,7 @@ create a considerable repulsion with the other valence electrons
 
 ## Electron Affinities
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-011-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-011-figure-01.svg)
 
 Electron affinities down Group 17 from F to I
 
@@ -278,7 +278,7 @@ bonds
 
 ## Trends in Electronegativity
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-012-figure-01.svg)
 
 Periodicity of electronegativity - there is an increase from left to right and a decrease from top to bottom
 
@@ -344,7 +344,7 @@ atom
 
 ## The Beryllium Atom
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-015-figure-01.svg)
 
 Beryllium electron configuration and valence electrons
 
@@ -384,7 +384,7 @@ Noble gasses have a stable electron configuration because of their full outer sh
 
 ## Sodium Atom Becoming a Sodium Ion
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-016-figure-01.svg)
 
 Formation of positively charged sodium ion - sodium loses 1 electron to become a sodium ion
 
@@ -399,7 +399,7 @@ defined as an ionic bond
 
 ## Chlorine Atom Becoming a Chloride Ion
 
-![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-periodic-trends/page-017-figure-01.svg)
 
 Formation of negatively charged chloride ion - it gains 1 electron to become a chloride ion
 

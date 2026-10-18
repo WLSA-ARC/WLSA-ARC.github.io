@@ -50,7 +50,7 @@ space above the liquid
 
 ## Vapor Pressure
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-003-figure-01.svg)
 
 A vapor pressure develops in the evacuated closed container as an equilibrium is established between the rate of vaporization of liquid ethanol and the rate of condensation of gaseous ethanol.
 
@@ -93,7 +93,7 @@ boiling point
 
 ## Vapor Pressure Vs Temperature Graph
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-004-figure-01.svg)
 
 A graph showing the relationship between vapor pressure of several covalent compounds and their boiling points
 
@@ -128,7 +128,7 @@ F<sub>2</sub> < Cl<sub>2</sub> < Br<sub>2</sub> < I<sub>2</sub> < At<sub>2</sub>
 
 ## Melting & boiling points of the Group 7a elements
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-005-figure-01.svg)
 
 The melting & boiling points of the Group 7a elements increase going down the group as the strength of the intermolecular forces increase
 
@@ -163,7 +163,7 @@ times
 
 ## Particulate Representation of Solid and Liquid
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-006-figure-01.svg)
 
 In a solid, particles are closely packed and can only exhibit vibrational motion about their fixed positions. However, in a liquid, particles are not as closely packed as solids and are capable of both vibrational and translational motion meaning the liquid substance can flow.
 
@@ -199,7 +199,7 @@ negative ions to give a solid crystal lattice
 
 ## Ionic Solid Crystal Lattice
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-007-figure-01.svg)
 
 A diagram showing the regular arrangement of alternating positive and negative ions that make up an ionic solid
 
@@ -232,7 +232,7 @@ crystal lattice
 
 ## Brittleness of Ionic Solids
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-008-figure-01.svg)
 
 The image shows the effect of applying a shear stress to an ionic solid. The crystal separates along a plane of atoms and leads to repulsive interaction between ions with like charges
 
@@ -276,7 +276,7 @@ single covalent bonds
 
 ## Diamond
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-010-figure-01.svg)
 
 Diagram showing the tetrahedral structure of diamond
 
@@ -317,7 +317,7 @@ bonding
 
 ## Graphite
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-012-figure-01.svg)
 
 Diagram showing the bonding and structure of graphite
 
@@ -347,7 +347,7 @@ number of strong covalent bonds in the solid
 
 ## Silicon Dioxide Structure
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-013-figure-01.svg)
 
 Diagram showing the tetrahedral structure of silicon dioxide. The red atoms are oxygen and the blue atoms are silicon
 
@@ -388,7 +388,7 @@ materials
 
 ## Silicon Carbide Structure
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-014-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-014-figure-01.svg)
 
 Diagram showing the compact crystal structure of silicon carbide. The black atoms are carbon and the blue atoms are silicon
 
@@ -418,7 +418,7 @@ melt/decompose(as in the case of sucrose) at higher temperatures
 
 ## Molecular Solid structure
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-015-figure-01.svg)
 
 Solid carbon dioxide (CO<sub>2</sub>) consists of small, nonpolar molecules forming a molecular solid with a melting point of −78 °C, while iodine (I<sub>2</sub>) consists of larger, nonpolar molecules forms a molecular solid with a melting point of 114 °C
 
@@ -445,7 +445,7 @@ delocalized electrons
 
 ## Bonding in metallic solids
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-016-figure-01.svg)
 
 Diagram showing the interaction between the “sea” of delocalized valence electrons and positive metal ions
 
@@ -508,7 +508,7 @@ substituted with zinc atoms
 
 ## Substitutional Alloy
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-018-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-018-figure-01.svg)
 
 Diagram of brass showing zinc atoms occupying some of the positions in a lattice of carbon atoms
 
@@ -536,7 +536,7 @@ delocalized electrons are retained in the alloys
 
 ## Interstitial Alloy
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-019-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-019-figure-01.svg)
 
 Diagram of steel showing carbon atoms occupying the “holes” in a lattice of iron atoms
 
@@ -553,7 +553,7 @@ monomers
 
 ## Chemical Structures of Starch and Cellulose
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-020-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-020-figure-01.svg)
 
 Diagram showing the structures of the starch polymer made from the α-glucose monomers while the cellulose polymer is made from β-glucose monomers
 
@@ -586,7 +586,7 @@ proteins and phenolic compounds found in plant-based foods
 
 ## Noncovalent Interactions between Proteins and Ferulic Acid
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-021-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-021-figure-01.svg)
 
 Diagram showing possible non-covalent interactions between proteins and Ferulic acid
 
@@ -646,7 +646,7 @@ arranged in an orderly pattern
 
 ## Structures of crystalline and amorphous solids
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-023-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-023-figure-01.svg)
 
 The particles in solids may be arranged in a regular repeating pattern (crystalline) or randomly (amorphous)
 
@@ -660,7 +660,7 @@ means that liquids can flow
 
 ## Liquid Phase
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-024-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-024-figure-01.svg)
 
 Diagram showing the arrangement and movement of particles that make up the liquid phase
 
@@ -756,6 +756,6 @@ explained by the kinetic molecular theory
 
 ## Gas Particles
 
-![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-026-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-properties-of-solids-liquids-gases/page-026-figure-01.svg)
 
 Diagram showing the arrangement and movement of gas particles

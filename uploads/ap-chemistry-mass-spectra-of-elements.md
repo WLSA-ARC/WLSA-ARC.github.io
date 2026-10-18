@@ -12,7 +12,7 @@ determined using a mass spectrometer
 
 ## Sample mass spectrum
 
-![Chemistry diagram](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-002-figure-01.svg)
 
 The mass spectrum of chlorine with peaks for the isotopes chlorine-35 and chlorine-37 have abundances of 25% and 75% respectively
 
@@ -21,7 +21,7 @@ using the approximate isotopic mass and abundance from a mass spectrum
 
 ## Worked Example
 
-![Chemistry diagram](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-mass-spectra-of-elements/page-003-figure-01.svg)
 
 Based on the mass spectrum of a pure element shown above, what is the most likely identity of the element?
 

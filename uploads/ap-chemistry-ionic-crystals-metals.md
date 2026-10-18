@@ -26,7 +26,7 @@ equally charged ions
 
 ## Ionic Lattice
 
-![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-002-figure-01.svg)
 
 Ionic crystals are arranged in lattice structures
 
@@ -61,7 +61,7 @@ bigger ion
 
 ## Ionic Compound in a Solid and Molten / Solution
 
-![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-003-figure-01.svg)
 
 Molten or aqueous ions move freely but cannot in solid form
 
@@ -104,7 +104,7 @@ valence electrons
 
 ## A metallic lattice
 
-![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-005-figure-01.svg)
 
 Diagram showing metallic lattice structure with delocalized electrons
 
@@ -149,7 +149,7 @@ interstices or spaces between the larger atoms
 
 ## Diagram of an interstitial alloy
 
-![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-007-figure-01.svg)
 
 Diagram of steel showing carbon atoms occupying the interstices in a lattice of iron atoms
 
@@ -168,6 +168,6 @@ atoms in the lattice
 
 ## Diagram of a substitutional alloy
 
-![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-ionic-crystals-metals/page-008-figure-01.svg)
 
 Diagram of brass showing zinc atoms occupying some of the positions in a lattice of carbon atoms

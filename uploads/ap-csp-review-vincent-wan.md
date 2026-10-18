@@ -22,7 +22,7 @@
 | Enhanced Quality of Life | Environmental Impact (energy consumption) |
 | | Useless innovations (real needs) |
 
-![图 1](markdown-assets/ap-csp-review-vincent-wan/image1.png)
+![图 1](markdown-assets/ap-csp-review-vincent-wan/image1.svg)
 
 ### 2. Hardware vs. software
 
@@ -73,7 +73,7 @@ Output: A number that indicates how many even numbers are in the list called myL
 
 Same Code Written in Graphical-Based Form:
 
-![图 2](markdown-assets/ap-csp-review-vincent-wan/image2.png)
+![图 2](markdown-assets/ap-csp-review-vincent-wan/image2.svg)
 
 这个就是来测量有多少个偶数的一个程序
 
@@ -98,7 +98,7 @@ PROCEDURE countEven(mylist)
 
 Output: A number that indicates how many even numbers are in the list called myList.
 
-![图 3](markdown-assets/ap-csp-review-vincent-wan/image3.png)
+![图 3](markdown-assets/ap-csp-review-vincent-wan/image3.svg)
 
 同理
 
@@ -121,7 +121,7 @@ Line 9: }
 
 Output: A number that indicates how many times val is in the list called myList.
 
-![图 4](markdown-assets/ap-csp-review-vincent-wan/image4.png)
+![图 4](markdown-assets/ap-csp-review-vincent-wan/image4.svg)
 
 这个就是一个错误的程序，为什么呢因为他虽然程序没问题，但是并不是counteven，他是一个探测一个数字在一个list里面出现了几次的这个程序
 
@@ -143,7 +143,7 @@ Line 8: }
 
 Output: The total of all numbers in the list added together.
 
-![图 5](markdown-assets/ap-csp-review-vincent-wan/image5.png)
+![图 5](markdown-assets/ap-csp-review-vincent-wan/image5.svg)
 
 这个错在哪里了呢 错在了第三行的
 
@@ -170,7 +170,7 @@ Investigating and reflecting → Designing → Prototyping → Testing → 回�
 - Prototyping：Programming；Base on planning；Large programs are broken up into small steps；Reduce the level of complexity；makes sure each piece works before adding it to the whole。
 - Testing：User Tesing；Direct Observations；No project can be perfect at the first time。
 
-![图 6](markdown-assets/ap-csp-review-vincent-wan/image6.png)
+![图 6](markdown-assets/ap-csp-review-vincent-wan/image6.svg)
 
 Some ways to investigate:
 
@@ -213,7 +213,7 @@ int main(){
 
 编译错误：In function 'int main()': [Error] expected ',' or ';' before 'cout'。
 
-![图 7](markdown-assets/ap-csp-review-vincent-wan/image7.png)
+![图 7](markdown-assets/ap-csp-review-vincent-wan/image7.svg)
 
 第三种就是runtime error，这个有点不一样指的是当你执行指令的时候，突然执行到了解决不了的问题了，这下面是五个常见的问题
 
@@ -238,7 +238,7 @@ int main(){
 }
 ```
 
-![图 8](markdown-assets/ap-csp-review-vincent-wan/image8.png)
+![图 8](markdown-assets/ap-csp-review-vincent-wan/image8.svg)
 
 这个就是分母为0了，会导致无意义runtime error
 
@@ -280,7 +280,7 @@ Some languages like Python do not have limits on number size but, instead, expan
 
 The language used on the AP exam, similar to the language Python, does not have a limit on the size of numbers. On the exam, the size of representable integers is limited only by the size of the computer’s memory.
 
-![图 9](markdown-assets/ap-csp-review-vincent-wan/image9.png)
+![图 9](markdown-assets/ap-csp-review-vincent-wan/image9.svg)
 
 自己看这个吧 主要是Boolean这个他是只输入对或错的，可以被0，1代表着
 
@@ -338,7 +338,7 @@ The need to combine data sources-\>调查全国销量，得结合着所有城市
 - An entertainment application may recommend an additional movie to watch based on the viewer’s interests.
 - Algorithms can be used to prevent crimes by identifying crime “hot spots.” The police can then step up patrols in those areas.
 
-![图 10](markdown-assets/ap-csp-review-vincent-wan/image10.png)
+![图 10](markdown-assets/ap-csp-review-vincent-wan/image10.svg)
 
 Predict algorithms：就是预测算法 根据过去的数据找规律，来预测未来的情况
 
@@ -376,13 +376,13 @@ Abstractions allow for programmers to use semihuman language to program.
 | --- | --- |
 | `DISPLAY (expression)`；Block: DISPLAY expression | Displays the value of expression, followed by a space. |
 
-![图 11](markdown-assets/ap-csp-review-vincent-wan/image11.png)
+![图 11](markdown-assets/ap-csp-review-vincent-wan/image11.svg)
 
 | Text / Block | Explanation |
 | --- | --- |
 | `RANDOM (a, b)`；Block: RANDOM a, b | Evaluates to a random integer from a to b, including a and b. For example, RANDOM(1, 3) could evaluate to 1, 2, or 3. |
 
-![图 12](markdown-assets/ap-csp-review-vincent-wan/image12.png)
+![图 12](markdown-assets/ap-csp-review-vincent-wan/image12.svg)
 
 这几种就都是abstraction其实
 
@@ -396,7 +396,7 @@ Abstractions allow for programmers to use semihuman language to program.
 | `aList ← []` | Creates a new empty list and assigns it to the name aList. |
 | `aList ← bList` | Assigns a copy of the bList to aList. |
 
-![图 13](markdown-assets/ap-csp-review-vincent-wan/image13.png)
+![图 13](markdown-assets/ap-csp-review-vincent-wan/image13.svg)
 
 不是alist\[0\] 否则会产生error
 
@@ -408,7 +408,7 @@ Abstractions allow for programmers to use semihuman language to program.
 | `condition1 AND condition2` | Evaluates to “true” if both condition1 and condition2 are true; otherwise, evaluates to “false.” |
 | `condition1 OR condition2` | Evaluates to “true” if either condition1 is true or condition2 is true or if both condition1 and condition2 are true; otherwise, evaluates to “false.” |
 
-![图 14](markdown-assets/ap-csp-review-vincent-wan/image14.png)
+![图 14](markdown-assets/ap-csp-review-vincent-wan/image14.svg)
 
 True and true-\>true true or true-\>true
 
@@ -436,7 +436,7 @@ The current robot can move forward so CAN_MOVE(forward) will equal true. To end 
 
 图示：机器人在一排五个方格中依次向右移动，停在最右侧方格。
 
-![图 15](markdown-assets/ap-csp-review-vincent-wan/image15.png)
+![图 15](markdown-assets/ap-csp-review-vincent-wan/image15.svg)
 
 一直动 知道他不能再动了这个意思是 所以要等到这个equal to false才可以
 
@@ -470,7 +470,7 @@ What steps are needed for a binary search to find the number 300?
 → 300 = target
 ```
 
-![图 16](markdown-assets/ap-csp-review-vincent-wan/image16.png)
+![图 16](markdown-assets/ap-csp-review-vincent-wan/image16.svg)
 
 Binary search必须有顺序 从大到小或者从小到大
 
@@ -496,7 +496,7 @@ Investigating and reflecting → Designing → Prototyping → Testing → 回�
 
 A development process that is iterative requires refinement and revisions based on feedback, testing, or reflection throughout the process. This may require revisiting earlier phases of the process.
 
-![图 17](markdown-assets/ap-csp-review-vincent-wan/image17.png)
+![图 17](markdown-assets/ap-csp-review-vincent-wan/image17.svg)
 
 顺序
 
@@ -510,14 +510,14 @@ A development process that is iterative requires refinement and revisions based 
 | `list[i] ← list[j]` | Assigns the value of list[j] to list[i]. |
 | `list ← [value1, value2, value3]` | Assigns value1, value2, and value3 to list[1], list[2], and list[3], respectively. |
 
-![图 18](markdown-assets/ap-csp-review-vincent-wan/image18.png)
+![图 18](markdown-assets/ap-csp-review-vincent-wan/image18.svg)
 
 | Text / Block | Explanation |
 | --- | --- |
 | `INSERT(list, i, value)` | Any values in list at indexes greater than or equal to i are shifted to the right. The length of list is increased by 1, and value is placed at index i in list. |
 | `APPEND(list, value)` | The length of list is increased by 1, and value is placed at the end of list. |
 
-![图 19](markdown-assets/ap-csp-review-vincent-wan/image19.png)
+![图 19](markdown-assets/ap-csp-review-vincent-wan/image19.svg)
 
 这个insert就是想插哪就插哪
 
@@ -535,7 +535,7 @@ Ppt Big3里面有很多这样子的例子可以去看看 但是都是围绕着pr
 
 Input（computing input device）→ Processing（computing device）→ Output（computing output device）。
 
-![图 20](markdown-assets/ap-csp-review-vincent-wan/image20.png)
+![图 20](markdown-assets/ap-csp-review-vincent-wan/image20.svg)
 
 The device must be able to take inputs, process the inputs, and then calculate results based on those inputs.能运行程序的物理设备 eg. 电脑 手表 路由器
 
@@ -543,7 +543,7 @@ The device must be able to take inputs, process the inputs, and then calculate r
 
 ### Autonomous Systems of the Internet
 
-![图 21](markdown-assets/ap-csp-review-vincent-wan/image21.png)
+![图 21](markdown-assets/ap-csp-review-vincent-wan/image21.svg)
 
 （The larger circles represent systems that have a higher bandwidth capacity measured in bits per second. ）
 
@@ -561,7 +561,7 @@ If the path from sender to receiver is broken, the path will be rerouted. This f
 
 Sender；Path；Receiver；Broken node。粗箭头由 Sender 经未损坏的替代节点抵达 Receiver。
 
-![图 22](markdown-assets/ap-csp-review-vincent-wan/image22.png)就是说如果path坏了话，就走另外一条
+![图 22](markdown-assets/ap-csp-review-vincent-wan/image22.svg)就是说如果path坏了话，就走另外一条
 
 Redundancy is the inclusion of extra paths that can mitigate the failure of a system if other components fail. 就是设计很多额外路径
 
@@ -636,7 +636,7 @@ Some examples of complex computer simulations that benefit from parallel computi
 
 $$\text{Speedup}=\frac{\text{sequential run time}}{\text{parallel run time}}$$
 
-![图 23](markdown-assets/ap-csp-review-vincent-wan/image23.png)
+![图 23](markdown-assets/ap-csp-review-vincent-wan/image23.svg)
 
 Speedup（加速比）：算出来的结果越大，说明并行计算效果越好。
 
@@ -665,7 +665,7 @@ For example, Google X’s Project Loon was using balloons traveling at the edge 
 
 Some communities are also providing education classes and free Wi-Fi to decrease the digital divide.
 
-![图 24](markdown-assets/ap-csp-review-vincent-wan/image24.png)
+![图 24](markdown-assets/ap-csp-review-vincent-wan/image24.svg)
 
 数字鸿沟并不是所有人都能平等的使用这些资源因为各种原因 比如经济负担，education等等
 
@@ -697,7 +697,7 @@ Since computing innovations are created by people, the innovations created can r
 - Variables such as age are appropriate in some calculations, such life insurance and auto insurance,
 - but inappropriate in other calculations, such as hiring and mortgage lending.
 
-![图 25](markdown-assets/ap-csp-review-vincent-wan/image25.png)
+![图 25](markdown-assets/ap-csp-review-vincent-wan/image25.svg)
 
 计算创新是人类创造的，所以会带有程序员自己的偏见，偏见很多时候都会存在就对了，然后具体问题具体分析
 
@@ -717,7 +717,7 @@ Eg. 维基百科 但是也会存在弊端
 - For example, citizen science could be used to calculate the firefly population on the east coast of the United States. Firefly counting needs lots of people but not a lot of technical skills or expensive equipment.
 - An example of an experiment not suited for citizen science is testing a vaccine on human volunteers. When testing on humans, a trained professional scientist is needed.
 
-![图 26](markdown-assets/ap-csp-review-vincent-wan/image26.png)
+![图 26](markdown-assets/ap-csp-review-vincent-wan/image26.svg)
 
 这个就相当于做实验，但是老百姓也可以参与其中，他们也不需要很多的技巧或者昂贵的设备，但是需要人手之类的
 
@@ -757,7 +757,7 @@ Multifactor authentication requires at least two steps to unlock protected infor
 
 Digital certificate authorities issue digital certificates that validate the ownership of encryption keys used in secure communications and are based on a trust model.
 
-![图 27](markdown-assets/ap-csp-review-vincent-wan/image27.png)
+![图 27](markdown-assets/ap-csp-review-vincent-wan/image27.svg)
 
 多因素认证是一种计算机访问控制方法：用户只有成功向认证系统提供至少两类不同的验证凭证，才能获得访问权限
 
@@ -789,7 +789,7 @@ Symmetric key encryption uses the same key for both encryption and decryption. T
 
 Same key to encrypt and decrypt；One key to encrypt data；Same key to decrypt data。
 
-![图 28](markdown-assets/ap-csp-review-vincent-wan/image28.png)
+![图 28](markdown-assets/ap-csp-review-vincent-wan/image28.svg)
 
 2\. Asymmetric encryption
 
@@ -819,7 +819,7 @@ Public key encryption (also called asymmetric encryption) uses two keys—one pr
 
 Key one；One public key to encrypt data；Key two；Second private key to decrypt data；One key to encrypt and a separate second key to decrypt。
 
-![图 29](markdown-assets/ap-csp-review-vincent-wan/image29.png)
+![图 29](markdown-assets/ap-csp-review-vincent-wan/image29.svg)
 
 ### 最后一些病毒：
 

@@ -262,9 +262,9 @@ dissolve the solute
 
 ## Preparing a Solution
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-01.svg)
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-008-figure-02.svg)
 
 How to prepare a 250mL of 1.00 M solution of CuSO<sub>4</sub>
 
@@ -437,7 +437,7 @@ Solutions are homogeneous mixtures, therefore the molecules of solute and solven
 
 Which of the following samples of a salt + water solution has the highest concentration?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-013-figure-01.svg)
 
 Answer:
 
@@ -489,7 +489,7 @@ compounds
 
 ## Diagram to Show the Method of Chromatography
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-015-figure-01.svg)
 
 Analysis of the composition of ink that can be used using paper chromatography. Blue ink travels the most distance showing the strongest interaction with the solvent and the weakest interaction with the chromatography paper
 
@@ -550,7 +550,7 @@ compounds
 
 ## Method for TLC Analysis
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-017-figure-01.svg)
 
 A dot of the sample is placed on the baseline and allowed to separate as the mobile phase flows through the stationary phase; The reference compound/s will also move with the solvent
 
@@ -579,7 +579,7 @@ their solubility in the solvent that acts as the mobile phase
 
 ## Calculating the R<sub>f</sub> value
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-018-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-018-figure-01.svg)
 
 R<sub>f</sub> values can be calculated by taking 2 measurements from the TLC plate
 
@@ -629,7 +629,7 @@ the interactions for the stationary phase
 
 ## Column Chromatography
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-019-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-019-figure-01.svg)
 
 Steps for performing a Column chromatography analysis
 
@@ -679,7 +679,7 @@ points of the components from the mixture
 
 ## Method of Separation by Distillation
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-021-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-021-figure-01.svg)
 
 Separation of a mixture of ethanol and water is best achieved by fractional distillation when the two components are close together in boiling point or there are multiple components
 
@@ -723,7 +723,7 @@ the strength of the solvent-solute interaction must be considered
 
 ## The three interactions between the particles of solute and solvent
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-023-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-023-figure-01.svg)
 
 Solvent-solvent, solvent-solute and solute-solute interactions must be considered for solubility
 
@@ -764,7 +764,7 @@ London-Dispersion Forces < hydrogen bonding
 
 Predict if a solution will be formed when chloroform is mixed with an acetone solvent.
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-01.svg)
 
 Answer:
 
@@ -775,7 +775,7 @@ Step 2: Identify the solvent-solvent intermolecular interactions
 - Acetone is our solvent. Since oxygen is more electronegative than carbon, a
 dipole moment will be formed
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-024-figure-02.svg)
 
 - Therefore, the solvent-solvent intermolecular interaction is dipole-dipole
 
@@ -784,7 +784,7 @@ Step 3: Identify the solute-solute intermolecular interactions
 - Chloroform is our solute. Since it is a non-symmetrical molecule and chlorine is
 more electronegative than carbon, dipole moments will be formed
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-01.svg)
 
 - Therefore, the solute-solute intermolecular interaction is dipole-dipole
 
@@ -797,7 +797,7 @@ dipole-dipole interactions, both solute and solvent will be miscible in one anot
 
 Predict if a solution will be formed when hexane is mixed with water as solvent.
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-025-figure-02.svg)
 
 Answer:
 
@@ -809,14 +809,14 @@ Step 2: Identify the solvent-solvent intermolecular interactions
 such as oxygen, a strong dipole moment will be formed
 - Therefore, the solvent-solvent intermolecular interaction is hydrogen bonding
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-01.svg)
 
 Step 3: Identify the solute-solute intermolecular interactions
 
 - Hexane is our solute. Since hexane is a symmetrical molecule, all its dipole
 moments are canceled out
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-026-figure-02.svg)
 
 - Therefore, the solute-solute intermolecular interaction are London dispersion
 forces
@@ -826,7 +826,7 @@ Step 4: If the solute-solute interaction and the solvent-solvent interactions ar
 - The solvent-solvent interaction is not the same as solute-solute interaction
 - The solvent-solute interaction must be considered
 
-![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-027-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-solutions-mixtures/page-027-figure-01.svg)
 
 - As shown in the image below, hexane and water present London dispersion
 forces interactions because oxygen induces momentaneous dipoles in hexane

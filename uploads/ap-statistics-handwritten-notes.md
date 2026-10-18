@@ -29,11 +29,11 @@ The source gives a Frequency Table and a separate Relative Frequency Table with 
 
 Left graph: vertical axis Number of Students, heights 2, 1, 3, 4. Right graph: vertical axis Percent, heights 20, 10, 30, 40. Both horizontal axes list Cell Phone, Facebook, In person, Text messaging.
 
-![Categorical bar graphs](markdown-assets/ap-statistics-handwritten-notes/p01-bar-graphs.png)
+![Categorical bar graphs](markdown-assets/ap-statistics-handwritten-notes/p01-bar-graphs.svg)
 
 #### Pie Chart
 
-![Unlabeled pie chart](markdown-assets/ap-statistics-handwritten-notes/p02-pie.png)
+![Unlabeled pie chart](markdown-assets/ap-statistics-handwritten-notes/p02-pie.svg)
 
 ### 1.2 Analyzing Quantitative Data
 
@@ -88,7 +88,7 @@ Menu → Plot type → Histogram. Vertical axis Frequency (or relative frequency
 | $25\le x<30$ | 1 |
 | Total | 50 |
 
-![Dotplot, stemplots, and histogram](markdown-assets/ap-statistics-handwritten-notes/p02-plots.png)
+![Dotplot, stemplots, and histogram](markdown-assets/ap-statistics-handwritten-notes/p02-plots.svg)
 
 **Bimodal**: two clear peaks; two centers; gap.
 
@@ -113,7 +113,7 @@ Use comparative words: same/different/more/less.
 $$z=\frac{x-\mu}{\sigma}.$$
 → “'s … is … standard deviations above/below the mean of …”
 
-![Bimodal and uniform curves](markdown-assets/ap-statistics-handwritten-notes/p03-curves.png)
+![Bimodal and uniform curves](markdown-assets/ap-statistics-handwritten-notes/p03-curves.svg)
 
 #### Boxplot
 
@@ -123,7 +123,7 @@ Labels: Outliers; Min; $Q_1$; Median; $Q_3$; Max; Outlier; Whisker.
 
 Five number Summary: min, $Q_1$, median, $Q_3$, max.
 
-![Boxplot with outliers and quartiles](markdown-assets/ap-statistics-handwritten-notes/p04-boxplot.png)
+![Boxplot with outliers and quartiles](markdown-assets/ap-statistics-handwritten-notes/p04-boxplot.svg)
 
 ### 1.3 Describing Quantitative Data with Numbers
 
@@ -158,7 +158,7 @@ Unimodal: single peak.
 - Skew to left: mean $<$ median.
 - Skew to right: mean $>$ median.
 
-![Three unimodal distribution shapes](markdown-assets/ap-statistics-handwritten-notes/p04-shapes.png)
+![Three unimodal distribution shapes](markdown-assets/ap-statistics-handwritten-notes/p04-shapes.svg)
 
 ### 1.5 Sampling and Surveys
 
@@ -292,19 +292,19 @@ $$\frac{\text{Row (Column) Total}}{\text{Total}},\qquad\text{i.e. }\frac{657}{15
 
 Horizontal axis Environmental Club Membership: No/Yes. Vertical axis Percent (0–100). Legend Snowmobile Use: Never (blue), Rent (green), Own (yellow).
 
-![Side by side bar graph](markdown-assets/ap-statistics-handwritten-notes/p09-bar.png)
+![Side by side bar graph](markdown-assets/ap-statistics-handwritten-notes/p09-bar.svg)
 
 #### Segmented Bar Graph
 
 Displays the same information as a pie chart. Horizontal axis Environmental Club Membership (No/Yes), vertical axis Percent (0–100). Legend Snowmobile Use: Never (blue), Rent (green), Own (yellow).
 
-![Segmented bar graph](markdown-assets/ap-statistics-handwritten-notes/p10-segmented.png)
+![Segmented bar graph](markdown-assets/ap-statistics-handwritten-notes/p10-segmented.svg)
 
 #### Mosaic Plot
 
 Horizontal axis Environmental Club Membership (No/Yes), vertical axis Percent (0–100). Legend Snowmobile Use: Never (blue), Rent (green), Own (yellow). The No column is wider than the Yes column.
 
-![Mosaic plot](markdown-assets/ap-statistics-handwritten-notes/p10-mosaic.png)
+![Mosaic plot](markdown-assets/ap-statistics-handwritten-notes/p10-mosaic.svg)
 
 ### 2.2 Density Curves and Normal Distributions
 
@@ -320,7 +320,7 @@ Mean: $\mu$. Standard Deviation: $\sigma$.
 - Center: $\mu=$ median, located at the midpoint of the symmetric curve.
 - Variability: $\sigma$ measures the variability (width) of a normal distribution.
 
-![Skewed density curves and normal distribution](markdown-assets/ap-statistics-handwritten-notes/p11-curves.png)
+![Skewed density curves and normal distribution](markdown-assets/ap-statistics-handwritten-notes/p11-curves.svg)
 
 #### The 68–95–99.7 Rule
 
@@ -349,7 +349,7 @@ Normal probability plot: If the points on a Normal Probability Plot lie close to
 
 The three sketches are labeled approximately Normal; not Normal; approximately Normal (outlier).
 
-![Normal probability plots](markdown-assets/ap-statistics-handwritten-notes/p12-normality.png)
+![Normal probability plots](markdown-assets/ap-statistics-handwritten-notes/p12-normality.svg)
 
 ### 2.3 Probability
 
@@ -424,7 +424,7 @@ Margin: $\cup=$ or (union); $\cap=$ and (intersection).
 
 Complement $A^c$: outside of $A$ shaded, $S$ rectangle. Union $A\cup B$: both overlapping circles shaded. Intersect $A\cap B$: only the overlap shaded. Margin under complement: $c=$ mutually exclusive.
 
-![Complement, union, intersection Venn diagrams](markdown-assets/ap-statistics-handwritten-notes/p14-venn.png)
+![Complement, union, intersection Venn diagrams](markdown-assets/ap-statistics-handwritten-notes/p14-venn.svg)
 
 ### 2.5 Conditional Probability and Independence
 
@@ -449,7 +449,7 @@ Shows the sample space of a chance process involving multiple stages.
 
 First branches: $A$, $P(A)$ and $B$, $P(B)$. The $A$ branch splits into $A_1$, $P(A_1)$ and $A_2$, $P(A_2)$; $B$ splits into $B_1$, $P(B_1)$ and $B_2$, $P(B_2)$.
 
-![Tree diagram](markdown-assets/ap-statistics-handwritten-notes/p15-tree.png)
+![Tree diagram](markdown-assets/ap-statistics-handwritten-notes/p15-tree.svg)
 
 ### 2.6 Random Variables
 

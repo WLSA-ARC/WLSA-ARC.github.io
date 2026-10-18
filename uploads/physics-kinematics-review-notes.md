@@ -37,7 +37,7 @@ Calculus: 分割成无限多个正方形。
 Example sketch: initial velocity $83.9\ \mathrm{m/s}$, stopping distance $195\ \mathrm m$.
 $$195=-\frac{83.9^2}{2a}\Rightarrow390a=-83.9^2,\qquad a=-\frac{83.9^2}{390}=18.0\ \mathrm{m/s^2}.$$
 
-![Position, velocity, and shaded-area diagrams](markdown-assets/physics-kinematics-review-notes/p1-graphs.png)
+![Position, velocity, and shaded-area diagrams](markdown-assets/physics-kinematics-review-notes/p1-graphs.svg)
 
 Practice:
 
@@ -66,7 +66,7 @@ Origin point ($H=0$): $t=2v_i/g$, $v_f=-v_i$.
 
 Why $2t_h=t_0$? In the $v$–$t$ graph, the shaded triangles above and below the time axis are congruent; the line crosses at the highest point.
 
-![Upward projection and congruent areas](markdown-assets/physics-kinematics-review-notes/p2-graphs.png)
+![Upward projection and congruent areas](markdown-assets/physics-kinematics-review-notes/p2-graphs.svg)
 
 ## 5 下抛
 
@@ -98,7 +98,7 @@ $$\begin{cases}v_x=v_i\cos\theta\,t\\x=v_i\cos\theta\,t\end{cases}\qquad
 
 斜抛图中初速度旁写有 $v_i=x$。
 
-![Horizontal and angled projection diagrams](markdown-assets/physics-kinematics-review-notes/p3-graphs.png)
+![Horizontal and angled projection diagrams](markdown-assets/physics-kinematics-review-notes/p3-graphs.svg)
 
 ### Range
 
@@ -128,7 +128,7 @@ The acceleration of an object is directly proportional to the net force acting o
 Inclined plane: gravity $mg$, perpendicular component $mg\cos\theta$, parallel component $F=mg\sin\theta$.
 $$a=\frac Fm=g\sin\theta.$$
 
-![Inclined-plane force diagram](markdown-assets/physics-kinematics-review-notes/p4-incline.png)
+![Inclined-plane force diagram](markdown-assets/physics-kinematics-review-notes/p4-incline.svg)
 
 ### 3 Newton's second law
 
@@ -153,7 +153,7 @@ $$F=k\Delta x,\qquad k\ (\mathrm{N/m}).$$
 
 Two spring sketches: each has $5\ \mathrm N$ outward at both ends. 受力相同。
 
-![Contact forces and springs](markdown-assets/physics-kinematics-review-notes/p5-diagrams.png)
+![Contact forces and springs](markdown-assets/physics-kinematics-review-notes/p5-diagrams.svg)
 
 ## 3 连接体
 
@@ -182,8 +182,8 @@ $g=?$ Compare plots of $h$ versus $t$ and $h$ versus $t^2$. The $h$–$t^2$ plot
 | $t$ | $t_1$ | $t_2$ | $t_3$ |
 | $t^2$ | $t_1^2$ | $t_2^2$ | $t_3^2$ |
 
-![Connected bodies and friction examples](markdown-assets/physics-kinematics-review-notes/p6-forces.png)
-![Free fall graphs and data table](markdown-assets/physics-kinematics-review-notes/p6-freefall.png)
+![Connected bodies and friction examples](markdown-assets/physics-kinematics-review-notes/p6-forces.svg)
+![Free fall graphs and data table](markdown-assets/physics-kinematics-review-notes/p6-freefall.svg)
 
 $u=v_i$, $v=v_f$.
 
@@ -202,7 +202,7 @@ $$\frac h{\sin\theta}=\frac12g\sin\theta\,t_B^2.$$
 $$v_A=gt=g\sqrt{\frac{2h}g}=\sqrt{2gh},$$
 $$v_B=at_B=g\sin\theta\sqrt{\frac{2h}{g\sin^2\theta}}=\sqrt{2gh}.$$
 
-![Lever, center of mass, stack, and descent diagrams](markdown-assets/physics-kinematics-review-notes/p7-diagrams.png)
+![Lever, center of mass, stack, and descent diagrams](markdown-assets/physics-kinematics-review-notes/p7-diagrams.svg)
 
 Projectile trajectory: initial $v_0\sin\theta$ vertically, $v_0\cos\theta$ horizontally, vector $v$; the two halves of flight are each $\frac12t$.
 
@@ -220,7 +220,7 @@ $$m_3g-T_1=m_3a,$$
 $$m_2g+T_1-T_2=m_2a,$$
 $$T_2-m_1g=m_1a.$$
 
-![Projectile, incline, and connected pulley](markdown-assets/physics-kinematics-review-notes/p8-diagrams.png)
+![Projectile, incline, and connected pulley](markdown-assets/physics-kinematics-review-notes/p8-diagrams.svg)
 
 ## 1 Fictional force
 
@@ -233,4 +233,4 @@ $$\mu_3=\frac{F-3ma}{3mg},$$
 $$\mu_2=\frac{F-2ma}{2mg}.$$
 Second stack sketch sits on a curved ground line.
 
-![Friction graph and stacked-block diagrams](markdown-assets/physics-kinematics-review-notes/p9-diagrams.png)
+![Friction graph and stacked-block diagrams](markdown-assets/physics-kinematics-review-notes/p9-diagrams.svg)

@@ -111,7 +111,7 @@ $$\tan(\gamma+\beta)=\frac{\tan\gamma+\tan\beta}{1-\tan\gamma\tan\beta},\qquad
 \tan(\gamma-\beta)=\frac{\tan\gamma-\tan\beta}{1+\tan\gamma\tan\beta}.$$
 tan: 上同下反，分子同号。
 
-![Tangent mnemonic](markdown-assets/ap-precalculus-notes-and-formulas/image3-tan-note.png)
+![Tangent mnemonic](markdown-assets/ap-precalculus-notes-and-formulas/image3-tan-note.svg)
 
 ### 2 Double Angle Formulas
 
@@ -188,7 +188,7 @@ Additional identities:
 8. Inverse cosine: $y=\cos^{-1}x$, $x=\cos y$, $0\le y\le\pi$.
 9. Inverse tangent: $x=\tan y$, $-\pi/2<y<\pi/2$.
 
-![Trigonometric identities](markdown-assets/ap-precalculus-notes-and-formulas/image3-margin.png)
+![Trigonometric identities](markdown-assets/ap-precalculus-notes-and-formulas/image3-margin.svg)
 
 $$y=A\sin(Bx+C)+D.$$
 $$a=\frac{\max-\min}{2}.$$
@@ -223,7 +223,7 @@ Examples: $z=3+4i$; $z=4-i$, $(4,-1)$. For $(3,4)$:
 $$r=|z|=\sqrt{3^2+4^2}=5\quad(\text{两点间距离公式}),$$
 $$\text{辐角 principal argument}:\ \tan\theta=\frac yx=\frac43.$$
 
-![Polar angle sketches and complex-number margin example](markdown-assets/ap-precalculus-notes-and-formulas/image5-margin.png)
+![Polar angle sketches and complex-number margin example](markdown-assets/ap-precalculus-notes-and-formulas/image5-margin.svg)
 
 ## 对称性测试 Symmetry test
 
@@ -246,7 +246,7 @@ Symmetry examples:
 
 Curve labels: Cardioid: cos $\theta$, sin $\theta$. Limaçon: sin $\theta$, cos $\theta$. Rose: (even) (sin, cos), (odd) (sin, cos). Lemniscate: the same (cos/sin).
 
-![Polar curves](markdown-assets/ap-precalculus-notes-and-formulas/image6-polar-curves.png)
+![Polar curves](markdown-assets/ap-precalculus-notes-and-formulas/image6-polar-curves.svg)
 
 **平均变化率 AROC**:
 $$\mathrm{AROC}=\frac{r(\theta_2)-r(\theta_1)}{\theta_2-\theta_1}.$$

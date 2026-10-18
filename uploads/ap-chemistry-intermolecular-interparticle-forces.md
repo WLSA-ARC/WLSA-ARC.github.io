@@ -38,7 +38,7 @@ point of the molecule
 
 ## Intermolecular Forces Vs Intramolecular Forces
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-002-figure-01.svg)
 
 Weak intermolecular forces exist between molecules while stronger intramolecular forces exist between the atoms that make up the molecules
 
@@ -63,7 +63,7 @@ molecule resulting in a weak attraction
 
 ## London Dispersion Forces
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-003-figure-01.svg)
 
 A snapshot of the average and instantaneous distribution of electrons in an atom to
 demonstrate the development of London dispersion forces.
@@ -87,7 +87,7 @@ the group, where dispersion forces are the only forces responsible for this prop
 
 ## Boiling Points of Halogens & Noble Gases
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-004-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-004-figure-01.svg)
 
 The boiling point of halogens and noble gases increases with the number of electrons
 
@@ -113,7 +113,7 @@ you move from pentane to 2−methylbutane to 2,2−dimethylbutane
 
 ## Branching & Polarizability
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-005-figure-01.svg)
 
 The effect of branching on the strength of dispersion forces for molecules of the same molecular size.
 
@@ -149,7 +149,7 @@ molecules to cause this attraction
 
 ## Dipole-induced dipole interactions
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-006-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-006-figure-01.svg)
 
 Dipole-induced dipole interaction between polar water molecules and iodine molecules
 
@@ -185,7 +185,7 @@ molecules, the arrangement is disordered
 
 ## Dipole-Dipole Interactions
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-007-figure-01.svg)
 
 Dipole-dipole interactions between molecules of acetonitrile, CH<sub>3</sub>N in solid and liquid states.
 
@@ -226,7 +226,7 @@ The hydrogen atoms have a partial positive charge ($\delta^+$)
 
 ## Ion-Dipole Interactions
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-009-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-009-figure-01.svg)
 
 Ion-dipole interaction between sodium and chloride ions with water
 
@@ -266,7 +266,7 @@ moment
 
 ## Molecular Dipole Moment
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-010-figure-01.svg)
 
 A dipole moment exists between C-Cl bonds due to the large difference in electronegativity between the carbon and chlorine atoms.
 
@@ -281,7 +281,7 @@ hydrogen is directly bonded to either a nitrogen, oxygen or fluorine atom
 
 ## Polar covalent bond H—F bond
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-011-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-011-figure-01.svg)
 
 A polar covalent bond in hydrogen fluoride is described by the presence of δ+ on the hydrogen and δ- charges on the electronegative fluorine atom
 
@@ -299,7 +299,7 @@ stronger intermolecular force
 
 ## Hydrogen Bonding
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-012-figure-01.svg)
 
 Hydrogen bonding between molecules of ammonia, water and hydrogen fluoride
 
@@ -327,7 +327,7 @@ of propanol molecules can form only one
 
 ## Multiple Hydrogen Bonds
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-013-figure-01.svg)
 
 Hydrogen bonding in acetic acid and propanol. Each acetic acid can form two hydrogen bonds while propanol can form only one hydrogen bond.
 
@@ -347,7 +347,7 @@ atom, there is only one available $\delta^+$ hydrogen atom
 
 ## Hydrogen Bonding in H₂O and HF
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-014-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-014-figure-01.svg)
 
 The diagram shows two hydrogen bonds per pair of water molecules compared to only one per pair of hydrogen fluoride
 
@@ -374,7 +374,7 @@ DNA molecule strand
 
 ## Hydrogen Bond in DNA Strands
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-015-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-015-figure-01.svg)
 
 Double helix DNA strands show the hydrogen bonds between the nitrogenous base
 components of each strand
@@ -388,12 +388,12 @@ molecules, which makes them soluble in water
 
 ## Lipids Interaction with Water
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-016-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-016-figure-01.svg)
 
 Nonpolar oil molecules do not mix with water due to a lack of polar hydrogen
 
 ## Carbohydrate Interaction with Water
 
-![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-017-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-intermolecular-interparticle-forces/page-017-figure-01.svg)
 
 The presence of polar hydrogen atoms on sugar molecules makes glucose dissolve in water

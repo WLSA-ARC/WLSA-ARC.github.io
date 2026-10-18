@@ -15,7 +15,7 @@ molecule can be represented as:
 
 ## Lewis Diagrams for Water
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-002-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-002-figure-01.svg)
 
 Different Lewis Diagrams for the water molecule showing bonding pairs as lines or dots
 
@@ -70,7 +70,7 @@ Draw a Lewis structure for CCl<sub>4</sub>
 
 Answer:
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-003-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-003-figure-01.svg)
 
 Steps in drawing the Lewis Structure for CCl<sub>4</sub>
 
@@ -84,11 +84,11 @@ drawn
 
 | Molecule | Total number of valence electrons | Lewis Diagram |
 | --- | --- | --- |
-| CH₄ | C + 4H<br>4 + (4 x 1) = 8 | ![CH₄ Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-01.png) |
-| NH₃ | N + 3H<br>5 + (3 x 1) = 8 | ![NH₃ Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-02.png) |
-| H₂O | 2H + O<br>(2 x 1) + 6 = 8 | ![H₂O Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-03.png) |
-| CO₂ | C + 2O<br>4 + (2 x 6) = 16 | ![CO₂ Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-04.png) |
-| HCN | H + C + N<br>1 + 4 + 5 = 10 | ![HCN Lewis diagram as printed](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-05.png) |
+| CH₄ | C + 4H<br>4 + (4 x 1) = 8 | ![CH₄ Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-01.svg) |
+| NH₃ | N + 3H<br>5 + (3 x 1) = 8 | ![NH₃ Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-02.svg) |
+| H₂O | 2H + O<br>(2 x 1) + 6 = 8 | ![H₂O Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-03.svg) |
+| CO₂ | C + 2O<br>4 + (2 x 6) = 16 | ![CO₂ Lewis diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-04.svg) |
+| HCN | H + C + N<br>1 + 4 + 5 = 10 | ![HCN Lewis diagram as printed](markdown-assets/ap-chemistry-lewis-diagrams/page-004-figure-05.svg) |
 
 Lewis diagrams for common molecules
 
@@ -96,7 +96,7 @@ Lewis diagrams for common molecules
 
 Which of the following Lewis electron-dot diagrams is drawn incorrectly?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-005-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-005-figure-01.svg)
 
 Answer:
 
@@ -158,7 +158,7 @@ another
 
 ## Resonance in the Nitrate(V) ion
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-01.svg)
 
 Resonance structures in the nitrate ion
 
@@ -173,7 +173,7 @@ nitrate(V) ion
 
 ## The Nitrate(V) Ion
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-02.svg)
 
 Resonance hybrid nitrate(V) ion
 
@@ -182,13 +182,13 @@ carboxylate ion which are showed in the table below
 
 | Species | Lewis Diagram | Resonance Hybrid |
 | --- | --- | --- |
-| Carbonate ion, CO₃²⁻ | ![Carbonate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-03.png) | ![Carbonate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-04.png) |
+| Carbonate ion, CO₃²⁻ | ![Carbonate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-03.svg) | ![Carbonate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-007-figure-04.svg) |
 
 | Species | Lewis Diagram | Resonance Hybrid |
 | --- | --- | --- |
-| Benzene, C₆H₆ | ![Benzene resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-01.png) | ![Benzene resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-02.png) |
-| Ozone, O₃ | ![Ozone resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-03.png) | ![Ozone resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-04.png) |
-| Carboxylate ion, RCOO⁻ | ![Carboxylate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-05.png) | ![Carboxylate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-06.png) |
+| Benzene, C₆H₆ | ![Benzene resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-01.svg) | ![Benzene resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-02.svg) |
+| Ozone, O₃ | ![Ozone resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-03.svg) | ![Ozone resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-04.svg) |
+| Carboxylate ion, RCOO⁻ | ![Carboxylate resonance structures](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-05.svg) | ![Carboxylate resonance hybrid](markdown-assets/ap-chemistry-lewis-diagrams/page-008-figure-06.svg) |
 
 ## The Octet Rule & Formal Charge
 
@@ -235,7 +235,7 @@ deduced that it has 3 valence electrons.
 the structure is 8.
 - By following the steps to draw a Lewis diagram, the structure should look like this:
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-01.svg)
 
 Lewis formula of BH<sub>4</sub><sup>–</sup>
 
@@ -268,7 +268,7 @@ common in atoms
 
 What is the formal charge on the two resonance structures shown?
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-010-figure-02.svg)
 
 Resonance structures of hydrogen cyanide
 
@@ -330,7 +330,7 @@ an molecules with unpaired electrons are highly reactive and unstable
 
 ## Examples of Free Radicals
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-012-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-012-figure-01.svg)
 
 Molecules with an odd number of electrons
 
@@ -353,12 +353,12 @@ period or below, is surrounded by terminal atoms with high electronegativity val
 
 ## The PCl₅ molecule
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-01.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-01.svg)
 
 The octet of the central phosphorus atom has been expanded to hold 10 electrons
 
 ## The SF₆ molecule
 
-![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-02.png)
+![Chemistry diagram](markdown-assets/ap-chemistry-lewis-diagrams/page-013-figure-02.svg)
 
 The octet of the central sulfur atom has been expanded to hold 12 electrons

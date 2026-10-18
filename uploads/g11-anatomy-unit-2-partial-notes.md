@@ -51,7 +51,7 @@ Functions：
 - **Terminal cisternae**：SR 和 TT 交界处。
 - **Triad**：1 个 TT + 2 TS。
 
-![解剖学图示 1](markdown-assets/g11-anatomy-unit-2-partial-notes/image1.png)
+![解剖学图示 1](markdown-assets/g11-anatomy-unit-2-partial-notes/image1.svg)
 
 ### Component that allow muscles to contract
 
@@ -66,7 +66,7 @@ Functions：
 - **M line**：middle of H zone，delicate filaments holding myosin in place。
 - **Titin filaments**：elastic chains of amino acids → muscle extensible + elastic。
 
-![解剖学图示 2](markdown-assets/g11-anatomy-unit-2-partial-notes/image2.png)
+![解剖学图示 2](markdown-assets/g11-anatomy-unit-2-partial-notes/image2.svg)
 
 ## PPT P19–25
 
@@ -109,7 +109,7 @@ actin 和 myosin 长度本身不变（does not change length）。
 
 在 relaxation，sarcomere 变长是因为外部因素 → contraction of antagonistic muscles。
 
-![解剖学图示 3](markdown-assets/g11-anatomy-unit-2-partial-notes/image3.png)
+![解剖学图示 3](markdown-assets/g11-anatomy-unit-2-partial-notes/image3.svg)
 
 | ① Relaxed Muscle | ② Contracted Muscle |
 | --- | --- |
@@ -119,7 +119,7 @@ actin 和 myosin 长度本身不变（does not change length）。
 | | H zone disappear |
 | | I band 变窄 |
 
-![解剖学图示 4](markdown-assets/g11-anatomy-unit-2-partial-notes/image4.png)
+![解剖学图示 4](markdown-assets/g11-anatomy-unit-2-partial-notes/image4.svg)
 
 ## 9.5 Whole skeletal muscle Physiology — PPT P49–62
 
@@ -188,7 +188,7 @@ Factors：
 - ③ 过长：（被动张力 ↑，主动张力 ↓）。
 - tension 随 sarcomere 长度的变长而相应的变大或变小。
 
-![解剖学图示 5](markdown-assets/g11-anatomy-unit-2-partial-notes/image5.png)
+![解剖学图示 5](markdown-assets/g11-anatomy-unit-2-partial-notes/image5.svg)
 
 ### 五、Whole Muscle 的收缩
 
@@ -236,7 +236,7 @@ skeletal muscle 是身体重要的产热器官，通过 vasodilation 血管舒�
 
 Shivering 是因为：uncoordinated contraction → 产生热量。
 
-![解剖学图示 6](markdown-assets/g11-anatomy-unit-2-partial-notes/image6.png)
+![解剖学图示 6](markdown-assets/g11-anatomy-unit-2-partial-notes/image6.svg)
 
 ## 9.7 Muscle Contraction 的能量来源 — PPT P66–71
 
@@ -279,7 +279,7 @@ caveolae（类似于 T tubules）；Dense bodies（代替 Z disks）。
 
 （很重要）neurally 刺激或者 hormonally 刺激都可以 → G protein 打开 $Ca^{2+}$ channel → $Ca^{2+}$ combine with calmodulin → combine 后的 $Ca^{2+}$ bind + activate myosin kinase → Myosin kinase 把 Pi 从 ATP 转到 myosin head → cross-bridge formation → 当 myosin phosphatase remove Pi 时解锁。
 
-![解剖学图示 7](markdown-assets/g11-anatomy-unit-2-partial-notes/image7.png)
+![解剖学图示 7](markdown-assets/g11-anatomy-unit-2-partial-notes/image7.svg)
 
 **Latch state 锁止状态（考）**：当 cross-bridge 存在，但 myosin 上的 phosphate 被移除后 → cross bridge release slowly。所以长时间维持 tension 并少量消耗 ATP。
 
@@ -308,7 +308,7 @@ caveolae（类似于 T tubules）；Dense bodies（代替 Z disks）。
 
 Striated and branched，single nucleus，有 intercalated disks 和 gap junctions 联接，有 autorhythmic cells。
 
-![解剖学图示 8](markdown-assets/g11-anatomy-unit-2-partial-notes/image8.png)
+![解剖学图示 8](markdown-assets/g11-anatomy-unit-2-partial-notes/image8.svg)
 
 这一部分有点杂而且讲的比较快，可以搭配这张表格参考一下。
 
@@ -323,7 +323,7 @@ Striated and branched，single nucleus，有 intercalated disks 和 gap junction
 | 收缩相关钙结合蛋白 | Troponin（肌钙蛋白） | Troponin（肌钙蛋白） | Calmodulin（钙调蛋白） |
 | 自律性 Autorhythmicity（自律性） | None; requires neural stimulation（神经刺激） | Autorhythmic cells（自律细胞）exist; can spontaneously generate action potentials（动作电位） | Some visceral smooth muscle shows autorhythmicity |
 
-![对照表上半部](markdown-assets/g11-anatomy-unit-2-partial-notes/image9.png)
+![对照表上半部](markdown-assets/g11-anatomy-unit-2-partial-notes/image9.svg)
 
 | 对比项目 | 骨骼肌 Skeletal Muscle | 心肌 Cardiac Muscle | 平滑肌 Smooth Muscle |
 | --- | --- | --- | --- |
@@ -333,4 +333,4 @@ Striated and branched，single nucleus，有 intercalated disks 和 gap junction
 | 钙离子来源 | Sarcoplasmic reticulum（肌浆网）only | Extracellular Ca²⁺ influx（胞外钙离子内流）+ sarcoplasmic reticulum release (Ca²⁺-induced Ca²⁺ release【钙触发钙释放】) | Extracellular Ca²⁺ influx + minor release from sarcoplasmic reticulum |
 | 主要功能 | Body movement, posture maintenance（维持姿势） | Pump blood for circulation（血液循环） | Visceral peristalsis（内脏蠕动）, regulation of vascular tone（血管张力调节） |
 
-![对照表下半部](markdown-assets/g11-anatomy-unit-2-partial-notes/image10.png)
+![对照表下半部](markdown-assets/g11-anatomy-unit-2-partial-notes/image10.svg)
