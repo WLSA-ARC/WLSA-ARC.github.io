@@ -82,6 +82,7 @@ python site/scripts/pdf_metadata.py scan uploads
 | `physics-em` | G11 AP Physics C: E&M | `physics` |
 | `ap-statistics` | G11 Statistics | `mathematics` |
 | `g11-anatomy` | G11 Anatomy | `biology` |
+| `g11-advanced-english` | G11 Advanced English | `english` |
 
 | 类型编码 | 页面显示 |
 | --- | --- |
@@ -93,6 +94,8 @@ python site/scripts/pdf_metadata.py scan uploads
 新增课程或学科只需编辑 `site/config/catalog.json` 的注册表。不要修改既有编码的含义；显示名称可以调整。
 
 课程名称和顺序以 `ARC_2027S1_Mid_已完善(2).xlsx` 的 `2027 S1 Mid!B4:B20` 为准。`courseImport` 记录来源和校验值。旧年级/AP 编码通过 `courseAliases` 指向当前课程，旧链接和 PDF 内部编码继续可用；不会因此重写原文件或改动资料原有年级。新增资料请使用上表中的当前编码。
+
+G11 Advanced English 为追加的独立课程，来源是 Winnie Wei 的 G11 Adv English Guide Notes，与 English language+Literature 分开收录。原表格中的 17 门课程及其顺序保留。
 
 ## 文件内部存储方式
 

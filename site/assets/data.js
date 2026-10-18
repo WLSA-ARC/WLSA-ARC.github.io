@@ -381,6 +381,28 @@ window.ARCHIVE_COURSES = [
       "sheet": "2027 S1 Mid",
       "cell": "B20"
     }
+  },
+  {
+    "id": "g11-advanced-english",
+    "title": "G11 Advanced English",
+    "subject": "English",
+    "subjectCode": "english",
+    "grade": "G11",
+    "examBoard": "",
+    "description": "",
+    "keywords": [
+      "G11 Advanced English",
+      "Advanced English",
+      "Adv English",
+      "英语",
+      "高级英语"
+    ],
+    "topics": [],
+    "source": {
+      "file": "G11 Adv English Guide Notes By Winnie Wei.pdf",
+      "sha256": "b8803e5c306e978527f8552103c3db62967872e0a4fc023252d926529fdbe7a4",
+      "added": "2026-10-18"
+    }
   }
 ];
 window.ARCHIVE_ITEMS = [
@@ -1592,6 +1614,55 @@ window.ARCHIVE_ITEMS = [
     "pages": 3,
     "size": 235116,
     "updated": "",
+    "available": true
+  },
+  {
+    "id": "arc-b8803e5c306e978527f85521",
+    "title": "G11 Advanced English Guide Notes",
+    "author": "Winnie Wei",
+    "subject": "English",
+    "subjectCode": "english",
+    "course": "g11-advanced-english",
+    "courses": [
+      "g11-advanced-english"
+    ],
+    "courseTitles": [
+      "G11 Advanced English"
+    ],
+    "type": "Course Notes",
+    "typeCode": "course-notes",
+    "description": "OPTIC visual analysis, tone analysis and the PEEL writing framework.",
+    "keywords": [
+      "G11 Advanced English",
+      "Adv English",
+      "English",
+      "英语",
+      "Winnie Wei",
+      "OPTIC",
+      "PEEL",
+      "tone",
+      "visual analysis"
+    ],
+    "topics": [
+      "OPTIC visual analysis",
+      "Tone",
+      "PEEL paragraph structure"
+    ],
+    "grade": "G11",
+    "examBoard": "",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "source": "G11 Advanced English",
+    "format": "PDF",
+    "file": "uploads/g11-advanced-english-guide-winnie-wei.pdf",
+    "href": "./uploads/g11-advanced-english-guide-winnie-wei.pdf",
+    "markdown": "./uploads/g11-advanced-english-guide-winnie-wei.md",
+    "pdf": "./uploads/g11-advanced-english-guide-winnie-wei.pdf",
+    "pages": 2,
+    "size": 85502,
+    "updated": "2026-10-18",
     "available": true
   },
   {
